@@ -1,20 +1,19 @@
-[[ja:&#12471;&#12515;&#12523;&#12523;&#12398;&#27861;&#21063;]] [[pl:prawo Gay-Lussaca]] [[sl:Gay-Lussacov zakon]]
-
 The '''Law of Charles and Gay-Lussac''' (frequently called simply '''Charles' Law''') is one of the [[gas laws]], and relates the volume and temperature of an [[ideal gas]] held at a constant pressure.  The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]].   This reference has led to the law being attributed to Charles.
 
 The law, expressed in symbols, is:
 
-: T/V = k
+<math>\frac{T}{V} = k</math>
 
-Where V is the [[volume]], T the [[temperature]], and k is a constant.  The volume is expressed in [[litre|litres]] and the temperature in [[kelvin]] when using [[SI| units]].
+Where ''V'' is the [[volume]], ''T'' is the [[temperature]], and ''k'' is a constant.  The volume is expressed in [[litre]]s and the temperature in [[kelvin]] when using [[SI]] units.
 
 To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase.   Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
-:T<sub>1</sub>/V<sub>1</sub> = T<sub>2</sub>/V<sub>2</sub>
-or
-:T<sub>1</sub>V<sub>2</sub> = T<sub>2</sub>V<sub>1</sub>
+<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac{T_1}{V_2} = \frac{T_2}{V_1}</math>
 
 See also [[making Charles Law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
 
-
 [[Category:Thermodynamics]]
+
+[[ja:&#12471;&#12515;&#12523;&#12523;&#12398;&#27861;&#21063;]]
+[[pl:prawo Gay-Lussaca]]
+[[sl:Gay-Lussacov zakon]]
