@@ -1,0 +1,26 @@
+[[de:Kugel (Mathematik)]] [[es:Esfera]] [[fr:Sphère]] [[nl:bol]] [[pt:Esfera]] [[sv:Sfär]] 
+<div style="float:right;width:149px;margin-left:5px">[[Image:Baiscmheall.png]]</div>
+
+
+Tha am ''''baiscmheall''' cuspair cruthte mar bala. Sa [[matamataigs|mhatamataigs]], tha am baiscmheall [[quadric]] bac.
+San àbhaist neo-mhatamataigeach tha am baicmheall cnuacach.
+
+Nas cunntasache, 's e seat nam puinc anns fànas Euclidean 3-thomaid a th'ann am baiscmheall, gu bheil faid ''r'' bhon a'phunc bunaiteach nan fànas sin.
+
+Ann cruinneadaireachd cho-òrdanaich, tha am baiscmheall le buillsgean aig:
+(''x''<sub>0</sub>,&nbsp;''y''<sub>0</sub>,&nbsp;''z''<sub>0</sub>) agus radius ''r'' seat na h-uile puinc (''x'',''y'',''z'') mar sin:
+
+:(''x'' - ''x''<sub>0</sub>)<sup>2</sup> + (''y'' - ''y''<sub>0</sub>)<sup>2</sup> + (''z'' - ''z''<sub>0</sub>)<sup>2</sup> = ''r''<sup>2</sup>
+
+'S urrainn dhuinn a sgrìobhe na puinc air a' bhaiscmheall leis radius ''r'' agus buillsgean air a'bhun taobh:
+
+:''x''  =  ''r'' cos(&phi;) sin(&theta;) 
+:''y''  =  ''r'' sin(&phi;) sin(&theta;) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (0 &le; &theta; < &pi; and -&pi; < &phi; &le; &pi;)
+:''z''  =  ''r'' cos(&theta;)
+(seall [[foincseanan triantanach]] agus [[co-òrdanaich cruinn]]).
+
+'S urrainn dhuinn a chuir cunntas air baiscmheall leis radius sam bith air socrachadh air a' bhun leis an [[dèanamh diofarail]] leantail:
+
+:<math> x \, dx + y \, dy + z \, dz = 0. </math> 
+
+Tha a'chuirt uachdar bhaismheaill leis radius ''r'' 4&pi;''r''<sup>2</sup>, agus tha a thomad 4&pi;''r''<sup>3</sup>/3.
