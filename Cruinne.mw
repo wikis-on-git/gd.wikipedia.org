@@ -12,7 +12,7 @@ Ann cruinneadaireachd cho-òrdanaich, tha am baiscmheall le buillsgean aig:
 'S urrainn dhuinn a sgrìobhe na puinc air a' bhaiscmheall leis radius ''r'' agus buillsgean air a'bhun taobh:
 
 :''x''  =  ''r'' cos(&phi;) sin(&theta;) 
-:''y''  =  ''r'' sin(&phi;) sin(&theta;) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (0 &le; &theta; < &pi; and -&pi; < &phi; &le; &pi;)
+:''y''  =  ''r'' sin(&phi;) sin(&theta;) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (0 &le; &theta; < &pi; agus -&pi; < &phi; &le; &pi;)
 :''z''  =  ''r'' cos(&theta;)
 (seall [[foincseanan triantanach]] agus [[co-òrdanaich cruinn]]).
 
