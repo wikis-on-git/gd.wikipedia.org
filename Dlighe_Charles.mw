@@ -14,7 +14,7 @@ where
 
 To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
-:<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac {T_2}{T_1} = \frac{V_1}{V_2}</math>
+:<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac {T_2}{T_1} = \frac{V_1}{V_2} \mathrm(or)</math>
 
 ==See also==
 *[[Making Charles' law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
