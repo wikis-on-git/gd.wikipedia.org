@@ -28,25 +28,25 @@ Ceanglaichean:
 
 |width="45%" bgcolor="#f0f0ff" style="border-style:solid;border-width:1px;padding:1em;padding-top:0;"|
 
-===In the news===
+===Naidheachdan===
 {{msg:itn}}
 
-=== Did you know... ===
+=== An Robh Fhios Agaibh ... ?===
 {{msg:dyk}}
 |-
 |colspan=2 bgcolor="#f8f8f8" style="border-width:1px;border-style:solid;padding:1em;padding-top:0.5em;"|
 
-=== Browse Wikipedia by topic ===
+=== Seal Wikipedia le Topaic ===
 {{msg:Wikipediatoc}}
 
 |- 
 |colspan=2 bgcolor="#fffff4" style="border-width:1px;border-style:solid;padding:1em;padding-top:0.5em;"|
-===Wikipedia in other languages===
+===Wikipedia san Cànanaich Eile===
 <small>
 {{msg:Wikipedialang}}
 </small>
 
-===Sister Projects===
+===Ar Pròiseactan Eile===
 <small>
 {{msg:wikipediasister}}
 </small>
