@@ -1,23 +1,23 @@
 [[de:Kugel (Mathematik)]] [[en:Sphere]] [[es:Esfera]] [[fr:Sphère]] [[nl:bol]] [[pt:Esfera]] [[sv:Sfär]] 
-Tha am '''baiscmheall''' cuspair cruthte mar bala. Sa [[matamataig|mhatamataig]], tha am baiscmheall [[quadric]] bac.
-San àbhaist neo-mhatamataigeach tha am baicmheall cnuacach.
+Tha a' '''chruinne''' na nì a tha cruthte mar ball. Ann an matamataic, tha a' chruinne [[quadric]] bac.
+Anns an àbhaist neo-mhatamataigeach tha a' chruinne air a lìonadh.
 
-Nas cunntasache, 's e seat nam puinc anns fànas Euclidean 3-thomaid a th'ann am baiscmheall, gu bheil faid ''r'' bhon a'phunc bunaiteach nan fànas sin.
+Nas cunntasaiche, 's e seat dhen puing ann am fànas Euclidean 3-thomaid a th' ann ann an cruinne, agus tha astar ''r'' bhon a' phuing bunaiteach nam fànas sin.
 
-Ann cruinneadaireachd cho-òrdanaich, tha am baiscmheall le buillsgean aig:
-(''x''<sub>0</sub>,&nbsp;''y''<sub>0</sub>,&nbsp;''z''<sub>0</sub>) agus radius ''r'' seat na h-uile puinc (''x'',''y'',''z'') mar sin:
+Ann an cruinneadaireachd cho-òrdanaich, tha a' chruinne aig a bheil buillsgean aig:
+(''x''<sub>0</sub>,&nbsp;''y''<sub>0</sub>,&nbsp;''z''<sub>0</sub>) agus radius ''r'' seat dhen puingean uile (''x'',''y'',''z'') mar seo:
 
 :(''x'' - ''x''<sub>0</sub>)<sup>2</sup> + (''y'' - ''y''<sub>0</sub>)<sup>2</sup> + (''z'' - ''z''<sub>0</sub>)<sup>2</sup> = ''r''<sup>2</sup>
 
-'S urrainn dhuinn a sgrìobhe na puinc air a' bhaiscmheall leis radius ''r'' agus buillsgean air a'bhun taobh:
+'S urrainn dhuinn na puingean a sgrìobhadh air a' chruinne le radius ''r'' agus buillsgean air a' bhun thaobh:
 
 :''x''  =  ''r'' cos(&phi;) sin(&theta;) 
 :''y''  =  ''r'' sin(&phi;) sin(&theta;) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (0 &le; &theta; < &pi; agus -&pi; < &phi; &le; &pi;)
 :''z''  =  ''r'' cos(&theta;)
-(seall [[foincseanan triantanach]] agus [[co-òrdanaich cruinn]]).
+(faic [[foincseanan triantanach]] agus [[co-òrdanaich cruinn]]).
 
-'S urrainn dhuinn a chuir cunntas air baiscmheall leis radius sam bith air socrachadh air a' bhun leis an [[dèanamh diofarail]] leantail:
+'S urrainn dhuinn cunntas a chur air cruinne le radius sam bith a tha air a shocrachadh air a' bhun mar a leanas [[dèanamh diofarail]] :
 
 :<math> x \, dx + y \, dy + z \, dz = 0. </math> 
 
-Tha a'chuirt uachdar bhaismheaill leis radius ''r'' 4&pi;''r''<sup>2</sup>, agus tha a thomad 4&pi;''r''<sup>3</sup>/3.
+Tha farsaingeachd uachdar na cruinne le radius ''r'' air a thoirt le 4&pi;''r''<sup>2</sup>, agus tha a tomad air a thoirt le 4&pi;''r''<sup>3</sup>/3.
