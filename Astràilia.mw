@@ -1,42 +1,27 @@
+[[Australia]], having a federal system of government, is divided into '''states and territories'''.  Each of these has a capital city, as listed below.
 
-<!--
-new infobox template with parameters (as used in Belgium and Netherlands)
-commented-out for the moment, still some bugs in the templating system
-{{Infobox_Countries|the=|
-fullname		=Commonwealth of Australia|
-motto			=None (formerly Advance Australia)|
-official_languages	=[[English]]|
-capital			=[[Canberra]]|
-capitalscoordinates=|
-largestcity             =[[Sydney]]|
-headofcountry           =[[Governor-General of Australia]]|
-currentheadofcountry    =[[Michael Jeffery]]|
-headofstate		=[[Queen of Australia|Monarch]]|
-currentheadofstate	=[[Elizabeth II of the United Kingdom|Elizabeth II]]|
-headofgovernment	=[[Prime Minister of Australia|Prime Minister]]|
-currentheadofgovernment	=[[John Howard]]|
-arearank=6th|
-areamagnitude=1_E12|
-area=7,686,850|
-areawater=|
-population_as_of=2004|
-populationrank=53rd|
-population=20,180,878|
-populationdensity=3|
-independenceevents=-[[Commonwealth of Australia Constitution Act|Constitution Act]]<br />- [[Statute of Westminster 1931|Statute of Westminster]]<br />- [[Australia Act]]|
-independencedates=From the [[United Kingdom]]:<br />[[1 January]] [[1901]]<br />[[11 December]] [[1931]]<br />[[3 March]] [[1986]]|
-currency=[[Australian dollar]]|
-currencycode=AUD|
-timezone=+8 to +11|
-DST=+9 to +12|
-nationalanthem=[[Advance Australia Fair]]|
-cctld=au|
-callingcode=61|
-footnote=|
-GDP_as_of=2002|
-GDPrank=16th|
-GDP=525.5 billion USD|
-GDPpercapita=26,631.88 USD
+[[Image:AustraliaNumbered.png|right|400px]]
+
+'''Internal States and Territories'''
+#[[Australian Capital Territory]] ([[Canberra]])
+#[[New South Wales]] ([[Sydney]])
+#[[Victoria (Australia)|Victoria]] ([[Melbourne]])
+#[[Queensland]] ([[Brisbane]])
+#[[South Australia]] ([[Adelaide]])
+#[[Western Australia]] ([[Perth, Australia|Perth]])
+#[[Tasmania]] ([[Hobart]])
+#[[Northern Territory]] ([[Darwin, Australia|Darwin]])
+
+'''Other Territories'''
+*[[Jervis Bay Territory]]
+*[[Norfolk Island]]
+*[[Christmas Island]]
+*[[Cocos Islands|Cocos and Keeling Islands]]
+*[[Coral Sea Islands Territory]]
+*[[Heard Island and McDonald Islands|Heard and McDonald Islands]]
+*[[Australian Antarctic Territory]]
+
+
 }}
 -->
 {| style="margin: 0 0 1em 1em;" border="1" cellpadding="2" cellspacing="0" align="right" width="300px"
@@ -56,28 +41,28 @@ GDPpercapita=26,631.88 USD
 |-
 | align=center colspan=2 | [[image:LocationAustralia.png]]
 |-
-| [[Official language]]
-| [[English language|English]]
+| [[Canan Oifigeil]]
+| [[A' Bheurla]]
 |-
-| [[Capital]]
+| [[Priomh-bhaile]]
 | [[Canberra]]
 |-
-| Largest [[City]]
+| Baile as motha
 | [[Sydney]]
 |-
 | [[Queen of Australia|Monarch]]
-| [[Elizabeth II of the United Kingdom|Elizabeth II]]
+| [[Elizabeth II of the United Kingdom|Ealasaid II]]
 |-
 | [[Governor-General of Australia|Governor-General]]
 | [[Michael Jeffery]]
 |-
-| [[Prime Minister of Australia|Prime Minister]]
+| [[Prime Minister of Australia|Priomh Mhinisteir]]
 | [[John Howard]]
 |-
 | [[Area]]<br />&nbsp;- Total <br />&nbsp;- % water
 | [[List of countries by area|Ranked 6th]] <br /> [[1 E12 m&sup2;|7,686,850 km&sup2;]] <br /> 1%
 |-
-| [[Population]]
+| [[Aireamh-shluaigh]]
 &nbsp;- Total ([[As of 2004|2004]])
 <br />&nbsp;- [[Density]]
 | [[List of countries by population|Ranked 53rd]]
@@ -91,17 +76,17 @@ GDPpercapita=26,631.88 USD
 $571.4 billion
 <br />$28,694.61
 |-
-| [[Independence]]<br />- [[Commonwealth of Australia Constitution Act|Constitution Act]]<br />- [[Statute of Westminster 1931|Statute of Westminster]]<br />- [[Australia Act]]
+| [[Neo-Eiseimealachd]]<br />- [[Commonwealth of Australia Constitution Act|Constitution Act]]<br />- [[Statute of Westminster 1931|Statute of Westminster]]<br />- [[Australia Act]]
 |
 From the [[United Kingdom|UK]]:<br />[[1 January]] [[1901]]<br />[[December 11]] [[1931]]<br />[[3 March]] [[1986]]
 |-
-| [[Currency]]
-| [[Australian dollar]]
+| [[Airgead]]
+| [[Dollar Astrailianach]]
 |-
 | [[Time zone]]
 | [[UTC]] +8 to +11
 |-
-| [[National anthem]]
+| [[Laoidh Naiseanta]]
 | ''[[Advance Australia Fair]]''
 |-
 | [[Top-level domain|Internet TLD]]
