@@ -1,65 +1,17 @@
-Ann an [[Eòlas-nàdair]], tha '''Dlighe Charles''' a' cur an cèill cuid dhe na feartan a th'aig a h-uile seòrsa gas. Chaidh a h-ainmeachadh às dèidh fear Jacques Charles, Frangach a bha beò eadar 1746 is 1823.
+[[ja:&#12471;&#12515;&#12523;&#12523;&#12398;&#27861;&#21063;]]
 
+The '''Law of Charles and Gay-Lussac''' (frequently called simply '''Charles' Law''') is one of the [[gas laws]], and relates the volume and temperature of an [[ideal gas]] held at a constant pressure.  The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]].   This reference has led to the law being attributed to Charles.
 
-==Dlighe Charles== 
-'''''Airson meall stèidhichte de gas, agus e ga chumail air teannas stèidhichte, theid na th'ann dhen a' ghas am meud no an lughad gu dìreach a rèir àrdachadh neo ìoslachadh air a theasad.''''' 
+The law, expressed in symbols, is:
 
+: T/V = k
 
+Where V is the [[volume]], T the [[temperature]], and k is a constant.  The volume is expressed in [[litre|litres]] and the temperature in [[kelvin]] when using [[SI| units]].
 
-== Eachdraidh na Dlighe==
+To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase.   Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
-B'e fear [[Ioseph Louis Gay-Lussac]] a dh'fhoillsich an dlighe son a' chiad uair an [[1802]], ach dh'ainmich e gun robh e a' togail air obair, nach deach fhoillseachadh a-riamh, a rinneadh le [[Jaques Charles]] mun a' bhliadhna [[1787]]. Air an adhbhar sin, tha Charles aithnichte an-diugh mar a' chiad fhear a dhearbh an dlighe, le deuchainn. Tha Dlighe Charles, [[Dlighe Úi Bhaoghail]] agus [[Dlighe Gay-Lussac]] uile a' tighinn cruinn còmhla ann an  [[Dlighe Aonaichte nan Gas]].
+:T<sub>1</sub>/V<sub>1</sub> = T<sub>2</sub>/V<sub>2</sub>
+or
+:T<sub>1</sub>V<sub>2</sub> = T<sub>2</sub>V<sub>1</sub>
 
-==Geàrr-chunntas==
-
-Is e iomradh matamatachd na dlighe:
-
-:<math>\frac{V}{T} = k</math>
-
-a' toirt fa-near gur iad:
-
-*V - toirt-lionaidh de'n gas
-*T - teasad a' ghais (air a thomhas a rèir Kelvin)
-*k - Aireamh Cunbhalach (Cunbhalach a' mheudachaidh).
-
-Ach ann am minichidhean eile, far a bheil prìomhachas ga chur air na buadhan a th' aig teas air a h-uile sìon sa chruinne-cè, thèid ''meall'' de ghas sam bith an ''lughad'' fhad's  a thèid teas an t-siostaim am meud, agus an rathad eile dha rèir:
-:<math>V \varpropto T</math><br />
-
-:<math>V = V_o(1 + \alpha\theta)</math>
-
-far a bheil ''<math>\alpha</math>'' a' riochdachadh feart-sgaoilidh de ghas àraid, agus ''<math>\theta</math>'' a' riochdachadh teas (air a thomhas a rèir Kelvin).
-
-==Na tha a' leantainn bhuaipe==
-Air sgàth 's gu bheil ''k'' stèidhichte, chithear, nuair a chuirear teas ri gas, gum feum an gas sgaoileadh nas fharsainge. Air a chaochladh, nuair a thèid gas fhuarachadh thèid na smùirnein dheth nas dùmhaile cruinn còmhla. Cha leig sinn a leas luach ''k'' a bhith aithnichte gus an dlighe a chur gu feum a' dèanamh coimeas air dà ghas agus iad air an dearbh theannas:
- 
-:<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{neo} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{neo} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>
-
-
-A' leantain na h-argamaid seo, ma thuiteas teasad a' ghas gu fìor-neoni (0 Kelvin) cha bhith sìon ann dhen a' ghas. Chan fhaicear sin an dà-rìribh a chionn 's gun atharraich a h-uile gas a th' ann gu nì ruithteach aig teas os cionn fìor-neoni.
-
-==Fiosrachadh Eile== 
-Wikibooks (sa Bheurla):
-Tha duilleag ann a mhìnicheas ciamar a chruthaicheas neach [http://en.wikibooks.org/wiki/School_science/Making_Charles%27_law_tubes Pioban Dlighe Charles] ann an Wikibooks School Science. 
-
-* [[Dlighe Úi Bhaoghail]]
-* [[Dlighe nan Gas Foirfe]]
-
-[[category:Eòlas-nàdair]]
-
-[[en:Charles's law]]
-[[es:Ley de Charles y Gay-Lussac]]
-[[fi:Charlesin laki]]
-[[fr:Loi de Gay-Lussac]]
-[[ga:Dlí de Charles]]
-[[he:חוק שארל]]
-[[hr:Charlesov zakon]]
-[[hu:Charles-törvény]]
-[[ja:シャルルの法則]]
-[[ko:샤를의 법칙]]
-[[mk:Шарлов закон]]
-[[nl:Wet van Gay-Lussac]]
-[[pl:Prawo Gay-Lussaca (gaz doskonały)]]
-[[sl:Gay-Lussacov zakon]]
-[[tr:Charles yasası]]
-[[vi:Định luật Gay-Lussac]]
-[[zh:查理定律]]
+See also [[making Charles Law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
