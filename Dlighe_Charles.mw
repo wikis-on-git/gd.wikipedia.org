@@ -4,13 +4,20 @@ The law, expressed in symbols, is:
 
 <math>\frac{T}{V} = k</math>
 
-Where ''V'' is the [[volume]], ''T'' is the [[temperature]], and ''k'' is a constant.  The volume is expressed in [[litre]]s and the temperature in [[kelvin]] when using [[SI]] units.
+where 
+
+''V'' is the [[volume]] measured in [[cubic metre]]s
+
+''T'' is the [[temperature]] measured in [[kelvin]]
+
+''k'' is a constant
 
 To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase.   Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
 <math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac{T_1}{V_2} = \frac{T_2}{V_1}</math>
 
-See also [[making Charles Law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
+==See also==
+*[[making Charles Law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
 
 [[Category:Thermodynamics]]
 
