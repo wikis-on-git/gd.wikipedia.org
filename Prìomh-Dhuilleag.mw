@@ -1,9 +1,57 @@
-==Fàilte!==
-
 '''Seo an làrach-lìn ann an Gàidhlig na h-Alba aig Wikipedia!'''
-
-Fàilte gu Wikipedia!  Tha sinn a’ tògail leabhar mòr-eòlais fosgailte.  Aonaichibh leinn!
 
 Ceanglaichean:
 
 [[Alba]]
+
+{| cellspacing=3
+|- valign="top"
+|width="80%"|
+'''[[Wikipedia:Fàilte, a fhòghlumaiche|Fàilte]]''' gu [[Wikipedia]]!  Tha sinn a’ tògail leabhar mòr-eòlais [[Wikipedia:Ceartas ath-sgriobaidh|fosgailte]]  iomcainnteach. Tòisich sinn ann September 2003 agus tha sinn ag obair air {{NUMBEROFARTICLES}} [[Wikipedia:Ciod tha alt|ailt]] ann an version Gàidhlig. Aonaichibh leinn! Visit the '''[[Wikipedia:Community Portal|Community Portal]]''' or experiment in the [[Wikipedia:Sandbox|sandbox]] to find out how ''you'' can edit any article right now.
+|width="20%" style="font-size:80%;"|
+<div align="right">
+[[#Browse Wikipedia by topic|Browse by topic]]<br> 
+[[#Wikipedia in other languages|Other languages]]<br>
+[[Main Page (table free)|Table-free&nbsp;main&nbsp;page]]<br>
+[[Main Page (text only)|Text-only&nbsp;main&nbsp;page]]
+</div>
+|}
+{| cellspacing=3 
+|- valign="top"
+|width="55%" bgcolor="#fff4f4" style="border-style:solid;border-width:1px;padding:1em;padding-top:0;"|
+
+===Featured article===
+{{msg:feature}}
+
+===Selected anniversaries===
+{{msg:{{CURRENTMONTHNAME}}_{{CURRENTDAY}}_selected_anniversaries}}
+
+|width="45%" bgcolor="#f0f0ff" style="border-style:solid;border-width:1px;padding:1em;padding-top:0;"|
+
+===In the news===
+{{msg:itn}}
+
+=== Did you know... ===
+{{msg:dyk}}
+|-
+|colspan=2 bgcolor="#f8f8f8" style="border-width:1px;border-style:solid;padding:1em;padding-top:0.5em;"|
+
+=== Browse Wikipedia by topic ===
+{{msg:Wikipediatoc}}
+
+|- 
+|colspan=2 bgcolor="#fffff4" style="border-width:1px;border-style:solid;padding:1em;padding-top:0.5em;"|
+===Wikipedia in other languages===
+<small>
+{{msg:Wikipedialang}}
+</small>
+
+===Sister Projects===
+<small>
+{{msg:wikipediasister}}
+</small>
+|}
+
+__NOTOC__
+
+__NOEDITSECTION__
