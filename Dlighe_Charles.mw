@@ -2,19 +2,19 @@ The '''Law of Charles and Gay-Lussac''' (frequently called simply '''Charles' La
 
 The law, expressed in symbols, is:
 
-<math>\frac{T}{V} = k</math>
+:<math>\frac{T}{V} = k</math>
 
 where 
 
-''V'' is the [[volume]] measured in [[cubic metre]]s
+''V'' is the [[volume]] measured in [[cubic metre]]s;
 
-''T'' is the [[temperature]] measured in [[kelvin]]
+''T'' is the [[temperature]] measured in [[kelvin]];
 
-''k'' is a constant
+''k'' is a constant.
 
 To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase.   Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
-<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac{T_1}{V_2} = \frac{T_2}{V_1}</math>
+:<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac{T_1}{V_2} = \frac{T_2}{V_1}</math>
 
 ==See also==
 *[[Making Charles Law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
