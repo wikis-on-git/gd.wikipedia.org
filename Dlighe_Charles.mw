@@ -1,4 +1,4 @@
-The '''Law of Charles and Gay-Lussac''' (frequently called simply '''Charles' Law''') is one of the [[gas laws]], and relates the volume and temperature of an [[ideal gas]] held at a constant pressure. The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles.
+'''Charles's Law''' (sometimes called the '''Law of Charles and Gay-Lussac''') is one of the [[gas laws]]; it relates the volume and temperature of an [[ideal gas]] held at a constant pressure. The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles.
 
 The law, expressed in symbols, is:
 
@@ -12,12 +12,15 @@ where
 
 ''k'' is a constant.
 
-To maintain the constant during heating of a gas, at fixed pressure, requires that the volume increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
+To maintain the constant during heating of a gas at fixed pressure, the volume must increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
 :<math>\frac{T_1}{V_1} = \frac{T_2}{V_2} \qquad \mathrm{or} \qquad \frac {T_2}{T_1} = \frac{V_1}{V_2} \qquad \mathrm{or} \qquad T_1V_2 = T_2V_1</math>
 
 ==See also==
 *[[Making Charles' law tubes]] for instructions on how to make suitable equipment to demonstrate this law in a classroom.
+
+==References==
+*{{Book reference | Author=Castka, Joseph F.; Metcalfe, H. Clark; Davis, Raymond E.; Williams, John E. | Title=Modern Chemistry | Publisher=Holt, Rinehart and Winston | Year=2002 | ID=ISBN 0-03-056537-5}}
 
 [[es:Ley de Charles y Gay-Lussac]]
 [[fr:Loi de Gay-Lussac]]
