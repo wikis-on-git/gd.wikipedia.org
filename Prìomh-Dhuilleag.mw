@@ -25,14 +25,10 @@ Ceanglaichean:
 
 |- 
 |colspan=2 bgcolor="#fffff4" style="border-width:1px;border-style:solid;padding:1em;padding-top:0.5em;"|
-===Wikipedia san Cànanaich Eile===
-<small>
-{{msg:Wikipedialang}}
-</small>
 
-===Ar Pròiseactan Eile===
 <small>
-{{msg:wikipediasister}}
+{{msg:CànanaichEile}}
+<!-- Lien d'édition: http://gd.wikipedia.org/w/wiki.phtml?title=MediaWiki:CànanaichEile&action=edit -->
 </small>
 |}
 
