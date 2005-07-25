@@ -6,18 +6,18 @@ DRAFT
 |-
 | style="background:#efefef;" align="center" colspan="2" | 
 {| border="0" cellpadding="2" cellspacing="0"
-|- align="center" width="140px"
-| [[Image:India flag large.png|125px|Flag of India]] 
-| height="115px" | [[Image:Emblem_of_india.png|Emblem of India]]
-|- align="center" width="140px"
-| ([[Flag of India|In Detail]]) 
-| ([[Emblem of India|In Detail]])
+|- align="center" width="280px"
+| [[Image:India flag large.png|200px|Flag of India]] 
+| [[Image:Emblem_of_india.png|80px|Emblem of India]]
+|-
+| [[Flag of India|Flag]]
+| [[Emblem of India|Emblem]]
 |}
 |- 
 | align="center" colspan="2" style="border-bottom:3px solid gray;" | <font size="-1">''National [[motto]]: Satyam&#275;va Jayat&#275;''
 ''([[Sanskrit]]: Truth Alone Triumphs)''<br />(<small>''Mundaka [[Upanishad]]''</small>)</font> 
 |- 
-| align="center" colspan="2" | [[image:LocationIndia.png]] 
+| align="center" colspan="2" | [[image:LocationIndia.png|280px]] 
 |- 
 | [[Canan Oifigeil]] 
 | [[Hindi]], [[Beurla]] ([[List of national languages of India|+ 21 other officially recognised languages]])
@@ -89,7 +89,6 @@ DRAFT
 [[et:India]]
 [[fi:Intia]]
 [[fr:Inde]]
-[[gd:Na h-Innseachan]]
 [[he:&#1492;&#1493;&#1491;&#1493;]]
 [[hi:&#2349;&#2366;&#2352;&#2340;]]
 [[id:India]]
