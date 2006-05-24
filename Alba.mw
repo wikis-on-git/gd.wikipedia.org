@@ -1,13 +1,17 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px">
-<caption><font size="+1">'''Alba'''<br>'''Scotland'''</font></caption>
-<tr><td colspan="2" style="text-align:center">[[Image:Scot.gif]]</td></tr>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px"> [[image:Flag.png|200px|right|thumb|]]</td>
-<td align="center" width="140px"></td></tr>
-<tr><td align="center" width="140px"></td>
-<td align="center" width="140px"></td></tr>
-</table></td></tr>
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big>'''Alba'''</big> 
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0" style="padding-top: 0.5em;"
+|-
+| align="center" width="171px" | [[Image:Flag of Scotland.svg|150px|Bratach na h-Alba]]
+| align="center" width="170px" | [[Image:Royal Arms of Scotland.png|90px]] 
+
+|-
+| align="center" width="170px" | <small>[[Flag of Scotland|Bratach na h-Alba]]</small>
+| align="center" width="170px" | <small>[[Coat of Arms of Scotland|Leòmhann na h-Alba]]</small>
+|}
+|-
 <tr><td>[[Canan oifigeil]]:</td><td>Dim. ([[Beurla]] ), [[Gàidhlig]] (2004 act)</td></tr>
 <tr><td>[[Priomh-bhaile]]:</td><td>[[Dùn Eideann|Dùn Èideann]]</td></tr>
 <tr><td>'''Baile is Motha''':</td><td>[[Glaschu]]</td></tr>
@@ -19,26 +23,23 @@
 <tr><td>[[Arainn Tìde]]:</td><td>[[UTC]] </td></tr>
 <tr><td>[[Laoidh naiseanta]]:</td><td>neo-oifigeil:<br>''[[Flur na h-Alba|Flur na h-Alba (Flower of Scotland)]]''</td></tr>
 </table>
-Bha [[Alba]], no sa Bheurla, 'Scotland', na rìoghachd neo-eisimileachd gus an 18mh linn.  Tha i suidhichte ann am [[Breatainn]] a Tuath.  Air [[Màrt 26]], [[1707]], chaidh [[Rìoghachd]] na h-[[Alba]] aonachadh le Rìoghachd Shasainn, agus chaidh An Rìoghachd Aonaichte a chruthachadh.    An[[1999]], bha [[Pàrlamaid na h-Alba]] air a chur air bhonn, far am bithear a' dèiligeadh ri gnothaichean poilitigeach a tha a' buntainn do dh' Alba a-mhàin. 
+'Se [[Alba]] dùthaich suidhichte ann an taobh a tuath [[Breatainn]]. Bha ì na rìoghachd neo-eisimileachd gus an 18mh linn nuair a dh'aonaich Alba agus [[Sasainn]] airson [[Rìoghachd Bhreatainn Mòr]] a stèidheachadh anns am bliadhna [[1707]]. Anns am bliadhna [[1801]] dh'aonaich Rìoghachd Bhreatainn Mòr le [[Rìoghachd na h-Eirinn]] airson [[an Rìoghachd Aonaichte]] a' chruthachadh.  An [[1999]], chaidh [[Pàrlamaid na h-Alba]] a' chur air bhonn, far am bithear a' dèiligeadh ri gnothaichean poilitigeach a tha a' buntainn do dh' Alba a-mhàin. 
 
-Aig an àm seo, 's e [[Seac MacConaill]] Priomh Mhinistear na h-Alba.
 
-'''[[Eòlas-Cruinne]]'''
+==[[Eòlas-Cruinne]]==
 
-Tha Alba suidhichte ann an ceann a tuath eilean Bhreatainn, agus tha a crìoch le [[Sasainn]] an taobh a deas na dùthcha.  A bharrachd air an tìr-mòr, tha na ceudan de eileanan – mar [[Sealtainn]], [[Arcaibh]] (Na h-Eileanan-a-Tuath) agus [[Na h-Eileanan an Iar]] air an gabhail a-steach san rìoghachd.  Ach tha tìr-mòr na h-Alba air a roinn an trì phàirt chudthromach: a’[[Ghàidhealtachd]], a’[[Ghalltachd]] agus na Monaidhean a Deas.  Tha a’chuid mhòr den t-sluaigh a’fuireach sa Ghalltachd Meadhanaich, far am faighear na bailtean as motha - trì a-mach as sia uile gu lèir.
+Tha Alba suidhichte ann an ceann a tuath eilean Bhreatainn, agus tha a crìoch le [[Sasainn]] an taobh a deas na dùthcha.  A bharrachd air an tìr-mòr, tha na ceudan de eileanan – mar [[Sealtainn]], [[Arcaibh]] (Na h-Eileanan-a-Tuath) agus [[Na h-Eileanan an Iar]] air an gabhail a-steach san rìoghachd.  Tha tìr-mhòr na h-Alba air a roinn an trì phàirt chudthromach: a’[[Ghàidhealtachd]], a’[[Ghalldachd]] agus [[na Monaidhean a Deas]].  Tha a’chuid mhòr den t-sluaigh a’fuireach sa Ghalldachd Meadhanaich, far am faighear na bailtean as motha ; [[Glaschu]] agus am prìomh-bhaile [[Dùn Èideann]] .
 
-[[Siorrachdan na h-Alba]]
-
-'''An [[Geòlas]]'''
+==An [[Geòlas]]==
 
 Nuair a thachair mòirneasachd ann an [[Labhdaidh an Ear]] o choinn 350 millean bhliadhnan, bha na chlachan na dè is Bhreatainn Mhòr a th’ann a-nìs, faisg [[Crios na Cruinne]] agus chruthaich e pairt na glè-mhòr-thìr Pangaea.  Lean a chomhruith nan clàran thìr-mòr, agus thachair sgleog leis tir-mòr [[Gondwana]].
 
 Cha dh’thàinig na pairtean mu thuath agus mu dheas Bhreatainn teannta gus 75 millean bhliadhnan roimh an toiseach na vulcanism ann [[Labhdaidh an Ear]].  Bha Alba agus pairt Shassain mu thuath air tìr-mòr Laurentian roimh-làimh, far bha [[Amearaga mu Thuath]] agus a’Ghraonlainn.  Bha Breatainn mu Dheas 40° lat. nas fhaide mu dheas, faisg air [[Afraga]] agus Amearaga mu Dheas sa tìr-mòr [[Gondwana]].
 
 
-'''Alba Ùr-nodha'''
+==Alba Ùr-nodha==
 
-Tha sia bailtean mòra ann an Alba:
+Tha sia bailtean mòr ann an Alba:
 
 *[[Glaschu, Alba|Glaschu]]
 *[[Dùn Eideann|Dùn Èideann]], prìomh-bhaile
@@ -47,12 +48,14 @@ Tha sia bailtean mòra ann an Alba:
 *[[Inbhir Nis, Alba|Inbhir Nis]]
 *[[Peairt, Alba|Peairt]]
 
-'''Poileataics'''
-*[[Rìghrean na h-Alba]]
-
+==Poileataics==
 ''Faic prìomh aiste:'' [[Poileataics na h-Alba]]
+*[[Rìghrean na h-Alba]]
+*[[Prìomh Mhinistearan na h-Alba]]
 
-'''Foghlam ann an Alba:'''
+
+
+==Foghlam ann an Alba==
 
 Tha ceithir Olthighean aosmhor Albannach ann. 'Siad :
 
@@ -63,13 +66,13 @@ Tha ceithir Olthighean aosmhor Albannach ann. 'Siad :
 
 Tha trì-deug oilthighean ann an Alba gu lèir. 
 
-'''Meadhanan'''
+==Na Meadhanan==
 *[[An Herald]]
 *[[An t-Albannach]]
 
 [[Category:Alba| ]]
-[[Category:Aon-fhlathachdan]]
-[[Category:NUTS 1 Àiteachan Àireamhail na Roinne-Eòrpa]]
+[[Category:Dùthchannan]]
+[[Category:An Rìoghachd Aonaichte]]
 
 [[als:Schottland]]
 [[ang:Scotland]]
