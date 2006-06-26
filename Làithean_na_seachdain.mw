@@ -20,7 +20,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 {| border="1" cellpadding="4" cellspacing="1" width="100%" 
 |-align="left"-
 !width="9%" align="right"| Day
-!width="13%"| [[Di-Dòmhnaich]]/Là na Sàbaid]]
+!width="13%"| [[Di-Dòmhnaich]]/Là na Sàbaid
 !width="13%"| [[Di-Luain]]
 !width="13%"| [[Di-Màirt]]
 !width="13%"| [[Di-Ciadain]]
@@ -37,7 +37,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[Ribhinn (planaid)|Ribhinn (Venus)]]  [[Image:Venus symbol.svg|30px|Venus]]
 | [[Satarn|Saturn]] [[Image:Saturn symbol.ant.png|30px|Saturn]]
 |-style="background:#ddf;"-
-!align="right"| [[Latin]]
+!align="right"| [[Laideann]]
 | [[:la:dies solis|dies solis]]
 | [[:la:dies lunae|dies lunae]]
 | [[:la:dies Martis|dies Martis]]
@@ -46,7 +46,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:la:dies Veneris|dies Venĕris]]
 | [[:la:dies Saturni|dies Saturni]]
 |-style="background:#eef;"-
-!align="right"| [[Italian language|Italian]]
+!align="right"| [[Eadailtis]]
 | [[:it:Domenica|domenica]] <small>(1)</small>
 | [[:it:Lunedì|lunedì]]
 | [[:it:Martedì|martedì]]
@@ -55,7 +55,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:it:Venerdì|venerdì]]
 | [[:it:Sabato|sabato]] <small>(2)</small>
 |-style="background:#eef;"-
-!align="right"| [[Spanish language|Spanish]]
+!align="right"| [[Spàinntis]]
 | [[:es:Domingo|domingo]] <small>(1)</small>
 | [[:es:Lunes|lunes]]
 | [[:es:Martes|martes]]
@@ -64,7 +64,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:es:Viernes|viernes]]
 | [[:es:Sábado|sábado]] <small>(2)</small>
 |-style="background:#eef;"-
-!align="right"| [[Romanian language|Romanian]]
+!align="right"| [[Romanianis]]
 | [[:ro:Duminică|duminică]] <small>(1)</small>
 | [[:ro:Luni|luni]]
 | [[:ro:Marţi|marţi]]
@@ -73,7 +73,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:ro:Vineri|vineri]]
 | [[:ro:Sâmbătă|sâmbătă]] <small>(2)</small>
 |-style="background:#eef;"-
-!align="right"| [[French language|French]]
+!align="right"| [[Fraingis]]
 | [[:fr:Dimanche|dimanche]] <small>(1)</small>
 | [[:fr:Lundi|lundi]]
 | [[:fr:Mardi|mardi]]
@@ -82,7 +82,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:fr:Vendredi|vendredi]]
 | [[:fr:Samedi|samedi]] <small>(2)</small>
 |-style="background:#eef;"-
-!align="right"| [[Catalan language|Catalan]]
+!align="right"| [[Catalanais]]
 | [[:ca:Diumenge|diumenge]] <small>(1)</small>
 | [[:ca:dilluns|dilluns]]
 | [[:ca:dimarts|dimarts]]
@@ -91,7 +91,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:ca:divendres|divendres]]
 | [[:ca:dissabte|dissabte]] <small>(2)</small>
 |-style="background:#eef;"-
-!align="right"| [[Esperanto language|Esperanto]]
+!align="right"| [[Esperanto]]
 | [[:eo:dimanĉo|dimanĉo]]
 | [[:eo:lundo|lundo]]
 | [[:eo:mardo|mardo]]
@@ -100,7 +100,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:eo:vendredo|vendredo]]
 | [[:eo:sabato|sabato]]
 |-style="background:#fef;"-
-!align="right"| [[Welsh language|Welsh]]
+!align="right"| [[Cuimreis]]
 | [[:cy:Dydd Sul|dydd Sul]]
 | [[:cy:Dydd Llun|dydd Llun]]
 | [[:cy:Dydd Mawrth|dydd Mawrth]]
@@ -109,7 +109,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:cy:Dydd Gwener|dydd Gwener]]
 | [[:cy:Dydd Sadwrn|dydd Sadwrn]]
 |-style="background:#fef;"-
-!align="right"| [[Cornish language|Cornish]]
+!align="right"| [[Còrnais]]
 | dy Sul 
 | dy Lun
 | dy Meurth 
@@ -118,7 +118,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | dy Gwener
 | dy Sadorn
 |-style="background:#fef;"-
-!align="right"| [[Breton language|Breton]]
+!align="right"| [[Brezhoneg]]
 | Disul 
 | Dilun
 | Dimeurzh 
@@ -127,7 +127,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | Digwener 
 | Disadorn
 |-style="background:#fef;"-
-!align="right"| [[Irish language|Irish]]
+!align="right"| [[Gaeilge]]
 | Dé Domhnaigh 
 | Dé Luain 
 | Dé Mháirt
@@ -136,16 +136,16 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | Dé hAoine
 | Dé Sathairn 
 |-style="background:#fef;"-
-!align="right"| [[Scottish gaelic language|Scots Gaelic]]
-| Didòmhnaich 
-| Diluain
-| Dimàirt 
-| Diciadain 
-| Diardaoin
-| Dihaoine 
-| Disàthairne 
+!align="right"| [[Gàidhlig]]
+| Di-dòmhnaich 
+| Di-luain
+| Di-màirt 
+| Di-ciadain 
+| Di-ardaoin
+| Di-haoine 
+| Di-sàthairne 
 |-style="background:#fef;"-
-!align="right"| [[Manx language|Manx]]
+!align="right"| [[Gaelg]] (Gaidhlig Mhanainn)
 | Jedoonee
 | Jelune 
 | Jemayrt 
@@ -163,7 +163,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | friatag <br />''[[Freya|Freia]]'s day''
 | sambaztag  <small>(2)</small>
 |-style="background:#efe;"-
-!align="right"| [[German language|German]]
+!align="right"| [[Gearmailtis]]
 | [[:de:Sonntag|Sonntag]] 
 | [[:de:Montag|Montag]]
 | [[:de:Dienstag|Dienstag]]
@@ -172,7 +172,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:de:Freitag|Freitag]]
 | [[:de:Samstag|Samstag]] or <br>''Sonnabend'' <small>(2)</small>
 |-style="background:#efe;"-
-!align="right"| [[Danish language|Danish]]/[[Norwegian language|Norwegian]]
+!align="right"| [[Danais]]/[[Nirribheis]]
 | [[:da:Søndag|søndag]]
 | [[:da:Mandag|mandag]]
 | [[:da:Tirsdag|tirsdag]]
@@ -181,7 +181,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:da:Fredag|fredag]]
 | [[:da:Lørdag|lørdag]] <small>(4)</small>
 |-style="background:#efe;"-
-!align="right"| [[Dutch language|Dutch]]
+!align="right"| [[Duitseis]]
 | [[:nl:Zondag|zondag]]
 | [[:nl:Maandag|maandag]]
 | [[:nl:Dinsdag|dinsdag]]
@@ -190,7 +190,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:nl:Vrijdag|vrijdag]]
 | [[:nl:Zaterdag|zaterdag]]
 |-style="background:#dfd;"-
-!align="right"| [[Old Norse language|Old Norse]]
+!align="right"| [[Sean-Lochlannais]]
 | ''sunnundagr'' <br />Sunna's day
 | ''mánandagr'' 
 | ''tysdagr'' <br />[[Tyr]]'s day
@@ -199,7 +199,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | ''friádagr'' <br />[[Freya]]'s day
 | ''laugardagr'' <small>(4)</small>
 |-style="background:#efe;"-
-!align="right"| [[Swedish language|Swedish]]
+!align="right"| [[Suaneis]]
 | [[:sv:Söndag|söndag]]
 | [[:sv:Måndag|måndag]]
 | [[:sv:Tisdag|tisdag]]
@@ -208,7 +208,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:sv:Fredag|fredag]]
 | [[:sv:Lördag|lördag]] <small>(4)</small>
 |-style="background:#eff;"-
-!align="right"| [[Finnish language|Finnish]]
+!align="right"| [[Fionnais]]
 | [[:fi:Sunnuntai|sunnuntai]]
 | [[:fi:Maanantai|maanantai]]
 | [[:fi:Tiistai|tiistai]]
@@ -217,7 +217,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:fi:Perjantai|perjantai]]
 | [[:fi:Lauantai|lauantai]] <small>(4)</small>
 |-style="background:#dfd;"-
-!align="right"| [[Old English language|Old English]]
+!align="right"| [[Sean-Bheurla]]
 | ''sunnandæg'' <br />[[Sunne (god)|Sunne]]'s day
 | ''mōnandæg''
 | ''tiwesdæg'' <br />[[Tyr|Tiw]]'s day
@@ -226,7 +226,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | ''frigesdæg'' <br />[[Frige]]'s day
 | ''sæternesdæg''
 |-style="background:#FFCC66;"-
-!align="right"| [[Sanskrit language|Sanskrit]] <br> & [[Hindi language|Hindi]]
+!align="right"| [[Sanskrit]] <br> & [[Hindi]]
 |  रविवार <br /> day of [[Ravi]] (the Sun) 
 |  सोमवार <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
 |  मंगलवार <br /> day of [[Mangala]] (Mars) 
@@ -236,7 +236,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 |  शनिवार  <br /> day of [[Shani]] (Saturn) 
 |-
 |-style="background:#FFCC66;"-
-!align="right"| [[Bengali language|Bengali]]
+!align="right"| [[Bengali]]
 |  Ravibaar <br /> day of [[Ravi]] (the Sun) 
 |  Sombaar <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
 |  Mangalbaar <br /> day of [[Mangala]] (Mars) 
@@ -246,7 +246,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 |  Shanibaar  <br /> day of [[Shani]] (Saturn) 
 |-
 |-style="background:#FFCC66;"-
-!align="right"| [[Gujarati language|Gujarati]] 
+!align="right"| [[Gujarati]] 
 |  રવિવાર <br /> [[Ravi]] day
 |  સોમવાર  <br /> [[Soma#Hinduism|Soma]] day
 |  મંગળવાર  <br /> [[Mangala]] day
@@ -256,7 +256,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 |  શનિવાર <br /> Shani day
 |-
 |-style="background:#FFCC99;"-
-!align="right"| [[Tamil language|Tamil]] 
+!align="right"| [[Tamilis]] 
 | | <small>ஞாயிற்றுகிழமை</small> <br /> Nyāyitru day
 |  <small>திங்கட்கிழமை</small><br /> Thingat day
 |  <small>ெசவ்வாய்க்கிழமை</small><br /> Sevvāi day
@@ -266,7 +266,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 |  <small>சனிக்கிழமை </small><br /> Shani day
 |-
 |-style="background:#fee;"-
-!align="right"| [[Japanese language|Japanese]] <br>
+!align="right"| [[Iapanais]] <br>
 | [[:ja:日曜日|日曜日]] <br /> Sun's day
 | [[:ja:月曜日|月曜日]] <br /> Moon's day
 | [[:ja:火曜日|火曜日]] <br /> day of the planet of fire (Mars)
@@ -276,7 +276,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:ja:土曜日|土曜日]] <br /> day of the planet of earth (Saturn)
 |-
 |-style="background:#fee;"-
-!align="right"| [[Korean language|Korean]]*
+!align="right"| [[Coirianais]]*
 | [[:ko:일요일|일요일]] <br /> Sun's day
 | [[:ko:월요일|월요일]] <br /> Moon's day
 | [[:ko:화요일|화요일]] <br /> day of the planet of fire (Mars)
@@ -286,7 +286,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:ko:토요일|토요일]] <br /> day of the planet of earth (Saturn)
 |-
 |-style="background:#fee;"-
-!align="right"| [[Tibetan language|Tibetan]] <br>
+!align="right"| [[Tibetanais]] <br>
 | [[:bo:sa nyima|gza' nyi ma]] <br /> Sun's day
 | [[:bo:sa dawa|gza' zla ba]] <br /> Moon's day
 | [[:bo:sa mimar|gza' mig mar]] <br /> day of the planet of fire (Mars)
@@ -304,7 +304,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[Venus (planet)|Venus]]  [[Image:Venus symbol.svg|30px|Venus]]
 | [[Saturn (planet)|Saturn]] [[Image:Saturn symbol.ant.png|30px|Saturn]]
 |-align="left"-
-!align="right"| Day
+!align="right"| Latha
 ! Sunday
 ! Monday
 ! Tuesday
