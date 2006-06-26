@@ -12,6 +12,472 @@ Sa Ghàidhlig, tha am facal [[aoine]] mar pairt de na ainmean air tri làithean 
 
 Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] agus [[Di-Sathairne]], gun d' thainig a ainmean [[Laideann|Laidinn]]. Anns a' [[Beurla|Bheurla]], tha na h-ainmean gu math paganach... thig iad uile a freumhan paganach - Sunday (Latha na [[Grian|Greine]]), Monday (Latha na [[Gealach]], mar Di-Luain, "Lundi" sa Fhraingeis), Tuesday (latha "Tiw", [[dia]] paganach Tiutonach), Wednesday (latha "Woden", dia paganach Tiutonach eile), Thursday (Latha Toir (Thor - [[tarann]]), [[dia]] paganach Tiutonach), Friday (Latha Freyja, ban-dhia phaganach Thiutonach), agus Saturday (Latha [[Saturn]], dia paganach Romanach, ann an "Di-Sathairne" cuideachd)
 
+==Tables==
+
+:''The (suggested) purpose of these tables is to show how far different languages preserve the associations with the ruling luminaries (or not!) and the Church's numbering of the days. (That is, '''not''' to list the names in "every" language: [[Wiktionary]] entries for the day names offer such lists &ndash; click on the links in the header row.)''
+
+===Astronomical===
+{| border="1" cellpadding="4" cellspacing="1" width="100%" 
+|-align="left"-
+!width="9%" align="right"| Day
+!width="13%"| [[Wiktionary:Sunday|Sunday]]
+!width="13%"| [[Wiktionary:Monday|Monday]]
+!width="13%"| [[Wiktionary:Tuesday|Tuesday]]
+!width="13%"| [[Wiktionary:Wednesday|Wednesday]]
+!width="13%"| [[Wiktionary:Thursday|Thursday]]
+!width="13%"| [[Wiktionary:Friday|Friday]]
+!width="13%"| [[Wiktionary:Saturday|Saturday]]
+|-
+!align="right"| Luminary & [[Astronomical symbol#Symbols of planets|symbol]]
+| [[Sun]] [[Image:Sun symbol.svg|30px|Sun]]
+| [[Moon]]  [[Image:Moon symbol.ant.png|30px|Moon]]
+| [[Mars (planet)|Mars]]  [[Image:Mars symbol.svg|30px|Mars]]
+| [[Mercury (planet)|Mercury]] [[Image:Mercury symbol.ant.png|30px|Mercury]]
+| [[Jupiter (planet)|Jupiter]] [[Image:Jupiter symbol.ant.png|30px|Jupiter]]
+| [[Venus (planet)|Venus]]  [[Image:Venus symbol.svg|30px|Venus]]
+| [[Saturn (planet)|Saturn]] [[Image:Saturn symbol.ant.png|30px|Saturn]]
+|-style="background:#ddf;"-
+!align="right"| [[Latin]]
+| [[:la:dies solis|dies solis]]
+| [[:la:dies lunae|dies lunae]]
+| [[:la:dies Martis|dies Martis]]
+| [[:la:dies Mercurii|dies Mercurĭi]]
+| [[:la:dies Iovis|dies Jovis]]
+| [[:la:dies Veneris|dies Venĕris]]
+| [[:la:dies Saturni|dies Saturni]]
+|-style="background:#eef;"-
+!align="right"| [[Italian language|Italian]]
+| [[:it:Domenica|domenica]] <small>(1)</small>
+| [[:it:Lunedì|lunedì]]
+| [[:it:Martedì|martedì]]
+| [[:it:Mercoledì|mercoledì]]
+| [[:it:Giovedì|giovedì]]
+| [[:it:Venerdì|venerdì]]
+| [[:it:Sabato|sabato]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Spanish language|Spanish]]
+| [[:es:Domingo|domingo]] <small>(1)</small>
+| [[:es:Lunes|lunes]]
+| [[:es:Martes|martes]]
+| [[:es:Miércoles|miércoles]]
+| [[:es:Jueves|jueves]]
+| [[:es:Viernes|viernes]]
+| [[:es:Sábado|sábado]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Romanian language|Romanian]]
+| [[:ro:Duminică|duminică]] <small>(1)</small>
+| [[:ro:Luni|luni]]
+| [[:ro:Marţi|marţi]]
+| [[:ro:Miercuri|miercuri]]
+| [[:ro:Joi|joi]]
+| [[:ro:Vineri|vineri]]
+| [[:ro:Sâmbătă|sâmbătă]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[French language|French]]
+| [[:fr:Dimanche|dimanche]] <small>(1)</small>
+| [[:fr:Lundi|lundi]]
+| [[:fr:Mardi|mardi]]
+| [[:fr:Mercredi|mercredi]]
+| [[:fr:Jeudi|jeudi]]
+| [[:fr:Vendredi|vendredi]]
+| [[:fr:Samedi|samedi]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Catalan language|Catalan]]
+| [[:ca:Diumenge|diumenge]] <small>(1)</small>
+| [[:ca:dilluns|dilluns]]
+| [[:ca:dimarts|dimarts]]
+| [[:ca:dimecres|dimecres]]
+| [[:ca:dijous|dijous]]
+| [[:ca:divendres|divendres]]
+| [[:ca:dissabte|dissabte]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Esperanto language|Esperanto]]
+| [[:eo:dimanĉo|dimanĉo]]
+| [[:eo:lundo|lundo]]
+| [[:eo:mardo|mardo]]
+| [[:eo:merkredo|merkredo]]
+| [[:eo:ĵaŭdo|ĵaŭdo]]
+| [[:eo:vendredo|vendredo]]
+| [[:eo:sabato|sabato]]
+|-style="background:#fef;"-
+!align="right"| [[Welsh language|Welsh]]
+| [[:cy:Dydd Sul|dydd Sul]]
+| [[:cy:Dydd Llun|dydd Llun]]
+| [[:cy:Dydd Mawrth|dydd Mawrth]]
+| [[:cy:Dydd Mercher|dydd Mercher]]
+| [[:cy:Dydd Iau|dydd Iau]]
+| [[:cy:Dydd Gwener|dydd Gwener]]
+| [[:cy:Dydd Sadwrn|dydd Sadwrn]]
+|-style="background:#fef;"-
+!align="right"| [[Cornish language|Cornish]]
+| dy Sul 
+| dy Lun
+| dy Meurth 
+| dy Mergher
+| dy Yow
+| dy Gwener
+| dy Sadorn
+|-style="background:#fef;"-
+!align="right"| [[Breton language|Breton]]
+| Disul 
+| Dilun
+| Dimeurzh 
+| Dimerc’her 
+| Diriaou 
+| Digwener 
+| Disadorn
+|-style="background:#fef;"-
+!align="right"| [[Irish language|Irish]]
+| Dé Domhnaigh 
+| Dé Luain 
+| Dé Mháirt
+| Dé Chéadaoin 
+| Déardaoin 
+| Dé hAoine
+| Dé Sathairn 
+|-style="background:#fef;"-
+!align="right"| [[Scottish gaelic language|Scots Gaelic]]
+| Didòmhnaich 
+| Diluain
+| Dimàirt 
+| Diciadain 
+| Diardaoin
+| Dihaoine 
+| Disàthairne 
+|-style="background:#fef;"-
+!align="right"| [[Manx language|Manx]]
+| Jedoonee
+| Jelune 
+| Jemayrt 
+| Jecrean 
+| Jerdrein 
+| Jeheiney 
+| Jesarn 
+|-style="background:#dfd;"-
+!align="right"| [[Old High German]]
+| sunnuntag
+| mānetag 
+| zeistag <br />''[[Tyr|Ziu]]'s day''
+| wodenstag <br />''[[Odin|Woden]]'s day''
+| donerestag<br />''[[Donar|Thor]]'s day''
+| friatag <br />''[[Freya|Freia]]'s day''
+| sambaztag  <small>(2)</small>
+|-style="background:#efe;"-
+!align="right"| [[German language|German]]
+| [[:de:Sonntag|Sonntag]] 
+| [[:de:Montag|Montag]]
+| [[:de:Dienstag|Dienstag]]
+| [[:de:Mittwoch|Mittwoch]]  <small>(3)</small>
+| [[:de:Donnerstag|Donnerstag]]
+| [[:de:Freitag|Freitag]]
+| [[:de:Samstag|Samstag]] or <br>''Sonnabend'' <small>(2)</small>
+|-style="background:#efe;"-
+!align="right"| [[Danish language|Danish]]/[[Norwegian language|Norwegian]]
+| [[:da:Søndag|søndag]]
+| [[:da:Mandag|mandag]]
+| [[:da:Tirsdag|tirsdag]]
+| [[:da:Onsdag|onsdag]]
+| [[:da:Torsdag|torsdag]]
+| [[:da:Fredag|fredag]]
+| [[:da:Lørdag|lørdag]] <small>(4)</small>
+|-style="background:#efe;"-
+!align="right"| [[Dutch language|Dutch]]
+| [[:nl:Zondag|zondag]]
+| [[:nl:Maandag|maandag]]
+| [[:nl:Dinsdag|dinsdag]]
+| [[:nl:Woensdag|woensdag]]
+| [[:nl:Donderdag|donderdag]]
+| [[:nl:Vrijdag|vrijdag]]
+| [[:nl:Zaterdag|zaterdag]]
+|-style="background:#dfd;"-
+!align="right"| [[Old Norse language|Old Norse]]
+| ''sunnundagr'' <br />Sunna's day
+| ''mánandagr'' 
+| ''tysdagr'' <br />[[Tyr]]'s day
+| ''óðensdagr'' <br />[[Odin]]'s day
+| ''þorsdagr'' <br />[[Thor]]'s day
+| ''friádagr'' <br />[[Freya]]'s day
+| ''laugardagr'' <small>(4)</small>
+|-style="background:#efe;"-
+!align="right"| [[Swedish language|Swedish]]
+| [[:sv:Söndag|söndag]]
+| [[:sv:Måndag|måndag]]
+| [[:sv:Tisdag|tisdag]]
+| [[:sv:Onsdag|onsdag]]
+| [[:sv:Torsdag|torsdag]]
+| [[:sv:Fredag|fredag]]
+| [[:sv:Lördag|lördag]] <small>(4)</small>
+|-style="background:#eff;"-
+!align="right"| [[Finnish language|Finnish]]
+| [[:fi:Sunnuntai|sunnuntai]]
+| [[:fi:Maanantai|maanantai]]
+| [[:fi:Tiistai|tiistai]]
+| [[:fi:Keskiviikko|keskiviikko]] <small>(3)</small>
+| [[:fi:Torstai|torstai]]
+| [[:fi:Perjantai|perjantai]]
+| [[:fi:Lauantai|lauantai]] <small>(4)</small>
+|-style="background:#dfd;"-
+!align="right"| [[Old English language|Old English]]
+| ''sunnandæg'' <br />[[Sunne (god)|Sunne]]'s day
+| ''mōnandæg''
+| ''tiwesdæg'' <br />[[Tyr|Tiw]]'s day
+| ''wodnesdæg''<br />[[Odin|Woden]]'s day
+| ''þunresdæg'' <br />[[Thor|Thunor]]'s day  
+| ''frigesdæg'' <br />[[Frige]]'s day
+| ''sæternesdæg''
+|-style="background:#FFCC66;"-
+!align="right"| [[Sanskrit language|Sanskrit]] <br> & [[Hindi language|Hindi]]
+|  रविवार <br /> day of [[Ravi]] (the Sun) 
+|  सोमवार <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
+|  मंगलवार <br /> day of [[Mangala]] (Mars) 
+|  बुधवार <br /> day of [[Budha]] (Mercury) 
+|  गुरूवार <br /> day of [[Guru]] (Jupiter) 
+|  शुक्रवार <br /> day of [[Shukra]] (Venus) 
+|  शनिवार  <br /> day of [[Shani]] (Saturn) 
+|-
+|-style="background:#FFCC66;"-
+!align="right"| [[Bengali language|Bengali]]
+|  Ravibaar <br /> day of [[Ravi]] (the Sun) 
+|  Sombaar <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
+|  Mangalbaar <br /> day of [[Mangala]] (Mars) 
+|  Budhbaar <br /> day of [[Budha]] (Mercury) 
+|  Brihashpatibaar <br /> day of Brihashpati (Jupiter) 
+|  Shukrabaar <br /> day of [[Shukra]] (Venus) 
+|  Shanibaar  <br /> day of [[Shani]] (Saturn) 
+|-
+|-style="background:#FFCC66;"-
+!align="right"| [[Gujarati language|Gujarati]] 
+|  રવિવાર <br /> [[Ravi]] day
+|  સોમવાર  <br /> [[Soma#Hinduism|Soma]] day
+|  મંગળવાર  <br /> [[Mangala]] day
+|  બુધવાર  <br /> [[Budha]] day
+|  ગુરૂવાર  <br /> [[Guru]] day
+|  શુક્રવાર  <br /> Shukra day
+|  શનિવાર <br /> Shani day
+|-
+|-style="background:#FFCC99;"-
+!align="right"| [[Tamil language|Tamil]] 
+| | <small>ஞாயிற்றுகிழமை</small> <br /> Nyāyitru day
+|  <small>திங்கட்கிழமை</small><br /> Thingat day
+|  <small>ெசவ்வாய்க்கிழமை</small><br /> Sevvāi day
+|  <small>புதன்க்கிழமை </small><br /> Budhan day
+|  <small>வியாழக்கிழமை </small><br /> Vyāzha day
+|  <small>ெவௗ்ௗிக்கிழமை </small><br /> Velli day
+|  <small>சனிக்கிழமை </small><br /> Shani day
+|-
+|-style="background:#fee;"-
+!align="right"| [[Japanese language|Japanese]] <br>
+| [[:ja:日曜日|日曜日]] <br /> Sun's day
+| [[:ja:月曜日|月曜日]] <br /> Moon's day
+| [[:ja:火曜日|火曜日]] <br /> day of the planet of fire (Mars)
+| [[:ja:水曜日|水曜日]] <br /> day of the planet of water (Mercury)
+| [[:ja:木曜日|木曜日]] <br /> day of the planet of wood (Jupiter)
+| [[:ja:金曜日|金曜日]] <br /> day of the planet of metal (Venus)
+| [[:ja:土曜日|土曜日]] <br /> day of the planet of earth (Saturn)
+|-
+|-style="background:#fee;"-
+!align="right"| [[Korean language|Korean]]*
+| [[:ko:일요일|일요일]] <br /> Sun's day
+| [[:ko:월요일|월요일]] <br /> Moon's day
+| [[:ko:화요일|화요일]] <br /> day of the planet of fire (Mars)
+| [[:ko:수요일|수요일]] <br /> day of the planet of water (Mercury)
+| [[:ko:목요일|목요일]] <br /> day of the planet of wood (Jupiter)
+| [[:ko:금요일|금요일]] <br /> day of the planet of metal (Venus)
+| [[:ko:토요일|토요일]] <br /> day of the planet of earth (Saturn)
+|-
+|-style="background:#fee;"-
+!align="right"| [[Tibetan language|Tibetan]] <br>
+| [[:bo:sa nyima|gza' nyi ma]] <br /> Sun's day
+| [[:bo:sa dawa|gza' zla ba]] <br /> Moon's day
+| [[:bo:sa mimar|gza' mig mar]] <br /> day of the planet of fire (Mars)
+| [[:bo:sa lhakba|gza' lhag pa]] <br /> day of the planet of water (Mercury)
+| [[:bo:sa phurbu|gza' phur bu]] <br /> day of the planet of wood (Jupiter)
+| [[:bo:sa basang|gza' pa sangs]] <br /> day of the planet of metal (Venus)
+| [[:bo:sa benba|gza' spen pa]] <br /> day of the planet of earth (Saturn)
+|-
+!align="right"| Luminary & [[Astronomical symbol#Symbols of planets|symbol]]
+| [[Sun]] [[Image:Sun symbol.svg|30px|Sun]]
+| [[Moon]]  [[Image:Moon symbol.ant.png|30px|Moon]]
+| [[Mars (planet)|Mars]]  [[Image:Mars symbol.svg|30px|Mars]]
+| [[Mercury (planet)|Mercury]] [[Image:Mercury symbol.ant.png|30px|Mercury]]
+| [[Jupiter (planet)|Jupiter]] [[Image:Jupiter symbol.ant.png|30px|Jupiter]]
+| [[Venus (planet)|Venus]]  [[Image:Venus symbol.svg|30px|Venus]]
+| [[Saturn (planet)|Saturn]] [[Image:Saturn symbol.ant.png|30px|Saturn]]
+|-align="left"-
+!align="right"| Day
+! Sunday
+! Monday
+! Tuesday
+! Wednesday
+! Thursday
+! Friday
+! Saturday
+|}
+<nowiki>*</nowiki> The Japanese names are the same as the traditional way days of week were named in Chinese. The Korean names are also the same but written in [[Hangul]].
+
+===Numerical===
+{| border="1" cellpadding="4" cellspacing="1" width="100%" 
+|-align="left"-
+!width="9%" align="right"| Day
+!width="13%"| [[Wiktionary:Sunday|Sunday]]
+!width="13%"| [[Wiktionary:Monday|Monday]]
+!width="13%"| [[Wiktionary:Tuesday|Tuesday]]
+!width="13%"| [[Wiktionary:Wednesday|Wednesday]]
+!width="13%"| [[Wiktionary:Thursday|Thursday]]
+!width="13%"| [[Wiktionary:Friday|Friday]]
+!width="13%"| [[Wiktionary:Saturday|Saturday]]
+|-style="background:#ddf;"-
+!align="right"| [[Latin]] <br />(Church usage)
+| ''prima feria'' <br />or ''dominica''
+| ''secunda feria''
+| ''tertia feria'' 
+| ''quarta feria'' 
+| ''quinta feria'' 
+| ''sexta feria'' 
+| ''sabbatum''
+|-style="background:#eef;"-
+!align="right"| [[Hebrew language|Hebrew]]
+| יום ראשון <br> (first day)
+| יום שני <br> (second day)
+| יום שלישי <br> (third day)
+| יום רביעי <br> (fourth day)
+| יום חמישי <br> (fifth day)
+| יום שישי <br> (sixth day)
+| שבת <br> (Sabbath)
+|-style="background:#eef;"-
+!align="right"| [[Portuguese language|Portuguese]]
+| [[:pt:domingo|domingo]] <small>(1)</small>
+| [[:pt:segunda-feira|segunda-feira]] 
+| [[:pt:terça-feira|terça-feira]] 
+| [[:pt:quarta-feira|quarta-feira]] 
+| [[:pt:quinta-feira|quinta-feira]] 
+| [[:pt:sexta-feira|sexta-feira]] 
+| [[:pt:sábado|sábado]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Greek language|Greek]]
+| Κυριακή <br> ("Lord's day")
+| Δευτέρα <br> ("second")
+| Τρίτη  <br> ("third")
+| Τετάρτη <br> ("fourth")
+| Πέμπτη <br> ("fifth")
+| Παρασκευή <br> ("preparation")
+| Σάββατο <br> ("sabbath")
+|-style="background:#eef;"-
+!align="right"| [[Vietnamese language|Vietnamese]]
+| chủ nhật ("Master's day") or <br>chúa nhật ("Lord's day")
+| (ngày) thứ hai<br> "second (day)"
+| (ngày) thứ ba<br> "third (day)"
+| (ngày) thứ tư<br> "fourth (day)"
+| (ngày) thứ năm<br> "fifth (day)"
+| (ngày) thứ sáu<br> "sixth (day)"
+| (ngày) thứ bảy<br> "seventh (day)"
+|-style="background:#efe;"-
+!align="right"| [[Icelandic language|Icelandic]] 
+| [[:is:sunnudagur|sunnudagur]] <small>(5)</small> <br> ("sun day")
+| [[:is:mánudagur|mánudagur]] <small>(5)</small> <br> ("moon day")
+| [[:is:þriðjudagur|þriðjudagur]] <br> ("third day")
+| [[:is:miðvikudagur|miðvikudagur]] <small>(3)</small> <br> ("mid week day")
+| [[:is:fimmtudagur|fimmtudagur]] <br> ("fifth day")
+| [[:is:föstudagur|föstudagur]] <br /> ("fast day")
+| [[:is:laugardagur|laugardagur]] <small>(4)</small> <br> ("washing day")
+|-style="background:#eff;"-
+!align="right"| [[Estonian language|Estonian]]
+| [[:et:pühapäev|pühapäev]] <br />("holy day")
+| [[:et:esmaspäev|esmaspäev]] 
+| [[:et:teisipäev|teisipäev]] 
+| [[:et:kolmapäev|kolmapäev]] ("third")   or ''kesknädal'' <small>(3)</small>
+| [[:et:neljapäev|neljapäev]] ("fourth")
+| [[:et:reede|reede]] <br />(ON ''friádagr'')
+| [[:et:laupäev|laupäev]] <small>(4)</small>
+|-style="background:#ffe;"-
+!align="right"| [[Polish language|Polish]]
+| [[:cs:niedziela|niedziela]] <br />("no work")
+| [[:cs:poniedziałek|poniedziałek]] <br />("after no-work")
+| [[:cs:wtorek|wtorek]] <br />("second")
+| [[:cs:środa|środa]] <br />("middle") 
+| [[:cs:czwartek|czwartek]]   <br />("fourth")
+| [[:cs:piątek|piątek]]   <br />("fifth")
+| [[:cs:sobota|sobota]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Slovenian language|Slovenian]]
+| [[:cs:nedelja|nedelja]] <br />("no work")
+| [[:cs:ponedeljek|ponedeljek]] <br />("after no-work")
+| [[:cs:torek|torek]] <br />(archaic "second")
+| [[:cs:sreda|sreda]] <br />("middle") 
+| [[:cs:četrtek|četrtek]]   <br />("fourth")
+| [[:cs:petek|petek]]   <br />("fifth")
+| [[:cs:sobota|sobota]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Hungarian language|Hungarian]]
+| [[:hu:vasárnap|vasárnap]] <br />("market day")
+| [[:hu:hétfő|hétfő]] <br />("head of the week")
+| [[:hu:kedd|kedd]] <br />("second")
+| [[:hu:szerda|szerda]] <br />(< Slavic "middle") 
+| [[:hu:csütörtök|csütörtök]]   <br />(< Slavic "fourth")
+| [[:hu:péntek|péntek]]   <br />(< Slavic "fifth")
+| [[:hu:szombat|szombat]] <small>(2)</small>
+|-style="background:#eef;"-
+!align="right"| [[Lithuanian language|Lithuanian]]
+| [[:lt:sekmadienis|sekmadienis]] <br /> ("seventh day")<small>(2)</small>
+| [[:lt:pirmadienis|pirmadienis]]  <br />("first day")
+| [[:lt:antradienis|antradienis]] <br /> ("second day")
+| [[:lt:trečiadienis|trečiadienis]] <br /> ("third day")
+| [[:lt:ketvirtadienis|ketvirtadienis]] <br /> ("fourth day")
+| [[:lt:penktadienis|penktadienis]] <br /> ("fifth day")
+| [[:lt:šeštadienis|šeštadienis]] <br /> ("sixth day")
+|-style="background:#efe;"-
+|-style="background:#ffe;"-
+!align="right"| [[Russian language|Russian]]
+| [[:ru:воскресенье|воскресенье]] <br /> ''voskresen'ye'' <br />("resurrection")
+| [[:ru:понедельник|понедельник]] <br /> ''ponedel'nik'' <br />("after no-work")
+| [[:ru:вторник|вторник]] <br /> ''vtornik'' <br />("second")
+| [[:ru:среда|среда]] <br /> ''sreda'' <br />("center")
+| [[:ru:четверг|четверг]] <br /> ''chetverk''<br />("fourth")
+| [[:ru:пятница|пятница]] <br /> ''pyatnitsa''<br />("fifth")
+| [[:ru:суббота|суббота]] <br /> ''subbota'' <br /> <small>(2)</small>
+|-style="background:#fee;"-
+!align="right"| [[Chinese language|Chinese]] <br /><small>([[Standard Mandarin]] transcription in [[Hanyu Pinyin]])</small>
+| [[:zh:星期日|星期日]] ''xīngqí rì''<br />("week: sun") <br /> or <br />[[:zh:星期天|星期天]] ''xīngqí tiān''<br />("week: heaven")
+| [[:zh:星期一|星期一]] ''xīngqí yī''<br />("week: one")
+| [[:zh:星期二|星期二]] ''xīngqí èr''<br />("week: two")
+| [[:zh:星期三|星期三]] ''xīngqí sān''<br />("week: three")
+| [[:zh:星期四|星期四]] ''xīngqí sì''<br />("week: four")
+| [[:zh:星期五|星期五]] ''xīngqí wǔ''<br />("week: five")
+| [[:zh:星期六|星期六]] ''xīngqí liù''<br />("week: six")
+
+|-style="background:#ffe;"-
+!align="right"| [[Persian language|Persian]]
+| [[:fa:یکشنبه|یکشنبه]] <br /> ''Yekshanbeh'' <br />("first day")
+| [[:fa:دوشنبه|دوشنبه]] <br /> ''Doshanbeh'' <br />("second day")
+| [[:fa:سه شنبه|سه شنبه]] <br /> ''Seshanbeh'' <br />("third day")
+| [[:fa:چهارشنبه|چهارشنبه]] <br /> ''Chaharshanbeh'' <br />("fourth day")
+| [[:fa:پنجشنبه|پنجشنبه]] <br /> ''Panjshanbeh''<br />("fifth day")
+| [[:fa:آدینه|آدینه]] <br /> ''Adineh''<br /> ("day of faith")
+| [[:fa:شنبه|شنبه]] <br /> ''Shanbeh'' <br /> <small>(from "shabAneh rooz" meaning "night and day")</small>
+|-style="background:#fee;"-
+
+|-
+!align="right"| [[ISO 8601]] #
+| 7
+| 1
+| 2
+| 3
+| 4
+| 5
+| 6
+|-align="left"-
+!align="right"| Day
+! Sunday
+! Monday
+! Tuesday
+! Wednesday
+! Thursday
+! Friday
+! Saturday
+|}
+
+
+{{Làithean na seachdainn}}
 [[Category:Làithean na seachdainn|*]]
 
 [[bn:বাংলা বার]]
