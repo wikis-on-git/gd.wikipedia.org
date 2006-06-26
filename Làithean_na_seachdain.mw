@@ -16,10 +16,10 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 
 :''The (suggested) purpose of these tables is to show how far different languages preserve the associations with the ruling luminaries (or not!) and the Church's numbering of the days. (That is, '''not''' to list the names in "every" language: [[Wiktionary]] entries for the day names offer such lists &ndash; click on the links in the header row.)''
 
-===Reul-eolach===
+===Reul-eòlach===
 {| border="1" cellpadding="4" cellspacing="1" width="100%" 
 |-align="left"-
-!width="9%" align="right"| Day
+!width="9%" align="right"| Latha
 !width="13%"| [[Di-Dòmhnaich]]/Là na Sàbaid
 !width="13%"| [[Di-Luain]]
 !width="13%"| [[Di-Màirt]]
@@ -30,7 +30,7 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 |-
 !align="right"| Luminary & [[Astronomical symbol#Symbols of planets|symbol]]
 | [[Grian]] [[Image:Sun symbol.svg|30px|Sun]]
-| [[Moon]]  [[Image:Moon symbol.ant.png|30px|Moon]]
+| [[Gealach]]  [[Image:Moon symbol.ant.png|30px|Moon]]
 | [[Corg|Mars]]  [[Image:Mars symbol.svg|30px|Mars]]
 | [[Mearcair|Mearcair (Mercury)]] [[Image:Mercury symbol.ant.png|30px|Mercury]]
 | [[Bliogh|Iupatair (Jupiter)]] [[Image:Jupiter symbol.ant.png|30px|Jupiter]]
@@ -157,10 +157,10 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 !align="right"| [[Old High German]]
 | sunnuntag
 | mānetag 
-| zeistag <br />''[[Tyr|Ziu]]'s day''
-| wodenstag <br />''[[Odin|Woden]]'s day''
-| donerestag<br />''[[Donar|Thor]]'s day''
-| friatag <br />''[[Freya|Freia]]'s day''
+| zeistag <br />''Latha [[Tyr|Ziu]]''
+| wodenstag <br />''Latha [[Odin|Woden]]''
+| donerestag<br />''Latha [[Donar|Thor]]''
+| friatag <br />''[[Freya|Freia]]''
 | sambaztag  <small>(2)</small>
 |-style="background:#efe;"-
 !align="right"| [[Gearmailtis]]
@@ -191,12 +191,12 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:nl:Zaterdag|zaterdag]]
 |-style="background:#dfd;"-
 !align="right"| [[Sean-Lochlannais]]
-| ''sunnundagr'' <br />Sunna's day
+| ''sunnundagr'' <br />Latha Sunna
 | ''mánandagr'' 
-| ''tysdagr'' <br />[[Tyr]]'s day
-| ''óðensdagr'' <br />[[Odin]]'s day
-| ''þorsdagr'' <br />[[Thor]]'s day
-| ''friádagr'' <br />[[Freya]]'s day
+| ''tysdagr'' <br />Latha [[Tyr]]
+| ''óðensdagr'' <br />Latha [[Odin]]
+| ''þorsdagr'' <br />Latha [[Thor]]
+| ''friádagr'' <br />Latha [[Freya]]
 | ''laugardagr'' <small>(4)</small>
 |-style="background:#efe;"-
 !align="right"| [[Suaneis]]
@@ -218,32 +218,32 @@ Tha ainmean [[paganach]] air tri làithean eile - [[Di-Luain]], [[Di-Màirt]] ag
 | [[:fi:Lauantai|lauantai]] <small>(4)</small>
 |-style="background:#dfd;"-
 !align="right"| [[Sean-Bheurla]]
-| ''sunnandæg'' <br />[[Sunne (god)|Sunne]]'s day
+| ''sunnandæg'' <br />Latha [[Sunne (dia)|Sunne]]
 | ''mōnandæg''
-| ''tiwesdæg'' <br />[[Tyr|Tiw]]'s day
-| ''wodnesdæg''<br />[[Odin|Woden]]'s day
-| ''þunresdæg'' <br />[[Thor|Thunor]]'s day  
-| ''frigesdæg'' <br />[[Frige]]'s day
+| ''tiwesdæg'' <br />Latha [[Tyr|Tiw]]
+| ''wodnesdæg''<br />Latha [[Odin|Woden]]
+| ''þunresdæg'' <br />Latha [[Thor|Thunor]]
+| ''frigesdæg'' <br />Latha [[Frige]]
 | ''sæternesdæg''
 |-style="background:#FFCC66;"-
 !align="right"| [[Sanskrit]] <br> & [[Hindi]]
-|  रविवार <br /> day of [[Ravi]] (the Sun) 
-|  सोमवार <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
-|  मंगलवार <br /> day of [[Mangala]] (Mars) 
-|  बुधवार <br /> day of [[Budha]] (Mercury) 
-|  गुरूवार <br /> day of [[Guru]] (Jupiter) 
-|  शुक्रवार <br /> day of [[Shukra]] (Venus) 
-|  शनिवार  <br /> day of [[Shani]] (Saturn) 
+|  रविवार <br /> Latha [[Ravi]] (the Sun) 
+|  सोमवार <br /> Latha [[Soma#Hinduism|Soma]] (the Moon) 
+|  मंगलवार <br /> Latha  [[Mangala]] (Mars) 
+|  बुधवार <br /> Latha  [[Budha]] (Mercury) 
+|  गुरूवार <br /> Latha [[Guru]] (Jupiter) 
+|  शुक्रवार <br /> Latha [[Shukra]] (Venus) 
+|  शनिवार  <br /> Latha [[Shani]] (Saturn) 
 |-
 |-style="background:#FFCC66;"-
 !align="right"| [[Bengali]]
-|  Ravibaar <br /> day of [[Ravi]] (the Sun) 
-|  Sombaar <br /> day of [[Soma#Hinduism|Soma]] (the Moon) 
-|  Mangalbaar <br /> day of [[Mangala]] (Mars) 
-|  Budhbaar <br /> day of [[Budha]] (Mercury) 
-|  Brihashpatibaar <br /> day of Brihashpati (Jupiter) 
-|  Shukrabaar <br /> day of [[Shukra]] (Venus) 
-|  Shanibaar  <br /> day of [[Shani]] (Saturn) 
+|  Ravibaar <br /> Latha  [[Ravi]] (the Sun) 
+|  Sombaar <br /> Latha  [[Soma#Hinduism|Soma]] (the Moon) 
+|  Mangalbaar <br /> Latha  [[Mangala]] (Mars) 
+|  Budhbaar <br /> Latha  [[Budha]] (Mercury) 
+|  Brihashpatibaar <br /> Latha Brihashpati (Jupiter) 
+|  Shukrabaar <br /> Latha [[Shukra]] (Venus) 
+|  Shanibaar  <br /> Latha [[Shani]] (Saturn) 
 |-
 |-style="background:#FFCC66;"-
 !align="right"| [[Gujarati]] 
