@@ -1,0 +1,146 @@
+Ann am [[matamataig]], ’s e buidheann no seata nithean sam bith a th’ ann an '''àlach'''. Mar eisimpleir, tha na ceithir dathan: dearg, buidhe, uaine agus gorm, nam buill de àlach nan dathan uile. Ged tha bun-bheachd nan àlach simplidh, ’s e fear de na smaoineasan bunaiteach ann am matamataig nar latha an-diugh. ’S e [[teòiridh àlach]] sgoilearachd feartan nan àlach, agus tha cuid mhath de mhatamataig stèidhichte air.
+
+Mar a leanas tha geàrr-chunntas bunasach de na theirear [[teòiridh àlach sìmplidh]]. Gheibh cus fiosrachadh air smaointean nas pongaile bho [[teòiridh àlach aicseamach|theòiridh àlach aicseamach]].
+
+
+==Mìneachadh==
+
+’S e cruinneachadh de nithean sam bith a th’ ann an àlach. Tha na nithean seo nam '''buill''' no '''eileamaidean''' den àlach. Is àbhaisteach àlach a chomharrachadh le litir mhòr (me. ''A'', ''B'', ''C'', msaa.). Tha dà àlach co-ionnan, sgrìobhte ''A'' = ''B'', ma tha gach ball de ''A'' na bhall de ''B'' cuideachd.
+
+Tha na buill de àlach matamataigeach uile eadar-dhealaichte. Chan fhaod ach aon bhall den t-seòrsa a bhith ann an àlach. Anns an seagh seo tha diofar eadar àlach matamataigeach agus cleachdadh an fhacail sa chainnt chumanta làitheil. 
+
+Chan eil òrdugh aig buill an àlaich. Mar eisimpleir, biodh ''A'' na àlach anns a bheil na ceithir [[àireamh]]an 2, 4, 6 agus 8. ’S urrainnear òrdugh na h-aibidil a chur riutha, no òrdugh àireamhail, no òrdugh sam bith eile ach chan eil òrdugh ann mar thà.
+
+Glèidhidh obrachaidhean àlach na buadhan seo. 
+
+
+==Iomraidhean air àlaichean==
+
+Thathar a’ toirt iomraidh air àlaichean an iomadh dòigh. Mar eisimpleir, le faclan:
+
+::’S e ''A'' an t-àlach anns nach eil ach a’ chiad cheithir [[àireamh]]an slàn dearbh.
+::’S e ''B'' an t-àlach anns nach eil ach dathan bratach na Frainge.
+
+Faodaidh nithean eugsamhail a bhith ann an àlach agus ’s e an cleachdadh liosta dhiubh a dhèanamh eadar camagan bachlach. Mar eisimpleir:
+
+::''C'' = { 4, 2, 1, 3 }
+::''D'' = { dearg, geal, gorm }
+
+Faodaidh dà iomradh a bhith air an aon àlach. Mar eisimpleir, mar os cionn tha ''A'' agus ''C'' co-ionnan chionns gu bheil na buill de ''A'' nam buill de ''C'' cuideachd, agus tha gach ball de ''C'' na bhall de ''A''. ’S ann an seo a tha seagh “co-ionnanachd” nan àlach, agus seagh comharra “=” nuair a sgrìobh sinn ''A'' = ''C''. Mar an ceudna, tha ''B'' = ''D''. 
+
+Chan eil òrdugh aig na buill agus chan eil e gu diofar co dhiù a sgrìobhar:
+
+::''C'' = { 4, 2, 1, 3 } = { 1, 2, 3, 4 } = { 1, 3, 2, 4 } = …
+
+Chan ann ach aon de gach seòrsa ge b’ e air bith dè cho tric ’s a tha ball ainmichte anns an liosta. Ma tha:
+
+::''E'' = { dearg, geal, gorm, geal, dearg, dearg, gorm }
+
+Chan eil ach trì dathan ann, agus tha ''E'' = ''D'' = ''B''.
+
+Ma tha an liosta fada, agus pàtran nam ball follaiseach, ’s urrainnear beàrn ( ... )  a chur ann. Mar eisimpleir tha a’ chiad chaogad àireamh chothromach dhearbh:
+
+::{ 2, 4, 6, 8, ..., 100 }
+
+Anns an dòigh cheudna, tha àlach nan àireamhan nàdarra corra:
+
+::{ 1, 3, 5, 7, ... }
+
+Uaireannan tha foirmle feumail. Mar eisimpleir, ma tha ''F'' na àlach den chiad fhichead àireamhan a tha ceithir nas lugha na [[slàn-àireamh]] cheàrnaichte, ’s urrainnear a sgrìobhadh:
+
+::''F'' = { ''n''&sup2; &minus; 4 : ''n'' na shlàn-àireamh; 0 ≤ ''n'' ≤ 19 }
+
+Thathar a’ leughadh a’ chòilein (:) “far a bheil”, agus an iomraidh gu lèir: “Tha ''F'' na àlach àireamhan den riochd ''n''&sup2; &minus; 4, far a bheil ''n'' na shlàn-àireamh agus tha ''n'' san raon bho 0 gu 19”.
+
+
+==Ballrachd àlach==
+
+Thathar a’ comharrachadh ball no eileamaid àlaich le ∈, bho litir na Grèigis ε a’ riochdachadh “eileamaid de”. Mur eil rudeigin na bhall thathar a’ comharrachadh le ∉. Mar eisimpleirean:
+
+::dearg ∈ { dearg, geal, gorm }, ach uaine ∉ ''D''
+::4 ∈ ''A''
+::285 ∈ ''F'' (chionns gu bheil 172 – 4 = 285)	 ach 9 ∉ ''F''
+
+Ma tha àlach a’ gabhail a-steach eileamaid, tha seo air a chomharrachadh le ∋, agus mur eil leis a’ chomharra ∌ (me. ''D'' ∋ dearg, ''D'' ∌ uaine). Tha na comharran seo air an leughadh “a tha gabhail a-steach” no “anns a bheil an eileamaid” agus “anns nach eil an eileamaid”.
+
+
+==An t-àlach bàn==
+
+Mur eil ball no eileamaid sam bith anns an àlach, ’s e an t-'''àlach bàn''' a th’ ann agus tha an comharra sònraichte <math>\varnothing</math> air.
+::<math>\varnothing</math> = { }
+
+
+==Fo-àlaichean agus for-àlaichean==
+
+Ma tha gach ball den àlach ''A'' na bhall den àlach ''B'' cuideachd, ’s e  ''fo-àlach'' ''B'' a th’ anns an ''A''. Tha seo air a sgrìobhadh ''A'' ⊆ ''B''. Ma tha ''A'' ⊆ ''B'' agus ''B'' ⊆ ''A'', ’s ann a tha ''A'' = ''B''. Ma tha ''A'' na fho-àlach ''B'' agus tha eileamaidean anns a’ ''B'' nach eil anns an ''A'', tha ''A'' na ''fho-àlach fìor'' de ''B''. Tha seo air a sgrìobhadh ''A'' ⊂ ''B'', no mar ''A'' ⊊ ''B'' airson a shoilleireachadh nach eil ''A'' agus ''B'' co-ionnan. Mar eisimpleir:
+
+::{ 1, 3 } ⊂ { 1, 2, 3, 4 }
+::{ 1, 3, 4, 2 } ⊆ { 1, 2, 3, 4 }
+
+Tha gach àlach na fho-àlach fhèin, ''A'' ⊆ ''A'', agus tha an t-àlach bàn na fho-àlach de gach àlach, <math>\varnothing</math> ⊆ ''A''. Mur eil ''A'' na fho-àlach ''B'', thèid a sgrìobhadh ''A'' ⊈ ''B'', no ''A'' ⊄ ''B''.
+
+Ma tha ''A'' na fho-àlach ''B'', ’s e '''for-àlach''' ''A'' a th’ anns a’ ''B''. ’S urrainnear a’ sgrìobhadh ''B'' ⊇ ''A''. Faodaidh na comharran eile air an cur air ais cuideachd (.i. ⊃ ⊅ ⊉ ⊋).
+
+
+==Aonadh àlach==
+
+’S e '''aonadh''' nan àlach ''A'' agus ''B'' àlach nan eileamaidean uile a th’ anns an ''A'' no a th’ anns a’ ''B''. Tha seo air a sgrìobhadh: ''A'' ⋃ ''B''. Mar eisimpleir:
+
+::{ 1, 3, 5 } ⋃ { 2, 4, 6 } = { 1, 2, 3, 4, 5, 6 }
+
+Tha e soilleir gu bheil:
+
+::''A'' ⋃ ''B'' = ''B'' ⋃ ''A''
+::''A'' ⋃ ''A'' = ''A''
+::''A'' ⊆ ''A'' ⋃ ''B''
+::''A'' ⋃ <math>\varnothing</math>  = ''A''
+
+
+==Eadar-ghearradh àlach==
+
+’S e '''eadar-ghearradh''' nan àlach ''A'' agus ''B'' àlach nan eileamaidean uile a tha an dà chuid na bhall de ''A'' agus na bhall de ''B''. Tha seo air a sgrìobhadh: ''A'' ⋂ ''B''. Mar eisimpleir:
+
+::{ 1, 2, 3, 4, 5 } ⋂ { 2, 3, 7, 9 } = { 2, 3 }
+::{ 1, 3, 5, 7 } ⋂ { 2, 4, 6, 8 } = <math>\varnothing</math> 
+
+Ma tha ''A'' ⋂ ''B'' = ∅, tha na h-àlaichean ''neo-thàthach''. Tha e soilleir gu bheil:
+
+::''A'' ⋂ ''B'' = ''B'' ⋂ ''A''
+::''A'' ⋂ ''A'' = ''A''
+::''A'' ⋂ ''B'' ⊆ ''A''
+::''A'' ⋂ <math>\varnothing</math>  = <math>\varnothing</math> 
+
+
+==Àlach co-phàirteach==
+
+’S e '''co-phàirt''' an àlaich ''A'' àlach nan eileamaidean uile nach eil anns an àlach ''A''. Tha seo air an sgrìobhadh ''A''′. Thathar a’ togail às an seo gu bheil ciall air àlach anns a bheil gach ni a th’ anns a’ chruinne-cè. Tha seo ainmichte ''àlach na h-uileachd'', ''U'', agus tha e soilleir gu bheil:
+
+::''A'' ⋃ ''A''′ = ''U''	
+::''A'' ⋂ ''A''′ = <math>\varnothing</math> 
+::(''A''′)′ = ''A''
+::''U'' = <math>\varnothing</math>′
+::''U'' ′ = <math>\varnothing</math> 
+
+Anns a’ chumantas, tha e nas feumaile bheachdachadh air àlach leis na h-eileamaidean nach eil anns an àlach ''A'', can, ach gu bheil ann an àlach eile ''B'', can. ’S e co-phàirt dàimheach na h-''A'' anns a’ ''B'' a tha seo, no an diofar eadar an t-àlach ''B'' agus an t-àlach ''A''. Tha an diofar seo air a sgrìobhadh: ''B'' – ''A''. Tha e soilleir gu bheil:
+
+::''A'' – ''B'' = ''A'' ⋂ ''B'' ′
+::''A'' – ''A'' = <math>\varnothing</math> 
+
+
+==Àlaichean sònraichte==
+
+Tha grunnan àlaich a tha cudromach ann am matamataig agus tha ainmean sònraichte aca. Is iad seo:
+::'''P'''	àlach nam [[prìomh-àireamh]]an. ’S e sin { 1, 2, 3, 5, 7, 11, 13, 17, ... }.
+::'''N'''	àlach nan [[àireamh nàdarrach|àireamhan nàdarrach]]. ’S e sin { 1, 2, 3, 4, 5, 6, ... }.
+::'''Z'''	àlach nan [[slàn-àireamh]]an. ’S e sin { ..., -3, -2, -1, 0, 1, 2, 3, ... }.
+::'''Q'''	àlach nan [[àireamh choimeasta|àireamhan coimeasta]]. ’S e sin { ''a''/''b'' : ''a'', ''b'' ∈ '''Z'''; ''b'' ≠ 0 }.
+::'''R'''	àlach nam [[fìor-àireamh]]an. ’S e sin aonadh '''Q''' agus àlach nan [[àireamh eucoimeasta|àireamhan eucoimeasta]] (.i. na h-àireamhan nach thathar a’ sgrìobhadh mar [[bloigh]]ean, me. π, e, agus √2).
+::'''C'''	àlach nan [[àireamh cho-fhillte|àireamhan co-fhillte]]. ’S e sin { ''a'' + ''b'' '''i''' : ''a'', ''b'' ∈ '''R''' }.
+
+Tha  '''P''' ⊂ '''N''' ⊂ '''Z''' ⊂ '''Q''' ⊂ '''R''' ⊂ '''C'''.
+
+
+==Àrdaileachd àlaich==
+
+’S e '''[[àrdaileachd]] àlaich''' an àireamh de bhuill no eileamaidean a th' anns an àlach. ’S e neoni àrdaileachd an àlaich bhàin agus [[eicrioch]] àrdaileachd nan àlach  '''P''', '''N''', '''Z''', 
+'''Q''', '''R''' agus '''C'''.
