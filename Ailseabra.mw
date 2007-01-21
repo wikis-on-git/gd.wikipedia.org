@@ -1,6 +1,108 @@
-Is e '''ailseabra''' meur [[matamataig]] a bhuineas ri ''structur'' &mdash; se sin, na feartan aig tionalan bhall air an cnuasachadh gu [[samhla | samhlachail]] agus na [[gnìomh (matamataigeach) | gnìomhan]] orra.
 
-Mar eisimpleir, tha na [[slàn-àireamh | slàn-àireamhan]], còmhla ris na gnìomhan [[suimeadh]] agus [[meudachadh]] na eisimpleir an structuir ailseabraich ''[[fàinne (matamataigeach) | fàinne]]''.
+’S e oideachadh structair agus dàimhe agus meud a th’ anns an '''ailseabra''' agus tha i tè de na mòr-roinnean [[matamataig]]. Tha [[ailseabra inntrigidh]] ann an clàr-teagaisg na h-àrd-sgoile far a bheil sgoilearan a’ faighinn aithne air smuaintean bunasach ailseabra, agus nan lùib feartan [[cur-ris]] agus [[iomadachadh]] [[àireamh]], bun-bheachd nan [[caochladair]]ean, agus feartan [[iol-teirmeach|iol-teirmich]], am factaradh agus am [[freumh]]an a lorg. Ach tha ailseabra nas farsainge. Mar a tha ailseabra ag obair le àireamhan, ’s ann a tha i ag obair le [[comharra]]n, le [[caochladair]]ean, agus le [[eileamaid]]ean [[àlach]]. Faodar cur-ris agus iomadachadh a mheas mar gum b’ e [[obrachadh|obrachaidhean]] uile-choitcheann a bh’ annta agus faodar structairean mar [[grùpa]]ichean, [[fàinne]]achan, agus [[raon|raointean]] a thogail bho na mìneachaidhean pongail a thathar a’ dèanamh orra.
+
+
+==Ailseabra inntrigidh==
+
+’S e seo ailseabra bhunasach mar a thathar ag ionnsachadh do sgoilearan aig nach eil ach eòlas 
+bun-phrionnsabail na h-[[àireamhachd]]. Anns an àireamhachd, ’s e [[àireamh]]an agus na obrachaidhean àireamhach (.i. +, −, ×, ÷) a th’ ann. Anns an ailseabra inntrigidh, tha [[comharra]]n (me. ''a'', ''x'', ''y'') air an cur an àite àireamhan gus:
+* Riaghailtean àireamhach a chur nan riochd coitcheann (me. ''a'' + ''b'' = ''b'' + ''a'') agus mar sin toiseach a dhèanamh air feartan siostam nam [[fior-àireamh]]an a rannsachadh.
+* [[Co-aontar]]an a chur ri chèile far a bheil àireamhan “neo-aithnichte” ach am fuasgladh (me. “Lorg an t-àireamh ''x'' far a bheil 3''x'' + 1 = 10”).
+* Dàimhean [[fuincsean]]ach a chur ri chèile (me. “Nan reicte ''x'' ticeadan, bhiodh a’ phrothaid agad 3''x'' − 10 notaichean, no ''f'' (''x'') = 3''x'' − 10, far a bheil ''f'' am [[fuincsean]] a tha a’ dèanamh giollachd air [[àireamh]] ''x'').
+
+
+==Ailseabra loidhneach==
+
+’S e fo-roinn ailseabra cudromach a tha anns an '''[[ailseabra loidhneach]]'''. Tha seo a’ dèiligeadh ri [[siostam cho-aontaran loidhneach|siostaman cho-aontaran loidhneach]] a tha cumanta anns na [[saidheans]]an agus a tha tè de na ceistean as aosda ann am [[matamataig]]. 
+
+Tha [[co-aontar loidhneach]] den riochd:
+
+::''a''<sub>0</sub> = ''a''<sub>1</sub>''x''<sub>1</sub> + ''a''<sub>2</sub>''x''<sub>2</sub> + ... + ''a''<sub>n</sub>''x''<sub>n</sub>
+
+
+far a bheil ''a''<sub>0</sub>, ''a''<sub>1</sub>, ''a''<sub>2</sub>, ..., ''a''<sub>n</sub>  cunbhalach agus tha ''x''<sub>1</sub>, ''x'' <sub>2</sub>, ..., ''x''<sub>n</sub> rim faotainn. Tha e ''loidhneach'' chionns gur e [[co-aontar]] [[loidhne]] dìrich a tha:
+
+::''y'' = ''a''<sub>1</sub>''x'' + ''a''<sub>0</sub>,
+
+
+agus ’s e loidhne dhìreach ann an spàs ''n''-sheallach a tha:
+
+::''f'' (''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>n</sub>) = ''a''<sub>0</sub> + ''a''<sub>1</sub>''x''<sub>1</sub> + ''a''<sub>2</sub>''x''<sub>2</sub> + ... + ''a''<sub>n</sub>''x''<sub>n</sub>.
+
+
+’S e [[bheactar]] a tha 〈 ''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>n</sub> 〉agus theirear [[spàs bheactarach]] do spàs far am faodar bheactaran a shuimeadh agus a [[sgèilear|sgèileadh]]. ’S e [[cruth-atharrachadh loidhneach]] a th’ ann am [[fuincsean]] sam bith a ghlèidheas na feartan seo. Tha ailseabra loidhneach a’ gabhail a-staigh oideachadh bheactaran, spàsan bheactarach agus chruth-atharrachadh loidhneach.
+ 
+
+==Ailseabra easchruthach==
+
+===Bun-bheachdan===
+
+Tha ailseabra inntrigidh a’ dèiligeadh ri [[àireamh]]an – eileamaidean de dh’ [[àlach]] [[àireamh]]. ’S e '''ailseabra easchruthach''' leudachadh nam bun-smuaintean seo do dh’ àlaichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri àlach eileamaidean sam bith, bithidh iad iomchaidh cuideachd do [[bheactar]]an, do [[machlag|mhachlagan]], do dh’ [[iol-teirmeach|iol-teirmich]], agus an leithid.
+
+Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh]] gus '''[[obrachadh dàra]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh dàra dùinte. ’S e obrachadh dàra a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho 
+na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh dàra eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
+
+Le obrachadh dàra, faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na obrachadh dàra air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
+
+::''a'' * ''e'' = ''a'' 
+
+às leth gach ''a'' às an àlach (.i. ∀ ''a'' ∈ ''A''), ’s e an '''eileamaid ionnanachd''' a th’ ann an ''e''. ’S e neoni an eileamaid ionnanachd le cur-ris nan àireamhan, agus a h-aon an eileamaid ionnanachd le iomadachadh.
+
+Ma tha eileamaid ''b'' ann, aig gach ''a'' às an àlach, far a bheil:
+
+::''a'' * ''b'' = ''e'',
+
+agus ''e'' na h-eileamaid ionnanachd mar os cionn, ’s e '''eileamaidean iom-thionntaidh''' a tha ''a'' agus ''b''. ’S e −''x'' an eileamaid iom-thionntaidh aig ''x'' anns a’ chur-ris, agus ’s e <sup>1</sup>/<sub>''x''</sub> anns an iomadachadh.
+
+::''x'' + −''x'' = 0
+::''x'' × <sup>1</sup>/<sub>''x''</sub> = 1 
+
+Faodaidh obrachadh dàra a’ cumail ris an [[lagh co-thiomsach|lagh cho-thiomsach]]. Mas fìor seo, cha toir òrdugh obrachaidh buaidh air a’ bhuil. ’S e seo gu bheil:
+
+::''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c''. 
+
+Faodaidh e cumail ris an [[lagh co-iomlaideach|lagh cho-iomlaideach]], far a bheil:
+
+::''a'' * ''b'' = ''b'' * ''a''.
+
+agus cha toir òrdugh nan eileamaidean buaidh air a’ bhuil.
+
+
+===Grùpaichean===
+
+’S e '''grùpa''' ainm an structair ailseabrach aig a bheil [[àlach]] ''A'' agus obrachadh dàra * le feartan mar a leanas:
+* tha an t-obrachadh dùinte: ''a'' * ''b'' ∈ ''A'', ∀ ''a'', ''b'' ∈ ''A''.
+* tha eileamaid ionnanachd ann: ∃ ''e'' ∈ ''A'' : ''a'' * ''e'' = ''e'' * ''a'' = ''a'', ∀ ''a'' ∈ ''A''.
+* tha eileamaid iom-thionntaidh aig gach eileamaid: ∀ ''a'' ∈ ''A'', ∃ ''a''<sup>-1</sup> ∈ ''A'' : ''a'' * ''a''<sup>-1</sup> = ''a''<sup>-1</sup> * ''a'' = ''e''.
+* tha an t-obrachadh co-thiomsach: ''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c'',   ∀ ''a'', ''b'', ''c'' ∈ ''A''.
+
+Ma tha an t-obrachadh co-iomlaideach cuideachd, ’s e '''grùpa aibèalach''' a th’ ann.
+
+Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-àireamhan àicheil na h-eileamaidean iom-thionntaidh, agus tha suimeadh a’ cumail ris an [[lagh co-thiomsach|lagh cho-thiomsach]]. 
+
+
+===Fàinneachan===
+
+Ma tha dà ''obrachadh dàra'' aig ''grùpa'', fear [[suimeadh|suimidh]] ( + ) agus fear [[iomadachadh|iomadachaidh]] ( × ), ’s e '''fàinne''' a theirear ris: 
+* ma tha e na ghrùpa aibèalach fon obrachadh suimidh,
+* ma dh’fhaodas an t-obrachadh iomadachaidh a bhith air a sgaoileadh air na h-obrachaidhean suimidh: ''a'' × ( ''b'' + ''c'' ) =  ( ''a'' × ''b'' ) + ( ''a'' × ''c'' ),
+* ma tha an t-obrachadh iomadachaidh co-thiomsach: ''a'' × ( ''b'' × ''c'' ) = ( ''a'' × ''b'' ) × ''c''  
+
+Chan eil e riatanach gum bi eileamaid ionnannachd, no eileamaidean iom-thionntaidh aig an obrachadh iomadachaidh. ’S e sin ri ràdh, ged tha obrachadh iomadachaidh ann chan eil obrachadh [[roinn]] ann. Tha na [[slàn-àireamh]]an na eisimpleir fàinne far nach eil roinn na h-obrachadh dàra chionns gu bheil i fosgailte.
+
+
+===Raointean===
+
+’S e '''raon''' a th’ann ma tha ''fàinne'' na ''grùpa aibèalach'' fon obrachadh [[iomadachadh|iomadachaidh]] cuideachd. ’S e eisimpleirean raoin a tha anns na h-[[àireamh choimeasta|àireamhan coimeasta]], na [[fìor-àireamh]]an agus na h-[[àireamh cho-fhillte|àireamhan co-fhillte]].
+
+Gheibhear barrachd fiosrachaidh bho [[teòiridh ghrùpaichean|theòiridh ghrùpaichean]], bho [[teòiridh fhàinneachan|theòiridh fhàinneachan]], agus bho [[teòiridh raointean|theòiridh raointean]].
+
+
+==Ailseabra cho-choitcheann==
+
+’S e oideachadh feartan a bhuineas do na structairean ailseabrach uile a tha '''ailseabra cho-choitcheann'''. Tha i a’ dèanamh mìneachadh air dè tha ann an ailseabra fhèin mar bhun-bheachd, a’ dèanamh eadar-sgaraidh air na gnèithean ailseabra, agus a’ toirt asta na h-eileamaidean coitcheann gus na prionnsabalan co-aonachaidh a lorg. Tha seo a’ toirt barrachd tuigse do na h-ailseabran aithnichte agus a’ chomais air ailseabran ùra a dhealbhadh.
+
+
 
 [[category:matamataig]]
 
