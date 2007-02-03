@@ -38,7 +38,7 @@ agus ’s e loidhne dhìreach ann an spàs ''n''-sheallach a tha:
 
 Tha ailseabra inntrigidh a’ dèiligeadh ri [[àireamh]]an – eileamaidean de dh’ [[àlach]] [[àireamh]]. ’S e '''ailseabra easchruthach''' leudachadh nam bun-smuaintean seo do dh’ àlaichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri àlach eileamaidean sam bith, bithidh iad iomchaidh cuideachd do [[bheactar]]an, do [[machlag|mhachlagan]], do dh’ [[iol-teirmeach|iol-teirmich]], agus an leithid.
 
-Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh]] gus '''[[obrachadh dàra]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh dàra dùinte. ’S e obrachadh dàra a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho 
+Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh dàra]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh dàra dùinte. ’S e obrachadh dàra a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho 
 na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh dàra eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
 
 Le obrachadh dàra, faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na obrachadh dàra air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
@@ -51,7 +51,7 @@ Ma tha eileamaid ''b'' ann, aig gach ''a'' às an àlach, far a bheil:
 
 ::''a'' * ''b'' = ''e'',
 
-agus ''e'' na h-eileamaid ionnanachd mar os cionn, ’s e '''eileamaidean iom-thionntaidh''' a tha ''a'' agus ''b''. ’S e −''x'' an eileamaid iom-thionntaidh aig ''x'' anns a’ chur-ris, agus ’s e <sup>1</sup>/<sub>''x''</sub> anns an iomadachadh.
+agus ''e'' na h-eileamaid ionnanachd mar os cionn, ’s e '''eileamaidean iom-thionndaidh''' a tha ''a'' agus ''b''. ’S e −''x'' an eileamaid iom-thionndaidh aig ''x'' anns a’ chur-ris, agus ’s e <sup>1</sup>/<sub>''x''</sub> anns an iomadachadh.
 
 ::''x'' + −''x'' = 0
 ::''x'' × <sup>1</sup>/<sub>''x''</sub> = 1 
@@ -66,7 +66,6 @@ Faodaidh e cumail ris an [[lagh co-iomlaideach|lagh cho-iomlaideach]], far a bhe
 ::''a'' * ''b'' = ''b'' * ''a''.
 
 agus cha toir òrdugh nan eileamaidean buaidh air a’ bhuil.
-
 
 ===Grùpaichean===
 
