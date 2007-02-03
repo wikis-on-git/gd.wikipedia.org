@@ -1,91 +1,150 @@
-B’e '''àireamhachd''' an eòlas neo an rannsachadh air cunntairean.
+’S e eòlas air làimhseachadh [[àireamh]]an a th’ ann an '''àireamhachd'''. Faodar àireamhan an ''cur ri chèile'', an ''dealachadh'', an ''iomadachadh'' agus an ''roinneadh'' agus tha comas-tuigse agus comas-cleachdaidh nan obrachaidhean seo èiseil dhuinn anns an t-saoghal mhòr.
+ 
+’S e na h-àireamhan sìmplidh a tha air an cleachdadh airson cunntaidh. ’S e seo na h-àireamhan 1, 2, 3, 4, agus mar sin air adhart, ris an canar na h-àireamhan nàdarra ann am [[matamataig]]. Ach le bhith gan cur ri chèile agus gan dealachadh tha feumalachd àireamhan ùra – neoni agus na h-àireamhan àicheil – a’ tighinn mar coinneamh agus a’ leudachadh air ar tuigse àireamhan. Còmhla ris na h-àireamhan nàdarra, tha neoni agus na h-àireamhan àicheil a’ dèanamh suas [[àlach]] nan slàn-àireamhan. Agus tha roinneadh a’ toirt a-steach bun-bheachd nam [[bloigh]]ean agus an tuigse gum faod luach a bhith air àireimh eadar dà shlàn-àireimh. Mar eisimpleir, eadar a trì agus a ceithir tha 3.25, 3.617, 3.001 agus an uiread de luachan gun chrìoch, agus gabhaidh àireamhan am meas mar gum biodh sreath leantainneach dhiubh. Uaireannan, tha seo air a riochdachadh le loidhne àireamh. Tha na slàn-àireamhan air an riochdachadh air an [[loidhne]] le [[puing]]ean aig beàrnan cunbhalach, agus àireamh sam bith eile le [[puing]] aig àite sam bith air an loidhne. ’S e fìor-àireamh a chanar ri àireamh air am biodh luach sam bith.
 
-[[category:àireamhachd|*]]
-[[en:Mathematics]]
-[[af:Wiskunde]]
-[[ar:رياضيات]]
-[[an:Matematicas]]
-[[ast:Matemátiques]]
-[[az:Riyaziyyat]]
-[[bn:গণিত]]
-[[zh-min-nan:Sò·-ha̍k]]
-[[ba:Математика]]
-[[be:Матэматыка]]
-[[bs:Matematika]]
-[[br:Matematikoù]]
-[[bg:Математика]]
-[[ca:Matemàtiques]]
-[[ceb:Matematika]]
-[[cs:Matematika]]
-[[co:Matematica]]
-[[cy:Mathemateg]]
-[[da:Matematik]]
-[[de:Mathematik]]
-[[et:Matemaatika]]
-[[el:Μαθηματικά]]
-[[es:Matemáticas]]
-[[eo:Matematiko]]
-[[eu:Matematika]]
-[[fa:ریاضیات]]
-[[fo:Støddfrøði]]
-[[fr:Mathématiques]]
-[[fy:Wiskunde]]
-[[fur:Matematiche]]
-[[ga:Matamaitic]]
-[[gd:Matamataig]]
-[[gl:Matemáticas]]
-[[gu:ગણિત]]
-[[ko:수학]]
-[[hr:Matematika]]
-[[io:Matematiko]]
-[[id:Matematika]]
-[[ia:Mathematica]]
-[[is:Stærðfræði]]
-[[it:Matematica]]
-[[he:מתמטיקה]]
-[[ka:მათემატიკა]]
-[[csb:Matematika]]
-[[ky:Математика]]
-[[sw:Hisabati]]
-[[lad:Matematika]]
-[[la:Mathematica]]
-[[lv:Matemātika]]
-[[lb:Mathematik]]
-[[lt:Matematika]]
-[[li:Mathematik]]
-[[jbo:cmaci]]
-[[hu:Matematika]]
-[[mk:Математика]]
-[[ms:Matematik]]
-[[nl:Wiskunde]]
-[[ja:数学]]
-[[no:Matematikk]]
-[[oc:Matematicas]]
-[[ug:ماتېماتىكا]]
-[[ps:شمېر پوهنه]]
-[[km:គណិតសាស្ត្រ]]
-[[nds:Mathematik]]
-[[pl:Matematyka]]
-[[pt:Matemática]]
-[[ro:Matematică]]
-[[ru:Математика]]
-[[sco:Mathematics]]
-[[sq:Matematika]]
-[[scn:Matimàtica]]
-[[simple:Mathematics]]
-[[sk:Matematika]]
-[[sl:Matematika]]
-[[sr:Математика]]
-[[su:Matematika]]
-[[fi:Matematiikka]]
-[[sv:Matematik]]
-[[tl:Matematika]]
-[[ta:கணிதம்]]
-[[tt:Matematik]]
-[[tet:Matemátika]]
-[[th:คณิตศาสตร์]]
-[[vi:Toán học]]
-[[tr:Matematik]]
-[[uk:Математика]]
-[[fiu-vro:Matõmaatiga]]
-[[zh:数学]]
+
+==Cur-ris (+)==
+
+’S e '''cur-ris''' bun-obrachadh na h-àireamhachd far an cuirear [[àireamh]] ri àireamh eile airson '''suim''' a dhèanamh. Canar '''suimeadh''' ris cuideachd. ’S e obrachadh eadar dà àireimh, ach ’s urrainnear grunnan àireamh a chur ri chèile ma chuirear an treas àireamh ri suim a’ chiad dà, an ceathramh ri suim a trì, agus mar sin air adhart. Tha dà fheart chudromach aig cur-ris. Cha tèid an suim a-rèir:
+* òrdugh suimidh:
+::17 + 5 + 63 = 22 + 63 = 85
+::17 + 5 + 63 = 17 + 68 = 85
+::agus seo an Lagh [[Co-thiomsachadh|Co-thiomsach]],
+* òrdugh àireamhan:
+::24 + 69 = 93
+::69 + 24 = 93
+::agus seo an Lagh [[Co-iomlaideachd|Co-iomlaideach]].
+
+
+==Toirt air falbh (−)==
+
+’S e '''toirt air falbh''' an t-obrachadh mùiteach ri cur-ris. Far a bheil dà [[àireamh|àireimh]] air an cur ri chèile agus suim a dhèanamh, tha ''toirt air falbh'' a’ dealachadh àireimh bhon t-suim. ’S e a’ bhuil aice an diofar eadar dà àireimh. Mar eisimpleir:
+::27 − 8 = 19
+Ma bheirear àireamh air falbh bho àireamh nas lugha, ’s e '''àireamh àicheil''' a tha anns a’ bhuil:
+::14 − 36 = −22
+Ann an [[cunntasachd]], thathar a’ dèanamh mìneachadh air àireimh àicheil mar suim air a ghabhail air iasad gu bhith ag ath-dhìoladh.
+Tha e soilleir nach eil toirt air falbh a’ cumail ris an Lagh [[Co-iomlaideachd|Co-iomlaideach]] no an Lagh [[Co-thiomsachadh|Co-thiomsach]]. Tha a’ bhuil aice an urra ris òrdugh nan àireamhan:
+::15 − 7 ≠ 7 − 15
+agus òrdugh an dealachaidh:
+::22 − 14 − 7 = 8 − 7 = 1
+::22 − 14 − 7 = 22 − 7 = 15
+Mar sin tha e nas goireasaich a bheachdachadh oirre mar gum biodh i na suimeadh le àireamhan àicheil. Anns an dòigh seo:
+::22 + (−14) + (−7) = (22 + (−14)) + (−7) = (22 − 14) + (−7) = 8 + (−7) = 8 − 7  = 1
+::22 + (−14) + (−7) = 22 + ((−14) + (−7)) = 22 + (− 14 − 7) = 22 + (−21) = 22 − 21  = 1
+Tha cur-ris a’ cumail ris na Laghan Co-thiomsach agus Co-iomlaideach co-dhiù a tha na h-àireamhan dearbh no àicheil.
+
+
+==Iomadachadh (× no ·)==
+
+’S e cur-ris a tha aig bun '''iomadachaidh''' cuideachd. Le bhith ag ràdh gu bheil 4 uiread 9 a’ dèanamh 36, tha sinn ag ràdh gu bheil:
+::9 + 9 + 9 + 9 = 36
+Agus ’s e geàrr-sgrìobhadh a th’ ann:
+::4 × 9 = 36
+Canar '''toradh''' ri buil iomadachaidh, agus ma tha 9 air a h-iomadachadh le 4, ’s e '''iomadair''' a th’ ann a 4. Chionns gu bheil iomadachadh a’ cumail ris an Lagh [[Co-iomlaideachd|Co-iomlaideach]] agus tha:
+::4 × 9 = 9 × 4
+chan eil e gu diofar co dhiubh a tha na h-iomadair. Uaireannan thathar ag ràdh '''factaran''' ris an dà àireimh a tha air an iomadachadh.
+Tha iomadachadh a’ cumail ris an Lagh [[Co-thiomsachadh|Co-thiomsach]] cuideachd:
+::3 × 4 × 5 = 12 × 5 = 60
+::3 × 4 × 5 = 3 × 20 = 60
+’S e '''ionnanachd''' an iomadachaidh a th’ anns a h-aon. ’S e sin ri ràdh gun dèante an aon [[àireamh]] nam biodh àireamh air a h-iomadachadh leis a h-aon.
+Agus ’s e '''co-thionndadh''' àireimh am [[bloigh]] far a bheil an àireamh fhèin na seòrsaiche agus a h-aon na h-àireamhaiche. Mar eisimpleir ’s e co-thionndadh 5 a tha ann an <sup>1</sup>/<sub>5</sub>. Dhèante a h-aon nan iomadaichte àireamh leis a’ cho-thionndadh:
+::<sup>1</sup>/<sub>5</sub> × 5 = 1
+Tha feart cudromach eile aig iomadachadh. Far a bheil iomadair agus suim, faodaidh an t-iomadair a bhith air a sgaoileadh a-measg àireamhan na suime:
+::7  × ( 14 + 9 – 4) = (7 × 14) + (7 × 9) − (7 × 4)
+Canar Lagh an Sgaoilidh ri seo.
+
+
+==Roinneadh (÷ no /)==
+
+’S e '''roinneadh''' an t-obrachadh mùiteach ri iomadachadh. Canar an '''roinn-àireamh''' ri buil roinneadh '''duaise-roinne''' le '''roinniche'''. 
+::''roinn-àireamh'' = ''duais-roinn'' ÷ ''roinniche''.
+... agus dhèante an duais-roinn nam biodh an roinn-àireamh air a h-iomadachadh leis an roinniche.
+Faodaidh [[àireamh]] sam bith a bhith na roinniche ach neoni a-mhàin. Tha roinneadh le neoni gun bhrìgh.
+Cha chum roinneadh ris na Laghan [[Co-thiomsachadh|Co-thiomsach]] no [[Co-iomlaideachd|Co-iomlaideach]] agus tha e nas goireasaich a bheachdachadh oirre mar iomadachadh le co-thionndaidhean. Mar eisimpleir:
+::73 ÷ 21 = 73 × <sup>1</sup>/<sub>21</sub>
+Anns an riochd seo tha feartan iomadachaidh air an glèidheadh.
+
+
+==Cumhachdan==
+ 
+Ma tha [[àireamh]] air a h-iomadachadh leatha fhèin, faodar a geàrr-sgrìobhadh mar a leanas:
+::9<sup>2</sup> = 9 × 9
+::9<sup>3</sup> = 9 × 9 × 9
+::9<sup>4</sup> = 9 × 9 × 9 × 9.
+Tha am for-sgriobta a’ sealltainn na h-uiread de naoidhean a tha air an iomadachadh le chèile mar os cionn. Canar a’ '''chumhachd''' ris an fhor-sgriobta seo. Mas a h-aon a’ chumhachd, ’s e an àireamh fhèin a th’ innte:
+::4<sup>1</sup> = 4.
+Tha briathran sònraichte againn ma tha a’ chumhachd co-ionnan ris a dhà no a trì. Canaidh sinn gu bheil an àireamh '''ceàrnaichte''' no '''ciùbaichte''' fa leth. A-mach air seo canar gu bheil an àireamh (togte) chun na ceathramh/ còigeamh/ ... cumhachd. Canar '''bonn''' ris an àireimh a tha togte chun cumhachd.
+
+Tha riaghailt chudromach iomadachaidh do àireamhan leis an aon bhonn:
+::7<sup>2</sup> × 7<sup>3</sup> = (7 × 7) × (7 × 7 × 7) = 7<sup>5</sup>.
+::''a''<sup>n</sup> × ''a''<sup>m</sup> = ''a''<sup>m + n</sup>
+’S e sin ri ràdh, ma tha dà àireimh ann leis an aon bhonn...
+::''iomadachadh = suimeadh nan cumhachdan''.
+Tha e soilleir cuideachd:
+::<math>6^3 \div 6^2 = \frac{6 \times 6 \times 6}{6 \times 6} = 6 </math>
+’S e sin ri ràdh gu bheil a<sup>m</sup> ÷ a<sup>n</sup> = a<sup>m – n</sup>. Bhon riaghailt os cionn  ''a''<sup>m – n</sup> = ''a''<sup>m</sup> × ''a''<sup>–n</sup> agus bhon tuigse gu bheil roinneadh an aon rud ri iomadachadh leis a’ cho-thionndadh: 
+::<math>a^m \div a^n = a^m \times \frac {1} {a^n} </math>
+tha mìneachadh air a dhèanamh air cumhachd àicheil mar a leanas:
+::<math>a^{-n} = \frac {1} {a^n} </math>
+Chionns gu bheil:  <math> 4 \times \tfrac {1} {4} = 1 </math>  agus: <math> 4 \times \tfrac{1}{4} = 4^1 \times 4^{-1} = 4^0 </math>   agus gum faighear an aon bhuil le bonn sam bith, thathar a’ toirt brìgh don chumhachd neoni. ’S e a h-aon a th’ ann an àireimh sam bith chun na cumhachd neoni.
+::''a''<sup>0</sup> = 1.
+
+===Cumhachdan chumhachdan===
+
+Tha 2<sup>3</sup> = 8, agus tha 8<sup>2</sup> = 8 × 8. Mar sin tha:
+::(2<sup>3</sup>)<sup>2</sup> = 2<sup>3</sup> × 2<sup>3</sup> = 2<sup>6</sup>
+agus tha dara riaghailt aig àireamhan leis an aon bhonn. ’S e sin...
+:''Ma tha àireamh, a tha togte chun cumhachd, ath-thogte chun cumhachd eile, tha na cumhachdan air an iomadachadh.''
+’S e sin:
+::(a<sup>m</sup>)<sup>n</sup> = a<sup>m × n</sup>.
+
+
+==Freumhan==
+
+Ma tha   2<sup>2</sup> = 4  canaidh sinn gu bheil 2 na '''freumh ceàrnagach''' 4 agus tha seo air a sgrìobhadh 2 = √4. Anns an aon dòigh, ma tha:
+::<math> 3^3 = 27; \qquad 3 = \sqrt[3]{27}</math>
+::<math> 4^4 = 256; \qquad 4 = \sqrt[4]{256}</math>.
+’S e <math>\sqrt[3]{}</math> am '''freumh ciùbach''' ach chan eil briathran sònraichte aig a’ chòrr. Their sinn an ceathramh/ còigeamh/ .../ ''n''<sup>mh</sup>  freumh ris a’ chòrr.
+Chionns gu bheil:
+::<math>(\sqrt{5})^2 = 5^1 = (5^{\tfrac{1}{2}})^2</math>
+...bho riaghailt iomadachadh nan cumhachdan, tha againne:
+::<math> \sqrt{5} = 5^{\tfrac{1}{2}}</math>
+::<math> \sqrt[3]{5} = 5^{\tfrac{1}{3}}</math>
+::<math> \sqrt[4]{5} = 5^{\tfrac{1}{4}}</math>
+Tha e soilleir cuideachd gu bheil: 
+::<math>(\sqrt[4]{7})^3 = 7^{\tfrac{3}{4}}</math> 
+agus gum faod cumhachd a bhith na bloigh cuideachd.
+
+
+==Logartaman==
+
+’S urrainnear [[àireamh]] dhearbh sam bith a’ sgrìobhadh anns an riochd ''a''<sup>n</sup> agus ''n'' na fìor-àireamh. Ma sgrìobh sinn ''x'' = ''a''<sup>n</sup> tha e soilleir nam biodh (agus ''a'' ≥ 1):
+::{|''n'' > 1; || ||''x'' > ''a''
+|-
+|''n'' = 1; || ||''x'' = ''a''
+|-
+|0 < ''n'' < 1; || ||1 < ''x'' < ''a''
+|-
+|''n'' = 0; || ||''x'' = 1
+|-
+|''n'' < 0; || ||0 < ''x'' < 1
+|}
+... agus gu bheil ''n'' ann do gach luach ''x'' > 0. Chan eil ''n'' ann far am bi ''a''<sup>n</sup> = 0, agus chan eil ''n'' ann do àireamhan àicheil.
+Canar '''logartam le bonn ''a'' ''' ri ''n'', agus sgrìobhar...
+::''n'' = log<sub>a</sub>(''x'')
+Chan eil ann ach dà luach a tha cumanta mar bhonn logartaman. Is iad seo 10 agus an àireamh sònraichte ''e''. ’S e bonn nan logartaman nàdarra a tha ''e'', agus ’s e àireamh eucoimeasta a th’ innte
+::''e'' = 2.71828182845904523536028747135...
+ach tha feartan àraidh aig logartaman nàdarra.
+::{|log<sub>10</sub>(5) = 0.69897...||  ||log<sub>e</sub>(5) = 1.6094379...
+|-
+|log<sub>10</sub>(10) = 1||  ||log<sub>e</sub>(10) = 2.302585...
+|-
+|log<sub>10</sub>(50) = 1.69897...||  ||log<sub>e</sub>(50) = 3.9120230...
+|-
+|log<sub>10</sub>(100) = 2 ||  ||log<sub>e</sub>(100) = 4.60157...
+|}
+Tha feartan nan logartaman nan aon rud ri feartan cumhachdan. Airson dà àireimh a dh’iomadachadh, cuir-ris na logartaman aca. Airson àireimh a thogail chun cumhachd, iomadaich a logartam leis a’ chumhachd.
+Anns a’ [[coimpiutarachd|choimpiutarachd]] agus air àireamhairean, tha e cumanta a sgrìobhadh ''log'' an àite ''log''<sub>10</sub> agus ''ln'' an àite ''log''<sub>e</sub> ach ann am [[matamataig]] agus ann am [[fiosaig]], mar as cumanta ’s e brìgh ''log''<sub>e</sub> a th’ ann far a bheil ''log'' air a sgrìobhadh gun fho-sgriobta.
+Far a bheil:
+::''n'' = log (''x'')
+agus ''n'' na logartam ''x'', thathar ag ràdh gu bheil ''x'' na h-anti-logartam ''n''.
