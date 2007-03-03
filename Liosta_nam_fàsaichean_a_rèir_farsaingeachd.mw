@@ -2,50 +2,50 @@
 This is a '''list of [[desert]]s in the world ordered by area'''.  It includes all deserts with an area greater than 50 000 km² (19 300 square miles).
 
 ==Deserts over 50 000 km²==
-{| class="wikitable"
+{| class="sortable wikitable"
 ! Rank !! Desert’s Name !! Area<br>(km²) !! Area<br>(sq mi) !! Country/Countries
 |-
-| 1 || [[Antarctica|Antarctic Desert]]  || 14 000 000 || 5 400 000 || [[Antarctica]]
+| 1 || [[Antarctica|Antarctic Desert]]  || <span style="display:none">{{formatnum:{{padleft:14000000|8|0}}}} </span>14 000 000 || <span style="display:none">{{formatnum:{{padleft:5400000|8|0}}}} </span>5 400 000 || [[Antarctica]]
 |-
-| 2 || [[Sahara|Sahara Desert]]  || 8 600 000 || 3 320 000 || [[Egypt]], [[Libya]], [[Chad]], [[Mauritania]], [[Morocco]], [[Algeria]].
+| 2 || [[Sahara|Sahara Desert]]  || <span style="display:none">{{formatnum:{{padleft:8600000|8|0}}}} </span>8 600 000 || <span style="display:none">{{formatnum:{{padleft:3320000|8|0}}}} </span>3 320 000 || [[Egypt]], [[Libya]], [[Chad]], [[Mauritania]], [[Morocco]], [[Algeria]].
 |-
-| 3 || [[Arabian Desert]]  || 2 331 000 || 900 000 || [[Saudi Arabia]], [[Jordan]], [[Iraq]], [[Kuwait]], [[Qatar]], [[United Arab Emirates]], [[Oman]] and [[Yemen]].
+| 3 || [[Arabian Desert]]  || <span style="display:none">{{formatnum:{{padleft:2331000|8|0}}}} </span>2 331 000 || <span style="display:none">{{formatnum:{{padleft:900000|8|0}}}} </span>900 000 || [[Saudi Arabia]], [[Jordan]], [[Iraq]], [[Kuwait]], [[Qatar]], [[United Arab Emirates]], [[Oman]] and [[Yemen]].
 |-
-| 4 || [[Gobi Desert]]  || 1 300 000 || 500 000 || [[Mongolia]] and [[People's Republic of China|China]]
+| 4 || [[Gobi Desert]]  || <span style="display:none">{{formatnum:{{padleft:1300000|8|0}}}} </span>1 300 000 || <span style="display:none">{{formatnum:{{padleft:500000|8|0}}}} </span>500 000 || [[Mongolia]] and [[People's Republic of China|China]]
 |-
-| 5 || [[Patagonia|Patagonian Desert]] || 673 000 || 260 000 || [[Argentina]]
+| 5 || [[Patagonia|Patagonian Desert]] || <span style="display:none">{{formatnum:{{padleft:673000|8|0}}}} </span>673 000 || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || [[Argentina]]
 |-
-| 6 || [[Great Victoria Desert]] || 647 000 || 250 000 || [[Australia]]
+| 6 || [[Great Victoria Desert]] || <span style="display:none">{{formatnum:{{padleft:647000|8|0}}}} </span>647 000 || <span style="display:none">{{formatnum:{{padleft:250000|8|0}}}} </span>250 000 || [[Australia]]
 |-
-| 7 || [[Great Basin Desert]] || 492 000 || 190 000 || [[United States]]
+| 7 || [[Great Basin Desert]] || <span style="display:none">{{formatnum:{{padleft:492000|8|0}}}} </span>492 000 || <span style="display:none">{{formatnum:{{padleft:190000|8|0}}}} </span>190 000 || [[United States]]
 |-
-| 8 || [[Chihuahuan Desert]] || 450 000 || 175 000 || [[Mexico]] and [[United States]]
+| 8 || [[Chihuahuan Desert]] || <span style="display:none">{{formatnum:{{padleft:450000|8|0}}}} </span>450 000 || <span style="display:none">{{formatnum:{{padleft:175000|8|0}}}} </span>175 000 || [[Mexico]] and [[United States]]
 |-
-| 9 || [[Great Sandy Desert]]  || 400 000 || 150 000 || [[Australia]]
+| 9 || [[Great Sandy Desert]]  || <span style="display:none">{{formatnum:{{padleft:400000|8|0}}}} </span>400 000 || <span style="display:none">{{formatnum:{{padleft:150000|8|0}}}} </span>150 000 || [[Australia]]
 |-
-| 10 || [[Karakum Desert]]  || 350 000 || 135 000 || [[Turkmenistan]]
+| 10 || [[Karakum Desert]]  || <span style="display:none">{{formatnum:{{padleft:350000|8|0}}}} </span>350 000 || <span style="display:none">{{formatnum:{{padleft:135000|8|0}}}} </span>135 000 || [[Turkmenistan]]
 |-
-| 11 || [[Sonoran Desert]]  || 310 000 || 120 000 || [[United States]] and [[Mexico]]
+| 11 || [[Sonoran Desert]]  || <span style="display:none">{{formatnum:{{padleft:310000|8|0}}}} </span>310 000 || <span style="display:none">{{formatnum:{{padleft:120000|8|0}}}} </span>120 000 || [[United States]] and [[Mexico]]
 |-
-| 12 || [[Kyzyl Kum]]  || 300 000 || 115 000 || [[Kazakhstan]] and [[Uzbekistan]]
+| 12 || [[Kyzyl Kum]]  || <span style="display:none">{{formatnum:{{padleft:300000|8|0}}}} </span>300 000 || <span style="display:none">{{formatnum:{{padleft:115000|8|0}}}} </span>115 000 || [[Kazakhstan]] and [[Uzbekistan]]
 |-
-| 13 || [[Taklamakan|Taklamakan or Takla Makan Desert]] || 270 000 || 105 000 || [[People's Republic of China]]
+| 13 || [[Taklamakan|Taklamakan or Takla Makan Desert]] || <span style="display:none">{{formatnum:{{padleft:270000|8|0}}}} </span>270 000 || <span style="display:none">{{formatnum:{{padleft:105000|8|0}}}} </span>105 000 || [[People's Republic of China]]
 |-
-| 14 || [[Kalahari Desert]]  || 260 000 || 100 000 || [[Botswana]], [[Namibia]] and [[South Africa]]
+| 14 || [[Kalahari Desert]]  || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || <span style="display:none">{{formatnum:{{padleft:100000|8|0}}}} </span>100 000 || [[Botswana]], [[Namibia]] and [[South Africa]]
 |-
-| 14 || [[Dasht-e Kavir|Kavir or Dasht-e Kavir Desert]]  || 260 000 || 100 000 || [[Iran]]
+| 14 || [[Dasht-e Kavir|Kavir or Dasht-e Kavir Desert]]  || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || <span style="display:none">{{formatnum:{{padleft:100000|8|0}}}} </span>100 000 || [[Iran]]
 |-
-| 14 || [[Syrian Desert]]  || 260 000 || 100 000 || [[Syria]], [[Jordan]] and [[Iraq]]
+| 14 || [[Syrian Desert]]  || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || <span style="display:none">{{formatnum:{{padleft:100000|8|0}}}} </span>100 000 || [[Syria]], [[Jordan]] and [[Iraq]]
 |-
-| 15 || [[Thar Desert|Thar or Great Indian Desert]] || 200 000 || 77 000 || [[India]] and [[Pakistan]]
+| 15 || [[Thar Desert|Thar or Great Indian Desert]] || <span style="display:none">{{formatnum:{{padleft:200000|8|0}}}} </span>200 000 || <span style="display:none">{{formatnum:{{padleft:77000|8|0}}}} </span>77 000 || [[India]] and [[Pakistan]]
 |-
-| 16 || [[Gibson Desert]] || 155 000 || 60 000 || [[Australia]]
+| 16 || [[Gibson Desert]] || <span style="display:none">{{formatnum:{{padleft:155000|8|0}}}} </span>155 000 || <span style="display:none">{{formatnum:{{padleft:60000|8|0}}}} </span>60 000 || [[Australia]]
 |-
-| 17 || [[Simpson Desert]] || 145 000 || 56 000 || [[Australia]]
+| 17 || [[Simpson Desert]] || <span style="display:none">{{formatnum:{{padleft:145000|8|0}}}} </span>145 000 || <span style="display:none">{{formatnum:{{padleft:56000|8|0}}}} </span>56 000 || [[Australia]]
 |-
-| 18 || [[Atacama|Atacama Desert]] || 140 000 || 54 000 || [[Chile]]
+| 18 || [[Atacama|Atacama Desert]] || <span style="display:none">{{formatnum:{{padleft:140000|8|0}}}} </span>140 000 || <span style="display:none">{{formatnum:{{padleft:54000|8|0}}}} </span>54 000 || [[Chile]]
 |-
-| 19 || [[Namib Desert]] || 135 000 || 52 000 || [[Namibia]]
+| 19 || [[Namib Desert]] || <span style="display:none">{{formatnum:{{padleft:135000|8|0}}}} </span>135 000 || <span style="display:none">{{formatnum:{{padleft:52000|8|0}}}} </span>52 000 || [[Namibia]]
 |-
-| 20 || [[Mojave Desert]] || 65 000 || 25 000 || [[United States]]
+| 20 || [[Mojave Desert]] || <span style="display:none">{{formatnum:{{padleft:65000|8|0}}}} </span>65 000 || <span style="display:none">{{formatnum:{{padleft:25000|8|0}}}} </span>25 000 || [[United States]]
 |}
