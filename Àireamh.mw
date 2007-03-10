@@ -37,7 +37,7 @@ Nise, ma bheirear −''x'' air falbh bho gach taobh:
 |}
 Agus tha e soilleir gur e àireamh dhearbh a th’ ann an àireamh àicheil àicheil agus ’s e obrachadh iom-thionndaidh a th’ anns an obrachadh “−”.
 
-’S e '''Z''' (Gearmailtis: ''Zahlen'') an comharra air àlach nan slàn-àireamhan.
+’S e '''Z''' (Gearmailtis: ''Zahlen'') an comharra air [[àlach]] nan slàn-àireamhan.
 
 
 ==Àireamhan coimeasta==
@@ -57,7 +57,7 @@ Biodh ''b'' agus ''c'' nan àireamhan coimeasta, agus biodh
 Canaidh sinn gur ''co-thionndadh'' ''b'' a tha ann an ''c''. Tha e soilleir gu bheil: 
 ::<math>a \times c = a \times \tfrac{1}{b} = \tfrac{a}{b} = a \div b </math>
 agus tha iomadachadh agus roinneadh an aon rud air na h-àireamhan coimeasta.
-’S e '''Q''' (Beurla: ''Quotient'') an t-ainm aig àlach nan àireamhan coimeasta, agus ’s e for-àlach '''Z''' a th’ ann. Anns a’ chànan fhoirmeil:
+’S e '''Q''' (Beurla: ''Quotient'') an t-ainm aig [[àlach]] nan àireamhan coimeasta, agus ’s e for-àlach '''Z''' a th’ ann. Anns a’ chànan fhoirmeil:
 ::<math>Q = \{ \tfrac{m}{n} : m, n \in Z, n \neq 0 \}</math>
 agus tha e soilleir gu bheil '''N''' ⊂ '''Z''' ⊂ '''Q'''.
 
@@ -68,17 +68,17 @@ Tha àireamhan ann nach eil coimeasta. ’S docha gu bheil ''π'' (pì) an tè a
 Tha àireamhan coimeasta ann (.i. co-mheas shlàn-àireamhan) a tha nan tuairmse mhath oirre. Mar eisimpleir,
 {|-
 |tha||<math>\tfrac{22}{7}</math>||mu thuaiream||0.04% ro àrd,
-|-
+|-|-
 || ||<math>\tfrac{355}{113}</math>|| ||0.000008% ro àrd,
-|-
+|-|-
 || ||<math>\tfrac{104348}{33215}</math>|| ||0.00000001% ro àrd, agus
-|-
+|-|-
 || ||<math>\tfrac{833719}{265382}</math>|| ||0.0000000003% ro iosal. 
 |}
 
 ’S urrainn dhuinn tuairmse fhaighinn as eagnaidh as bu toigh leinn ach chan eil co-mheas ann a tha ceart-cho-ionann ri ''π''. Agus tha eisimpleirean eile ann. Canar '''[[àireamhan eucoimeasta]]''' ri àireamhan den t-seòrsa.
 
-Canar na '''[[fìor-àireamhan]]''' ri àlach nan àireamhan uile seo – ris an àlach a tha a’ toirt a-steach na h-àireamhan coimeasta agus na h-àireamhan eucoimeasta. ’S e '''R''' (Beurla: ''Real'') a th’ ann mar chomharra air an àlach seo. 
+Canar na '''[[fìor-àireamhan]]''' ri [[àlach]] nan àireamhan uile seo – ris an [[àlach]] a tha a’ toirt a-steach na h-àireamhan coimeasta agus na h-àireamhan eucoimeasta. ’S e '''R''' (Beurla: ''Real'') a th’ ann mar chomharra air an [[àlach]] seo. 
 ’S urrainn do na fìor-àireamhan a bhith air an riochdachadh mar loidhne (’s e '''loidhne àireamh''' a chanar rithe). Air an loidhne seo, tha neoni sa mheadhan, na h-àireamhan dearbh gu deas agus na h-àireamhan àicheil gu clì. Tha an loidhne a’ ruith gu eicrioch air gach taobh. ’S urrainn do gach fìor-àireamh a bhith air an riochdachadh mar phuing air an loidhne seo.
 
 
@@ -92,7 +92,7 @@ Chan eil fìor-àireamh ann a dhèanadh àireamh àicheil nam biodh i air a h-io
 ::√(−4) = √{(−1) × 4} = √−1 √4 = '''''i''''' 2
 Mar a b’ urrainn dhuinn na fìor-àireamhan sgrìobhadh mar 2 × 1, -3.14159 × 1, ''π'' × 1, ’s mar sin air adhart, tha na h-àireamhan ìomhaigheach air an sgrìobhadh 2 × '''''i''''', -3.14159 × '''''i''''', ''π'' × '''''i''''', no mar as cumanta:  2'''''i''''', -3.14159'''''i''''', ''π'' '''''i'''''. 
 
-’S e '''I''' an t-ainm a tha ann air àlach nan àireamhan ìomhaigheach agus anns a’ chànan [[siostam foirmeil | fhoirmeil]]:
+’S e '''I''' an t-ainm a tha ann air [[àlach]] nan àireamhan ìomhaigheach agus anns a’ chànan [[siostam foirmeil | fhoirmeil]]:
 ::'''I'''= { ''a'' '''''i''''' : ''a'' ∈ '''R''', '''''i''''' = √−1 } 
 Tha àireamh ìomhaigheach mu choinneamh gach fìor-àireamh. Mas urrainnear na fìor-àireamhan riochdachadh mar loidhne àireamh, ’s ann as urrainnear na h-àireamhan ìomhaigheach, ach feumaidh loidhne àireamh ìomhaigheach a bhith tur eadar-dhealaichte. Ged thà, tha e soilleir gu bheil:
 ::0'''''i''''' = 0 × '''''i''''' = 0
