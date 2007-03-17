@@ -9,7 +9,7 @@
 * òrdugh suimidh:
 ::17 + 5 + 63 = 22 + 63 = 85
 ::17 + 5 + 63 = 17 + 68 = 85
-::agus seo an Lagh [[Co-thiomsachadh|Co-thiomsach]],
+::agus seo an Lagh [[Co-thiomsachd|Co-thiomsach]],
 * òrdugh àireamhan:
 ::24 + 69 = 93
 ::69 + 24 = 93
@@ -24,7 +24,7 @@ Ma bheirear àireamh air falbh bho àireamh nas lugha, ’s e '''àireamh àiche
 ::14 − 36 = −22
 Ann an [[cunntasachd]], thathar a’ dèanamh mìneachadh air àireimh àicheil mar suim air a ghabhail air iasad gu bhith ag ath-dhìoladh.
 
-Tha e soilleir nach eil toirt air falbh a’ cumail ris an Lagh [[Co-iomlaideachd|Co-iomlaideach]] no an Lagh [[Co-thiomsachadh|Co-thiomsach]]. Tha a’ bhuil aice an urra ris òrdugh nan àireamhan:
+Tha e soilleir nach eil toirt air falbh a’ cumail ris an Lagh [[Co-iomlaideachd|Co-iomlaideach]] no an Lagh [[Co-thiomsachd|Co-thiomsach]]. Tha a’ bhuil aice an urra ris òrdugh nan àireamhan:
 ::15 − 7 ≠ 7 − 15
 agus òrdugh an dealachaidh:
 ::22 − 14 − 7 = 8 − 7 = 1
@@ -32,7 +32,7 @@ agus òrdugh an dealachaidh:
 Mar sin tha e nas goireasaich a bheachdachadh oirre mar gum biodh i na suimeadh le àireamhan àicheil. Anns an dòigh seo:
 ::22 + (−14) + (−7) = (22 + (−14)) + (−7) = (22 − 14) + (−7) = 8 + (−7) = 8 − 7  = 1
 ::22 + (−14) + (−7) = 22 + ((−14) + (−7)) = 22 + (− 14 − 7) = 22 + (−21) = 22 − 21  = 1
-Tha cur-ris a’ cumail ris na Laghan Co-thiomsach agus Co-iomlaideach co-dhiù a tha na h-àireamhan dearbh no àicheil.
+Tha cur-ris a’ cumail ris na Laghan [[Co-thiomsachd|Co-thiomsach]] agus [[Co-iomlaideachd|Co-iomlaideach]] co-dhiù a tha na h-àireamhan dearbh no àicheil.
 
 
 ==Iomadachadh (× no ·)==
@@ -44,7 +44,7 @@ Agus ’s e geàrr-sgrìobhadh a th’ ann:
 Canar '''toradh''' ri buil iomadachaidh, agus ma tha 9 air a h-iomadachadh le 4, ’s e '''iomadair''' a th’ ann a 4. Chionns gu bheil iomadachadh a’ cumail ris an Lagh [[Co-iomlaideachd|Co-iomlaideach]] agus tha:
 ::4 × 9 = 9 × 4
 chan eil e gu diofar co dhiubh a tha na h-iomadair. Uaireannan thathar ag ràdh '''factaran''' ris an dà àireimh a tha air an iomadachadh.
-Tha iomadachadh a’ cumail ris an Lagh [[Co-thiomsachadh|Co-thiomsach]] cuideachd:
+Tha iomadachadh a’ cumail ris an Lagh [[Co-thiomsachd|Co-thiomsach]] cuideachd:
 ::3 × 4 × 5 = 12 × 5 = 60
 ::3 × 4 × 5 = 3 × 20 = 60
 ’S e '''ionnanachd''' an iomadachaidh a th’ anns a h-aon. ’S e sin ri ràdh gun dèante an aon [[àireamh]] nam biodh àireamh air a h-iomadachadh leis a h-aon.
@@ -61,7 +61,7 @@ Canar Lagh an Sgaoilidh ri seo.
 ::''roinn-àireamh'' = ''duais-roinn'' ÷ ''roinniche''.
 ... agus dhèante an duais-roinn nam biodh an roinn-àireamh air a h-iomadachadh leis an roinniche.
 Faodaidh [[àireamh]] sam bith a bhith na roinniche ach neoni a-mhàin. Tha roinneadh le neoni gun bhrìgh.
-Cha chum roinneadh ris na Laghan [[Co-thiomsachadh|Co-thiomsach]] no [[Co-iomlaideachd|Co-iomlaideach]] agus tha e nas goireasaich a bheachdachadh oirre mar iomadachadh le co-thionndaidhean. Mar eisimpleir:
+Cha chum roinneadh ris na Laghan [[Co-thiomsachd|Co-thiomsach]] no [[Co-iomlaideachd|Co-iomlaideach]] agus tha e nas goireasaich a bheachdachadh oirre mar iomadachadh le co-thionndaidhean. Mar eisimpleir:
 ::73 ÷ 21 = 73 × <sup>1</sup>/<sub>21</sub>
 Anns an riochd seo tha feartan iomadachaidh air an glèidheadh.
 
@@ -117,7 +117,7 @@ Tha e soilleir cuideachd gu bheil:
 agus gum faod cumhachd a bhith na bloigh cuideachd.
 
 
-==Logartaman==
+==Log-àireamhan==
 
 ’S urrainnear [[àireamh]] dhearbh sam bith a’ sgrìobhadh anns an riochd ''a''<sup>n</sup> agus ''n'' na fìor-àireamh. Ma sgrìobh sinn ''x'' = ''a''<sup>n</sup> tha e soilleir nam biodh (agus ''a'' ≥ 1):
 ::{|-
@@ -132,11 +132,11 @@ agus gum faod cumhachd a bhith na bloigh cuideachd.
 |''n'' < 0; || ||0 < ''x'' < 1
 |}
 ... agus gu bheil ''n'' ann do gach luach ''x'' > 0. Chan eil ''n'' ann far am bi ''a''<sup>n</sup> = 0, agus chan eil ''n'' ann do àireamhan àicheil.
-Canar '''logartam le bonn ''a'' ''' ri ''n'', agus sgrìobhar...
+Canar '''log-àireamh le bonn ''a'' ''' ri ''n'', agus sgrìobhar...
 ::''n'' = log<sub>a</sub>(''x'')
-Chan eil ann ach dà luach a tha cumanta mar bhonn logartaman. Is iad seo 10 agus an àireamh sònraichte ''e''. ’S e bonn nan logartaman nàdarra a tha ''e'', agus ’s e àireamh eucoimeasta a th’ innte
+Chan eil ann ach dà luach a tha cumanta mar bhonn log-àireamhan. Is iad seo 10 agus an àireamh sònraichte ''e''. ’S e bonn nan log-àireamhan nàdarra a tha ''e'', agus ’s e [[àireamh eucoimeasta]] a th’ innte
 ::''e'' = 2.71828182845904523536028747135...
-ach tha feartan àraidh aig logartaman nàdarra.
+ach tha feartan àraidh aig log-àireimh nàdarra.
 ::{|-
 |log<sub>10</sub>(5) = 0.69897...||  ||log<sub>e</sub>(5) = 1.6094379...
 |-
@@ -146,12 +146,13 @@ ach tha feartan àraidh aig logartaman nàdarra.
 |-
 |log<sub>10</sub>(100) = 2 ||  ||log<sub>e</sub>(100) = 4.60157...
 |}
-’S e feartan nan cumhachdan feartan nan logartaman. Gus dà àireimh a dh’iomadachadh, tha na logartaman aca air an cur-ris. Gus àireamh a thogail chun cumhachd, tha an logartam aice air iomadachadh leis a’ chumhachd.
+’S e feartan nan cumhachdan feartan nan log-àireamhan. Gus dà àireimh a dh’iomadachadh, tha na log-àireamhan aca air an cur-ris. Gus àireamh a thogail chun cumhachd, tha an log-àireamh aice air iomadachadh leis a’ chumhachd.
 
-Ann an [[coimpiutaireachd]] agus air àireamhairean, tha e cumanta a sgrìobhadh ''log'' an àite ''log''<sub>10</sub> agus ''ln'' an àite ''log''<sub>e</sub> ach ann am [[matamataig]] agus ann am [[fiosaig]], mar as cumanta ’s e brìgh ''log''<sub>e</sub> a th’ ann far a bheil ''log'' air a sgrìobhadh gun fho-sgriobta.
+Ann an [[coimpiutaireachd]] agus air [[àireamhair]]ean, tha e cumanta a sgrìobhadh ''log'' an àite ''log''<sub>10</sub> agus ''ln'' an àite ''log''<sub>e</sub> ach ann am [[matamataig]] agus ann am [[fiosaig]], mar as cumanta ’s e brìgh ''log''<sub>e</sub> a th’ ann far a bheil ''log'' air a sgrìobhadh gun fho-sgriobta.
+
 Far a bheil:
 ::''n'' = log (''x'')
-agus ''n'' na logartam ''x'', thathar ag ràdh gu bheil ''x'' na h-anti-logartam ''n''.
+agus ''n'' na log-àireamh ''x'', thathar ag ràdh gu bheil ''x'' na h-'''anti-log-àireamh''' ''n''.
 
 [[category:Matamataig]]
 
