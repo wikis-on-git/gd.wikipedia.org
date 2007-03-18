@@ -37,10 +37,9 @@ agus ’s e loidhne dhìreach ann an spàs ''n''-sheallach a tha:
 
 Tha ailseabra inntrigidh a’ dèiligeadh ri [[àireamh]]an – eileamaidean de dh’ [[àlach]] [[àireamh]]. ’S e '''ailseabra easchruthach''' leudachadh nam bun-smuaintean seo do dh’ àlaichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri àlach eileamaidean sam bith, bithidh iad iomchaidh cuideachd do [[bheactar]]an, do [[machlag|mhachlagan]], do dh’ [[iol-teirmeach|iol-teirmich]], agus an leithid.
 
-Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh dàra]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh dàra dùinte. ’S e obrachadh dàra a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho 
-na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh dàra eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
+Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh càraideach]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh càraideach dùinte. ’S e obrachadh càraideach a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh càraideach eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
 
-Le obrachadh dàra, faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na obrachadh dàra air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
+Le obrachadh càraideach, faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na obrachadh càraideach air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
 
 ::''a'' * ''e'' = ''a'' 
 
@@ -56,11 +55,11 @@ agus ''e'' na h-eileamaid ionnanachd mar os cionn, ’s e '''eileamaidean iom-th
 ::''x'' × <sup>1</sup>/<sub>''x''</sub> = 1 
 
 
-Faodaidh obrachadh dàra a’ cumail ris an [[lagh co-thiomsach|lagh cho-thiomsach]]. Mas fìor seo, cha toir òrdugh obrachaidh buaidh air a’ bhuil. ’S e seo gu bheil:
+Faodaidh obrachadh càraideach a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]]. Mas fìor seo, cha toir òrdugh obrachaidh buaidh air a’ bhuil. ’S e seo gu bheil:
 
 ::''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c''. 
 
-Faodaidh e cumail ris an [[lagh co-iomlaideach|lagh cho-iomlaideach]], far a bheil:
+Faodaidh e cumail ris an [[co-iomlaideachd|lagh cho-iomlaideach]], far a bheil:
 
 ::''a'' * ''b'' = ''b'' * ''a''.
 
@@ -68,24 +67,24 @@ agus cha toir òrdugh nan eileamaidean buaidh air a’ bhuil.
 
 ===Grùpaichean===
 
-’S e '''grùpa''' ainm an structair ailseabraich aig a bheil [[àlach]] ''A'' agus obrachadh dàra * le feartan mar a leanas:
+’S e '''grùpa''' ainm an structair ailseabraich aig a bheil [[àlach]] ''A'' agus obrachadh càraideach * le feartan mar a leanas:
 * tha an t-obrachadh dùinte: ''a'' * ''b'' ∈ ''A'', ∀ ''a'', ''b'' ∈ ''A''.
 * tha eileamaid ionnanachd ann: ∃ ''e'' ∈ ''A'' : ''a'' * ''e'' = ''e'' * ''a'' = ''a'', ∀ ''a'' ∈ ''A''.
 * tha eileamaid iom-thionndaidh aig gach eileamaid: ∀ ''a'' ∈ ''A'', ∃ ''a''<sup>-1</sup> ∈ ''A'' : ''a'' * ''a''<sup>-1</sup> = ''a''<sup>-1</sup> * ''a'' = ''e''.
-* tha an t-obrachadh co-thiomsach: ''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c'',   ∀ ''a'', ''b'', ''c'' ∈ ''A''.
+* tha an t-obrachadh [[co-thiomsachd|co-thiomsach]]: ''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c'',   ∀ ''a'', ''b'', ''c'' ∈ ''A''.
 
-Ma tha an t-obrachadh co-iomlaideach cuideachd, ’s e '''grùpa aibèalach''' a th’ ann.
+Ma tha an t-obrachadh [[co-iomlaideachd|co-iomlaideach]] cuideachd, ’s e '''grùpa aibèalach''' a th’ ann.
 
-Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-àireamhan àicheil na h-eileamaidean iom-thionndaidh, agus tha suimeadh a’ cumail ris an [[lagh co-thiomsach|lagh cho-thiomsach]].
+Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-àireamhan àicheil na h-eileamaidean iom-thionndaidh, agus tha suimeadh a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]].
 
 ===Fàinneachan===
 
-Ma tha dà ''obrachadh dàra'' aig ''grùpa'', fear [[suimeadh|suimidh]] ( + ) agus fear [[iomadachadh|iomadachaidh]] ( × ), ’s e '''fàinne''' a chanar ris: 
+Ma tha dà ''obrachadh càraideach'' aig ''grùpa'', fear [[suimeadh|suimidh]] ( + ) agus fear [[iomadachadh|iomadachaidh]] ( × ), ’s e '''fàinne''' a chanar ris: 
 * ma tha e na ghrùpa aibèalach fon obrachadh suimidh,
 * ma dh’fhaodas an t-obrachadh iomadachaidh a bhith air a sgaoileadh air na h-obrachaidhean suimidh: ''a'' × ( ''b'' + ''c'' ) =  ( ''a'' × ''b'' ) + ( ''a'' × ''c'' ),
-* ma tha an t-obrachadh iomadachaidh co-thiomsach: ''a'' × ( ''b'' × ''c'' ) = ( ''a'' × ''b'' ) × ''c''  
+* ma tha an t-obrachadh iomadachaidh [[co-thiomsachd|co-thiomsach]]: ''a'' × ( ''b'' × ''c'' ) = ( ''a'' × ''b'' ) × ''c''  
 
-Chan eil e riatanach gum bi eileamaid ionnannachd, no eileamaidean iom-thionndaidh aig an obrachadh iomadachaidh. ’S e sin ri ràdh, ged tha obrachadh iomadachaidh ann chan eil obrachadh [[roinneadh|roinnidh]] ann. Tha na [[slàn-àireamh]]an nan eisimpleir fàinne far nach eil roinneadh na h-obrachadh dàra chionns gu bheil i fosgailte.
+Chan eil e riatanach gum bi eileamaid ionnannachd, no eileamaidean iom-thionndaidh aig an obrachadh iomadachaidh. ’S e sin ri ràdh, ged tha obrachadh iomadachaidh ann chan eil obrachadh [[roinneadh|roinnidh]] ann. Tha na [[slàn-àireamh]]an nan eisimpleir fàinne far nach eil roinneadh na h-obrachadh càraideach chionns gu bheil i fosgailte.
 
 ===Raointean===
 
