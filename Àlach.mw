@@ -133,11 +133,10 @@ Tha grunnan àlaich a tha cudromach ann am matamataig agus tha ainmean sònraich
 ::'''N'''	àlach nan [[àireamh nàdarrach|àireamhan nàdarrach]]. ’S e sin { 1, 2, 3, 4, 5, 6, ... }.
 ::'''Z'''	àlach nan [[slàn-àireamh]]an. ’S e sin { ..., -3, -2, -1, 0, 1, 2, 3, ... }.
 ::'''Q'''	àlach nan [[àireamh choimeasta|àireamhan coimeasta]]. ’S e sin { ''a''/''b'' : ''a'', ''b'' ∈ '''Z'''; ''b'' ≠ 0 }.
-::'''R'''	àlach nam [[fìor-àireamh]]an. ’S e sin aonadh '''Q''' agus àlach nan [[àireamh eucoimeasta|àireamhan eucoimeasta]] (.i. na h-àireamhan nach thathar a’ sgrìobhadh mar [[bloigh]]ean, me. π, e, agus √2).
+::'''R'''	àlach nam [[fìor-àireamh]]an. ’S e sin aonadh '''Q''' agus àlach nan [[àireamh eucoimeasta|àireamhan eucoimeasta]] (.i. na h-àireamhan nach thathar a’ sgrìobhadh mar [[bloigh (matamataig)|bloigh]]ean, me. π, e, agus √2).
 ::'''C'''	àlach nan [[àireamh cho-fhillte|àireamhan co-fhillte]]. ’S e sin { ''a'' + ''b'' '''i''' : ''a'', ''b'' ∈ '''R''' }.
 
 Tha  '''P''' ⊂ '''N''' ⊂ '''Z''' ⊂ '''Q''' ⊂ '''R''' ⊂ '''C'''.
-
 
 ==Àrdaileachd àlaich==
 
