@@ -1,0 +1,110 @@
+’S ann '''co-iomlaideach''' a tha [[obrachadh càraideach]] (me. leis a’ chomharra ♦ ) eadar buill de dh’ [[àlach]] A aig a bheil am feart:
+
+::''x'' ♦ ''y'' = ''y'' ♦ ''x''
+
+agus tha seo fìor airson gach ''x'' agus ''y'' anns an [[àlach]]. 
+
+Mar eisimpleirean, ’s ann '''co-iomlaideach''' a tha [[cur-ris]] agus [[iomadachadh]] nam [[fìor-àireamh]]an chionns gu bheil:
+
+::''x'' + ''y'' = ''y'' + ''x''
+me.
+::5 + 4 = 4 + 5 = 9.
+
+agus:
+::''x'' ''y'' = ''y'' ''x'' 
+me. 
+::2 × 3 = 3 × 2 = 6.
+
+
+’S ann '''co-iomlaideach''' cuideachd a tha [[aonadh]] agus [[eadar-gheàrradh]] nan [[àlach]]:
+::A ∩ B = B ∩ A
+::A ∪ B = B ∪ A
+
+agus a-measg iomadh eisimpleirean eile tha [[cur-ris]] agus [[iomadachadh]] nan [[àireamh cho-fhillte | àireamhan co-fhillte]], [[cur-ris]] nam [[bheactar]]an, agus [[cur-ris]] nam [[fuincsean]]nan.
+
+A-rèir chleachdaidh, far a bheil obrachadh air a sgrìobhadh leis a’ chomharra +, thathar a’ gabhail ris gu bheil e '''co-iomlaideach'''.
+
+
+==Obrachaidhean nach eil co-iomlaideach==
+
+Tha obrachaidhean ann nach eil '''co-iomlaideach'''. Tha na h-eisimpleirean as cumanta:
+
+[[toirt air falbh]]:
+::7 − 2 ≠ 2 − 7
+
+[[roinneadh]]:
+::7 ÷ 2 ≠ 2 ÷ 7
+
+[[easpònachadh]] (togail gu cumhachd):
+::7<sup>2</sup> ≠ 2<sup>7</sup>
+
+agus [[iomadachadh]] nam [[machlag (matamataig)|machlag]]:
+
+<math> \begin{pmatrix}
+ 1 & 2 \\
+ 3 & 4
+\end{pmatrix} 
+\begin{pmatrix}
+ 5 & 6 \\
+ 7 & 8
+\end{pmatrix}
+= \begin{pmatrix}
+ 19 & 22 \\
+ 43 & 50
+\end{pmatrix} \qquad   
+\begin{pmatrix}
+ 5 & 6 \\
+ 7 & 8
+\end{pmatrix} 
+\begin{pmatrix}
+ 1 & 2 \\ 
+ 3 & 4
+\end{pmatrix}
+= \begin{pmatrix}
+ 23 & 34 \\
+ 31 & 46
+\end{pmatrix} </math>
+
+
+
+==Co-iomlaideachd agus structairean ailseabrach==
+
+Ma tha obrachadh [[grùpa]] '''co-iomlaideach''', ’s e [[grùpa aibèalach]] a tha ann.
+
+Ma tha [[iomadachadh]] '''co-iomlaideach''' ann am [[fàinne (ailseabra)|fàinne]] (tha [[cur-ris]] daonnan co-iomlaideach ann am fàinne), thathar ag ràdh gur e [[fàinne cho-iomlaideach]] a tha innte.
+
+Tha an dà obrachadh, [[cur-ris]] agus [[iomadachadh]], co-iomlaideach ann an [[raon (ailseabra)|raon]] [[ailseabra]]ch.
+
+[[Category: matamataig]]
+
+[[af:Kommutatiewe bewerking]]
+[[ar:عملية تبديلية]]
+[[bg:Комутативност]]
+[[cs:Komutativita]]
+[[da:Kommutativitet]]
+[[de:Kommutativgesetz]]
+[[en:Commutativity]]
+[[et:Kommutatiivsus]]
+[[es:Conmutatividad]]
+[[eo:Komuteco]]
+[[fr:Commutativité]]
+[[ko:교환 법칙]]
+[[it:Operazione commutativa]]
+[[he:קומוטטיביות]]
+[[lt:Komutatyvumas]]
+[[hu:Kommutativitás]]
+[[nl:Commutativiteit]]
+[[ja:交換法則]]
+[[nn:Kommutativitet]]
+[[pl:Przemienność]]
+[[pt:Comutatividade]]
+[[ru:Коммутативная операция]]
+[[sk:Komutatívnosť]]
+[[sl:Komutativnost]]
+[[sr:Комутативност]]
+[[sh:Komutativnost]]
+[[fi:Vaihdannaisuus]]
+[[sv:Kommutativitet]]
+[[vi:Giao hoán]]
+[[uk:Комутативність]]
+[[zh:交換律]]
