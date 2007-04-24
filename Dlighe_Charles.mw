@@ -20,16 +20,16 @@ In other more thermodynamics-based definitions, the relationship between the fix
 
 :<math>V \varpropto T</math><br />
 
-==See also==
-* [[Boyle's Law]]
-
 :<math>V = V_o(1 + \alpha\theta)</math>
 
 To maintain the constant, ''k'', during heating of a gas at fixed pressure, the volume must increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
 
 :<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>.
 
-In simpler form, as the temperature increases the volume of the gas increases.
+Basically, as the temperature increases the volume of the gas increases.
+
+==See also==
+* [[Boyle's Law]]
 
 [[Category:Thermodynamics]]
 [[Category:Gas laws]]
