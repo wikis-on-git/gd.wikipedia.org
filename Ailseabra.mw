@@ -28,13 +28,11 @@ agus ’s e loidhne dhìreach ann an spàs ''n''-sheallach a tha:
 
 ::''f'' (''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>n</sub>) = ''a''<sub>0</sub> + ''a''<sub>1</sub>''x''<sub>1</sub> + ''a''<sub>2</sub>''x''<sub>2</sub> + ... + ''a''<sub>n</sub>''x''<sub>n</sub>.
 
-
 ’S e [[bheactar]] a tha 〈 ''x''<sub>1</sub>, ''x''<sub>2</sub>, ..., ''x''<sub>n</sub> 〉agus canar [[spàs bheactarach]] do spàs far am faodar bheactaran a shuimeadh agus a [[sgèilear|sgèileadh]]. ’S e [[cruth-atharrachadh loidhneach]] a th’ ann am [[fuincsean]] sam bith a ghlèidheas na feartan seo. Tha ailseabra loidhneach a’ gabhail a-staigh oideachadh bheactaran, spàsan bheactarach agus chruth-atharrachadh loidhneach.
 
 ==Ailseabra easchruthach==
 
 ===Bun-bheachdan===
-
 Tha ailseabra inntrigidh a’ dèiligeadh ri [[àireamh]]an – eileamaidean de dh’ [[àlach]] [[àireamh]]. ’S e '''ailseabra easchruthach''' leudachadh nam bun-smuaintean seo do dh’ àlaichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri àlach eileamaidean sam bith, bithidh iad iomchaidh cuideachd do [[bheactar]]an, do [[machlag|mhachlagan]], do dh’ [[iol-teirmeach|iol-teirmich]], agus an leithid.
 
 Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh càraideach]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh càraideach dùinte. ’S e obrachadh càraideach a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh càraideach eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
@@ -78,7 +76,6 @@ Ma tha an t-obrachadh [[co-iomlaideachd|co-iomlaideach]] cuideachd, ’s e '''gr
 Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-àireamhan àicheil na h-eileamaidean iom-thionndaidh, agus tha suimeadh a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]].
 
 ===Fàinneachan===
-
 Ma tha dà ''obrachadh càraideach'' aig ''grùpa'', fear [[suimeadh|suimidh]] ( + ) agus fear [[iomadachadh|iomadachaidh]] ( × ), ’s e '''fàinne''' a chanar ris: 
 * ma tha e na ghrùpa aibèalach fon obrachadh suimidh,
 * ma dh’fhaodas an t-obrachadh iomadachaidh a bhith air a sgaoileadh air na h-obrachaidhean suimidh: ''a'' × ( ''b'' + ''c'' ) =  ( ''a'' × ''b'' ) + ( ''a'' × ''c'' ),
@@ -87,22 +84,14 @@ Ma tha dà ''obrachadh càraideach'' aig ''grùpa'', fear [[suimeadh|suimidh]] (
 Chan eil e riatanach gum bi eileamaid ionnannachd, no eileamaidean iom-thionndaidh aig an obrachadh iomadachaidh. ’S e sin ri ràdh, ged tha obrachadh iomadachaidh ann chan eil obrachadh [[roinneadh|roinnidh]] ann. Tha na [[slàn-àireamh]]an nan eisimpleir fàinne far nach eil roinneadh na h-obrachadh càraideach chionns gu bheil i fosgailte.
 
 ===Raointean===
-
 ’S e '''raon''' a th’ann ma tha ''fàinne'' na ''grùpa aibèalach'' fon obrachadh [[iomadachadh|iomadachaidh]] cuideachd. ’S e eisimpleirean raoin a tha anns na h-[[àireamh choimeasta|àireamhan coimeasta]], na [[fìor-àireamh]]an agus na h-[[àireamh cho-fhillte|àireamhan co-fhillte]].
 
 Gheibhear barrachd fiosrachaidh bho [[teòiridh ghrùpaichean|theòiridh ghrùpaichean]], bho [[teòiridh fhàinneachan|theòiridh fhàinneachan]], agus bho [[teòiridh raointean|theòiridh raointean]].
 
-
 ==Ailseabra cho-choitcheann==
-
 ’S e oideachadh feartan a bhuineas do na structairean ailseabrach uile a tha '''ailseabra cho-choitcheann'''. Tha i a’ dèanamh mìneachadh air na th’ ann an ailseabra fhèin mar bhun-bheachd, a’ dèanamh eadar-sgaraidh air na gnèithean ailseabra, agus a’ toirt asta na h-eileamaidean coitcheann gus na prionnsabalan co-aonachaidh a lorg. Tha seo a’ toirt barrachd tuigse do na h-ailseabran aithnichte agus a’ chomais air ailseabran ùra a dhealbhadh.
 
-
-
-
-
-
-[[category:matamataig]]
+[[category:matamataigs]]
 
 [[af:Algebra]]
 [[an:Alchebra]]
