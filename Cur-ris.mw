@@ -113,31 +113,49 @@ Gus còigeamhan agus seachdamhan a chur-ris feumar an iomlaid gu bhith nam [[blo
 
 ===Bheactaran===
 
-Bheir an aon bhun-bheachd dhuinn comas [[bheactar]]an a chur-ris. Tha cùrsa agus meud aig [[bheactar]], agus ’s docha nach eil e soilleir ciamar a chuireas dà dhiubh ri chèile ma tha cùrsa eadar-dhealaichte aca. Ach ma tha na bheactaran air an cur an cèill a-rèir nan aon [[bonn-bheactar|bhonn-bheactar]]an, ’s urrainnear [[cuid bheactair|codaichean bheactaran]] an cois nam [[bonn-bheactar]]an a chur-ris. 
+Bheir an aon bhun-bheachd comas dhuinn [[bheactar]]an a chur-ris. Tha cùrsa agus meud aig [[bheactar]], agus ’s docha nach eil e soilleir ciamar a chuireas dà dhiubh ri chèile ma tha cùrsa eadar-dhealaichte aca. Ach ma tha na bheactaran air an cur an cèill a-rèir nan aon [[bonn-bheactar|bhonn-bheactar]]an, ’s urrainnear [[cuid de bheactair|codaichean de bheactaran]] an cois nam [[bonn-bheactar]]an a chur-ris. 
 
 [[Image:bheactar-1.png]]
 
-Seo eisimpleir. Biodh '''a''' agus '''b''' nam [[bheactar]]an ri chur-ris, agus biodh na [[bonn-bheactar]]an aca na bheactaran aonadach '''x̂''' agus '''ŷ''', an cois nan axes ''x'' agus ''y''. Biodh ''x<sub>a</sub>'' na chuid-''x'' de bheactar '''a''' agus ''y<sub>a</sub>'' na chuid-''y'' dheth. Faodaidh sinn '''a''' a sgrìobhadh an teirmean nam [[bonn-bheactar]]an mar a leanas:
+Seo eisimpleir. Biodh <math> \mathbf{a} </math> agus <math> \mathbf{b} </math> nam [[bheactar]]an ri chur-ris, agus biodh na [[bonn-bheactar]]an aca na bheactaran aonadach <math>\hat{\mathbf{x}}</math> agus <math>\hat{\mathbf{y}}</math>, an cois nan axes ''x'' agus ''y''. Biodh ''x<sub>a</sub>'' na chuid-''x'' de bheactar <math> \mathbf{a} </math> agus ''y<sub>a</sub>'' na chuid-''y'' dheth. Faodaidh sinn <math> \mathbf{a} </math> a sgrìobhadh an teirmean nam [[bonn-bheactar]]an mar a leanas:
 
-::'''a''' = ''x<sub>a</sub>'' '''x̂''' + ''y<sub>a</sub>'' '''ŷ'''
+::<math> \mathbf{a} = x_a \hat{\mathbf{x}} + y_a \hat{\mathbf{y}} </math>
 
-Gus an ceartuair, leig an seagh ''agus'' leis a’ chomharra “+” an seo, ged a chithear gur h-e cur-ris a th’ ann. Mar an ceudna:
+Gus an ceartuair, leig an seagh ''agus'' leis a’ chomharra “+” an seo, ged a chithear gur h-e cur-ris a th’ ann. 
 
-::'''b''' = ''x<sub>b</sub>'' '''x̂''' + ''y<sub>b</sub>'' '''ŷ'''
+Mar an ceudna:
+
+::<math> \mathbf{b} = x_b \hat{\mathbf{x}} + y_b \hat{\mathbf{y}} </math>
 
 Faodar a-nis na codaichean-''x'' agus na codaichean-''y'' a chuir-ris, agus nithear ciall de chur-ris [[bheactar]]an  '''c''' = '''a''' + '''b'''  mar a leanas:
 
-::'''c''' = ''x<sub>c</sub>'' '''x̂''' + ''y<sub>c</sub>'' '''ŷ'''
+::<math> \mathbf{c} = x_c \hat{\mathbf{x}} + y_c \hat{\mathbf{y}} </math>
 
 Far a bheil:
 
-::''x<sub>c</sub>'' = ''x<sub>a</sub>'' + ''x<sub>b</sub>''
-::''y<sub>c</sub>'' = ''y<sub>a</sub>'' + ''y<sub>b</sub>''
-::'''a''' + '''b''' = (''x<sub>a</sub>'' + ''x<sub>b</sub>'') '''x̂''' + (''y<sub>a</sub>'' + ''y<sub>b</sub>'') '''ŷ'''
+::<math> x_c = x_a + x_b \,\!</math>
 
-Gabhar faicinn gum faighear an aon bhuil ma tha an dà [[bheactar]] '''a''' agus '''b''' air an cur ceann gu ceann. ’S e an suim aca am bheactar a tha a’ coileanadh an [[triantan|triantain]] – am bheactar bho thoiseach '''a''' gu deireadh '''b'''. 
+::<math> y_c = y_a + y_b \,\!</math>
+
+::<math> \mathbf{a} + \mathbf{b} = (x_a + x_b) \hat{\mathbf{x}} + (y_a + y_b) \hat{\mathbf{y}} </math>
+
+Gabhar faicinn gum faighear an aon bhuil ma tha an dà [[bheactar]] <math> \mathbf{a} </math> agus <math> \mathbf{b} </math> air an cur ceann gu ceann. ’S e an suim aca am bheactar a tha a’ coileanadh an [[triantan|triantain]] – am bheactar bho thoiseach <math> \mathbf{a} </math> gu deireadh <math> \mathbf{b} </math>. 
 
 [[Image:bheactar-2.png]]
+
+Anns an aon dòigh, ma tha na codaichean de <math> \mathbf{a} </math>, an cois na h-axes ''x'' agus ''y'', na bheactaran: 
+
+::<math> \mathbf{x}_a = x_a \hat{\mathbf{x}}</math>
+
+::<math> \mathbf{y}_a = y_a \hat{\mathbf{y}}</math>
+
+...’s e am bheactar <math> \mathbf{a} </math> na suim:
+
+::<math> \mathbf{a} = \mathbf{x}_a + \mathbf{y}_a = x_a \hat{\mathbf{x}} + y_a \hat{\mathbf{y}}</math>
+
+[[Image:bheactar-3.png]]
+
+
 
 ===Machlagan===
 
