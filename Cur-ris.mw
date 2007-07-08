@@ -159,4 +159,67 @@ Anns an aon dòigh, ma tha na codaichean de <math> \mathbf{a} </math>, an cois n
 
 ===Machlagan===
 
+Faodar dà [[machlag|mhachlaig]] a chur-ris le bhith a’ cur-ris na h-eileamaidean co-fhreagarrach fa leth.  
+
+
+::<math> \begin{pmatrix}
+ a_{11} & a_{12} \\
+ a_{21} & a_{22}
+\end{pmatrix} +
+\begin{pmatrix}
+ b_{11} & b_{12} \\
+ b_{21} & b_{22}
+\end{pmatrix} =
+\begin{pmatrix}
+ a_{11}+b_{11} & a_{12}+b_{12} \\
+ a_{21}+b_{21} & a_{22}+b_{22}
+\end{pmatrix} </math>
+
+Mar eisimpleir: 
+
+::<math> \begin{pmatrix}
+ 1 & 2 \\
+ 3 & 4 \\
+ 5 & 6
+\end{pmatrix} +
+\begin{pmatrix}
+ 4 & 5 \\
+ 6 & 3 \\
+ 1 & 2
+\end{pmatrix} =
+\begin{pmatrix}
+ 5 & 7 \\
+ 9 & 7 \\
+ 6 & 8
+\end{pmatrix} </math>
+
+Ach cha ghabh [[machlag]]an a chur-ris mur eil an dà dhiubh den aon òrdugh (.i. àireamh cholbhan agus shreathan). Tha cur-ris nam machlagan [[co-iomlaideachd|co-iomlaideach]] agus [[co-thiomsachd|co-thiomsach]].
+
 ==Suimeadh==
+
+’S e cur-ris sreath (no colbh) [[àireamh]]an a th’ ann an [[suimeadh]]. Mar eisimpleirean:
+
+::<math> S_1 = 1 + 3 + 5 + 7 + 9 + 11 \,\!</math>
+
+::<math> S_2 = 1 + \tfrac{1}{2} + \tfrac{1}{9} + \tfrac{1}{64} + \tfrac{1}{625} + \cdots \,\!</math>
+
+Ann am [[matamataig]], tha e gu tric feumail [[sreath-suimidh]] a giorrachadh, gu h-àraidh ma tha pàtran aig na teirmean, leis a’ chomharradh Σ (litir mhòr [[Greugais|Ghreugais]] “S” a tha air fuaimneachadh sìghma - σίγμα).
+
+::<math> S_1 = \sum_{n=1}^6 (2n-1) </math>
+
+::<math> S_2 = \sum_{n=1}^\infty \left(\frac{1}{n^{n-1}}\right) </math>
+
+Anns na h-eisimpleirean os cionn, ’s e ''[[caochladair]] brèige'' a th’ ann an ''n''. Gabhaidh ''n'' gach luach mu seach bhon luach ìochdrach gus am fear uachdrach, agus san dòigh seo tha teirmean an t-suimidh air an togail. Tha na luachan seo, aig ìochdar agus aig uachdar na soidhne-suimidh, nan crìochan an t-suimidh. Mar eisimpleir, bhon chiad eisimpleir, tha an [[suimeadh]] bho ''n'' = 1 gu ''n'' = 6:
+
+::<math>\begin{array}{ccc}
+n & 2n-1 \\
+1 & 2 \times 1 - 1 & 1  \\
+2 & 2 \times 2 - 1 & +3 \\
+3 & 2 \times 3 - 1 & +5 \\
+4 & 2 \times 4 - 1 & +7 \\
+5 & 2 \times 5 - 1 & +9 \\
+6 & 2 \times 6 - 1 & +11 \\
+  & \sum_{n=1}^6 (2n-1)= & 36
+\end{array} </math>
+
+Anns an dara eisimpleir, gabhaidh ''n'' gach luach bho h-aon gu [[eicrioch]]. Tha e soilleir nach gabhar a sgrìobhadh gach teirm ’s an cur-ris, ach tha ro-innleachdan [[matamataig]]each ann suimidhean neo-chrìochnach mar seo a dh’ fhuasgladh, co-dhiù seòrsaichean àraidh dhiubh.
