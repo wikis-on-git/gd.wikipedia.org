@@ -1,62 +1,78 @@
-{{Infobox_Country
-|ainm_dúchasach = ''Latvijas Republika''
-|ainm_gin_bain = Laitbhianach
-|íomhá_na_brataí = Flag of Latvia.svg
-|íomhá_an_armais = Latvijas lielais gerbonis.png
-|image_map = LocationLatvia.png
-|national_motto = [[Latvian language|Latvian]]: ''Tēvzemei un Brīvībai''<br>([[English language|English]]: "For Fatherland and Freedom")
-|national_anthem = ''[[Dievs, svētī Latviju!]]''
-|teangacha_oifigiúla = [[Laitbhiais]]
-|capital = [[Riga]]
-|latd=56 |latm=57 |latNS=N |longd=24 |longm=6 |longEW=E
-|largest_city = [[Riga]]
-|government_type = [[Parliamentary democracy]]
-|leader_title1 = [[List of Presidents of Latvia|President]]
-|leader_title2 = [[Prime Minister of Latvia|Prime Minister]]
-|leader_name1 = [[Vaira Vīķe-Freiberga]]
-|leader_name2 = [[Aigars Kalvītis]]
-|accessionEUdate = [[May 1]], [[2004]]
-|area_rank = 123rd
-|area_magnitude = 1 E10
-|area= 	64,589
-|areami²=  24,931<!-- Do not remove per [[WP:MOSNUM]] -->
-|percent_water = 1.5%
-|population_estimate = 2,307,000 <!--UN WPP -->
-|population_estimate_rank = 141st
-|population_estimate_year = July 2005
-|population_census = 
-|population_census_year = 
-|population_density = 35
-|population_densitymi² = 92 <!-- Do not remove per [[WP:MOSNUM]] -->
-|population_density_rank = 137th
-|GDP_PPP = $29.42 billion<!--cia.gov-->  
-|GDP_PPP_rank = 93rd
-|GDP_PPP_year= 2005
-|GDP_PPP_per_capita = $12,800
-|GDP_PPP_per_capita_rank = 72nd
-|sovereignty_type = [[History of Latvia|Independence]]
-|sovereignty_note = From the [[Soviet Union]]
-|established_event1 = Declared
-|established_event2 = Recognized
-|established_date1 = [[May 4]], [[1990]]
-|established_date2 = [[August 21]], [[1991]]
-|HDI = 0.836
-|HDI_rank = 48th
-|HDI_year = 2003
-|HDI_category = <font color="#009900">high</font>
-|currency = [[Latvian lats|Lats]] (Ls)
-|currency_code = LVL
-|country_code = LVA
-|time_zone = [[Eastern European Time|EET]]
-|utc_offset = +2
-|time_zone_DST = [[Eastern European Summer Time|EEST]]
-|utc_offset_DST = +3
-|cctld = [[.lv]]
-|calling_code = 371
-|footnotes = 
-}}
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''Latvijas Republika<br/>''Republic of Latvia''<br/>
+</font>
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[Image: Flag of Latvia.svg|125px|]]
+| align="center" width="140px" | [[Image: Coat of Arms of Latvia.svg |55px|]]
+|-
+| align="center" width="140px" | [[Bratach na dùthcha ]]
+| align="center" width="140px" | [[Lùireach na dùthcha]]
+|}
+|-
+| align=center colspan=2 | "Tēvzemei un Brīvībai"<br/><small>"For Fatherland and Freedom"</small>
+|-
+| align=center colspan=2 style="background:#f9f9f9;" |[[image: EU location LAT.png|300px| ]] 
+|-
+|-
+|'''[[Cànan Oifigeil]]''' || [[Latvian]]
+|-
+|'''[[Prìomh-bhaile]]''' || [[Riga]]
+|-
+|'''Baile is Motha''' || [[Riga]]
+|-
+|'''[[Ceann-suidhe]]''': || [[Valdis Zatlers]]
+|-
+|'''[[Prìomh-mhinistear]]''': || [[Aigars Kalvītis]]
+|-
+| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
+| List of countries by area|Reangach: 124mh <br> 
+64,589km&sup2; <br/> 1.5%
+|-
+| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
+| [[List of countries by Aireamh-shluaigh|Reangach  143mh]]<br>2,291,000 <small>([[2006]])</small><br> 36/km&sup2; 
+|-
+| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
+|Declared [[1990]]<br> Independence from  Russia<br>Recognized [[1921]]<br> Completed [[1991]]
+|-
+| '''[[Airgead]]''': || [[Latvian lats]]
 
-[[Category:Roinn Eòrpa]]
+|-
+| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
+|[[Coordinated Universal Time|UTC]] + 2<br>[[Coordinated Universal Time|UTC]] + 3
+|-
+| '''[[Laoidh Naiseanta]]'''||''[[Dievs, svētī Latviju!]]''<small><br/>"God, bless Latvia!"</small>
+|-
+| '''[[Top-level domain|Eadar-lìon TLD]]''': || [[.lv]]
+|-
+| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
+|  371
+|}
+
+
+
+
+Is e dùthaich anns [[an Roinn-Eòrpa]] an Ear a tha ann am '''Laitbhia''', àinmean eile ‘san eachdraidh: ''Lattonia'', ''Lettonia'' neo ''Lettland''.
+
+Tha crìochan aice leis [[an Eastoinia]] anns an Tuath, le [[Lituania]] san taobh a Deas,
+agus  [[An Ruis|an Ruis]] agus [[an Ruis bhàn]] anns an Ear. Tha a’ [[Muir Baltach|Mhuir Baltach]] anns an Iar.
+
+
+Tha [[Riga]] na [[prìomh-bhaile]].
+
+
+
+* [http://www.saeima.lv/index_eng.html The Latvian Parliament (Saeima)]
+* [http://www.mk.gov.lv/index.php/en The Cabinet of Ministers]
+* [http://www.baltictimes.com Baltic Times]&nbsp;&mdash; English language weekly in the Baltic States, published in Riga.
+* [http://wikitravel.org/en/Latvia Latvia] on Wikitravel
+
+
+[[Image:Lv from satellite.png|left|250px]]
+
+[[category:An Roinn-Eòrpa]]
 
 [[af:Letland]]
 [[am:ላትቪያ]]
