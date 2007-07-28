@@ -41,13 +41,111 @@ far a bheil |''x''| na dhearbh luach ''x''.
 ==Àireamhachd le àireamhan soidhneach==
 ===Cur-ris agus toirt air falbh===
 
+Gabhar a bheachdachadh air àireamhan àicheil mar gum b' e fiachan a th' annta nuair a tha [[àireamh]]an air an [[cur-ris]] agus air an [[toirt air falbh]]. 
+
+'S e an aon rud [[cur-ris]] àireimh àicheil agus [[toirt air falbh]] àireimh deirbhe:
+
+::5 + (−3) = 5 – 3 = 2.
+
+Ma tha €5 agad agus fiach €3 ort, 's e €2 an luach lom agad.
+
+::−2 + (−5) = −2 – 5 = −7
+
+Ma tha fiach $2 ort agus gheibh thu fiach $5, 's e $7 am fiach gu lèir ort.
+
+Le bhith a' [[toirt air falbh]] àireimh deirbhe bho àireimh dheirbh nas lugha, 's e àireamh àicheil a th’ anns a’ bhuil:
+
+::4 − 6 = −2 
+
+Ma bha £4 agad ach chosg thu £6, 's e am fiach £2 a bhiodh ort. 
+
+'S e [[toirt air falbh]] àireimh àicheil an aon rud ri [[cur-ris]] na h-àireimh deirbh co-fhreagarraich:
+
+::5 – (−2) = 5 + 2 = 7.
+
+Ma tha luach lom €5 agad agus gheibh thu cuidhteas fiach €2, 's e €7 an luach lom ùr agad.
+
+::–8 – (−3) = –8 + 3 = –5.
+
+Ma tha fiach €8 ort ach gheibh thu cuidhteas fiach €3, 's e €5 am fiach air fhàgail ort.
+
 
 
 ===Iomadachadh===
 
+'S e àireamh àicheil a th’ ann an toradh [[iomadachadh]] àireimh àicheil le àireimh dheirbh: −2 × 3 = −6. Agus 's e àireamh dhearbh a th' ann an toradh iomadachadh àireimh àicheil le àireimh àicheil: −4 × −3 = 12.
+
+Tha dòigh ann seo a thuigsinn ma bheachdaicheas tu air [[iomadachadh]] le àireimh dheirbh mar ath [[cur-ris|chur-ris]]. San dòigh seo, 2 × 3 = 2 + 2 + 2 = 6 agus −2 × 3 = (−2) + (−2) + (−2) = −6. 'S ann an aon dòigh b' e [[iomadachadh]] le àireimh àicheil an aon rud ri ath [[toirt air falbh|thoirt air falbh]]. Mar eisimpleir: 3 × −2 = −3 − 3 = −6.
+
+Le bhith nas foirmeile, 's e àireamh dhearbh air a h-[[iomadachadh]] le −1 a th’ ann an àireimh àicheil:
+
+::{|-
+| −''a'' ||=|| (−1) + (−1) + (−1) + (−1) + ...||  agus ''a'' dhiubh.
+|-
+| ||=|| (−1) × ''a''
+|}
+
+Nise,
+
+::''a''  ×  −''b'' = ''a''  × (−1) × ''b''
+
+...agus chionns gu bheil iomadachadh [[co-iomlaideachd|co-iomlaideach]] agus [[co-thiomsachd|co-thiomsach]]: 
+
+::{|-
+| ''a''  ×  −''b''  ||=|| (−1) × ''ab''
+|-
+| ||=|| −''ab''
+|}
+
+San aon dòigh:
+
+::{|-
+| −''a''  ×  −''b'' ||=|| (−1) × ''a''  × (−1) × ''b''
+|-
+| ||=|| (−1) × (−1) × ''ab''
+|-
+| ||=|| −(−1) × ''ab''
+|}
+
+Airson −(−1) a dh' fhuasgladh, thoir an aire gu bheil:
+
+::{|-
+| ''c'' – ''c'' ||=|| 0
+|-
+| ''c'' + (–''c'') ||=|| 0
+|}
+
+...agus ma tha ''c'' = −1:
+
+::{|-
+| −1 + (–(−1)) ||=|| 0
+|-
+| 	–(−1) − 1 ||=|| 0
+|-
+| ∴ –(−1) ||=|| 1
+|-
+| ∴ −''a''  ×  −''b'' ||=|| −(−1) × ''ab'' ||=|| ''ab''
+|}
+
 
 
 ===Roinneadh===
+
+Tha na riaghailtean seo freagarrach cuideachd do [[roinneadh]]. Ma tha àireamh dhearbh air a roinn le àireimh àicheil, no àireamh àicheil air a roinn le àireimh deirbh, ’s ann àicheil a’ bhuil:
+
+::{|-
+| 4 ÷ -2 ||=|| -2
+|-
+| -6 ÷ 3 ||=|| -2
+|}
+
+Ma tha an ''duais-roinn'' agus an ''roinniche'' dearbh am fear, no àicheil am fear, 's ann dearbh an ''roinn-àireamh''.
+
+::{|-
+| 8 ÷ 4 ||=|| 2
+|-
+| -12 ÷ -2 ||=|| 6
+|}
 
 
 
