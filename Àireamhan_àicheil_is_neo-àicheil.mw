@@ -26,8 +26,8 @@ Tha [[fuincsean]] ann thar nam [[fìor-àireamh]]an ris an canar am fuincsean ''
 
 ::<math>sgn(x)=\begin{cases}
  -1, & \mbox{ma tha } x < 0 \\
- 0   & \mbox{ma tha } x = 0 \\
- 1   & \mbox{ma tha } x > 0
+ 0,  & \mbox{ma tha } x = 0 \\
+ 1,  & \mbox{ma tha } x > 0
 \end{cases} </math>
 
 Mur eil <math>x = 0</math>:
@@ -150,3 +150,151 @@ Ma tha an ''duais-roinn'' agus an ''roinniche'' dearbh am fear, no àicheil am f
 
 
 ==Togail foirmeil nan àireamhan àicheil is neo-àicheil==
+
+'S e na leanas togail foirmeil nan àireamhan àicheil agus neo-àicheil bho na h-[[àireamh nàdarra|àireamhan nàdarra]].
+
+Cruthaicheamaid [[àlach]] ùr, canaidh sinn '''Z''' ris, de càraidean òrdaichte [[àireamh nàdarra|àireamhan nàdarra]] (''a'', ''b'').
+
+::'''Z''' = { (''a'', ''b'') : ''a'', ''b'' ∈ '''N''' }
+
+Canaidh sinn gum bi dà eileamaid den àlach seo (''a'', ''b'') agus (''c'', ''d'') co-ionnan, ma tha:
+
+::''a'' + ''d'' = ''b'' + ''c''
+
+agus mas fìor seo, sgrìobhamaid sin:
+
+::(''a'', ''b'') ~ (''c'', ''d'')
+
+Cuiridh sinn òrdugh air na h-eileamaidean cuideachd agus sgrìobhaidh sinn:
+
+::(''a'', ''b'') ≤ (''c'', ''d'')
+
+ma tha
+::''a'' + ''d'' ≤ ''b'' + ''c''.
+
+Nise, cuiridh sinn dà [[obrachadh càraideach]] + agus × ris an [[àlach]] '''Z''' far a bheil:
+
+::{|-
+| (''a'', ''b'') + (''c'', ''d'') ||~|| (''a'' + ''c'', ''b'' + ''d'')
+|-
+| (''a'', ''b'') × (''c'', ''d'') ||~|| (''ac'' + ''bd'', ''bc'' + ''ad'')
+|}
+
+Chionns gu bheil ''a'' + ''c'', ''b'' + ''d'', ''ac'' + ''bd'' agus ''bc'' + ''ad'' uile nam buill de dh’ àlach nan [[àireamh nàdarra|àireamhan nàdarra]], tha an dà obrachadh seo '''dùinte''', oir 's e buill de '''Z''' a tha buil nan obrachaidhean os cionn.
+
+Ma tha eileamaid ann (''m'', ''n'') den [[àlach]] nach atharraich eileamaid eile fo obrachadh +, gabhar a sgrìobhadh:
+
+::{|-
+| (''a'', ''b'') + (''m'', ''n'') ||~|| (''a'', ''b'')
+|-
+| (''a'' + ''m'', ''b'' + ''n'') ||~|| (''a'', ''b'')
+|}
+
+'S e sin ri ràdh:
+
+::{|-
+| ''a'' + ''m'' + ''b'' ||=|| ''b'' + ''n'' + ''a''
+|-
+| ∴  ''m'' ||=|| ''n''
+|}
+
+agus gum biodh eileamaid sam bith den riochd (''n'', ''n'') na h-'''eileamaid ionnanachd''' aig an obrachadh +. Canamaid ''neoni'' ri eileamaid den t-seòrsa seo.
+
+Ma tha eileamaid ann (''m'', ''n'') den [[àlach]] nach atharraich eileamaid eile fo obrachadh ×, gabhar a sgrìobhadh:
+
+::{|-
+| (''a'', ''b'') × (''m'', ''n'') ||~|| (''a'', ''b'')
+|-
+| (''am'' + ''bn'', ''bm'' + ''an'') ||~|| (''a'', ''b'')
+|}
+
+An luib seo:
+
+::{|-
+| ''am'' + ''bn'' + ''b'' ||=|| ''bm'' + ''an'' + ''a''
+|-
+| ∴  (''a'' – ''b'')''m'' ||=|| (''a'' – ''b'')(''n'' + 1)
+|-
+| ∴  ''m'' ||=|| ''n'' + 1
+|}
+
+Bhiodh eileamaid sam bith den riochd (''n'' + 1, ''n'') na h-'''eileamaid ionnanachd''' aig an obrachadh ×. Canamaid ''a h-aon'' ri eileamaid sam bith den t-seòrsa seo.
+
+Nise, gabhar a dhearbhadh gu furasta gum bi:
+
+:: (''n'' + 1, ''n'') + (''n'' + 1, ''n'') ~ (''n'' + 2, ''n'')
+:: (''n'' + 2, ''n'') + (''n'' + 2, ''n'') ~ (''n'' + 4, ''n'')
+:: (''n'' + 2, ''n'') × (''n'' + 3, ''n'') ~ (''n'' + 6, ''n'')
+
+Ma th' ann eileamaid den àlach (''m'', ''n'') far a bheil:
+
+:: (''a'', ''b'') + (''m'', ''n'') ~ (''n'', ''n'')
+:: (''a'' + ''m'', ''b'' + ''n'') ~ (''n'', ''n'')
+
+::{|-
+| ''a'' + ''m'' + ''n'' ||=|| ''b'' + ''n'' + ''n''
+|-
+| ''a'' + ''m'' ||=|| ''b'' + ''n''
+|-
+| ∴  ''m'' = ''b'';  || ||''n'' = ''a''
+|}
+:: ∴  (''a'', ''b'') + (''b'', ''a'') ~ (''n'', ''n'')
+
+'S e '''eileamaidean iom-thionndaidh''' a tha ann (''b'', ''a'') agus (''a'', ''b'') airson an obrachaidh +. Mar eisimpleirean:
+
+:: (''n'' + 1, ''n'') + (''n'', ''n'' + 1) ~ (''n'', ''n'')
+:: (''n'' + 2, ''n'') + (''n'', ''n'' + 2) ~ (''n'', ''n'')
+
+Gabhar a dhearbhadh cuideachd gu bheil:
+
+:: (''n'', ''n'' + 1) < (''n'', ''n'') < (''n'', ''n'' + 1)
+
+Tha e air a bhith a' fàs soilleir gu bheil cuid de dh' eileamaidean an [[àlach|àlaich]] seo ceart cho-ionnan ris na h-[[àireamh nàdarra|àireamhan nàdarra]] fhèin:
+
+::{|-
+| (''n'' + 1, ''n'') ||≡|| 1
+|-
+| (''n'' + 2, ''n'') ||≡|| 2
+|-
+| (''n'' + 3, ''n'') ||≡|| 3
+|-
+| (''a'', ''b'') ||≡|| ''a'' – ''b''
+|}
+
+Tha seo fìor ma tha a' chiad bhall den chàraid òrdaichte nas mò nan dara fear. Mas e an dara fear as mò, chan eil [[àireamh nàdarra]] ann a tha co-ionnan ris, ged nach eil e gu diofar anns an àlach '''Z''' a bheil ''a'' > ''b'' no ''b'' > ''a''. Ri linn sin, canaidh sinn gu bheil eileamaid (''a'', ''b'') den àlach '''Z''' '''dearbh''' ma tha ''a'' > ''b'', '''neoni''' ma tha ''a'' = ''b'', agus '''àicheil''' ma tha ''a'' < ''b''. An àite càraidean àireamh (''a'', ''b''), dèanar feum de dh’ fhigearan àireamhan nàdarra mar a leanas...
+
+
+::<math> (a, b)=\begin{cases}
+ a - b, & : a > b \quad \mbox{(m.e. 1, 2, 3, ...) } \\
+ 0,  & : a = b \\
+ -(b-a),  & : a < b  \quad \mbox{(m.e. -1, -2, -3, ...) }
+\end{cases} </math>
+
+
+'S e [[àlach]] nan [[slàn-àireamh]]an a th' anns an '''Z''', anns a bheil ''x'' agus –''x'' nan eileamaidean (àireamhan) '''iom-thionndaidh''' fon obrachadh + (cur-ris).
+
+[[category:àireamhachd]]
+[[category:teòiridh àireamh]]
+
+[[ca:Nombre negatiu]]
+[[cs:Kladné a záporné číslo]]
+[[de:Positive und negative Zahlen]]
+[[en:Negative and non-negative numbers]]
+[[eo:Negativa kaj nenegativa nombroj]]
+[[fr:Nombre négatif]]
+[[ko:음의 정수]]
+[[io:Negativa e ne negativa nombri]]
+[[is:Já– og neikvæðar tölur]]
+[[he:מספרים חיוביים ושליליים]]
+[[nl:Negatief getal]]
+[[ja:負の整数]]
+[[no:Negative tall]]
+[[pt:Negativo]]
+[[ro:Număr negativ]]
+[[ru:Отрицательное число]]
+[[simple:Negative number]]
+[[sl:Negativno število]]
+[[sv:Positiva tal]]
+[[th:จำนวนลบและจำนวนไม่เป็นลบ]]
+[[uk:Від'ємне число]]
+[[zh:负数]]
