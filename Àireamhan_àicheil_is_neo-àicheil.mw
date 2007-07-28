@@ -1,0 +1,54 @@
+'S e [[àireamh]] nas lugha na neoni a th' ann an '''àireimh àicheil'''. Tha na h-àireamhan nas mò na neoni '''dearbh''' (no '''dearbhte''').  Chan eil neoni fhèin dearbh no àicheil. Ma tha àireamh '''neo-àicheil''', 's e àireamh dhearbh no neoni a th' innte. Ma tha i '''neo-dhearbh''', 's e àireamh àicheil no neoni a th' innte.
+
+Ma thathar a' labhairt iomradh air [[àireamh cho-fhillte|àireamhan co-fhillte]], 's e ''[[fìor-àireamh]]'' a th' ann mar as cumanta ma thathar ag ràdh ''dearbh'' rithe.
+
+
+
+==Àireamhan àicheil==
+
+Faodar a bheachdachadh air na h-'''àireamhan àicheil''' mar gum biodh iad a' leigeil a-mach air na h-[[àireamh nàdarra|àireamhan nàdarra]] gus fuasgladh ciallach a thoirt don cho-aontar ''x'' – ''y'' = ''z'' airson gach luach de ''x'' agus ''y''. Agus 's ann a' leigeil a-mach air seo mu seach a tha na h-[[àlach|àlaichean]] eile de dh' àireamhan agus gach aon dhiubh a' toirt tuilleadh coitcheannais do dh' [[àireamh]]an.
+
+Tha àireamhan àicheil feumail airson àireimh a chur ri puingean sgèile a thèid fo neoni, mar eisimpleir sgèile theòthachd, agus airson fiachan nochdadh sa [[cunntasachd|chunntasachd]] far a bheil iad air an sgrìobhadh le figearan dearga, no le figearan eadar chamagan.
+
+
+
+==Àireamhan neo-àicheil==
+
+Tha [[àireamh]] '''neo-àicheil''' ma tha i nas mò na, no co-ionnan ri, neoni (.i. àireamh dhearbh no neoni fhèin). Ri linn seo chan eil ciall air a' bhriathar ''neo-àicheil'' am measg [[àireamh cho-fhillte|àireamhan co-fhillte]], ach a bheil iad nam [[fìor-àireamh]]an.  
+
+Tha [[machlag (matamataig)|machlag]] [[fìor-àireamh|fhìor-àireamhan]] '''neo-àicheil''' ma tha gach eileamaid dhith neo-àicheil. Tha machlag '''làn-neo-àicheil''' ma tha [[detèirmeanant]] gach fo-mhachlaig ceàrnagaich dhith neo-àicheil cuideachd.
+
+
+
+==Fuincsean an t-Soidhne==
+
+Tha [[fuincsean]] ann thar nam [[fìor-àireamh]]an ris an canar am fuincsean '''signum''' (Laidinn – soidhne), sgn(''x''), far a bheil:
+
+::<math>sgn(x)=\begin{cases}
+ -1, & \mbox{ma tha } x < 0 \\
+ 0   & \mbox{ma tha } x = 0 \\
+ 1   & \mbox{ma tha } x > 0
+\end{cases} </math>
+
+Mur eil <math>x = 0</math>:
+
+::<math>sgn(x) = \frac{x}{|x|} = \frac{|x|}{x} = \frac{d|x|}{x}</math>
+
+far a bheil |''x''| na dhearbh luach ''x''.
+
+ 
+
+==Àireamhachd le àireamhan soidhneach==
+===Cur-ris agus toirt air falbh===
+
+
+
+===Iomadachadh===
+
+
+
+===Roinneadh===
+
+
+
+==Togail foirmeil nan àireamhan àicheil is neo-àicheil==
