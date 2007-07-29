@@ -1,6 +1,6 @@
 [[Image:cur-ris-1.png|right|280px]]
 
-’S e '''cur-ris''' an t-obrachadh [[matamataig|matamataigeach]] a chuireas dà [[àireamh|àireimh]] ri chèile gus an suim a dhèanamh. ’S e sin an [[àireamh]] a tha co-ionnan ris an uimhir gu lèir nuair a chuireas dà uimhir ri chèile.
+’S e '''cur-ris''' an t-obrachadh [[matamataig|matamataigeach]] a chuireas dà [[àireamh|àireimh]] ri chèile gus an t-suim a dhèanamh. ’S e sin an [[àireamh]] a tha co-ionnan ris an uimhir gu lèir nuair a chuireas dà uimhir ri chèile.
 
 Tha an t-obrachadh air a sgrìobhadh leis a’ chomharra “+” eadar an dà àireimh a thathar a’ cur-ris, mar eisimpleir:
 ::3 + 4.
@@ -138,7 +138,7 @@ Far a bheil:
 
 ::<math> \mathbf{a} + \mathbf{b} = (x_a + x_b) \hat{\mathbf{x}} + (y_a + y_b) \hat{\mathbf{y}} </math>
 
-Gabhar faicinn gum faighear an aon bhuil ma tha an dà [[bheactar]] <math> \mathbf{a} </math> agus <math> \mathbf{b} </math> air an cur ceann gu ceann. ’S e an suim aca am bheactar a tha a’ coileanadh an [[triantan|triantain]] – am bheactar bho thoiseach <math> \mathbf{a} </math> gu deireadh <math> \mathbf{b} </math>. 
+Gabhar faicinn gum faighear an aon bhuil ma tha an dà [[bheactar]] <math> \mathbf{a} </math> agus <math> \mathbf{b} </math> air an cur ceann gu ceann. ’S e an t-suim aca am bheactar a tha a’ coileanadh an [[triantan|triantain]] – am bheactar bho thoiseach <math> \mathbf{a} </math> gu deireadh <math> \mathbf{b} </math>. 
 
 [[Image:bheactar-2.png]]
 
