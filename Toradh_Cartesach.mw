@@ -1,0 +1,32 @@
+Air ainmeachadh air [[René Descartes]], am [[matamataiche]] Frangach, 's e an '''toradh Cartesach''' dà [[àlach|àlaich]] '''A''' agus '''B''', an t-àlach '''C''' anns am bi a h-uile paidhir òrdaichte nan eileamaidean de '''A''' agus '''B'''. Tha '''toradh Cartesach''' air a sgrìobhadh: '''C''' = '''A''' × '''B''', agus ma tha '''A''' = { ''a'', ''b'' } agus '''B''' = { 1, 2, 3 }, 's e '''A''' × '''B''' = { (''a'', 1), (''a'', 2), (''a'', 3), (''b'', 1), (''b'', 2), (''b'', 3) }. Mar as coitchinne, 's e an '''toradh Cartesach''':
+
+::'''A''' × '''B''' = { (''a'', ''b'') : ''a'' ∈ '''A''', ''b'' ∈ '''B''' }
+
+Mas ann crìochach an [[àireamh]] nan eileamaidean anns an dà [[àlach]] (.i. ma tha àireamh chuingealaichte dhiubh), 's urrainnear an '''toradh Cartesach''' a' riochdachadh le clàr anns am bi eileamaidean an dara àlaich nan sreathan agus eileamaidean an àlaich eile nan colbhan agus 's e ceallan a' chlàir nam paidhrichean òrdaichte. 
+
+'S e am plàna co-chomharrach an '''toradh Cartesach''' '''R''' × '''R''', agus 's e '''R''' [[àlach]] nam [[fìor-àireamh]]an. Canaidh sinn [[co-chomharran Cartesach]] ri paidhrichean àireamhan (''x'', ''y'') a riochdaicheas puingean air a’ phlàna, far a bheil:
+
+::'''R''' × '''R''' = { (''x'', ''y'') : ''x'', ''y'' ∈ '''R''' }
+
+Tha na feartan a leanas aig an '''toradh Cartesach''', do dh' [[àlach|àlaichean]] sam bith '''A''', '''B''', '''C''' agus '''D''':
+
+::'''A''' × ∅ = ∅
+::('''A''' × '''B''') ∩ ('''C''' × '''D''') = ('''A''' ∩ '''C''') × ('''B''' ∩ '''D''')
+::('''A''' × '''B''')' = ('''A'''' × '''B'''') ∪ ('''A'''' × '''B''') ∪ ('''A''' × '''B'''')
+
+far a bheil ∅ a' riochdachadh an [[àlach|àlaich]] bhàin agus '''A'''' a' riochdachadh co-phàirt an àlaich '''A''', a thaobh [[àlach]] air choreigin na h-uileachd.
+
+'S urrainnear '''toradh Cartesach''' a' leudachadh do dh' iomadh àlaich:
+
+::'''A'''<sub>1</sub> × '''A'''<sub>2</sub>  × ... × '''A'''<sub>n</sub> = { (''a''<sub>1</sub>, ''a''<sub>2</sub>, ..., ''a''<sub>n</sub>) : ''a''<sub>1</sub> ∈ '''A'''<sub>1</sub> , ''a''<sub>2</sub> ∈ '''A'''<sub>2</sub>, ..., ''a''<sub>n</sub> ∈ '''A'''<sub>n</sub> }
+
+Mar eisimpleir, tha an spàs trì-sheallach, le axes [[fìor-àireamh]]an ''x'', ''y'' agus ''z'', na '''thoradh Cartesach''':
+
+::'''R''' × '''R''' × '''R''' = { (''x'', ''y'', ''z'') : ''x'', ''y'', ''z'' ∈ '''R''' }
+
+agus (''x'', ''y'', ''z'') nan [[co-chomharran Cartesach]].
+
+Far a bheil [[àlach]] a th' ann an '''A''', faodar an toradh Cartesach '''A''' × '''A''' a sgrìobhadh '''A'''<sup>2</sup>, '''A''' × '''A''' × '''A''' a sgrìobhadh '''A'''<sup>3</sup>, agus mar sin air adhart.
+
+
+[[Category:ailseabra]]
