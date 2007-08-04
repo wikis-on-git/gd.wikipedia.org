@@ -35,9 +35,9 @@ agus ’s e loidhne dhìreach ann an spàs ''n''-sheallach a tha:
 ===Bun-bheachdan===
 Tha ailseabra inntrigidh a’ dèiligeadh ri [[àireamh]]an – eileamaidean de dh’ [[àlach]] [[àireamh]]. ’S e '''ailseabra easchruthach''' leudachadh nam bun-smuaintean seo do dh’ àlaichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri àlach eileamaidean sam bith, bithidh iad iomchaidh cuideachd do [[bheactar]]an, do [[machlag|mhachlagan]], do dh’ [[iol-teirmeach|iol-teirmich]], agus an leithid.
 
-Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh càraideach]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil obrachadh càraideach dùinte. ’S e obrachadh càraideach a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho na h-àireamhan 5 agus 3; mar an ceudna ’s e obrachadh càraideach eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
+Thathar a’ leudachadh air bun-bheachdan [[cur-ris]] agus [[iomadachadh|iomadachaidh]] gus '''[[obrachadh càraideach]]''' a dhealbhadh. ’S e seo obrachadh coitcheann air dà eileamaid àlaich a bheireas aon eileamaid den aon àlach. Theirear obrachadh ''dùinte'' ri seo. Bhiodh an t-obrachadh ''fosgailte'' mur eil buil an obrachaidh den aon àlach, ach thathar a’ gabhail ris gu bheil [[obrachadh càraideach]] dùinte. ’S e [[obrachadh càraideach]] a th’ anns a’ chur-ris agus e a’ dèanamh 8 bho na h-àireamhan 5 agus 3; mar an ceudna ’s e [[obrachadh càraideach]] eile a th’ anns an iomadachadh agus e a’ dèanamh 15 bhuapa.
 
-Le obrachadh càraideach, faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na obrachadh càraideach air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
+Le [[obrachadh càraideach]], faodaidh bhith ann aon eileamaid den àlach nach atharraich eileamaid eile. Mar eisimpleir, biodh ''A'' na àlach agus biodh * na [[obrachadh càraideach]] air. Biodh ''a'' agus ''e'' nam buill den àlach (.i. ''a'', ''e'' ∈ ''A''). Ma tha:
 
 ::''a'' * ''e'' = ''a'' 
 
@@ -53,7 +53,7 @@ agus ''e'' na h-eileamaid ionnanachd mar os cionn, ’s e '''eileamaidean iom-th
 ::''x'' × <sup>1</sup>/<sub>''x''</sub> = 1 
 
 
-Faodaidh obrachadh càraideach a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]]. Mas fìor seo, cha toir òrdugh obrachaidh buaidh air a’ bhuil. ’S e seo gu bheil:
+Faodaidh [[obrachadh càraideach]] a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]]. Mas fìor seo, cha toir òrdugh obrachaidh buaidh air a’ bhuil. ’S e seo gu bheil:
 
 ::''a'' * ( ''b'' * ''c'' ) = ( ''a'' * ''b'' ) * ''c''. 
 
