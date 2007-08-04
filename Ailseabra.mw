@@ -65,7 +65,7 @@ agus cha toir òrdugh nan eileamaidean buaidh air a’ bhuil.
 
 ===Grùpaichean===
 
-’S e '''grùpa''' ainm an structair ailseabraich aig a bheil [[àlach]] ''A'' agus obrachadh càraideach * le feartan mar a leanas:
+’S e '''grùpa''' ainm an structair ailseabraich aig a bheil [[àlach]] ''A'' agus [[obrachadh càraideach]] * le feartan mar a leanas:
 * tha an t-obrachadh dùinte: ''a'' * ''b'' ∈ ''A'', ∀ ''a'', ''b'' ∈ ''A''.
 * tha eileamaid ionnanachd ann: ∃ ''e'' ∈ ''A'' : ''a'' * ''e'' = ''e'' * ''a'' = ''a'', ∀ ''a'' ∈ ''A''.
 * tha eileamaid iom-thionndaidh aig gach eileamaid: ∀ ''a'' ∈ ''A'', ∃ ''a''<sup>-1</sup> ∈ ''A'' : ''a'' * ''a''<sup>-1</sup> = ''a''<sup>-1</sup> * ''a'' = ''e''.
@@ -73,7 +73,7 @@ agus cha toir òrdugh nan eileamaidean buaidh air a’ bhuil.
 
 Ma tha an t-obrachadh [[co-iomlaideachd|co-iomlaideach]] cuideachd, ’s e '''grùpa aibèalach''' a th’ ann.
 
-Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-àireamhan àicheil na h-eileamaidean iom-thionndaidh, agus tha suimeadh a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]].
+Mar eisimpleir, ’s e grùpa a tha àlach nan [[slàn-àireamh]]an fon obrachadh [[suimeadh|suimidh]] ([[cur-ris]]). Tha e dùinte chionns gur e [[slàn-àireamh]] a tha buil cur-ris, ’s e neoni an eileamaid ionnanachd, ’s e na h-[[àireamhan àicheil is neo-àicheil|àireamhan àicheil]] na h-eileamaidean iom-thionndaidh, agus tha suimeadh a’ cumail ris an [[co-thiomsachd|lagh cho-thiomsach]].
 
 ===Fàinneachan===
 Ma tha dà ''obrachadh càraideach'' aig ''grùpa'', fear [[suimeadh|suimidh]] ( + ) agus fear [[iomadachadh|iomadachaidh]] ( × ), ’s e '''fàinne''' a chanar ris: 
