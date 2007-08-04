@@ -1,0 +1,67 @@
+'S ann ri [[àlach|àlaichean]] agus na h-obrachaidhean air eileamaidean dheth a tha [[ailseabra]] a' dèiligeadh. Tha i a' rannsachadh nam feartan coitcheann a thèid an tarraing bho na h-obrachaidhean seo gun sùil a thoirt air nàdar mionaideach an [[àlach|àlaich]] no nan obrachaidhean fhèin. Am measg nan obrachaidhean seo, tha '''obrachaidhean càraideach''' air leth cudromach.
+
+'S e obrachadh eadar paidhir (no càraid) eileamaidean den [[àlach]] a mhapas ri eileamaid den aon [[àlach]] a th’ ann an '''obrachadh càraideach''', ach feumaidh seo a bhith fìor do gach eileamaid den àlach. Ann an comharran [[matamataig]], tha an t-obrachadh * càraideach air an [[àlach]] '''A''', ma tha:
+
+::∀ ''x'' ∈ '''A''',   ∀ ''y'' ∈ '''A''',   ''x'' * ''y'' ∈ '''A'''
+
+Mar eisimpleir, 's e '''obrachadh càraideach''' a th’ ann an [[cur-ris]] air [[àlach]] nan [[àireamh nàdarra|àireamhan nàdarra]] '''N''', oir 's e [[àireamh nàdarra]] a th' ann an suim dà àireimh nàdarra, ge b' e air bith na h-[[àireamh]]an a th' air an roghnachadh. Ach chan e '''obrachadh càraideach''' a th' ann an [[toirt air falbh]], oir tha e furasta gu leòr paidhir [[àireamh]]an a roghnachadh nach map do dh' [[àireamh nàdarra|àireimh nàdarra]] fon obrachadh.
+
+::m.e.  5 – 7 =  –2  ∉ '''N'''.
+
+Mur eil buil an obrachaidh na ball den aon [[àlach]], canaidh sinn gu bheil an t-obrachadh ''fosgailte''. Ma tha a' bhuil na ball den àlach, 's e obrachadh ''dùinte'' a th' ann. 'S ann '''dùinte''' a tha obrachadh càraideach. Tha [[toirt air falbh]] na h-obrachadh càraideach air [[àlach]] '''Z''' nan [[slàn-àireamh]]an, agus tha [[cur-ris]], [[toirt air falbh]] agus [[iomadachadh]] nan obrachaidhean càraideach air na [[fìor-àireamh]]an '''R'''. Chan eil [[roinneadh]] na obrachadh càraideach air '''R''' oir chan fhaodar a roinn le neoni.
+
+
+
+==Tuairisgeul foirmeil==
+
+Tha obrachadh càraideach air [[àlach]] '''A''' na [[fuincsean]] a [[mapadh|mhapas]] an [[toradh Cartesach]] '''A''' × '''A''' do '''A'''.
+
+::''f'' : '''A''' × '''A''' → '''A'''
+
+::.i. ∀ (''x'', ''y'') ∈ '''A'''<sup>2</sup>, ∃ ''z'' ∈ '''A''' : ''f''(''x'', ''y'') = ''z''
+
+Mar as cumanta, tha comharra àraidh aig obrachadh càraideach (m.e. +, ×, ∩, 7c.) , mar eisimpleir [[cur-ris]] nan [[slàn-àireamh]]an:
+
+::+ : '''Z''' × '''Z''' → '''Z'''
+::+ (2, 3) = 5
+::+ (- 4, 11) = 7
+
+ged tha e nas cumanta an comharra seo a' sgrìobhadh eadar [[àireamh]]an na càraide:
+
+::2 + 3 = 5
+::- 4 + 11 = 7
+
+No, mas e * an comharra airson obrachaidh choitchinn:
+
+::''a'' * ''b'' = ''c''
+
+
+
+
+===Feartan obrachaidh càraidich===
+
+====Eileamaid ionnanachd====
+
+====Co-iomlaideachd====
+
+====Roinnidheachd====
+
+====Iom-thionndadh====
+
+====Co-thiomsachd====
+
+====Sgaoilidheachd====
+
+==Structairean ailseabrach==
+
+===Magma===
+
+===Leth-ghrùpa agus cuasai-ghrùpa===
+
+===Monaid agus lùb===
+
+===Grùpa===
+
+===Fàinne===
+
+===Raon===
