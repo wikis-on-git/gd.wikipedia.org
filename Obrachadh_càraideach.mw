@@ -4,7 +4,7 @@
 
 ::∀ ''x'' ∈ '''A''',   ∀ ''y'' ∈ '''A''',   ''x'' * ''y'' ∈ '''A'''
 
-Mar eisimpleir, 's e '''obrachadh càraideach''' a th’ ann an [[cur-ris]] air [[àlach]] nan [[àireamh nàdarra|àireamhan nàdarra]] '''N''', oir 's e [[àireamh nàdarra]] a th' ann an suim dà àireimh nàdarra, ge b' e air bith na h-[[àireamh]]an a th' air an roghnachadh. Ach chan e '''obrachadh càraideach''' a th' ann an [[toirt air falbh]], oir tha e furasta gu leòr paidhir [[àireamh]]an a roghnachadh nach map do dh' [[àireamh nàdarra|àireimh nàdarra]] fon obrachadh.
+Mar eisimpleir, 's e '''obrachadh càraideach''' a th’ ann an [[cur-ris]] air [[àlach]] nan [[àireamh nàdarra|àireamhan nàdarra]] '''N''', oir 's e [[àireamh nàdarra]] a th' ann an suim dà àireimh nàdarra, ge b' e air bith na h-[[àireamh]]an a th' air an roghnachadh. Ach chan e '''obrachadh càraideach''' a th' ann an [[toirt air falbh]], oir tha e furasta gu leòr paidhir [[àireamh]]an a roghnachadh nach map ri [[àireamh nàdarra|àireimh nàdarra]] fon obrachadh.
 
 ::m.e.  5 – 7 =  –2  ∉ '''N'''.
 
@@ -14,7 +14,7 @@ Mur eil buil an obrachaidh na ball den aon [[àlach]], canaidh sinn gu bheil an 
 
 ==Tuairisgeul foirmeil==
 
-Tha obrachadh càraideach air [[àlach]] '''A''' na [[fuincsean]] a [[mapadh|mhapas]] an [[toradh Cartesach]] '''A''' × '''A''' do '''A'''.
+Tha obrachadh càraideach air [[àlach]] '''A''' na [[fuincsean]] a [[mapadh|mhapas]] an [[toradh Cartesach]] '''A''' × '''A''' ri '''A'''.
 
 ::''f'' : '''A''' × '''A''' → '''A'''
 
@@ -40,15 +40,88 @@ No, mas e * an comharra airson obrachaidh choitchinn:
 
 ===Feartan obrachaidh càraidich===
 
+Faodaidh feartan àraidh a bhith aig obrachadh càraideach. 'S ann mar as leanas na feartan as cudromach:
+
+
 ====Eileamaid ionnanachd====
+
+Ma tha an làthair eileamaid ''c'' den àlach:
+
+::∀ ''x'' ∈ '''A''', ∃ ''c'' ∈ '''A''' : ''c'' * ''x'' = ''x''
+
+'s e '''eileamaid ionnanachd à clì''' a th' ann an ''c''. Ma tha:
+
+::∀ ''x'' ∈ '''A''', ∃ ''d'' ∈ '''A''' : ''x'' * ''d'' = ''d''
+
+'s e '''eileamaid ionnanachd à deas''' a th' ann an ''d''. 'S e '''eileamaid ionnanachd''' a th' ann an ''e'' ma tha e ionnanachd à clì agus à deas:
+
+::∀ ''x'' ∈ '''A''', ∃ ''e'' ∈ '''A''' : ''e'' * ''x'' = ''x'' * ''e'' = ''x''.
+
+
+
 
 ====Co-iomlaideachd====
 
+Ma tha paidhir eileamaidean ann ''x'' agus ''y'' far a bheil:
+
+::''x'' * ''y'' = ''y'' * ''x''
+
+'s e '''paidhir co-iomlaideach''' a th' ann ''x'' agus ''y''. Ma tha eileamaid ''a'' ann far a bheil, airson gach eileamaid ''x'' den àlach:
+
+::∀ ''x'' ∈ '''A''', ∃ ''a'' ∈ '''A''' : ''a'' * ''x'' = ''x'' * ''a''
+
+'s e '''eileamaid co-iomlaideach''' a th' ann an ''a''. Ma tha e fìor airson a h-uile paidhir eileamaidean den àlach:
+
+::∀ (''x'', ''y'') ∈ '''A'''<sup>2</sup>, ''x'' * ''y'' = ''y'' * ''x''
+
+'s e '''obrachadh co-iomlaideach''' a th' anns an *.
+
+
+
+
+
 ====Roinnidheachd====
+
+Ma tha e fìor airson a h-uile paidhir eileamaid den àlach:
+
+::∀ (''x'', ''y'') ∈ '''A'''<sup>2</sup>, ∃ ''c'' ∈ '''A''' : ''x'' * ''c'' = ''y''
+
+'s e '''so-roinnte à clì''' a th’ anns an obrachadh *. Ma tha e fìor airson a h-uile paidhir eileamaid den àlach:
+
+::∀ (''x'', ''y'') ∈ '''A'''<sup>2</sup>, ∃ ''d'' ∈ '''A''' : ''d'' * ''x'' = ''y''
+
+'s e '''so-roinnte à deas''' a th' anns an obrachadh *. 'S e '''obrachadh roinnidheach''' a th' anns an * ma tha e so-roinnte à clì agus à deas.
+
+::∀ (''x'', ''y'') ∈ '''A'''<sup>2</sup>, ∃ ''e'' ∈ '''A''' : ''x'' * ''e'' = ''e'' * ''x'' = ''y''.
+
+
+
 
 ====Iom-thionndadh====
 
+Ma tha eileamaid ionnanachd ''e'' ann, agus:
+
+::∀ ''x'' ∈ '''A''', ∃ ''y'' ∈ '''A''' : ''x'' * ''y'' = ''e''
+
+'s e '''eileamaidean iom-thionndaidh''' a th' anns an ''x'' agus ''y''.
+
+
+
+
 ====Co-thiomsachd====
+
+Ma tha ''a'', ''w'', ''x'', ''y'' agus ''z'' nam buill den àlach, agus ma tha ''w'' * ''x'' = ''a'' agus ''a'' * ''y'' = ''z''. Faodar a sgrìobhadh:
+
+::(''w'' * ''x'') * ''y'' = ''z''
+
+far a bheil na camagan ( ) a' ciallachadh gum feumar an t-obrachadh a-stigh fhuasgladh ron fhear a-muigh. Nise, ma tha e fìor gu bheil:
+
+::∀ (''x'', ''y'', ''z'') ∈ '''A'''<sup>3</sup>, (''x'' * ''y'') * ''z'' = ''x'' * (''y'' * ''z'')
+
+'s e '''obrachadh co-thiomsach''' a th' anns an *.
+
+
+
 
 ====Sgaoilidheachd====
 
