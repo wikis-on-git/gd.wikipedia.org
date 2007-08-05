@@ -125,16 +125,103 @@ far a bheil na camagan ( ) a' ciallachadh gum feumar an t-obrachadh a-stigh fhua
 
 ====Sgaoilidheachd====
 
+Ma tha dà obrachadh càraideach ann, ⊙ agus ⊕ can, agus ma tha e fìor gu bheil:
+
+::∀ (''x'', ''y'', ''z'') ∈ '''A'''<sup>3</sup>, ''x'' ⊙ ( ''y'' ⊕ ''z'') = (''x'' ⊙ ''y'') ⊕ (''x'' ⊙ ''z'')
+
+Canaidh sinn gu bheil an t-obrachadh ⊙ '''sgaoileach''' air an obrachadh ⊕. 
+
+
+
+
 ==Structairean ailseabrach==
 
 ===Magma===
 
+'S e '''magma''' an t-ainm air [[àlach]] le obrachadh càraideach an lùib. Tha e cumanta seo a sgrìobhadh ('''A''',*) far a bheil '''A''' na [[àlach]] agus * na obrachadh càraideach. 'S e an structair as bunaitich ann an [[ailseabra]] a th' ann am '''magma''' far nach eil riaghailt no feart air a chur às leth an obrachaidh chàraidich aige. Ri linn seo, chan eil mòran ùidh air magma mar thà.
+
+
+
 ===Leth-ghrùpa agus cuasai-ghrùpa===
+
+Ma tha obrachadh càraideach a' mhagma ''[[co-thiomsachd|co-thiomsach]]'', 's e '''leth-ghrùpa''' a th' ann. Mur eil e ''co-thiomsach'' ach ''so-roinnte'', 's e '''cuasai-ghrùpa''' a th' ann.  
+
+
 
 ===Monaid agus lùb===
 
+Ma tha ''eileamaid ionnanachd'' aig leth-ghrùpa (.i. magma co-thiomsach le eileamaid ionnanachd), canaidh sinn '''monaid''' ris; ma tha ''eileamaid ionnanachd'' aig cuasai-ghrùpa, canaidh sinn '''lùb''' ris.
+
+
+
 ===Grùpa===
+
+Far a bheil ''eileamaid iom-thionndaidh'' aig gach eileamaid ''monaid'', 's e '''grùpa''' a th' ann. Agus 's e '''grùpa''' a th' ann cuideachd ma tha ''lùb'' [[co-thiomsachd|co-thiomsach]].
+
+Ma tha obrachadh càraideach a' ghrùpa ''[[co-iomlaideachd|co-iomlaideach]]'', canaidh sinn gur e '''grùpa aibèalach''' a th' ann.
+
+
+
 
 ===Fàinne===
 
+'S e '''fàinne''' a th' ann an structair le dà obrachadh càraideach: a' chiad fhear na ''ghrùpa aibèalach'' 's an dara fear na ''mhonaid'' agus e ''[[sgaoilidheachd|sgaoileach]]'' air a' chiad fhear. Thathar a' smaoineachadh air dà obrachadh chàraideach mar gur e [[cur-ris]] agus [[iomadachadh]] a bhiodh ann. Tha e cumanta "cur-ris" a ràdh ri obrachadh a' ghrùpa aibèalaich agus "iomadachadh" ri obrachadh na monaid, ged sa chuis choitchinn nach biodh riaghailtean cur-ris no iomadachaidh nan àireamhan iomchaidh. Mas e fàinne ('''F''', ⊕, ⊙):
+
+::{|-
+| ∀ (''x'', ''y'', ''z'') ∈ '''F'''<sup>3</sup>, (''x'' ⊕ ''y'') ⊕ ''z'' = ''x'' ⊕ (''y'' ⊕ ''z'') || || ∀ (''x'', ''y'', ''z'') ∈ '''F'''<sup>3</sup>, (''x'' ⊙ ''y'') ⊙ ''z'' = ''x'' ⊙ (''y'' ⊙ ''z'')
+|-
+| ∀ ''x'' ∈ '''F''', ∃ ''e'' ∈ '''F''' : ''e'' ⊕ ''x'' = ''x'' ⊕ ''e'' = ''x'' || || ∀ ''x'' ∈ '''F''', ∃ ''f'' ∈ '''F''' : ''f'' ⊙ ''x'' = ''x'' ⊙ ''f'' = ''x''
+|-
+| ∀ ''x'' ∈ '''F''', ∃ ''y'' ∈ '''F''' : ''x'' ⊕ ''y'' = ''e'' || || ∀ (''x'', ''y'', ''z'') ∈ '''F'''<sup>3</sup>, ''x'' ⊙ ( ''y'' ⊕ ''z'') = (''x'' ⊙ ''y'') ⊕ (''x'' ⊙ ''z'')
+|-
+|∀ (''x'', ''y'') ∈ '''F'''<sup>2</sup>, ''x'' ⊕ ''y'' = ''y'' ⊕ ''x''
+|}
+
+Ma tha an t-obrachadh ⊙ ''[[co-iomlaideachd|co-iomlaideach]]'' cuideachd (.i. ∀ (''x'', ''y'') ∈ '''F'''<sup>2</sup>, ''x'' ⊙ ''y'' = ''y'' ⊙ ''x''), 's e '''fàinne cho-iomlaideach''' a chanar rithe.
+
+
+
 ===Raon===
+
+Mas i fàinne cho-iomlaideach a th’ innte ach 's e grùpa a th' ann an dara obrachadh càraideach cuideachd, 's e '''raon''' a th' againn rithe. Mas e raon  ('''''R''''', ⊕, ⊙):
+
+::{|-
+| ∀ (''x'', ''y'', ''z'') ∈ '''''R'''''<sup>3</sup>, (''x'' ⊕ ''y'') ⊕ ''z'' = ''x'' ⊕ (''y'' ⊕ ''z'') || || ∀ (''x'', ''y'', ''z'') ∈ '''''R'''''<sup>3</sup>, (''x'' ⊙ ''y'') ⊙ ''z'' = ''x'' ⊙ (''y'' ⊙ ''z'')
+|-
+| ∀ ''x'' ∈ '''''R''''', ∃ ''e'' ∈ '''''R''''' : ''e'' ⊕ ''x'' = ''x'' ⊕ ''e'' = ''x'' || || ∀ ''x'' ∈ '''''R''''', ∃ ''f'' ∈ '''''R''''' : ''f'' ⊙ ''x'' = ''x'' ⊙ ''f'' = ''x''
+|-
+| ∀ ''x'' ∈ '''''R''''', ∃ ''y'' ∈ '''''R''''' : ''x'' ⊕ ''y'' = ''e'' || || ∀ ''x'' ∈ '''''R''''', ∃ ''y'' ∈ '''''R''''' : ''x'' ⊙ ''y'' = ''f''
+|-
+|∀ (''x'', ''y'') ∈ '''''R'''''<sup>2</sup>, ''x'' ⊕ ''y'' = ''y'' ⊕ ''x'' || || ∀ (''x'', ''y'') ∈ '''''R'''''<sup>2</sup>, ''x'' ⊙ ''y'' = ''y'' ⊙ ''x''
+|-
+| || || ∀ (''x'', ''y'', ''z'') ∈ '''''R'''''<sup>3</sup>, ''x'' ⊙ ( ''y'' ⊕ ''z'') = (''x'' ⊙ ''y'') ⊕ (''x'' ⊙ ''z'')
+|}
+
+
+
+
+[[Category:ailseabra]]
+
+[[cs:Binární operace]]
+[[da:Binær operator]]
+[[de:Zweistellige Verknüpfung]]
+[[en:Binary operation]]
+[[es:Operación Binaria]]
+[[et:Binaarne tehe]]
+[[eo:Operacio (matematiko)]]
+[[fa:عمل دوتائی]]
+[[fr:Loi de composition interne]]
+[[he:פעולה בינארית]]
+[[hr:Binarna operacija]]
+[[it:Operazione binaria]]
+[[ko:이항연산]]
+[[nl:Binaire operatie]]
+[[ja:二項演算]]
+[[pl:Działanie dwuargumentowe]]
+[[pt:Operação binária]]
+[[ru:Бинарная операция]]
+[[sk:Binárna operácia]]
+[[sr:Бинарна операција]]
+[[sl:Dvočlena operacija]]
+[[sv:Binär operator]]
+[[zh:二元运算]]
