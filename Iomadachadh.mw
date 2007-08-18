@@ -150,5 +150,17 @@ No 's urrainnear an làimhseachadh mar [[bloigh (matamataig)|bhloighean]] cumant
 
 ==Àireamhan co-fhillte==
 
+Gus [[àireamh cho-fhillte|àireamhan co-fhillte]] iomadachadh, 's urrainnear feum a dhèanamh de ''Lagh an Sgaoilidh''. 
+
+::<math> \begin{array}{rcl}
+ (a + ib)(c + id) & = & a(c + id) + ib(c + id) \\
+  & = & (ac - bd) + i(ad + bc)
+\end{array} </math>
+
+Tha e furasta dhearbhadh gur ann [[co-thiomsachd|co-thiomsach]] [[co-iomlaideachd|co-iomlaideach]] a tha iomadachadh àireamhan co-fhillte. Agus gu bheil e sgaoileach thar cur-ris.
+ 
+Tha e nas fhasa àireamhan co-fhillte iomadachadh far a bheil iad nan riochd pòlarach. 
+
+::<math> ae^{i \alpha} \cdot be^{i \beta} = ab \cdot e^{i(\alpha + \beta)} \,</math>
 
 ==Comharradh Π==
