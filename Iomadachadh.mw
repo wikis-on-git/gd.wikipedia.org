@@ -10,6 +10,8 @@ Canar '''factaran''' ris na h-[[àireamh]]an a tha air an iomadachadh (3 agus 2)
 
 'S e roinneadh an t-obrachadh mùiteach ri iomadachadh.
 
+
+
 ==Comharradh iomadachaidh==
 
 Far a bheil àireamhan le figearan, tha iomadachadh air a sgrìobhadh le crasgan claon (×), ach ann an ailseabra tha e ro fhurasta an comharra seo agus an litir ''x'' a mheasgachadh suas. Thathar a' cleachdadh puing togte (∙) eadar na [[caochladair]]ean a thèid an iomadachadh ri linn, no chan eilear a' cleachdadh comharra sam bith:
@@ -19,6 +21,7 @@ Far a bheil àireamhan le figearan, tha iomadachadh air a sgrìobhadh le crasgan
 Chan urrainnear puing thogte a chleachdadh le figearan, oir thèid a leughadh mar phuing dheicheach, agus chan e a chòig uiread a trì ach caogad 's a trì a th' ann an 53.
  
 Anns na h-àrd-chànanan [[coimpiutaireachd]], thèid an reul (*) a chleachdadh. B' e sin an comharra iomadachaidh aig FORTRAN, a' chiad àrd-chànan prògramaidh.
+
 
 
 ==Iomadachadh le àireamhan nàdarra==
@@ -50,6 +53,7 @@ Tha feart àraidh aig àireamh a h-aon. 'S e an aon rud, rud sam bith a th' air 
 ::<math> m \times 1 = 1 + 1 + \cdots + 1 = m \,</math>
 
 Tha briathar sònraichte air [[àireamh]] leis an fheart seo ann an [[ailseabra]]. Canar '''eileamaid ionnanachd''' ris.
+
 
 
 ==Neoni agus na h-àireamhan àicheil==
@@ -89,6 +93,7 @@ agus ma chuirear a h-aon ri gach taobh:
 ::<math> -(-1) = 1 \,</math>
 
 
+
 ==Bloighean==
 
 Tha e furasta thuigsinn ciamar a dh' iomadaicheas [[bloigh (matamataig)|bloigh]] le àireimh shlàin:
@@ -116,6 +121,7 @@ Ma tha dà bhloigh ann:
 Tha na h-''àireamhaichean'' air an iomadachadh le chèile agus na ''seòrsaichean'' air an iomadachadh le chèile agus sin an riaghailt airson dà bhloighe iomadachadh.
 
 
+
 ==Cumhachdan==
 
 Far a bheil [[àireamh]] air iomadachadh le fhèin thathar ag ràdh gu bheil an àireamh togte ri cumhachd. 'S e uiread an iomadachaidh a th' anns a' chumhachd agus tha seo air a sgrìobhadh mar fhor-sgriobta air an àireimh. Mar eisimpleir:
@@ -133,6 +139,7 @@ agus sa choitcheannas:
 Tha seo fìor an ann [[àireamhan àicheil is neo-àicheil|àicheil]] ''m'' no ''n'' no nach ann.
 
 
+
 ==Àireamhan deicheach==
 
 Gus [[àireamh dheicheach|àireamhan deicheach]] iomadachadh, 's urrainnear an atharrachadh do [[slàn-àireamh|shlàn-àireamhan]] air an iomadachadh le deich air a thogail chun cumhachd. Nuair sin, thèid na [[slàn-àireamh]]an an iomadachadh agus na cumhachdan de dheich an iomadachadh fa leth. Mar eisimpleir:
@@ -146,6 +153,7 @@ Gus [[àireamh dheicheach|àireamhan deicheach]] iomadachadh, 's urrainnear an a
 No 's urrainnear an làimhseachadh mar [[bloigh (matamataig)|bhloighean]] cumanta:
 
 ::<math> 3.25 \times 6.173 = \tfrac{325}{100} \times \tfrac{6173}{1000} = \tfrac{2006225}{100000} = 20.06225 \,</math>
+
 
 
 ==Àireamhan co-fhillte==
@@ -163,6 +171,8 @@ Tha e nas fhasa àireamhan co-fhillte iomadachadh far a bheil iad nan riochd pò
 
 ::<math> ae^{i \alpha} \cdot be^{i \beta} = ab \cdot e^{i(\alpha + \beta)} \,</math>
 
+
+
 ==Comharradh Π==
 
 'S urrainnear toradh sreath teirmean a sgrìobhadh leis a' chomharra-thoraidh Π (an litir mòr "pi" bhon [[aibidil]] [[Greugais|Ghreugais]]). 
@@ -174,3 +184,6 @@ Tha e nas fhasa àireamhan co-fhillte iomadachadh far a bheil iad nan riochd pò
 ::<math> \prod_{i=m}^\infty x_i := \lim_{n \rightarrow \infty} \prod_{i = m}^n x_i </math>
 
 Tha an comharra <math>\lim_{n \rightarrow \infty}</math> (bhon [[Beurla|Bheurla]] ''limit'') a' ciallachadh luach-iomaill an toraidh mar a thèid tuilleadh theirmean an cur ris an t-sreath-iomadachaidh.
+
+
+[[category:àireamhachd]]
