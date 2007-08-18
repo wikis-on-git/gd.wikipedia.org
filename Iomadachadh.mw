@@ -1,0 +1,154 @@
+'S e '''iomadachadh''' an t-obrachadh [[àireamhachd]] a tha a' toirt dhuinn na h-uiread de rud sam bith den aon t-seòrsa. Mas e [[àireamh]] a th' ann an rud seo (m.e. 2) agus tha trì uiread dhith:
+
+::<math> 2 + 2 + 2 = 6 \,</math>
+
+tha seo air a sgrìobhadh gu cumanta:
+
+::<math> 3 \times 2 = 6 \,</math>.
+
+Canar '''factaran''' ris na h-[[àireamh]]an a tha air an iomadachadh (3 agus 2) agus an '''toradh''' ri buil an iomadachaidh (6). 'S urrainnear ainmean àraidh a thoirt don dà fhactar fa leth – an '''iomarann''' agus an t-'''iomadair''' – ach chionns gu bheil 3 × 2 = 2 × 3 chan eil e gu diofar cò aca tha na iomarann no na iomadair.
+
+'S e roinneadh an t-obrachadh mùiteach ri iomadachadh.
+
+==Comharradh iomadachaidh==
+
+Far a bheil àireamhan le figearan, tha iomadachadh air a sgrìobhadh le crasgan claon (×), ach ann an ailseabra tha e ro fhurasta an comharra seo agus an litir ''x'' a mheasgachadh suas. Thathar a' cleachdadh puing togte (∙) eadar na [[caochladair]]ean a thèid an iomadachadh ri linn, no chan eilear a' cleachdadh comharra sam bith:
+
+::<math> x \cdot y = xy = x \times y \,</math>
+
+Chan urrainnear puing thogte a chleachdadh le figearan, oir thèid a leughadh mar phuing dheicheach, agus chan e a chòig uiread a trì ach caogad 's a trì a th' ann an 53.
+ 
+Anns na h-àrd-chànanan [[coimpiutaireachd]], thèid an reul (*) a chleachdadh. B' e sin an comharra iomadachaidh aig FORTRAN, a' chiad àrd-chànan prògramaidh.
+
+
+==Iomadachadh le àireamhan nàdarra==
+
+Gabhar ''m'' uiread ''n'' a sgrìobhadh :
+
+::<math> m \times n = \sum_{k=1}^m n = n + n + \cdots + n \qquad</math> (''m'' dhiubh)
+
+agus san dòigh seo 's e geàrr-sgrìobhadh [[cur-ris]] uiread na h-aon àireimh a th' ann an iomadachadh.
+
+::<math> 2 \times 5 = 5 + 5 \,</math>
+::<math> 5 \times 2 = 2 + 2 + 2 + 2 + 2 \,</math>
+::<math> 3 \times m = m + m + m \,</math>
+
+Mar a tha [[cur-ris]] '''[[co-iomlaideachd|co-iomlaideach]]''' agus '''[[co-thiomsachd|co-thiomsach]]''', 's ann a tha iomadachadh.
+	
+::<math> xy = yx \,</math>
+::<math> (xy)z = x(yz) \,</math>
+
+Agus tha trìtheamh feart cudromach ann. Tha iomadachadh '''sgaoileach''' air an obrachadh [[cur-ris|cuir-ris]]. Tha seo a' ciallachadh gu bheil:
+
+::<math> x(y + z) = xy + xz \,</math>
+
+Uaireannan, 's e ''Lagh an Sgaoilidh'' a chanar ri seo.
+
+Tha feart àraidh aig àireamh a h-aon. 'S e an aon rud, rud sam bith a th' air iomadachadh leis a h-aon. 
+
+::<math> 1 \times m = m \,</math>
+::<math> m \times 1 = 1 + 1 + \cdots + 1 = m \,</math>
+
+Tha briathar sònraichte air [[àireamh]] leis an fheart seo ann an [[ailseabra]]. Canar '''eileamaid ionnanachd''' ris.
+
+
+==Neoni agus na h-àireamhan àicheil==
+
+'S e neoni [[àireamh]] sam bith a th' air iomadachadh le [[neoni]].
+
+::<math> 5 \times 0 = 0 + 0 + 0 + 0 + 0 = 0 \,</math>
+
+Agus san aon dòigh, ma tha neoni uiread rud sam bith, chan eil dad ann.
+
+Tha e furasta thuigsinn gu bheil:
+
+::<math> 5 \times -1 = -1 + (-1) + (-1) + (-1) + (-1) = -5 \,</math>
+
+ach dè as ciall do -1 × 5? Faodaidh sinn am feart [[co-iomlaideachd|co-iomlaideach]] a chleachdadh, ma tha sinn cinnteach gu bheil iomadachadh co-iomlaideach le [[àireamhan àicheil is neo-àicheil|àireamhan àicheil]], ach bhiodh e nas fheàrr a dh' fhuasgladh le taic ''Lagh an Sgaoilidh'' mar a leanas:
+
+::<math> -1 \times 5 = (3 - 4) \times 5 = (3 \times 5) - (4 \times 5) = 15 - 20 = -5 \,</math>
+   
+Tha e soilleir cuideachd gu bheil:
+
+::<math> (-1)x = -x = x(-1) \,</math>
+
+Agus ma tha an dà fhactar àicheil:
+
+::<math> (-x)(-y) = (-1)x(-1)y = (-1)(-1)xy = -(-1)xy = xy \,</math>
+
+chionns gur e 1 a th' ann an -(-1). Gus seo a dhearbhadh, smaoinich gu bheil:
+	
+::<math> x - x = 0 \,</math>
+
+agus ma tha ''x'' = -1, gabhar a sgrìobhadh
+ 	
+::<math> -1 - (-1) = 0 \,</math>
+
+agus ma chuirear a h-aon ri gach taobh:
+
+::<math> -(-1) = 1 \,</math>
+
+
+==Bloighean==
+
+Tha e furasta thuigsinn ciamar a dh' iomadaicheas [[bloigh (matamataig)|bloigh]] le àireimh shlàin:
+
+::<math> \begin{array}{rcl}
+ 0 \times \tfrac{1}{7} & = & 0 \\
+ 1 \times \tfrac{1}{7} & = & \tfrac{1}{7} \\
+ 5 \times \tfrac{1}{7} & = & \tfrac{1}{7} + \tfrac{1}{7} + \tfrac{1}{7}+ \tfrac{1}{7} + \tfrac{1}{7} = \tfrac{5}{7} \\
+ -3 \times \tfrac{1}{7} & = &-\tfrac{3}{7}
+\end{array} </math>
+
+Agus san aon dòigh:
+
+::<math> \tfrac{1}{7} \times 5 = \tfrac{1}{7} (1 + 1 + 1 + 1 + 1) = \tfrac{1}{7} + \tfrac{1}{7} + \tfrac{1}{7}+ \tfrac{1}{7} + \tfrac{1}{7} = \tfrac{5}{7} </math>
+
+Ma tha dà bhloigh ann:
+
+::<math> \begin{array}{rcl}
+ \tfrac{a}{b} \times \tfrac{c}{d} & = & \tfrac{1}{b} \times a \times c \times \tfrac{1}{d} \\
+ & = & \tfrac{1}{b} \times ac \times \tfrac{1}{d} = \tfrac{1}{b} \times \tfrac{ac}{d} \\
+ & = & \tfrac{1}{b} \times \tfrac{bac}{bd} = \tfrac{1}{b} \times b \times \tfrac{ac}{bd} \\
+ & = & \tfrac{ac}{bd}
+\end{array} </math>
+
+Tha na h-''àireamhaichean'' air an iomadachadh le chèile agus na ''seòrsaichean'' air an iomadachadh le chèile agus sin an riaghailt airson dà bhloighe iomadachadh.
+
+
+==Cumhachdan==
+
+Far a bheil [[àireamh]] air iomadachadh le fhèin thathar ag ràdh gu bheil an àireamh togte ri cumhachd. 'S e uiread an iomadachaidh a th' anns a' chumhachd agus tha seo air a sgrìobhadh mar fhor-sgriobta air an àireimh. Mar eisimpleir:
+
+::<math> x^5 = x \cdot x \cdot x \cdot x \cdot x \qquad \qquad x^3 = x \cdot x \cdot x \,</math>
+
+Tha e soilleir gu bheil:
+
+::<math> x^5 \cdot x^3 = (x \cdot x \cdot x \cdot x \cdot x) \cdot (x \cdot x \cdot x) = x^8 \,</math>
+
+agus sa choitcheannas:
+
+::<math> x^m \cdot x^n = x^{m+n} \,</math>
+
+Tha seo fìor an ann [[àireamhan àicheil is neo-àicheil|àicheil]] ''m'' no ''n'' no nach ann.
+
+
+==Àireamhan deicheach==
+
+Gus [[àireamh dheicheach|àireamhan deicheach]] iomadachadh, 's urrainnear an atharrachadh do [[slàn-àireamh|shlàn-àireamhan]] air an iomadachadh le deich air a thogail chun cumhachd. Nuair sin, thèid na [[slàn-àireamh]]an an iomadachadh agus na cumhachdan de dheich an iomadachadh fa leth. Mar eisimpleir:
+
+::<math> \begin{array}{rcl}
+ 3.25 \times 6.173 & = & 325 \times 10^{-2} \times 6173 \times 10^{-3} \\
+ & = & 2006225 \times 10^{-5} \\
+ & = & 20.06225 
+\end{array} </math>
+ 
+No 's urrainnear an làimhseachadh mar [[bloigh (matamataig)|bhloighean]] cumanta:
+
+::<math> 3.25 \times 6.173 = \tfrac{325}{100} \times \tfrac{6173}{1000} = \tfrac{2006225}{100000} = 20.06225 \,</math>
+
+
+==Àireamhan co-fhillte==
+
+
+==Comharradh Π==
