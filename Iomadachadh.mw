@@ -164,3 +164,13 @@ Tha e nas fhasa àireamhan co-fhillte iomadachadh far a bheil iad nan riochd pò
 ::<math> ae^{i \alpha} \cdot be^{i \beta} = ab \cdot e^{i(\alpha + \beta)} \,</math>
 
 ==Comharradh Π==
+
+'S urrainnear toradh sreath teirmean a sgrìobhadh leis a' chomharra-thoraidh Π (an litir mòr "pi" bhon [[aibidil]] [[Greugais|Ghreugais]]). 
+
+::<math> \prod_{i = m}^n x_i = x_m x_{m+1} x_{m+2} \cdots x_{n-1} x_n \, </math>
+
+'S e ''caochladair brèige'' a th' ann an ''i'' agus e a' gabhail gach luach bho ''m'' gu ''n''. Faodaidh sreath den t-seòrsa a' sìneadh gu [[eicrioch]], ged nach biodh seagh aice mur eil toradh a' chiad ''n'' teirmean ag aomadh gu luach crìochach mar a dh' fhàsas ''n'' gun crìoch. 'S e sin:
+
+::<math> \prod_{i=m}^\infty x_i := \lim_{n \rightarrow \infty} \prod_{i = m}^n x_i </math>
+
+Tha an comharra <math>\lim_{n \rightarrow \infty}</math> (bhon [[Beurla|Bheurla]] ''limit'') a' ciallachadh luach-iomaill an toraidh mar a thèid tuilleadh theirmean an cur ris an t-sreath-iomadachaidh.
