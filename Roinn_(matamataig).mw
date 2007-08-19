@@ -1,0 +1,67 @@
+'S e '''roinn'''  (no '''roinneadh'''), obrachadh na h-[[àireamhachd]] a tha mùiteach ri [[iomadachadh]]. Gus seo a chur an cèill gu sònraichte, mas e ''a'' a ni ''c'' uairean de ''b'':
+
+::<math> c \times b = a \,</math>
+
+'s e ''c'' a th' ann ma tha ''a'' air a roinn le ''b'', mur eil [[neoni]] a th' ann am ''b'':
+
+::<math> \frac{a}{b} = c \,</math>
+
+Anns a' cho-aontar seo, 's e an '''duais-roinn''' a th' anns an ''a'', an '''roinniche''' a th' anns a' ''b'' agus an '''roinn-àireamh''' a th' anns an ''c''.
+ 
+Chan eil mìneachadh air a thoirt do [[roinn le neoni]].
+
+
+
+==Comharrachadh==
+
+Thèid roinneadh a sgrìobhadh gu cumanta leis an ''duais-roinn'' os cionn an ''roinniche'' agus loidhne còmhnard eatarra. Mar eisimpleir sgrìobhte ''a'' air a roinn le ''b'' mar:
+
+:: <math> \frac{a}{b} \,</math>
+
+Airson an roinnidh a sgrìobhadh san aon loidhne, mar eisimpleir anns a' chlò, tha an ''duais-roinn'' air a dealachadh bhon ''roinniche'' le sgoradh ( / ) mar seo:
+
+::<math> a/b \, </math>
+
+Tha an dòigh seo cumanta ann an iomadh [[cànan prògramaidh]]. 
+
+Tha comharra sònraichte aig roinneadh ( ÷ ) ged nach eil e air a chleachdadh gu cumanta ach san [[àireamhachd]] shìmplidh:
+	
+::<math> a \div b  \,</math>
+
+
+
+==Roinneadh àireamhan slàn==
+
+Mar a tha [[iomadachadh]] na ath-[[cur-ris|chur-ris]] na h-iomarann, 's e ath-[[toirt air falbh|thoirt air falbh]] an roinniche bhon duais-roinn a th' ann an roinneadh. Mas e àireamhan slàn a th' anns an duais-roinn agus an roinniche, bithidh an dà shuidheachadh ann:
+
+* faodar an roinniche a thoirt air falbh gus nach eil dad den duais-roinn air fàgail,
+
+::m.e. 	<math> 9 - 3 - 3 - 3 = 0 \,</math>
+
+* faodar an roinniche a thoirt air falbh bhon duais-roinn gus na tha air fhàgail nas lugha na an roinniche. 
+
+::m.e.	<math> 11 - 3 - 3 - 3 = 2 \,</math>
+
+Anns a' chiad chùis os cionn, canaidh sinn gu bheil an duais-roinn '''so-roinnte''' (slàn) le 3. Anns an dara chùis, tha 2 air fhàgail an dèidh do 11 air an roinn le 3. Canaidh sinn an '''còrr''' ris na tha air fhàgail den duais-roinn an dèidh a roinnidh leis an roinniche, agus faodar an roinn-àireamh agus an còrr a thoirt mar buil an roinnidh: 
+
+:: <math> 11/3 = 3 \mbox{, agus } 2 \mbox{ an corr.}\, </math>
+
+Tha e nas cumanta, ge-tà, buil an roinnidh a thoirt mar àireamh mheasgaichte no àireamh dheicheach:
+
+::<math> 11/3 = 3 \tfrac{2}{3} = 3.667 \,</math>
+
+
+
+==Roinneadh àireamhan coimeasta==
+
+
+
+==Roinneadh fìor-àireamhan==
+
+
+
+==Roinneadh àireamhan co-fhillte==
+
+
+
+[[Category:àireamhachd]]
