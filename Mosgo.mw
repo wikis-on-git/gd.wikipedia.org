@@ -1,57 +1,31 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''   Москва '''
-</font><br /><font size="+1">  
-'' Moscow ''  
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" |[[Image: Coat of Arms of Moscow.png|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Moscow In Europe.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 1081 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 12,622.000  <small>(2007)</small>
-|-
-| [[Dlùths]]
-| 9684.5/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| +7 495;
-|-
-| Duilleag oifigeal          
-|[http://www.mos.ru/ www.mos.ru]
-|}
-
-
-
-
-'S e '''Moscobha''' am [[prìomh-bhaile]] agus am baile as motha anns [[an Ruis ]].
+{{Template:Baile
+  | AINM =  Москва<br>Moscow
+  | BRATACH = Flag of moscou.png
+  | LÙIREACH = Coat of Arms of Moscow.png
+  | LÙIREACH_WIDTH = 80
+  | MAP = Moscow In Europe.png
+  | DÙTHAICH = [[an Ruis]]
+  | CEÀRN = 
+  | SGÌRE = 
+  | LATITUDE = 55° 46' Tuath
+  | LONGITUDE =  37° 40' Ear
+  | ÀRAINN = 1081
+  | SHLUAIGH = 12622000
+  | BLIADHNA = 2007
+  | FON = +7 495
+  | DUILLEAG = [http://www.mos.ru/ www.mos.ru]
+ }}
+'S e '''Moscobha''' am [[prìomh-bhaile]] agus am baile as motha anns [[an Ruis]].
 
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
 
-[[Image: StBasile SpasskayaTower Red Square Moscow.hires.jpg|250px|left]]
-
+[[Image: StBasile SpasskayaTower Red Square Moscow.hires.jpg|250px|left|thumb|St. Basile agus Spasskaya Tower, Red Square, Moscobha]]
 
 
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
 [[de:Moskau]]
 [[en:Moscow]]
