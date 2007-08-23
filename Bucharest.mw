@@ -1,57 +1,31 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>
-'''    Bucharest '''
-</font><br /><font size="+1">  
-'' Bucureşti ''  
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |
-| align="center" width="140px" |[[Image:Stema municipiu bucuresti.png|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:Romania map modern.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 228 km&sup2;
-|-
-| [[Àireamh shluaigh]] 
-| 1,940,500 <small>(2005)</small>
-|-
-| [[Dlùths]]
-| 8510/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| +40 21
-|-
-| Duilleag oifigeal          
-|[http://www.pmb.ro/ www.pmb.ro]
- |}
+{{Template:Baile
+  | AINM = Bucureşti<br>Bucharest
+  | BRATACH = Flag of Bucharest.png
+  | LÙIREACH = Stema municipiu bucuresti.png
+  | LÙIREACH_WIDTH = 60
+  | MAP = Bucuresti-localization.png
+  | DÙTHAICH = [[Romàinia]]
+  | CEÀRN = 
+  | SGÌRE = 
+  | LATITUDE = 44°26′7″ Tuath
+  | LONGITUDE = 26°6′10″ Ear
+  | ÀRAINN = 228
+  | SHLUAIGH = 1940500
+  | BLIADHNA = 2007
+  | FON = +40 21
+  | DUILLEAG = [http://www.pmb.ro/ www.pmb.ro]
+ }}
 
-
-
-
-Tha Bucharest na [[prìomh-bhaile]] agus am baile as motha anns an [[Romàinia]].
+Tha '''Bucharest''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Romàinia]].
 
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
 
-[[Image:Bucharest-Skyline-M1.jpg|250px|left]]
-
-
+[[Image:Bucharest-Skyline-M1.jpg|250px|thumb|left|Bucharest ]]
 
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
 [[de:Bukarest]]
 [[en:Bucharest]] 
