@@ -1,51 +1,32 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Tallinn '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Tallinn.svg|125px]]
-| align="center" width="140px" |[[Image: Tallinn greater coatofarms.png|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Tallinn_location.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 159.2 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 400 200 <small>(2007)</small>
-|-
-| [[Dlùths]]
-| 2506.9/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| 
-|-
-| Duilleag oifigeal          
-|[http://www.tallinn.ee www.tallinn.ee]
-|}
-
-
-Tha ''' Tallinn ''' na [[prìomh-bhaile]] agus am baile as motha anns  [[An  Eastoinia]].
+{{Template:Baile
+  | AINM = Tallinn
+  | BRATACH = Flag of Tallinn.svg
+  | LÙIREACH = Tallinn greater coatofarms.png
+  | LÙIREACH_WIDTH = 60
+  | MAP = Tallinn_location.png
+  | DÙTHAICH = [[an  Eastoinia]].
+  | CEÀRN = Harju
+  | SGÌRE = 
+  | LATITUDE = 59°26′ Tuath
+  | LONGITUDE =24°45′Ear 
+  | ÀRAINN = 159.2
+  | SHLUAIGH = 400200
+  | BLIADHNA = 2007
+  | FON = 
+  | DUILLEAG = [http://www.tallinn.ee www.tallinn.ee]
+ }}
+Tha ''' Tallinn ''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha anns  [[an  Eastoinia]]. Tha e na laighe aig a' [[Muir Baltach|Mhuir Baltach]].
 
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
 
-[[Image:Tallinn-hafen.jpg|Left|250px|Tallinn vom Hafen aus]]
+[[Image:Tallinn-hafen.jpg|280px|thumb|left|Tallinn]]
 
+[[category: Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
+
 
 [[da:Tallinn]]
 [[en:Tallinn]]
