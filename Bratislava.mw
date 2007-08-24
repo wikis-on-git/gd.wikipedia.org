@@ -1,40 +1,20 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Bratislava '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Bratislava.svg|125px]]
-| align="center" width="140px" |[[Image: Bratislava erb.jpg|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Map slovakia bratislava.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 367.584 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 425,459 <small>(2005)</small>
-|-
-| [[Dlùths]]
-| 1157/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| +421-2
-|-
-| Duilleag oifigeal          
-|[http://www.bratislava.sk/en/ City of Bratislava]
-|}
-
-
+{{Template:Baile
+  | AINM = Bratislava
+  | BRATACH = Flag of Bratislava.svg
+  | LÙIREACH = Bratislava erb.jpg
+  | LÙIREACH_WIDTH = 90
+  | MAP = Map slovakia bratislava.png
+  | DÙTHAICH = [[Slobhaigia]]
+  | CEÀRN = Bratislavský kraj
+  | SGÌRE = 
+  | LATITUDE = 48° 9′ Tuath,
+  | LONGITUDE = 17° 9′ Ear
+  | ÀRAINN = 367
+  | SHLUAIGH = 425460
+  | BLIADHNA = 2005
+  | FON = +421-2
+  | DUILLEAG = |[http://www.bratislava.sk/en/ City of Bratislava]
+ }}
 Tha ''' Bratislava ''' na [[prìomh-bhaile]] agus am baile as motha ann an [[Slobhaigia]].
 
 
@@ -42,12 +22,11 @@ Tha ''' Bratislava ''' na [[prìomh-bhaile]] agus am baile as motha ann an [[Slo
 *[[Prìomh-Bhailtean]]
 
 
-[[Image: Bratislava View From Petrzalka Old City Part.jpg|250px|left]]
+[[Image: Bratislava View From Petrzalka Old City Part.jpg|250px|left|thumb|Seann bhaile Bratislava]]
 
-
-
+[[Category: Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
+
 
 [[de:Bratislava]]
 [[en:Bratislava]]
