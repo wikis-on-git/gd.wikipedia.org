@@ -1,56 +1,33 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>
-'''    Київ '''
-</font><br /><font size="+1">  
-'' Kyiv ''  
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Kyiv flag.png|125px]]
-| align="center" width="140px" |[[Image: Kiew-city-COA.PNG|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image:Map of Ukraine political simple city Kiew.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 839 km&sup2;
-|-
-| [[Àireamh shluaigh]] 
-| 2.455.900<small>(2006)</small>
-|-
-| [[Dlùths]]
-| 2.927,18/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| ++380 44
-|-
-| Duilleag oifigeal          
-|http://www.kmr.gov.ua
-|}
+{{Template:Baile
+  | AINM = Kyiv
+  | BRATACH = Kyiv flag.png
+  | LÙIREACH = Kiew-city-COA.PNG
+  | LÙIREACH_WIDTH = 60
+  | MAP = Map of Ukraine political simple city Kiew.png
+  | DÙTHAICH = [[an Ùcrain]]
+  | CEÀRN = Oblast Kiew
+  | SGÌRE = 
+  | LATITUDE = 50° 27' Tuath
+  | LONGITUDE = 30° 30' Ear
+  | ÀRAINN = 839
+  | SHLUAIGH = 2455900
+  | BLIADHNA = 2006
+  | FON = +380 44
+  | DUILLEAG = http://www.kmr.gov.ua
+ }}
+Tha '''Kiev''' na [[prìomh-bhaile|phrìomh-baile]] agus am baile as motha anns [[an Ùcrain]].Tha e na laighe ri taobh na h-aibhne  ''Dnepr'' ([[ucranais]]: Dnipro/Дніпро).
 
-
-
-
-Tha '''Kiev''' na [[prìomh-bhaile]] agus am baile as motha anns [[an Ùcrain]].
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
-[[Image:Kiev Sofiakathedraal.jpg|250px|left]]
+[[Image:Kiev Sofiakathedraal.jpg|250px|left|thumb|Àrd-eaglais Sophia]]
 
-[[Image:Kiev Pechersk Lavra (General).jpg|250px|left]]
+[[Image:Kiev Pechersk Lavra (General).jpg|250px|left|thumb|Kiev]]
 
-
+[[category:Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
+
 
 [[da:Kiev]]
 [[de:Kiew]]
