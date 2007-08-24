@@ -18,13 +18,13 @@ Thèid roinneadh a sgrìobhadh gu cumanta leis an ''duais-roinn'' os cionn an ''
 
 :: <math> \frac{a}{b} \,</math>
 
-Airson an roinnidh a sgrìobhadh san aon loidhne, mar eisimpleir anns a' chlò, tha an ''duais-roinn'' air a dealachadh bhon ''roinniche'' le sgoradh ( / ) mar seo:
+Airson na roinnidh a sgrìobhadh san aon loidhne, mar eisimpleir anns a' chlò, tha an ''duais-roinn'' air a dealachadh bhon ''roinniche'' le sgoradh ( / ) mar seo:
 
 ::<math> a/b \, </math>
 
 Tha an dòigh seo cumanta ann an iomadh [[cànan prògramaidh]]. 
 
-Tha comharra sònraichte aig roinneadh ( ÷ ) ged nach eil e air a chleachdadh gu cumanta ach san [[àireamhachd]] shìmplidh:
+Tha comharra sònraichte aig roinnidh ( ÷ ) ged nach eil e air a chleachdadh gu cumanta ach san [[àireamhachd]] shìmplidh:
 	
 ::<math> a \div b  \,</math>
 
@@ -32,7 +32,7 @@ Tha comharra sònraichte aig roinneadh ( ÷ ) ged nach eil e air a chleachdadh g
 
 ==Roinneadh àireamhan slàn==
 
-Mar a tha [[iomadachadh]] na ath-[[cur-ris|chur-ris]] na h-iomarann, 's e ath-[[toirt air falbh|thoirt air falbh]] an roinniche bhon duais-roinn a th' ann an roinneadh. Mas e àireamhan slàn a th' anns an duais-roinn agus an roinniche, bithidh an dà shuidheachadh ann:
+Mar a tha [[iomadachadh]] na ath-[[cur-ris|chur-ris]] na h-iomarann, 's e ath-[[toirt air falbh|thoirt air falbh]] an roinniche bhon duais-roinn a th' ann an roinnidh. Mas e àireamhan slàn a th' anns an duais-roinn agus an roinniche, bithidh an dà shuidheachadh ann:
 
 * faodar an roinniche a thoirt air falbh gus nach eil dad den duais-roinn air fàgail,
 
@@ -42,11 +42,11 @@ Mar a tha [[iomadachadh]] na ath-[[cur-ris|chur-ris]] na h-iomarann, 's e ath-[[
 
 ::m.e.	<math> 11 - 3 - 3 - 3 = 2 \,</math>
 
-Anns a' chiad chùis os cionn, canaidh sinn gu bheil an duais-roinn '''so-roinnte''' (slàn) le 3. Anns an dara chùis, tha 2 air fhàgail an dèidh do 11 air an roinn le 3. Canaidh sinn an '''còrr''' ris na tha air fhàgail den duais-roinn an dèidh a roinnidh leis an roinniche, agus faodar an roinn-àireamh agus an còrr a thoirt mar buil an roinnidh: 
+Anns a' chiad chùis os cionn, canaidh sinn gu bheil an duais-roinn '''so-roinnte''' (slàn) le 3. Anns an dara chùis, tha 2 air fhàgail an dèidh do 11 air a roinn le 3. Canaidh sinn an '''còrr''' ris na tha air fhàgail den duais-roinn an dèidh a roinnidh leis an roinniche, agus faodar an roinn-àireamh agus an còrr a thoirt mar buil na roinnidh: 
 
-:: <math> 11/3 = 3 \mbox{, agus } 2 \mbox{ an corr.}\, </math>
+:: <math> 11/3 = 3 \,</math> , agus <math> 2 \,</math>  an còrr.
 
-Tha e nas cumanta, ge-tà, buil an roinnidh a thoirt mar àireamh mheasgaichte no àireamh dheicheach:
+Tha e nas cumanta, ge-tà, buil na roinnidh a thoirt mar àireamh mheasgaichte no àireamh dheicheach:
 
 ::<math> 11/3 = 3 \tfrac{2}{3} = 3.667 \,</math>
 
@@ -54,14 +54,69 @@ Tha e nas cumanta, ge-tà, buil an roinnidh a thoirt mar àireamh mheasgaichte n
 
 ==Roinneadh àireamhan coimeasta==
 
+Faodar buil roinneadh dà [[àireamh choimeasta|àireimh coimeasta]] a shàr-mhìneachadh mar a leanas:
+
+::<math> \frac{p / q}{r / s} = \frac{p \times s}{q \times r} </math>
+
+far a bheil ''p'', ''q'', ''r'' agus ''s'' nan [[slàn-àireamh]]an agus chan fhaod ach ''p'' a bhith co-ionnan ri [[neoni]]. Tha an sàr-mhìneachadh seo a' dèanamh cinnteach gur e obrachadh mùiteach [[iomadachadh|iomadachaidh]] a th' ann an roinnidh. 
+
+Tha obrachadh na roinnidh ''dùinte'' ann an [[àlach]] nan [[àireamh choimeasta|àireamhan coimeasta]]. 'S e sin ri ràdh gur h-e àireamh choimeasta a th' anns gach roinn-àireimh bho roinneadh àireamhan coimeasta. Tha obrachadh na roinnidh ''fosgailte'' ann an [[àlach]] nan [[slàn-àireamh]]an oir tha roinn-àireamhan ann nach eil nan slàn-àireamhan mar os cionn.
 
 
 ==Roinneadh fìor-àireamhan==
+
+Faodar roinneadh [[fìor-àireamh]]an a shàr-mhìneachadh mar obrachadh mùiteach ri [[iomadachadh]]:
+
+::<math> \frac{a}{b} = c \Leftrightarrow  a = bc, \forall a,b,c \in \mathbb{R}, b \ne 0 </math>
+
 
 
 
 ==Roinneadh àireamhan co-fhillte==
 
+Gus dà [[àireamh cho-fhillte|àireimh cho-fhillte]] a roinn, dèan [[fìor-àireamh]] den roinniche le bhith ag [[iomadachadh]] leis an àireimh cho-chuingichte:
+
+::<math> \frac{a+ib}{c+id} = \frac{a+ib}{c+id} \cdot \frac{c-id}{c-id} = \frac{(ac+bd)+i(bc-ad)}{(c^2 + d^2) } = \left (\frac{ac+bd}{c^2+d^2} \right )+i \left ( \frac{bc-ad}{c^2+d^2} \right )</math>
+
+'S e [[fìor-àireamh]]an a th' ann an ''a'', ''b'', ''c'' agus ''d'' ach chan fhaod an dà rud ''c'' agus ''d'' a bhith co-ionnan ri neoni.
+
+Ma tha na h-àireamhan co-fhillte an riochd pòlarach:
+
+::<math> \frac{ae^{i\alpha}}{be^{i\beta}} = \frac{a}{b} e^{i(\alpha - \beta)}</math>
+
+...agus a-rithist chan fhaod ''b'' a bhith co-ionnan ri neoni.
 
 
 [[Category:àireamhachd]]
+
+[[bg:Деление]]
+[[ca:Divisió]]
+[[cs:Dělení]]
+[[cy:Rhannu (mathemateg)]]
+[[da:Division (matematik)]]
+[[de:Division (Mathematik)]]
+[[en:Division (mathematics)]]
+[[es:División (matemática)]]
+[[eo:Divido (matematiko)]]
+[[fr:Division]]
+[[ko:나눗셈]]
+[[is:Deiling]]
+[[it:Divisione (matematica)]]
+[[nl:Delen]]
+[[ja:除法]]
+[[no:Divisjon (matematikk)]]
+[[pl:Dzielenie]]
+[[pt:Divisão]]
+[[qu:Rakiy]]
+[[ru:Деление (математика)]]
+[[simple:Division]]
+[[sk:Delenec]]
+[[sl:Deljenje]]
+[[sr:Дељење]]
+[[fi:Jakolasku]]
+[[sv:Division (matematik)]]
+[[tl:Dibisyon]]
+[[ta:வகுத்தல் (கணிதம்)]]
+[[th:การหาร]]
+[[ur:تقسیم (ریاضی)]]
+[[zh:除法]]
