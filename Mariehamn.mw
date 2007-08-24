@@ -1,42 +1,20 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Mariehamns stad '''
-</font><br /><font size="+1">  
-'' Mariehamn ''  
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" |[[Image:Maarianhaminan vaakuna.png|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Location of Mariehamn in Finland.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 11.60 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 10,822 <small>(2006)</small>
-|-
-| [[Dlùths]]
-| 932.9 /km&sup2;
-|-
-| Duilleag oifigeal          
-|[http://www.mariehamn.ax/ http://www.mariehamn.ax/]
-|}
-
-
-
-
-Tha ''' Mariehamn ''' na [[prìomh-bhaile]] agus am baile as motha ann an [[Åland]].
+{{Template:Baile
+  | AINM = Mariehamns stad<br>Mariehamn
+  | LÙIREACH = Maarianhaminan vaakuna.png
+  | LÙIREACH_WIDTH = 90
+  | MAP = Location of Mariehamn in Finland.png
+  | DÙTHAICH = [[Åland]]
+  | CEÀRN = 
+  | SGÌRE = 
+  | LATITUDE = 60° 6′ 0" Tuath 
+  | LONGITUDE = 19° 55′ 17" Ear
+  | ÀRAINN = 11.60
+  | SHLUAIGH = 10822
+  | BLIADHNA = 2007
+  | FON = 
+  | DUILLEAG = [http://www.mariehamn.ax www.mariehamn.ax]
+ }}
+Tha ''' Mariehamn ''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Åland]].
 Tha an darna leth de na daoine às an eilean a’ fuireach an seo.
 
 ==Aistean co-cheangailte==
@@ -44,17 +22,36 @@ Tha an darna leth de na daoine às an eilean a’ fuireach an seo.
 
 [[Image:Aaland 1.jpg|thumb|left|250px|Port Mariehamn]]
 
-
-
+[[category:Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
-[[cs:Ålandy]]
-[[da:Ålandsøerne]]
-[[de:Åland]]
-[[et:Ahvenamaa]]
-[[es:Åland]]
-[[eo:Alando]]
-[[eu:Aland Uharteak]]
-[[fo:Áland]]
-[[fr:Åland]]
+[[ca:Mariehamn]]
+[[cs:Mariehamn]]
+[[da:Mariehamn]]
+[[de:Mariehamn]]
+[[en:Mariehamn]]
+[[es:Mariehamn]]
+[[et:Mariehamn]]
+[[eu:Mariehamn]]
+[[fi:Maarianhamina]]
+[[fr:Mariehamn]]
+[[fy:Mariehamn]]
+[[hu:Mariehamn]]
+[[id:Mariehamn]]
+[[is:Maríuhöfn]]
+[[ja:マリエハムン]]
+[[la:Portus Mariae]]
+[[nl:Mariehamn]]
+[[nn:Mariehamn]]
+[[no:Mariehamn]]
+[[nov:Mariehamn]]
+[[pl:Maarianhamina]]
+[[pt:Mariehamn]]
+[[ro:Mariehamn]]
+[[ru:Мариехамн]]
+[[se:Mariehamn]]
+[[sk:Mariehamn]]
+[[sr:Мариехамн]]
+[[sv:Mariehamn]]
+[[tr:Mariehamn]]
+[[zh:玛丽港]]
