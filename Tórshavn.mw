@@ -1,49 +1,27 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Tórshavn '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" |[[Image:Torshavn-logo.png|120px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[Image:Map-position-torshavn-kommuna-2005.png|120px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 158 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-|  12.573 <small>(2005)</small>
-|-
-| [[Dlùths]]
-| 116/km&sup2;
-|-
-| Duilleag oifigeal          
-|[http://www.torshavn.fo Torshavn.fo]
-|}
+{{Template:Baile
+  | AINM = Tórshavn
+  | LÙIREACH = Torshavn-logo.png
+  | LÙIREACH_WIDTH = 80
+  | MAP = Map-position-torshavn-kommuna-2005.png
+  | DÙTHAICH = [[na h-Eileanan Farach]]
+  | CEÀRN = 
+  | SGÌRE = Tórshavnar kommuna
+  | LATITUDE = 62°0′ Tuath
+  | LONGITUDE =46′3″ Ear
+  | ÀRAINN = 158
+  | SHLUAIGH = 12573
+  | BLIADHNA = 2005
+  | FON = 
+  | DUILLEAG = [http://www.torshavn.fo Torshavn.fo]
+ }}
 
-
-
-Tha ''' Tórshavn ''' ([[IPA]]: tʰɶrshaun), ainm goirid: ''Havn''
-na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha anns [[na h-Eileanan Farach]]. Tha ainm a’ bhaile a’ ciallachadh: ''Thor's Harbour''. Anns an fhionn-sgeul tha Thor na dhia de tàirneanach agus dealanach.
-
-
+Tha ''' Tórshavn ''' ([[IPA]]: tʰɶrshaun), ainm goirid: ''Havn'', na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha anns [[na h-Eileanan Farach]]. Tha ainm a’ bhaile a’ ciallachadh: ''Thor's Harbour''. Anns an fhionn-sgeul tha Thor na Dhia de tàirneanach agus dealanach.
 
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
-* Wikimedia Commons has media related to: 
-[http://commons.wikimedia.org/wiki/T%C3%B3rshavn/ Tórshavn]
+* [[Image:Commons-logo.png|30px]] Tha barrachd fhiosrachaidh anns an Wikimedia Commons mu [http://commons.wikimedia.org/wiki/T%C3%B3rshavn/ Tórshavn]
 
 
 [[Image:Torshavn.png|right|250px|thumb|Mapa Tórshavn]]
@@ -51,7 +29,6 @@ na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha anns [[na h-Eileana
 
 
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
 [[ca:Tórshavn]]
 [[cs:Tórshavn]]
