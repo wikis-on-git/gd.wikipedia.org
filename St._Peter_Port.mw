@@ -1,36 +1,27 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Saint Peter Port '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: GU spp.gif|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 6.5 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 16,488<small>(2001)</small>
-|-
-| [[Dlùths]]
-| 2536.6/km&sup2;
-|}
-
-
-Tha ''' Saint Peter Port ''' na [[prìomh-bhaile]] agus am baile as motha ann an [[Guernsey]].
+{{Template:Baile
+  | AINM = Saint Peter Port
+  | LÙIREACH_WIDTH = 60
+  | MAP = GU spp.gif
+  | DÙTHAICH = an [[Rìoghachd Aonaichte]]
+  | CEÀRN = Eileanan a’ Chaolais
+  | SGÌRE = Guernsey
+  | LATITUDE =  49° 27’ Tuath
+  | LONGITUDE =  2° 32’ Iar
+  | ÀRAINN =  6.5
+  | SHLUAIGH = 16488
+  | BLIADHNA = 2001
+  | FON = 
+  | DUILLEAG = 
+ }}
+Tha ''' Saint Peter Port ''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Guernsey]].
 
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
 
-
-[[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
+[[category:Bailtean]]
+[[Category:An Rìoghachd Aonaichte]]
 
 [[de:Saint Peter Port]]
 [[es:Saint Peter Port]]
