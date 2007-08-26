@@ -183,7 +183,7 @@ Tha e nas fhasa àireamhan co-fhillte iomadachadh far a bheil iad nan riochd pò
 
 ::<math> \prod_{i=m}^\infty x_i := \lim_{n \rightarrow \infty} \prod_{i = m}^n x_i </math>
 
-Tha an comharra <math>\lim_{n \rightarrow \infty}</math> (bhon [[Beurla|Bheurla]] ''limit'') a' ciallachadh luach-iomaill an toraidh mar a thèid tuilleadh theirmean an cur ris an t-sreath-iomadachaidh.
+Tha an comharra <math>\lim_{n \rightarrow \infty}</math> (bhon [[Beurla|Bheurla]] ''limit'') a' ciallachadh luach teòr an toraidh mar a thèid tuilleadh theirmean an cur ris an t-sreath-iomadachaidh.
 
 
 [[category:àireamhachd]]
