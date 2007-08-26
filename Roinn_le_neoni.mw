@@ -1,0 +1,71 @@
+'S e '''[[roinn (matamataig)|roinn]] le [[neoni]]''' a th' ann far a bheil an roinniche co-ionnan ri neoni. Faodaidh seo a bhith air a sgrìobhadh <math> \frac{x}{0} </math>, far am biodh <math>x\,</math> na duais-roinn. Chan eil brìgh a thoirt do '''roinn le neoni''' ann an [[ailseabra]], ach uaireannan tha comas againn mìneachadh a thoirt dhith ann an [[anailis matamataigeach|anailis]] far an aom luach na roinn-àireimh ri teòr fhad ’s a tha [[fuincsean]] an roinniche a’ dlùthachadh ri neoni.
+
+
+
+==Do-dhèantachd roinn le neoni==
+
+Smaoinich air a' cho-aontar a leanas:
+
+::<math> \frac{1}{0}=x </math>
+
+Chionns gu bheil [[iomadachadh]] agus [[roinn (matamataig)|roinneadh]] nan obrachaidhean mùiteach, faodar a' sgrìobhadh cuideachd:
+
+::<math> 1 = 0 \cdot x </math>
+
+Ach chan eil ann luach de <math>x\,</math> a ni 1 an dèidh [[iomadachadh]] le [[neoni]]. 'S ann '''do-shònrachaidh''' a tha [[àireamh]] sam bith air a roinn le neoni.
+
+Nise, smaoinich air a' cho-aontar:
+
+::<math> \frac{0}{0}=x</math>
+
+Ma tha brìgh aig seo, faodar a sgrìobhadh cuideachd:
+
+::<math>0=0 \cdot x </math>
+
+Ach tha seo fìor do gach luach de <math>x\,</math> sam bith. 'S ann '''neo-shònraichte''' a tha neoni air a roinn le neoni.
+
+Nas foirmeile, smaoinich air [[fàinne cho-iomlaideach]] – 's e sin [[àlach]] le dà [[obrachadh càraideach|obrachadh]] ([[cur-ris]] agus [[iomadachadh]]) agus na feartan cumanta [[ailseabra]] aca ([[co-thiomsachd]], [[co-iomlaideachd]] agus [[sgaoilidheachd]]) – mar eisimpleir tha na [[fìor-àireamh]]an agus na h-[[àireamh cho-fhillte|àireamhan co-fhillte]] den t-seòrsa seo. Thathar a' toirt fa-near gur h-e 0 an eileamaid ionnanachd [[cur-ris]] agus gur e 1 an eileamaid ionnanachd [[iomadachadh|iomadachaidh]]. Tha e na chuibheas sealltainn nach eil eileamaid co-thionndaidh aig neoni.
+
+Smaoinich gum b' e co-thionndadh neoni ann agus <math>a\,</math> mar ainm air. Chionns gur h-e a h-aon gach [[àireamh]] a tha air [[iomadachadh]] leis a’ cho-thionndadh aice:
+
+::<math> 1=a \times 0 </math>
+
+Nise, tha 0 + 0 = 0 agus gabhar a' sgrìobhadh cuideachd:
+
+::<math> 1=a \times (0+0) </math>
+
+Fo lagh an sgaoilidh:
+
+::<math>\begin{align}
+ 1 & = (a \times 0) + (a \times 0) \\
+   & = 1 + 1 \\
+   & = 2 \\
+\end{align}</math>
+
+Mar os cionn, tha <math>0 = 0 + 0 + 0\,</math>, agus <math>0 = 0 + 0 + 0 + 0\,</math>, agus san dòigh seo bhiodh gach àireamh co-ionnan ris a cèile. Agus chionns gu bheil:
+
+::<math> 0 \times x=0</math>,
+
+Feumar a cho-dhùnadh nam biodh co-thionndadh aig neoni, bhiodh a h-uile àireamh co-ionnan ri neoni. 'S e sin ri ràdh, far a bheil na feartan cumanta [[ailseabra]] (gu h-àraidh [[sgaoilidheachd]]), chan eil roinn le neoni comasach ach am bheil neoni na aon àireamh anns an [[àlach]].
+
+
+==Bun-bheachd teòr==
+
+
+
+[[category:àireamhachd]]
+
+[[cs:Dělení nulou]]
+[[de:Null#Division]]
+[[en:Division by zero]]
+[[es:División por cero]]
+[[fr:Division par zéro]]
+[[ko:0으로 나누기]]
+[[it:Divisione per zero]]
+[[nl:Delen door nul]]
+[[ja:ゼロ除算]]
+[[pl:Dzielenie przez zero]]
+[[pt:Divisão por zero]]
+[[simple:Division by zero]]
+[[sv:Division med noll]]
+[[th:การหารด้วยศูนย์]]
