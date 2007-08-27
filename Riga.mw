@@ -1,53 +1,36 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''   Riga '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Riga.png|125px]]
-| align="center" width="140px" |[[Image: Coa Riga.svg|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image:Latvia-Riga city.png|250px]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-|307.17 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 727578 <small>(2006)</small>
-|-
-| [[Dlùths]]
-| 2369/km&sup2;
-|-
-| Duilleag oifigeal          
-|http://www.riga.lv
-|}
+{{Template:Baile
+  | AINM = Riga
+  | BRATACH =Flag of Riga.png 
+  | LÙIREACH = Coa Riga.svg
+  | LÙIREACH_WIDTH = 90
+  | MAP = Latvia-Riga city.png
+  | DÙTHAICH =[[Laitbhia]]
+  | CEÀRN = Vidzeme
+  | SGÌRE = 
+  | LATITUDE = 56°58′ Tuath
+  | LONGITUDE =  24°8′ Ear
+  | ÀRAINN = 307.17
+  | SHLUAIGH = 727578
+  | BLIADHNA = 2006
+  | FON = 
+  | DUILLEAG = [http://www.riga.lv www.riga.lv]
+ }}
+Tha ''' Riga ''' (Latvian: Rīga) na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Laitbhia]]. Tha e na laighe air bruaich na h-aibhne ''Daugava'' aig a' [[Muir Baltach|Mhuir Bhaltaich]].
 
+Tha meadhan a' baile dìonta leis an [[Làrach Dhualchas na Cruinne|UNESCO]] airson [[ailtireachd]] iomraiteach anns an stoidhle [[Art Nouveau]].
 
-Tha ''' Riga ''' na [[prìomh-bhaile]] agus am baile as motha ann an [[Laitbhia]]. Tha meadhan a' baile dìonta leis an [[UNESCO]].
+Rugadh  [[Wilhelm Ostwald]] a fhuair [[Duais Nobel ann an Ceimeagachd]] ann an Riga. 
+[[Image:Riga silhouette.jpg|260px|thumb|left|Riga]]
 
-
-
+==Ceangail a-muigh==
 *[http://www.vecriga.info/section/?lang=en Virtual tour of old Riga]
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
+[[Image:Riga dom.jpg|260px|thumb|left|Seann bhaile Riga]]
 
-
-
-[[Image:Riga dom.jpg|230px|The Old Town of Riga]]
-
-
+[[Category:Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
 [[br:Riga]]
 [[bg:Рига]]
