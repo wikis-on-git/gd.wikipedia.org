@@ -2,17 +2,17 @@
   | AINM = Мінск<br/>Минск<br/>Minsk
   | BRATACH = Flag of Minsk, Belarus.png
   | LÙIREACH = Coat of Arms of Minsk, Belarus.png
-  | LÙIREACH_WIDTH = 60
-  | MAP = Minsk-pos.png
+  | LÙIREACH_LEUD = 60
+  | MAPA = Minsk-pos.png
   | DÙTHAICH = [[ An Ruis bhàn]]
   | CEÀRN = 
   | SGÌRE = 
-  | LATITUDE = 53°54′ Tuath
-  | LONGITUDE = 27°34′ Ear
+  | LEUD = 53°54′ Tuath
+  | ASTAIR = 27°34′ Ear
   | ÀRAINN = 305.47
-  | SHLUAIGH = 1780000
+  | ÀIREAMH_SHLUAIGH = 1780000
   | BLIADHNA = 2006
-  | FON = +375-17
+  | FÒN = +375-17
   | DUILLEAG = [http://www.minsk.gov.by/cgi-bin/gor_ind.pl?mode=sim&sm=pg&lang=eng www.minsk.gov.by]
  }}
 
@@ -31,10 +31,7 @@ Tha a' phrìomh oifis den ''Commonwealth of Independent States (CIS)'' ann am Mi
 
 [[Image:Victory-square.jpg|thumb|left|250px|Minsk san oidhche]]
 
-
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-
-
 
 [[bs:Minsk]]
 [[br:Minsk]]
