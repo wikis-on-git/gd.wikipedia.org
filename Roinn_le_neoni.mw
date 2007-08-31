@@ -49,8 +49,38 @@ Mar os cionn, tha <math>0 = 0 + 0 + 0\,</math>, agus <math>0 = 0 + 0 + 0 + 0\,</
 ...feumar a cho-dhùnadh nam biodh co-thionndadh aig neoni, bhiodh a h-uile àireamh co-ionnan ri neoni. 'S e sin ri ràdh, far a bheil na feartan cumanta [[ailseabra]] (gu h-àraidh [[sgaoilidheachd]]), chan eil roinn le neoni comasach ach am bheil neoni na aon àireamh anns an [[àlach]].
 
 
-==Bun-bheachd teòr==
 
+==Bun-bheachd luach teòir==
+
+Ged nach eil brìgh den roinn-àireimh <math> \tfrac{1}{0}</math> fhèin, 's urrainnear brìgh a thoirt do luach teòir na roinn-àireimh <math>\tfrac{1}{x}</math>  fhad 's a tha ''x'' a' dlùthachadh ri neoni. Mar as dlùithe ri neoni a thèid ''x'', 's ann as mò a dh' fhàsas luach na roinn-àireimh agus leanaidh seo gun crìoch. Tha seo air a sgrìobhadh:
+
+::<math> \lim_{x \to 0}\frac{1}{x}=\infty </math>
+
+Ged tha an coltas air gu bheil [[eicrioch]] na "luach teòir", chan e teòr idir a th' ann an eicrich. Tha an co-aontar seo a' sealltainn nach eil crìoch aig an roinn-àireimh fhad 's a tha ''x'' a' dlùthachadh ri neoni.
+
+Thathar air a bhith a ghabhail ris gur e àireamh dhearbh a th' anns an roinniche. Ma tha ''x'' a' dlùthachadh ri neoni bho thaobh nan [[àireamhan àicheil is neo-àicheil|àireamhan àicheil]]:
+
+::<math> \lim_{-x \to 0}\frac{1}{x}=-\infty </math>
+
+Chan eil e gu diofar an ann às a làimh chlì no às a làimh dheis a ruigeas neoni. Ri linn seo, aig neoni fhèin:
+
+::<math> -\infty = \frac{1}{0} = +\infty </math>
+
+...ach chan eil mòran seagh dha ach nach eil soidhne aig eicrich (mar nach eil aig neoni).
+
+
+
+==Loidhne-thilgidh nam fìor-àireamhan==
+
+'S e loidhne-thilgidh nam [[fìor-àireamh]]an an t-[[àlach]] <math> \mathbb{R} \cup \{ \infty \}</math>. 'S ann a tha an cearcall air a cruthachadh le bhith a' cur ri chèile foirchinn na loidhne-àireamh aig [[eicrioch|eicrich]]. 'S e eicrioch neo-shoidhneach a tha seo agus 's ann a leanas gu bheil <math>-\infty = +\infty </math>. Anns an t-structair seo, faodaidh an seagh a bhith aig <math>\tfrac{x}{0}=\infty</math>, fhad 's nach eil <math>x = 0 \,</math>, agus cuideachd aig <math>\tfrac{x}{\infty}=0</math>. Chan e raon a th' anns an t-structair seo agus chan eilear an dùil gun obraich e mar gum b' e. Mar eisimpleir chan eil seagh aig <math> \infty + \infty </math> air an loidhne-thilgidh.
+
+Bheir an loidhne-thilgidh dòigh shìmplidh dhuinn airson seagh a chur air fuincseanan a thèid do dh' eicrich agus a thilleas bho eicrich àicheil, mar eisimpleirean  <math> y=\tfrac{1}{x}</math> , <math>y=\tan(x)\,</math>, agus iomadh eile.
+
+
+
+==Cruinne Riemann==
+
+'S e analog na loidhne-thilgidh aig na h-[[àireamh cho-fhillte|àireamhan co-fhillte]] a th' anns a' '''chruinne Riemann'''. Seo an t-àlach <math> \mathbb{C} \cup \{ \infty \}</math> far a bheil <math> \infty \,</math> na puing aig eicrich. 'S e lùbadh plàna nan [[àireamh cho-fhillte|àireamhan co-fhillte]] air uachdar cruinne gus an till iomall a' phlàna ri chèile aig an aon phuing – [[eicrioch]]. Tha neoni agus eicrioch nan pòlaichean a tha mu choinneamh a chèile air a' chruinne agus tha loidhne-thilgidh nam [[fìor-àireamh]]an na prìomh-chearcall dhith. Chan e raon ailseabrach a th' anns a' chruinne Riemann, ach tha e air leth cudromach ann an anailis cho-fhillte.
 
 
 [[category:àireamhachd]]
