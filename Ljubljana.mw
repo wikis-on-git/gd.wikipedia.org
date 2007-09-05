@@ -1,48 +1,30 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''   Ljubljana '''
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" |[[Image: Wappen_Ljubljana_si.png|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[Image:Karte Ljubljana si.png|250px|Map of Slovenia (Ljubljana)]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 275 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 265881 <small>(2002)</small>
-|-
-| [[Dlùths]]
-| 8510/km&sup2;
-|-
-| Duilleag oifigeal          
-|[http://www.ljubljana.si http://ljubljana.si]
-|}
-
-
-Tha ''' Ljubljana ''' ([[IPA]]: ljuˈbljʌna) na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Sloibhinia]]. Anns a' [[Gearmailtis|Ghearmailtis]] canar ''Laibach'' rithe agus 'san [[Eadailtis]]   ''Lubiana''.
+{{Template:Baile
+  | AINM = Ljubljana
+  | BRATACH = Flag of Ljubljana.gif
+  | LÙIREACH = Wappen_Ljubljana_si.png
+  | LÙIREACH_LEUD = 60
+  | MAPA = Karte Ljubljana si.png
+  | DÙTHAICH = [[Sloibhìnia]]
+  | CEÀRN = Ljubljana
+  | SGÌRE = 
+  | LEUD = 46° 03' Tuath
+  | ASTAIR = 14° 30' Ear
+  | FARSAINGEACHD = 275
+  | ÀIREAMH_SHLUAIGH = 265881
+  | BLIADHNA = 2002
+  | FÒN = (+386) 01
+  | DUILLEAG = [http://ljubljana.si www. ljubljana.si]
+ }}
+Tha ''' Ljubljana ''' ([[IPA]]: ljuˈbljʌna) na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Sloibhìnia]]. Anns a' [[Gearmailtis|Ghearmailtis]] canar ''Laibach'' ris agus 'san [[Eadailtis]]  ''Lubiana''.
+[[Image:Ljubljana Stadtzentrum 01.jpg|250px|left|thumb|Meadhan a' bhaile]]
 
 ==Aistean co-cheangailte==
 *[[Prìomh-Bhailtean]]
 
-[[Image:Ljubljana Stadtzentrum 01.jpg|250px|right|thumb|Meadhan a' bhaile]]
-[[Image:ljubljana triplebridge.jpg|250px|thumb|right|''Tromostovje'' agus Eaglais ''Frančiškanska cerkev'']]
+[[Image:ljubljana triplebridge.jpg|250px|thumb|left|''Tromostovje'' agus Eaglais ''Frančiškanska cerkev'']]
 
+[[category:Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
-
 
 [[ca:Ljubljana]]
 [[cs:Lublaň]]
