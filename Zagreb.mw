@@ -1,41 +1,22 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>|<big><big>
-'''    Zagreb '''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Zagreb_zastava.gif|125px]]
-| align="center" width="140px" |[[Image: Zagreb coat of arms.gif|55px]]
-|-
-| align="center" width="140px" | Bratach a’ bhaile 
-| align="center" width="140px" | Lùireach a’ bhaile
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[Image:CroatiaGradZagreb.png]]
-|-
-|-
-| align=center colspan=2 | 
-|-
-| [[Àrainn]]
-| 641.29 km&sup2;
-|-
-| [[Aireamh shluaigh]] 
-| 779145 <small>(2001)</small>
-|-
-| [[Dlùths]]
-| 1214.9/km&sup2;
-|-
-| [[Àireamh fòn eadar naiseanta|Àireamh fon]] 
-| (+385) 01
-|-
-| Duilleag oifigeal          
-|[http://www.zagreb.hr/ zagreb.hr]
-|}
+{{Template:Baile
+  | AINM = Zagreb
+  | BRATACH = Zagreb_zastava.gif
+  | LÙIREACH = Zagreb coat of arms.gif
+  | LÙIREACH_LEUD = 60
+  | MAPA = CroatiaGradZagreb.png
+  | DÙTHAICH =
+  | CEÀRN = 
+  | SGÌRE = 
+  | LEUD =  45° 48' Tuath
+  | ASTAIR = 15° 58' Ear
+  | FARSAINGEACHD = 641.29
+  | ÀIREAMH_SHLUAIGH = 779145
+  | BLIADHNA = 2001
+  | FÒN = (+385) 01
+  | DUILLEAG = |[http://www.zagreb.hr/ zagreb.hr]
+ }}
 
-
-
-Tha ''' Zagreb ''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Croatia]].
+Tha ''' Zagreb ''' ([[IPA]]: ˈzɑːgreb]) na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha ann an [[Croatia]].
 
 
 ==Aistean co-cheangailte==
@@ -44,22 +25,75 @@ Tha ''' Zagreb ''' na [[prìomh-bhaile|phrìomh-bhaile]] agus am baile as motha 
 
 [[Image: Zageb Croatian National Theater.jpg|250px|left|thumb|Taigh-cluiche naiseanta Zagreb]]
 
-
-
-
+[[category:Bailtean]]
 [[Category:Prìomh-Bhailtean na Roinn Eorpa]]
-[[category:An Roinn-Eòrpa]]
 
-[[bs:Zagreb]]
-
+[[am:ዛግሬብ]]
+[[ar:زغرب]]
+[[ast:Zagreb]]
+[[be-x-old:Загрэб]]
+[[bg:Загреб]]
+[[bn:জাগরেব]]
 [[ca:Zagreb]]
 [[cs:Záhřeb]]
+[[cu:Загребъ]]
 [[da:Zagreb]]
 [[de:Zagreb]]
-[[et:Zagreb]]
-[[es:Zagreb]]
+[[el:Ζάγκρεμπ]]
+[[en:Zagreb]]
 [[eo:Zagrebo]]
+[[es:Zagreb]]
+[[et:Zagreb]]
 [[eu:Zagreb]]
+[[fa:زاگرب]]
+[[fi:Zagreb]]
 [[fo:Zagreb]]
 [[fr:Zagreb]]
 [[gl:Zagreb]]
+[[he:זאגרב]]
+[[hr:Zagreb]]
+[[hsb:Zagreb]]
+[[ht:Zagreb]]
+[[hu:Zágráb]]
+[[hy:Զագրեբ]]
+[[id:Zagreb]]
+[[io:Zagreb]]
+[[is:Zagreb]]
+[[it:Zagabria]]
+[[ja:ザグレブ]]
+[[ka:ზაგრები]]
+[[ko:자그레브]]
+[[kw:Zagreb]]
+[[lij:Zagabbria]]
+[[lt:Zagrebas]]
+[[lv:Zagreba]]
+[[mk:Загреб]]
+[[mt:Zagreb]]
+[[nl:Zagreb]]
+[[nn:Zagreb]]
+[[no:Zagreb]]
+[[nov:Zagreb]]
+[[oc:Zagrèb]]
+[[pl:Zagrzeb]]
+[[pms:Zagabria]]
+[[pt:Zagreb]]
+[[qu:Zagreb]]
+[[ro:Zagreb]]
+[[ru:Загреб]]
+[[sh:Zagreb]]
+[[simple:Zagreb]]
+[[sk:Záhreb]]
+[[sl:Zagreb]]
+[[sq:Zagrebi]]
+[[sr:Загреб]]
+[[sv:Zagreb]]
+[[sw:Zagreb]]
+[[tg:Загреб]]
+[[th:ซาเกร็บ]]
+[[tl:Lungsod ng Zagreb]]
+[[tr:Zagreb]]
+[[uk:Загреб]]
+[[vec:Zagavria]]
+[[vo:Zagreb]]
+[[zh:萨格勒布]]
+[[zh-min-nan:Zagreb]]
