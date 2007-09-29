@@ -1,10 +1,60 @@
-[[Image:LocationMozambique.png|right|thumb]]
+{{Infobox Country
+|native_name              = ''República de Moçambique''
+|conventional_long_name   = Republic of Mozambique
+|common_name              = Mòsaimbic
+|common_name2             = Mòsaimbicnach
+|image_flag               = Flag of Mozambique.svg
+|image_coat               = Coat_of_arms_of_Mozambique.png
+|national_motto           = ''none''
+|image_map                = LocationMozambique.svg
+|national_anthem          = ''[[Pátria Amada]]''<br/><small>(formerly ''[[Viva, Viva a FRELIMO]]'')</small>
+|official_languages       = [[A' Phortagailis|Phortagailis]]
+|demonym                  = Mozambican
+|capital                  = [[Maputo]]
+|latd=25 |latm=57 |latNS=S |longd=32 |longm=35 |longEW=E
+|largest_city             = capital
+|government_type          = [[Republic]]
+|leader_title1            = [[List of Presidents of Mozambique|President]]
+|leader_name1             = [[Armando Guebuza]]
+|leader_title2            = [[List of Prime Ministers of Mozambique|Prime Minister]]
+|leader_name2             = [[Luisa Diogo|Luísa Diogo]]
+|sovereignty_type         = [[Independence]]
+|established_event1       = from [[Portugal]]
+|established_date1        = [[June 25]] [[1975]]
+|area                     = 801,590
+|areami²                  = 309,496 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                = 35th
+|area_magnitude           = 1 E11
+|percent_water            = 2.2
+|population_estimate_rank = 54th
+|population_census        = 20.366.795 
+|population_census_year   = 2007
+|population_density       = 25
+|population_densitymi²    = 65 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 178th
+|GDP_PPP_year             = 2005
+|GDP_PPP                  = $27.013 billion <!--IMF-->
+|GDP_PPP_rank             = 100th
+|GDP_PPP_per_capita       = $1,389
+|GDP_PPP_per_capita_rank  = 158th
+|HDI_year                 = 2004
+|HDI                      = {{increase}} 0.390
+|HDI_rank                 = 168th
+|HDI_category             = <font style="color:#e0584e">low</font>
+|currency                 = [[Mozambican metical]] (Mtn)
+|currency_code            = MZN
+|time_zone                = [[Central Africa Time|CAT]]
+|utc_offset               = +2
+|time_zone_DST            = not observed
+|utc_offset_DST           = +2
+|cctld                    = [[.mz]]
+|calling_code             = 258
+|footnote1                = Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
+}}
 
-'S e [[Dùthchannan ann an Afraga|Dùthaich ann an Afraga]] a tha ann am '''Mòsaimbic''' (''Mozambique'' sa Bheurla).
+'S e [[Dùthchannan ann an Afraga|Dùthaich ann an Afraga]] a tha ann am '''Mòsaimbic'''.
 
-Tha [[Maputo]] na [[prìomh-bhaile|phrìomh-bhaile]].
-
-[[Category: Dùthchannan]]
+[[Category:Dùthchannan]]
 [[Category:Afraga]]
 
 [[af:Mosambiek]]
