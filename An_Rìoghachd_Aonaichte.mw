@@ -1,4 +1,4 @@
-{{Infobox country
+{{Template:Infobox Country
 | conventional_long_name = An Rìoghachd Aonaichte na Breatainn Mhòr agus Eirinn a Tuath{{Ref|1}}
 | common_name = An Rìoghachd Aonaichte
 | common_name2 = An Rìoghachd Aonaichtenach
@@ -7,7 +7,7 @@
 | symbol_type = Royal coat of arms
 | image_map = Location_UK_EU_Europe.png
 | map_caption = {{map_caption |countryprefix=the |region=on the [[Europe|European continent]] |subregion=the [[European Union]] |location_color=dark green | subregion_color=light green |region_color=dark grey |legend=}}
-| national_motto = {{lang|fr|''"[[Dieu et mon droit]]"''}}{{Ref|2}}{{spaces|2}}<small>([[French language|French]])<br/>"God and my right"</small>
+| national_motto = {{lang|fr|''"[[Dieu et mon droit]]"''}}{{Ref|2}}{{spaces|2}}<small>([[Fraingis]])<br/>"God and my right"</small>
 | national_anthem = "[[God Save the Queen]]"{{Ref|3}}
 |official_languages = [[A' Bheurla|Bheurla]] (de facto){{Ref|4}}
 |regional_languages = [[Gàidhlig]] ([[na h-Eileanan an Iar]]), agus [[Cuimris]] ([[a'Chuimrigh]]) (Achd 2004){{Ref|5}}
@@ -114,6 +114,8 @@
 * [[Sasainn]]
 * [[A'Chuimrigh]]
 * [[Eirinn]]
+
+{{Template:Eòrpa}}
 
 [[Category:Breatainn Mhòr]]
 [[Category:Stèidheachaidhean 1801]]
