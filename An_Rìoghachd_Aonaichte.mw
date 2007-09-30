@@ -1,121 +1,41 @@
-{{Template:Infobox Country
-| native_name = ''United Kingdom of Great Britain and Northern Ireland''
-| conventional_long_name = An Rìoghachd Aonaichte na Breatainn Mhòr agus Eirinn a Tuath{{Ref|1}}
-| common_name = An Rìoghachd Aonaichte
-| common_name2 = An Rìoghachd Aonaichtenach
-| image_flag = Flag of the United Kingdom.svg
-| image_coat = UK Royal Coat of Arms.png
-| symbol_type = Leòmhann
-| image_map = Location_UK_EU_Europe.png
-| map_caption = {{map_caption |countryprefix=the |region=on the [[Europe|European continent]] |subregion=the [[European Union]] |location_color=dark green | subregion_color=light green |region_color=dark grey |legend=}}
-| national_motto = {{lang|fr|''"[[Dieu et mon droit]]"''}}{{Ref|2}}{{spaces|2}}<small>([[Fraingis]])<br/>"God and my right"</small>
-| national_anthem = "[[God Save the Queen]]"{{Ref|3}}
-|official_languages = [[A' Bheurla|Bheurla]] (de facto){{Ref|4}}, [[Gàidhlig]] ([[na h-Eileanan an Iar]]), agus [[Cuimris]] ([[a'Chuimrigh]]) (Achd 2004){{Ref|5}}
-|demonym = [[British]], [[Briton]]
-| capital = [[Lunnainn]]
-| latd = 51
-| latm = 30
-| latNS = N
-| longd = 0
-| longm = 7
-| longEW = W
-| largest_city = [[Lunnainn]]
-| government_type = {{nowrap|[[Constitutional monarchy]]}} <small>{{nowrap|([[Parliamentary democracy]])}}
-| leader_title1 = [[British monarchy|Monarch]]
-| leader_name1 = [[Elizabeth II of the United Kingdom|HM Queen Elizabeth II]]
-| leader_title2 = [[Prime Minister of the United Kingdom|Prime Minister]]
-| leader_name2 = [[Gordon Brown]]
-| sovereignty_type = [[History of the United Kingdom|Formation]]
-| sovereignty_note =
-| established_event1 = [[Seumas VI|Seumas VI na h-Alba]]
-| established_date1 = [[May 1]], [[1707]]
-| established_event2 = [[Act of Union 1800|Act of Union]]
-| established_date2 = [[January 1]], [[1801]]
-| established_event3 = [[Anglo-Irish Treaty]]
-| established_date3 = [[April 12]], [[1922]]
-| accessionEUdate = [[January 1]], [[1973]]
-| EUseats = 78
-| area_rank = 79th
-| area_magnitude = 1 E11
-| area = 244,820
-| areami² = 94,526
-| percent_water = 1.34
-| population_estimate_year = mid-2006
-| population_estimate = 60,587,300<ref>{{Cite web
-| url = http://www.statistics.gov.uk/cci/nugget.asp?id=6
-| title = UK population grows to 60.6 million
-| accessdate =
-| accessdaymonth =
-| accessmonthday = [[August 22]]
-| accessyear = [[2007]]
-| author =
-| last =
-| first =
-| authorlink =
-| coauthors =
-| date =
-| year =
-| month =
-| format =
-| work =
-| publisher = Office for National Statistics
-| pages =
-| language =
-| doi =
-| archiveurl =
-| archivedate =
-| quote =
-}}</ref>
-| population_estimate_rank = 22nd
-| population_census = 58,789,194[http://www.statistics.gov.uk/census2001/pop2001/united_kingdom.asp]
-| population_census_year = 2001
-| population_density = 246
-| population_densitymi² = 637
-| population_density_rank = 48th
-| GDP_PPP_year = 2006
-| GDP_PPP = $2.375 [[1000000000000 (number)|trillion]]
-| GDP_PPP_rank = 5th
-| GDP_PPP_per_capita = $35,051
-| GDP_PPP_per_capita_rank = 11th
-| GDP_nominal = $2.373 [[1000000000000 (number)|trillion]]{{Ref|6}}
-| GDP_nominal_rank = 5th
-| GDP_nominal_year = 2006
-| GDP_nominal_per_capita = $38,624
-| GDP_nominal_per_capita_rank = 13th
-| HDI_year = 2006
-| HDI = {{increase}} 0.940
-| HDI_rank = 18th
-| HDI_category = <font color="#009900">high</font>
-| Gini = 36.8
-| Gini_year = 1999
-| Gini_category = <font color="#ffce63">medium</font>
-| currency = [[Punt]] (£)
-| currency_code = GBP
-| country_code = GBR
-| time_zone = [[Greenwich Mean Time|GMT]]
-| utc_offset = +0
-| time_zone_DST = [[British Summer Time|BST]]
-| utc_offset_DST = +1
-| cctld = [[.uk]]{{Ref|7}}
-| calling_code = 44
-| ISO_3166-1_alpha2 = GB
-| ISO_3166-1_alpha3 = GBR
-| ISO_3166-1_num = 826
-| vehicle_code = GB
-| alt_sport_code = various
-| aircraft_code = G
-| footnotes = {{Note|1}} In the United Kingdom and Dependencies, [[Languages in the United Kingdom|some other language]]s have been officially recognised as legitimate [[Autochthonous language|autochthonous]] [[regional language|(regional) language]]s under the [[European Charter for Regional or Minority Languages]]. In each of these, the UK's official name is as follows:<br/>{{lang-kw|Rywvaneth Unys Breten Veur ha Kledhbarth Iwerdhon}}; {{lang-ga|Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann}}; {{lang-sco|Unitit Kinrick o Graet Breetain an Northren Irland}}; {{lang-en|United Kingdom of Great Britain and Northern Ireland}}; {{lang-cy|Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon}}}}Stàt a bha stèidhte ann an [[1707]] an dèidh aonadh eadar pàrlamaid [[Alba]] agus pàrlamaid [[Sasainn|Shasainn]]. Tha gach dùthcha air a bhith fo aon [[monarcachd]] o' am bliadhna [[1603]] 'nuair a fhuair Rìgh [[Seumas VI]] grèim air cathair-rìgh [[Sasainn|Shasainn]] an dèidh bàs ban-rìgh [[Ealasaid I]] de Shasainn, am monarc mu dheireadh bho teaghlach nan [[Tudor]].
+Stàt a bha stèidhte ann an [[1707]] an dèidh aonadh eadar pàrlamaid [[Alba]] agus pàrlamaid [[Sasainn|Shasainn]]. Tha gach dùthcha air a bhith fo aon [[monarcachd]] o' am bliadhna [[1603]] 'nuair a fhuair Rìgh [[Seumas VI]] grèim air cathair-rìgh [[Sasainn|Shasainn]] an dèidh bàs ban-rìgh [[Ealasaid I]] de Shasainn, am monarc mu dheireadh bho teaghlach nan [[Tudor]].
+
+
+<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px">
+<caption><font size="+1">'''an Rìoghachd Aonaichte'''<br>'''United Kingdom'''</font></caption>
+<tr><td style="background:#efefef;" align="center" colspan=2>
+<table border="0" cellpadding="2" cellspacing="0">
+<tr><td align="center" width="140px"> [[image:Rìoghachd aonaichte.png]]</td>
+<td align="center" width="140px"></td></tr>
+<tr><td align="center" width="140px"></td>
+<td align="center" width="140px"></td></tr>
+</table></td></tr>
+<tr><td>[[Cànan oifigeil]]:</td><td>Dim. [[Beurla]] (de facto), [[Gàidhlig]]([[na h-Eileanan an Iar]]),  agus [[Cuimris]]([[a'Chuimrigh]]) (Achd 2004)</td></tr>
+<tr><td>[[Prìomh-bhaile]]:</td><td>[[Lunnainn]]</td></tr>
+<tr><td>'''Baile as Motha''':</td><td>[[Lunnainn]]</td></tr>
+<tr><td>[[Prìomh Mhinistear an Rìoghachd Aonaichte|Prìomh Mhinistear]]:</td><td>[[Gordon Brown]]
+<tr><td>[[Àireamh-shluaigh]] <br>&nbsp;- (2001):<br>&nbsp;- [[Dlùths]]: </td><td><br> 58,789,194 <br> 246.5/cm²  </td></tr>
+<tr><td>[[Stèidhichte]]:</td><td>[[Seumas VI na h-Alba]] [[1707]]</td></tr>
+<tr><td>[[Airgead]]:</td><td>[[Punt|Punt]] (£)</td></tr>
+<tr><td>[[Laoidh nàiseanta]]:</td><td>:<br>''[[God Save the Queen]]''</td></tr>
+</table>
+
+
+
+
 
 ==Aistean co-cheangailte==
+[[Rìghrean na h-Alba]]
 
-* [[Rìghrean na h-Alba]]
-* [[Rìghrean Sasainn]]
-* [[Alba]]
-* [[Sasainn]]
-* [[A'Chuimrigh]]
-* [[Eirinn]]
+[[Rìghrean Sasainn]]
 
-{{Template:Eòrpa}}
+[[Alba]]
+
+[[Sasainn]]
+
+[[A'Chuimrigh]]
+
+[[Eirinn]]
 
 [[Category:Breatainn Mhòr]]
 [[Category:Stèidheachaidhean 1801]]
