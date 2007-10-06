@@ -6,13 +6,13 @@ This is a '''list of [[desert]]s in the world ordered by area'''.  It includes a
 |-
 | 1 || [[Antarctica|Antarctic Desert]]  || <span style="display:none">{{formatnum:{{padleft:14000000|8|0}}}} </span>14 000 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:5400000|8|0}}}} </span>5 400 000 || [[Antarctica]]
 |-
-| 2 || [[Sahara]]  || <span style="display:none">{{formatnum:{{padleft:8600000|8|0}}}} </span>9 000 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:3320000|8|0}}}} </span>3 320 000+ || [[Algeria]], [[Chad]], [[Egypt]], [[Libya]], [[Mali]], [[Niger]], [[Mauritania]], [[Morocco]], [[Sudan]], [[Tunisia]].
+| 2 || [[Sahara]]  || <span style="display:none">{{formatnum:{{padleft:8600000|8|0}}}} </span>9 100 000<ref name="1world2travel">{{cite web|url=http://www.1world2travel.com/print.php?articleID=2830|title=Planet Earth - Basic Facts and Extremes|accessdate=2007-10-06}}</ref> || <span style="display:none">{{formatnum:{{padleft:3320000|8|0}}}} </span>3 320 000+ || [[Algeria]], [[Chad]], [[Egypt]], [[Libya]], [[Mali]], [[Niger]], [[Mauritania]], [[Morocco]], [[Sudan]], [[Tunisia]].
 |-
 | 3 || [[Arabian Desert]]  || <span style="display:none">{{formatnum:{{padleft:2331000|8|0}}}} </span>2 330 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:900000|8|0}}}} </span>900 000 || [[Saudi Arabia]], [[Jordan]], [[Iraq]], [[Iran]], [[Kuwait]], [[Qatar]], [[United Arab Emirates]], [[Oman]] and [[Yemen]].
 |-
-| 4 || [[Gobi Desert]]  || <span style="display:none">{{formatnum:{{padleft:1300000|8|0}}}} </span>1 300 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:500000|8|0}}}} </span>500 000 || [[Mongolia]] and [[People's Republic of China|China]]
+| 4 || [[Gobi Desert]]  || <span style="display:none">{{formatnum:{{padleft:1300000|8|0}}}} </span>1 300 000<ref name="1world2travel" /> || <span style="display:none">{{formatnum:{{padleft:500000|8|0}}}} </span>500 000 || [[Mongolia]] and [[People's Republic of China|China]]
 |-
-| 5 || [[Patagonian Desert]] || <span style="display:none">{{formatnum:{{padleft:673000|8|0}}}} </span>673 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || [[Argentina]] and [[Chile]]
+| 5 || [[Patagonian Desert]] || <span style="display:none">{{formatnum:{{padleft:673000|8|0}}}} </span>670 000<ref name="1world2travel" /> || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000 || [[Argentina]] and [[Chile]]
 |-
 | 6 || [[Great Victoria Desert]] || <span style="display:none">{{formatnum:{{padleft:647000|8|0}}}} </span>647 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:250000|8|0}}}} </span>250 000 || [[Australia]]
 |-
@@ -28,7 +28,7 @@ This is a '''list of [[desert]]s in the world ordered by area'''.  It includes a
 |-
 | 12 || [[Kyzyl Kum]]  || <span style="display:none">{{formatnum:{{padleft:300000|8|0}}}} </span>300 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:115000|8|0}}}} </span>115 000 || [[Kazakhstan]], [[Uzbekistan]] and [[Turkmenistan]]
 |-
-| 13 || [[Taklamakan Desert]] || <span style="display:none">{{formatnum:{{padleft:270000|8|0}}}} </span>270 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:105000|8|0}}}} </span>105 000 || [[People's Republic of China]]
+| 13 || [[Taklamakan Desert]] || <span style="display:none">{{formatnum:{{padleft:270000|8|0}}}} </span>360 000<ref name="1world2travel" /> || <span style="display:none">{{formatnum:{{padleft:105000|8|0}}}} </span>105 000 || [[People's Republic of China]]
 |-
 | 14 || [[Kalahari Desert]]  || <span style="display:none">{{formatnum:{{padleft:260000|8|0}}}} </span>260 000{{Fact|date=June 2007}} || <span style="display:none">{{formatnum:{{padleft:100000|8|0}}}} </span>100 000 || [[Botswana]], [[Namibia]] and [[South Africa]]
 |-
@@ -49,6 +49,8 @@ This is a '''list of [[desert]]s in the world ordered by area'''.  It includes a
 | 20 || [[Mojave Desert]] || <span style="display:none">{{formatnum:{{padleft:65000|8|0}}}} </span>65 000 || <span style="display:none">{{formatnum:{{padleft:25000|8|0}}}} </span>25 000 || [[United States]]
 |}
 
+==References==
+<references />
 ==See also==
 *[[List of deserts]]
 
