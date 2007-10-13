@@ -1,70 +1,71 @@
-{{Infobox Country
-|native_name              = <span style="line-height:1.33em;"> Қазақстан Республикасы <br/>''Qazaqstan Respublïkası''<br/> Республика Казахстан <br/>''Respublika Kazakhstan''</span>
-|conventional_long_name   = <span style="line-height:1.33em;">Republic of Kazakhstan</span>
-|common_name              = Casachstan
-|common_name2             = Casachstannach
-|national_motto           = 
-|image_flag               = Flag of Kazakhstan.svg
-|image_coat               = Coat of arms of Kazakhstan (flat).svg
-|image_map                = LocationKazakhstan.png
-|national_anthem          = [[My Kazakhstan (anthem)|My Kazakhstan]]
-|official_languages       = [[Kazakh language|Kazakh]] (state language), [[Russian language|Russian]]
-|capital                  = [[Astana]]
-|latd=51 |latm=10 |latNS=N |longd=71 |longm=30 |longEW=E
-|largest_city             = [[Almaty]]
-|demonym                  = Kazakh
-|government_type          = [[Republic]]
-|leader_title1            = [[President of Kazakhstan|President]]
-|leader_title2            = [[Prime Minister of Kazakhstan|Prime Minister]]
-|leader_name1             = [[Nursultan Nazarbayev]]  	
-|leader_name2             = [[Karim Masimov]]
-|area_rank                = 9th
-|area_magnitude           = 1 E12
-|area                     = 2,724,900
-|areami²                  = 1,052,085 <!--Do not remove per [[WP:MOSNUM]]-->
-|percent_water            = 1.7
-|population_estimate      = 15,217,711 [http://www.stat.kz/stat/print.aspx?p=news_27&l=en National Statistics Agency of Kazakhstan]
-|population_estimate_year = January 2006
-|population_estimate_rank = 62nd
-|population_census        = 14,953,100
-|population_census_year   = 1999
-|population_density       = 5.4
-|population_densitymi²    = 14.0 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank  = 215th
-|GDP_PPP_year             = 2007 
-|GDP_PPP                  = $145.5 billion 
-|GDP_PPP_rank             = 56th
-|GDP_PPP_per_capita       = $9,594
-|GDP_PPP_per_capita_rank  = 66th
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = from the [[Soviet Union]]
-|established_event1       = 1st Khanate
-|established_date1        = [[1361]] as [[White Horde]]
-|established_event2       = 2nd Khanate
-|established_date2        = [[1428]] as [[Uzbek Horde]]
-|established_event3       = 3rd Khanate
-|established_date3        = [[1465]] as [[Kazakh Khanate]]
-|established_event4       = [[History of Kazakhstan#Sovereignty and Independence|Declared]]
-|established_date4        = [[December 16]], [[1991]]
-|established_event5       = Finalized
-|established_date5        = [[December 25]], [[1991]]
-|HDI_year                 = 2004
-|HDI                      = {{increase}} 0.774
-|HDI_rank                 = 79th
-|HDI_category             = <font color="#FFCC00">medium</font>
-|Gini                     = 33.9
-|Gini_year                = 2003
-|Gini_category            = <font color="#ffcc00">medium</font>
-|currency                 = [[Kazakhstani tenge|Tenge]]
-|currency_code            = KZT
-|country_code             = KAZ
-|time_zone                = West/East
-|utc_offset               = +5/+6
-|time_zone_DST            = ''not observed''
-|utc_offset_DST           = +5/+6
-|cctld                    = [[.kz]]
-|calling_code             = 7
+{{User:Sionnach/Template:Dùthaich
+|Ainm = <span style="line-height:1.33em;"> Қазақстан Республикасы <br/>''Qazaqstan Respublïkası''<br/> Республика Казахстан <br/>''Respublika Kazakhstan''</span><br /><span style="line-height:1.33em;">Republic of Kazakhstan</span>
+|BRATACH = Flag of Kazakhstan.svg
+|LÙIREACH = Coat of arms of Kazakhstan (flat).svg
+|AINM_BRATACH = Bratach Cacachstane
+|AINM_LÙIREACH = Lùireach Casachstane
+|MAPA = LocationKazakhstan.png
+|AINM_LOCÀISION = Locàision na Casachstan
+|SLUAGH_GHAIRM_NÀISEANTA =
+|LAOIDH_NÀISEANTA =
+|CÀNAN = [[Casachais]] (state language), [[Ruiseis]]
+|MÌ_CHÀNAIN = None
+|PRÌOMH_BHAILE =
+|BAILE_AS_MOTHA =
+|TIOTAL_CEANNARD_1 =
+|TIOTAL_CEANNARD_2  =
+|TIOTAL_CEANNARD_3 =
+|TIOTAL_CEANNARD_4 =
+|TIOTAL_CEANNARD_5 =
+|TIOTAL_CEANNARD_6 =
+|SEÒRSA_UACHDRANAIS =
+|AINM_CEANNARD_1 =
+|AINM_CEANNARD_2 =
+|AINM_CEANNARD_3 =
+|AINM_CEANNARD_4 =
+|AINM_CEANNARD_5 =
+|AINM_CEANNARD_6 =
+|TACHARTAS_1 =
+|TACHARTAS_2 =
+|TACHARTAS_3 =
+|TACHARTAS_4 =
+|TACHARTAS_5 =
+|TACHARTAS_6 =
+|TACHARTAS_7 =
+|CEANN_LATHA_1 =
+|CEANN_LATHA_2 =
+|CEANN_LATHA_3 =
+|CEANN_LATHA_4 =
+|CEANN_LATHA_5 =
+|CEANN_LATHA_6 =
+|CEANN_LATHA_7 =
+|LATHA_NAISEANTA =
+|FARSAINGEACHD =
+|REANGACH_F =
+|FARS._SQM =
+|UISGE = 
+|BLIADHNA =
+|ÀIREAMH_SHLUAIGH =
+|REANGACH_S =
+|DLÙTHS =
+|REANGACH_D =
+|DLÙTHS_SQM =
+|BLIADHNA =
+|GDP =
+|REANGACH_GDP =
+|ÀIREAMH_GDP =
+|REANGACH_PER_CAPITA =
+|ROINN_TÌDE =
+|UTC_OFFSET =
+|AS_T_SAMHRADH =
+|UTC_OFFSet_2 =
+|RUITH_AIRGID =
+|EADAR_LÌON =
+|ÀIREAMH_FÒN =
+|BONN_NÒTA_1 =
+|BONN_NÒTA-2 =
 }}
+
 
 'S e [[Astana]] am [[prìomh-bhaile]] '''Casachstan''', ach 's e [[Almaty]] am baile as motha den dùthaich.
 
