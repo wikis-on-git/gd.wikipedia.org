@@ -1,5 +1,64 @@
-Tha an duilleag seo a' dèiligeadh ri '''co-chomharran''' anns an seagh nas coitchinne. 
+'S ann an '''co-chomharran''' a tha [[àireamh]]an a shuidhicheas [[puing]]ean air [[plàna]] no ann am [[fànas]]. Tha na h-àireamhan seo a' tomhas an astair eadar an dara phuing agus puing eile a-rèir [[siostam cho-chomharran]] air choreigin. 'S e seo dòigh rianail airson gach puing a lorg bho ''bhun-phuing'' - puing àraidh anns an t-siostam bhon tomhaisear astaran no cùrsaichean. Mar eisimpleir, lorgar gach àite air uachdar an t-saoghail leis an dà thomhais - ''domhan-fhad''  agus ''domhan-leud''. 'S e [[domhan-fhad]] an astar [[ceàrn]]ach iar no ear air [[Meridian Ghreenwich]], agus [[domhan-leud]] an astar ceàrnach tuath no deas air a' [[Crios-meadhain|Chrios-mheadhain]]. 'S e ''bun-phuing'' den t-siostam seo a' phuing far a bheil Meridian Ghreenwich a' trasnadh a' Chrios-mheadhain. Tha a' chàraid, domhan-fhad agus domhan-leud, na '''co-chomharran''' de dh' àite sam bith air uachdar an t-saoghail.
 
-==Aiste co-cheangailte==
+
+==Co-chomharran Cartesach==
+[[Image:Cartesian-coordinate-system.svg|right|thumb|250px|Siostam cho-chomharran Cartesach.]]
+Anns an t-siostam '''cho-chomharran Cartesach''', tha astaran air an tomhas bhon bhun-phuing an cùrsa axes ''cheart-cheàrnach''.  Canar co-chomharran '''ceart-cheàrnachail''' riutha cuideachd. 
+
+Tha dà sheòl-tomhais ann am [[plàna]] agus tha feum air dà [[àireamh|àireimh]] airson [[puing]] a lorg air. Mar eisimpleir, gabhar a' phuing ''P'' a bhith dà cheudameatair a thaobh deas na bun-phuing ''O'' agus 3 ceudameatairean os a cionn. Tha am paidhir òrdaichte àireamhan (2, 3) nan co-chomharran de ''P'' anns an t-siostam seo. 'S e an cleachdadh gathan a sgrìobhadh bhon bhun-phuing airson an dà shiùil-thomhais a shealltainn. Canaidh sinn ''axis'' (iolra: ''axes'') ri gath den t-seòrsa agus 's e an cleachdadh tè dhiubh a sgrìobhadh còmhnard (an axis-''x'') agus an tè eile dìreach (an axis-''y''). 'S e a' chiad àireamh de phaidhir cho-chomharrach an tomhas leis an axis-''x'', agus an dara àireamh an tomhas leis an axis-''y''. Tha a' bhun-phuing aig trasnadh nan axes. Seo a' phuing (0, 0).
+
+[[Image:Rectangular coordinates.svg|250px]] 
+
+Tha trì siùil-thomhais anns an fhànas agus feumar trì àireamhan airson puing a lorg ann. Is iadsan na tòimhsean leis na trì axes ''x'', ''y'' agus ''z''. Mar a tha na h-axes ''x'' agus ''y'' ceart-cheàrnach, 's ann a tha na h-axes ''z'' is ''x'', agus ''z'' is ''y''. Canaidh sinn gu bheil na trì axes '''''co-cheart-cheàrnach'''''. Mas e ''P'' a' phuing aig (''x'', ''y'', ''z''), 's e ''x'' an astar bhon phlàna ''y-z'', ''y'' an astar bhon phlàna ''x-z'', agus ''z'' an astar bhon phlàna ''x-y''.
+
+
+==Co-chomharran pòlarach==
+Ann an '''siostam cho-chomharran pòlarach''', tha [[puing]] air a lorg air [[plàna]] no ann am [[fànas]] le [[àlach]] [[àireamh]]an far a bheil aon dhiubh, air a' char as lugha, a' tomhas cùrsa le [[ceàrn]] bho axis no axes air choreigin. Is iadsan na siostaman as cumanta de cho-chomharran ''lùb-loidhneach''.
+
+Mar as cumanta, 's e ''co-chomharran cearclach'' air a bhith iomradh leis a' bhriathar ''co-chomharran pòlarach'', ach gu bhith pongail tha gach siostam a leanas den ghnè seo.
+
+===Co-chomharran cearclach===
+[[Image:Coordonnees polaires plan.svg|250px|'S e (''r'', ''θ'') co-chomharran cearclach de M far a bheil ''θ'' air a thomhas gu tuathal bho axis-''x'' an t-siostaim Chartesaich|thumb]]
+
+Seo siostam cho-chomharran dà-sheallach aig a bheil bun-phuing ''O'' agus [[loidhne]], no axis, bhon bhun-phuing do dh' [[eicrioch|eicrich]]. Seo an axis phòlarach, bhon tomhaisear cùrsa, agus mar as cumanta 's e axis-''x'' den t-siostam Chartesach a tha seo.
+
+Tha an dà [[àireamh|àireimh]] (''r'', ''θ'') aig gach puing ''P'' air a' [[plàna|phlàna]] mar cho-chomharran a-rèir an t-siostaim seo. 'S e ''r'' an t-astar direach bho ''O'' gu ''P'', agus ''θ'' an [[ceàrn]] eadar an axis phòlarach agus an cùrsa ''OP''. Uaireannan canar an '''''radius''''' ri ''r'' agus an t-'''''asamat''''' (no an ''ceàrn asamatach'') ri ''θ''.
+
+Mar as cumanta tha an [[ceàrn]] ''θ'' air a thomhas gu tuathal bho 0° (air an axis-''x'') gu 360° (air ais air an axis-''x''), no bho 0° gu 180° (air an axis-''x'' [[àireamhan àicheil is neo-àicheil|àicheil]]) agus gu -180° (a-rithist air an axis-''x'' àicheil), far an tèid ceàrnan àicheil a thomhas gu deiseil.
+
+Nochdaidh an siostam seo ann an iomadh suidheachadh eile. Mar eisimpleir, "tha an crann-ola (''P'') dà cheud mìle (''r'') an ear-thuath (''θ'') a Obar Dheathain (''O'')". 
+
+
+===Co-chomharran sorcaireach===
+[[Image:Cylindrical coordinates2.svg|250px]]
+
+'S ann trì-sheallach a tha siostam '''co-chomharran sorcaireach''', agus feumar trì [[àireamh]]an airson [[puing]] a lorg (''r'', ''θ'', ''z''). Chan ann an seo ach leudachadh simplidh air an t-''siostam chearclach'' far a bheil ''z'' na h-àirde ''P'' os cionn a' phlàna (no fon phlàna, ma tha ''z'' [[àireamhan àicheil is neo-àicheil|àicheil]]).
+
+Tha '''co-chomharran sorcaireach''' feumail airson sgrùdadh shiostam aig a bheil co-chothromach chuairteil mu aiseal.
+
+
+===Co-chomharran cruinn===
+[[Image:Spherical_Coordinates.svg|250px]]
+
+'S e siostam pòlarach trì-sheallach a th' anns na '''co-chomharran cruinn''' cuideachd. Lorgar gach puing ''P'' aig na co-chomharran (''ρ'', ''θ'', ''φ'') far a bheil ''ρ'' na astar dìreach (na ''radius'') bhon bhun-phuing ''O'' gu ''P'', agus far a bheil ''θ'' agus ''φ'' nan [[ceàrn]]an bho dà axis cho-cheart-cheàrnach. A thaobh an t-''siostaim Chartesaich'', 's e ''φ'' an [[ceàrn]] ''pòlarach'' (no ''barra'' no ''co-chromaidh'', a-rèir an t-suidheachaidh) bhon axis-''z'' gus an loidhne ''OP'' agus ''θ'' an ceàrn ''asamatach'' bhon axis-''x'' do thilgeil ''OP'' air a’ phlàna ''x-y''.
+
+
+
+==Aistidhean co-cheangailte==
 * [[Co-chomharran an Domhain]]
 * [[Cruinneadaireachd]]
+
+[[Category:matamataig]]
+
+[[de:Koordinaten]]
+[[en:Coordinates (mathematics)]]
+[[ko:극좌표]]
+[[nl:Coördinaat]]
+[[ja:極座標系]]
+[[pl:Sferyczny układ współrzędnych]]
+[[ro:Coordonate polare]]
+[[fi:Koordinaatisto]]
+[[ru:Координаты]]
+[[sv:Koordinater]]
+[[th:พิกัด]]
+[[tr:Küresel koordinat sistemi]]
