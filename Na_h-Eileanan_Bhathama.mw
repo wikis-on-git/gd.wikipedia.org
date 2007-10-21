@@ -1,20 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Commonwealth of The Bahamas'''</big></big>
-|- 
-| align="center" colspan="2" | 
-{| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0" height="120px" 
-| align="center" width="140px" | [[Image:Flag of the Bahamas.svg|125px|A'bhratach Asarbaideannach]]
-| align="center" width="140px" | [[Image:Bahamas coa.png|125px|A'arm Asarbaideannach]]
-|- 
-| align="center" width="140px" | ([[A'bhratach Asarbaideannach|Bratac]])
-| align="center" width="140px" | ([[A'arm Asarbaideannach|Arma]])
-|}
-|- 
-| align=center colspan=2 | [[Image:LocationBahamas.png|300px]]
-|- 
-| '''[[Cànain oifigeil]]'''
-| [[A' Bheurla|Bheurla]]
-|}
+{{Template:Dùthaich
+| Ainm = Commonwealth of The Bahamas<br>Na h-Eileanan Bhathama
+| BRATACH = Flag of the Bahamas.svg
+| LÙIREACH = Bahamas_coa.png
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
+| MAPA = LocationBahamas.svg
+| LAOIDH_NÀISEANTA = "[[March On, Bahamaland]]"<br> Laoidh rìoghail: "[[God Save the Queen]]"
+| SLUAGH_GHAIRM = "Forward, Upward, Onward Together"
+| CÀNAN_OIFIGEIL = [[Beurla]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Nassau, Bahamas|Nassau]]
+| BAILE_AS_MOTHA = [[Nassau, Bahamas|Nassau]]
+ | SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = '''Ban-rìgh'''
+| TIOTAL_CEANNARD2 = '''Riaghladair'''
+| TIOTAL_CEANNARD3 = '''[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Ban-rìgh Ealasaid II| Ealasaid II]]
+| AINM_CEANNARD2 = Arthur Dion Hanna
+| AINM_CEANNARD3 = Hubert Ingraham
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd  
+| TACHARTAS2 = bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS3 = Neo-eisimeileachd 
+| TACHARTAS4 = gu lèir
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = &nbsp;   
+| CEANN_LATHA2 = [[1964]]
+| CEANN_LATHA3 = &nbsp;
+| CEANN_LATHA4 = 10mh an Iuchar, [[1973]]
+| CEANN_LATHA5 = 
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 13878
+| REANGACH_F = 160mh
+| UISGE = 28
+| BLIADHNA = 2003
+| ÀIREAMH_SHLUAIGH = 323,000
+| REANGACH_S = 177mh
+| DLÙTHS = 23.27
+| REANGACH_D = 181mh
+| BLIADHNA_GDP = 2005
+| GDP = $6.524 billian
+| REANGACH_GDP = 145mh
+| ÀIREAMH_GDP = $17,843
+| REANGACH_PER_CAPITA = 38mh
+| ROINN_TÌDE = [[Eastern Time Zone (North America)|EST]]
+| UTC_OFFSET = −5
+| AS_T_SAMHRADH = [[Eastern Daylight Time|EDT]]
+| UTC_OFFSET_2 = −4
+| RUITH_AIRGID = Bahamian dolair
+| EADAR_LÌON = .bs
+| ÀIREAMH_FÒN = 1 242
+}}
 
 [[Category:Caribbean countries]]
 
