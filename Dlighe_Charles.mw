@@ -16,6 +16,7 @@ where:
 :''V'' is the [[volume]] of the gas
 :''T'' is the [[temperature]] of the gas (measured in [[Kelvin]]s)
 :''k'' is a constant.
+so when v goes ^ t goes ^ 
 
 In other more thermodynamics-based definitions, the relationship between the fixed mass of a gas at constant pressure is inversely proportional to the temperature applied to the system, which can be further used by stipulating a system where <math>\alpha</math> represents [[cubic expansivity]] of a gas, with <math>\theta</math> representing the temperature measured of the system in Kelvins:
 
