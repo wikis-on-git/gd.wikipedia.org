@@ -1,0 +1,61 @@
+'S e dòigh rianail airson co-cheangal a dhèanamh eadar [[àlach]] òrdaichte [[àireamh]]an agus [[puing]] suidhichte ann an spàs a th' ann an '''siostam cho-chomharran'''. 'S e an eisimpleir as sìmplidh an [[siostam cho-chomharran Cartesach|siostam Cartesach]]. Anns an t-siostam seo tha aon phuing air a taghadh mar ''bhun-phuing'' anns an spàs agus tha trì [[cùrsa]]ichean air an taghadh (ainmichte ''x'', ''y'' agus ''z'' mar as cumanta) a tha ceart-cheàrnach fear bhon fhear eile. Faodar puing sam bith eile lorg anns an spàs le bhith a' dol an astair ''k'' (can) bhon bhun-phuing air a' chùrsa ''x'', nuair sin an astair ''m'' air a' chùrsa ''y'' agus nuair sin an astair ''n'' air a' chùrsa ''z''. Tha na trì àireamhan (''k'', ''m'', ''n'') nan [[co-chomharran]] na puinge, ach feumar an ainmeachadh anns an òrdugh (''x'', ''y'', ''z''). Anns an eisimpleir seo, 's e ''k'' co-chomharra ''x'' na puinge, ''m'' an co-chomharra ''y'' agus ''n'' an co-chomharra ''z''.
+
+Tha iomadach dòigh airson cho-chomharran a chur air puing. Faodar puing eile thaghadh mar bhun-phuing. Faodar cùrsaichean eile thaghadh mar ''shiùil-thomhais''. Agus chan eil e èiseil gum bi na cùrsaichean taghte ceart-cheàrnach, no eadhan gur e loidhnichean dìreach a th' annta. Tha co-chomharran na puinge an urra ris an t-siostam a th' air a chleachdadh.
+
+'S e as adhbhar do '''shiostaman cho-chomharran''' eadar-dhealaichte bhith ann gu bheil e nas fhasa, ann am bitheantas, ceist fhuasgladh anns an dara siostam na tha e ann an siostam eile. Is mathaid nach gabh i fuasgladh idir ann an siostam air choireigin. Agus gu tric thèid ceist a cur anns an dara siostam ach gabhaidh i fuasgladh nas fhasa ann an siostam eile. Mar sin tha e cudromach cuideachd gum bi eòlas againne ciamar a dh' atharraicheas sinn na co-chomharran bhon dara siostam gu siostam eile.
+
+Ann am [[matamataig]], chan ann ach [[àlach]] [[àireamh]]an a th' anns na [[co-chomharran]]. Ann am [[fiosaig]] gu h-àraidh, ach ann an iomadh raon eòlais eile, faodaidh na h-àireamhan seo a' riochdachadh uimhirean mar àite, luathas, no fòrsa. Faodar spàsan ioma-sheallach easchruthach a thogail, agus  siostam cho-chomharran aca airson phuingean a lorg annta. Ann an reul-fhiosaig, mar eisimpleir, tha modh fàs còmhlan reultan air a rannsachadh ann an spàs 6sh far a bheil na sia siùil-thomhais nan àite reul (''x'', ''y'', ''z'') agus nan codaichean de luathas na reul leis na trì cùrsaichean (''v''<sub>x</sub>, ''v''<sub>y</sub>, ''v''<sub>z</sub>). Suidhichear gach reul a' chòmhlain anns an spàs seo aig co-chomharran (''x'', ''y'', ''z'', ''v''<sub>x</sub>, ''v''<sub>y</sub>, ''v''<sub>z</sub>).
+
+
+==Gnè siostaman cho-chomharran==
+===Gnè cheart-cheàrnachail===
+
+Tha dà sheòrsa siostam cho-chomharran ann – ''ceart-cheàrnachail'' agus ''lùb-loidhneach''. Chan ann ach aon shiostam den ghnè [[ceart-cheàrnach|cheart-cheàrnachail]] agus sin an [[siostam cho-chomharran Cartesach|siostam Cartesach]]. Anns an t-siostam seo 's e [[loidhne|loidhnichean]] dìreach a th' anns na h-''axes'' (na cùrsaichean tomhais), agus tha na h-axes ceart-cheàrnach fear bhon fhear eile. 'S e sin ri ràdh gur e ceart-cheàrn an [[ceàrn]] eadar dà axis sam bith. Air [[plàna]] (ann an spàs dà-sheallach) dealbhar [[ceart-cheàrnach]] (an [[cumadh]]) eadar puing ''P'' agus a' bhun-phuing ''O'' ma tha an dà phuing seo co-cheangailte le loidhnichean an cùrsa nan axes.
+
+[[Image:Co-cho-crt-chrnchl.jpg|300px]]
+
+Tha e lèirsinn gum bi breisleach an seo. Ged nach eil e èiseil gum bi ceart-cheàrn eadar siùil-thomhais siostam cho-chomharran tha e mòran nas feumail ma bhios, agus seo feart nan siostaman as cumanta. Tha iad uile ''ceart-cheàrnach'' ach chan ann ach fear dhiubh (an siostam Cartesach) ''[[ceart-cheàrnach]]ail''. Ri linn seo, ann am [[matamataig]] agus ann am [[fiosaig]] cleachdar am facal '''''ortogònach''''' (bhon Ghreugais ορθός: ''ceart'' agus γωνία: ''ceàrn'') an àite a' [[buadhair|bhuadhair]] ''ceart-cheàrnach'', mar as cumanta.
+
+
+===Gnè lùb-loidhneach===
+
+'S ann lùb-loidhneach a tha na [[co-chomharran]] ma tha fear dhiubh, air a' char as lugha, air a thomhas air cùrsa loidhne lùbte. 'S e an eisimpleir as sìmplidh na [[siostam cho-chomharran pòlarach|co-chomharran pòlarach]] air plàna (na co-chomharran pòlarach cearclach). Anns an t-siostam seo lorgar gach puing air a' phlàna aig na co-chomharran (''r'', ''θ''), far a bheil ''r'' na h-astar dìreach bhon bhun-phuing ''O'' agus ''θ'' na ceàrn bho ''axis pòlarach'' (m.e. axis-x an t-siostaim Chartesaich). Tha seòl-tomhais ''θ'' ''ortogònach'' ri seòl-tomhais ''r'' oir 's e beantan [[cearcall|cearcaill]] le radius ''r'' a th' ann an seòl-tomhais ''θ'' agus tha ceart-cheàrn eadar radius a' chearcaill agus am beantan aige.
+
+[[Image:Co-cho-plrch.jpg‎|400px]]  
+
+'S e eisimpleir eile a th' anns na co-chomharran eileapsach. Seo siostam cho-chomharran air plàna far a bheil puing a lorg aig co-chomharran (''u'', ''v'') far a bheil ''u'' na [[eileaps]] co-fhòcasach agus tha ''v'' air a thomhas mar [[ceàrn|cheàrn]] bho 0° gu 360° bhon mhòr-axis na h-eileaps. Ma tha ''v'' seasmhach, 's ann air [[hipearbòla]], leis an aon fhòcas 's a tha aig an eileaps, a tha lorg loidhne ''u''. Tha na hipearbòlan (loidhnichean lùbte le ''v'' [[cunbhal]]ach) ortogònach ris na h-eileapsan (aig a bheil ''u'' cunbhalach). Anns an eisimpleir seo 's e loidhnichean lùbte a th' anns an dà sheòl-thomhais.
+
+
+==Atharrachadh siostaman cho-chomharran==
+
+Gus co-chomharran iomlaideachadh eadar siostaman, tha feum air foirmle a dh'atharraicheas co-chomharran an dara siostaim do cho-chomharran an t-siostaim eile. Mar eisimpleir, seo na foirmlean bho cho-chomharran pòlarach (''r'', ''θ'') gus na co-chomharran Cartesach (''x'', ''y''):
+
+::<math> x = r \cos \theta \,</math>
+::<math> y = r \sin \theta \,</math>
+
+Gus an iomlaideachadh air ais:
+
+::<math> r = \sqrt{x^2+y^2} \,</math>
+::<math> \theta^\prime = \tan^{-1}\left | \frac{y}{x} \right | \,</math>
+
+Ged a bhiodh ''θ' '' an ceàrn anns a' chiad cheathramh (0° ≤ ''θ' '' < 90°). Nam biodh a' phuing (''x'', ''y'') ann an ceathramh eile:
+
+::<math> \theta = \begin{cases}
+  180^\circ - \theta^\prime \\
+  180^\circ + \theta^\prime \\
+  360^\circ - \theta^\prime 
+\end{cases} \,</math>
+
+Ann an cuid de shiostaman cho-chomharran, tha puing ann gun luach sònraichte aig fear de na cho-chomharran. 'S e eisimpleir a th' ann am bun-phuing nan co-chomharran pòlarach (''r'', ''θ''). Tha ''r'' = 0 agus chan eil e gu diofar dè an luach a th' aig ''θ''. Far a bheil seo a' chùis, thathar ag ràdh gur e '''singilteachd''' a th' anns a' cho-chomharra seo.
+
+
+==Spàsan toinnte, cairtean agus atlasan==
+
+Far a bheil spàs (easchruthach) air leth toinnte, is math a dh' fhaoidte nach eil e ion-dhèanta (no feumail) airson aon shiostam cho-chomharran a chur air feadh an spàis gu lèir. Ann an suidheachadh den t-seòrsa seo, cuirear iomadh siostaim le chèile airson an spàis a chòmhdachadh. Canar '''cairtean''' ris na siostaman cho-chomharran fa leth agus '''atlas''' ris a' chruinneachadh dhiubh.
+
+
+==Faic cuideachd==
+* [[Co-chomharran]]
+
+
+[[Category:matamataig]]
