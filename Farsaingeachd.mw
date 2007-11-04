@@ -1,0 +1,76 @@
+'S ann ann am '''farsaingeachd''' a tha meud [[geoimeatras|geoimeatrach]] an uachdair, no a' [[cumadh|chumaidh]] a chaidh a dhealbhadh air. Tha bun-bheachd na farsaingeachd imfhiosach, agus tha an fharsaingeachd furasta a h-annaladh, mas e cumadh sìmplidh (m.e. [[ceàrnag]] no [[cearcall]]) air [[plàna]] a th' ann. Mur h-e, is coltach gum bi feum air modhan-obrach geoimeatrais dhiofarachaidh adhartaich airson farsaingeachd uachdair annaladh.
+
+
+==Farsaingeachd chumaidhean sìmplidh==
+
+===Farsaingeachd ceart-cheàrnaich===
+
+Tha [[ceart-cheàrnach]] dèante de dhà phaidhir [[loidhne|loidhnichean]] dìreach co-shìnte le ceart-cheàrnan eatarra. Nam b' e faid nan loidhnichean ''a'' agus ''b'', bhiodh an fharsaingeachd ''F'' na toradh:
+
+::<math> F = a.b \,</math>
+
+
+===Farsaingeachd ceàrnaig===
+
+'S e seòrsa sònraichte de cheart-cheàrnach a th' ann an [[ceàrnag|ceàrnaig]] far a bheil an aon fhaid aig gach taobh. 'S e an fharsaingeachd aice:
+	
+::<math> F = a^2 = a.a \,</math> 
+
+
+===Farsaingeachd triantain===
+
+'S e am foirmle airson farsaingeachd [[triantan|triantain]] annaladh:
+
+::<math> F = \tfrac{1}{2} b.a \,</math>
+
+...far a bheil ''b'' na faid aon thaobh an triantain (bonn an triantain), agus ''a'' na h-àirde triantain air a tomhas gu h-ingearach ris a' bhuinn.
+
+Tha e furasta sealltainn co às a thàinig am foirmle seo. Nam biodh ''b'' air a roinn an dà phàirt ''b''<sub>1</sub> agus ''b''<sub>2</sub>, b' e farsaingeachd an triantain suim farsaingeachd an dà leth-cheart-cheàrnaich ''BCD'' agus ''CDF'':
+
+::<math> F = \tfrac{1}{2}a.b_1 + \tfrac{1}{2} a.b_2 = \tfrac{1}{2} a.(b_1 + b_2) = \tfrac{1}{2} a.b </math>
+
+
+===Farsaingeachd poileagain===
+
+Feumar [[poileagan]] a roinn mar àireamh de [[ceart-cheàrnach|cheart-cheàrnaich]] agus [[triantan|triantain]]. 'S e suim farsaingeachd nan earrainn sìmplidh seo a th' ann am farsaingeachd a' phoileagain.
+
+ 
+====Parailealogram====
+
+Faodar [[parailealogram]] a roinn an trì earrainn - [[ceart-cheàrnach]] agus dà [[triantan|thriantan]] - ach tha e nas fhasa an fharsaingeachd aige annaladh ma thèid na h-earrainn seo an ath-eagrachadh airson ceart-cheàrnaich a dhealbhadh. 
+
+Tha an fharsaingeachd aige:  
+
+::<math> F = a.b \,</math>
+
+...far a bheil ''b'' na bonn a' pharailealograim agus ''a'' na h-àirde aige air a tomhas gu h-ingearach ris a' bhonn.
+
+
+====Trapesium====
+
+Faodar [[trapesium]] a roinn mar [[ceart-cheàrnach|cheart-cheàrnach]] agus dà [[triantan|thriantan]] cuideachd. Ma tha bonn an trapesium ''b'', agus sin a roinn na trì pàirtean ''c'', ''d'' agus ''e'', 's e farsaingeachd an trapesium:
+
+::<math> F = \tfrac{1}{2} c.a + d.a + \tfrac{1}{2} e.a = \tfrac{1}{2} a.(c + d + d + e) = \tfrac{1}{2} a.(b + d) \,</math>
+
+far a bheil ''b'' na bonn, ''d'' na druim, agus ''a'' na h-àirde air a tomhas gu h-ingearach ri ''b'' (no ''d'').
+
+==Aonadan farsaingeachd==
+
+Chionns gur h-e toradh dà fhaide a th' anns an fharsaingeachd, 's e aonad faid ceàrnagaich a th' aice. 'S e am meatair (m) aonad na faide a-rèir an t-[[siostam aonadan eadar-nàiseanta|siostaim eadar-nàiseanta]] (an siostam SI) agus am meatair ceàrnagach (m<sup>2</sup>) aonad na farsaingeachd.
+
+===Aonadan iomadail cumanta===
+
+::cilemeatair ceàrnagach (km<sup>2</sup>) = 10<sup>6</sup> m<sup>2</sup>.
+::heactair (ha) = 10<sup>4</sup> m<sup>2</sup>.
+::aire (a) = 10<sup>2</sup> m<sup>2</sup>.
+
+===Aonadan fo-iomadail cumanta===
+
+::ciadameatair ceàrnagach (cm<sup>2</sup>) = 10<sup>-4</sup> m<sup>2</sup>.
+::milemeatair ceàrnagach (mm<sup>2</sup>) = 10<sup>-6</sup> m<sup>2</sup>.
+
+===Aonadan Ìmpireil===
+
+::slat ceàrnagach ≅ 0.84 m<sup>2</sup>.
+::acair ≅ 0.4 ha.
+::mile ceàrnagach ≅ 2.6 km<sup>2</sup>.
