@@ -10,6 +10,10 @@ Tha [[ceart-cheàrnach]] dèante de dhà phaidhir [[loidhne|loidhnichean]] dìre
 ::<math> F = a.b \,</math>
 
 
+
+[[Image:Ceart-chearnaich.jpg|300px]]
+
+
 ===Farsaingeachd ceàrnaig===
 
 'S e seòrsa sònraichte de cheart-cheàrnach a th' ann an [[ceàrnag|ceàrnaig]] far a bheil an aon fhaid aig gach taobh. 'S e an fharsaingeachd aice:
@@ -27,6 +31,10 @@ Tha [[ceart-cheàrnach]] dèante de dhà phaidhir [[loidhne|loidhnichean]] dìre
 
 Tha e furasta sealltainn co às a thàinig am foirmle seo. Nam biodh ''b'' air a roinn an dà phàirt ''b''<sub>1</sub> agus ''b''<sub>2</sub>, b' e farsaingeachd an triantain suim farsaingeachd an dà leth-cheart-cheàrnaich ''BCD'' agus ''CDF'':
 
+
+[[Image:Triantain.jpg|450px]]
+
+
 ::<math> F = \tfrac{1}{2}a.b_1 + \tfrac{1}{2} a.b_2 = \tfrac{1}{2} a.(b_1 + b_2) = \tfrac{1}{2} a.b </math>
 
 
@@ -35,13 +43,20 @@ Tha e furasta sealltainn co às a thàinig am foirmle seo. Nam biodh ''b'' air a
 Feumar [[poileagan]] a roinn mar àireamh de [[ceart-cheàrnach|cheart-cheàrnaich]] agus [[triantan|triantain]]. 'S e suim farsaingeachd nan earrainn sìmplidh seo a th' ann am farsaingeachd a' phoileagain.
 
  
+[[Image:Poileagan-leodhais.jpg|200px]]
+
+
 ====Parailealogram====
 
 Faodar [[parailealogram]] a roinn an trì earrainn - [[ceart-cheàrnach]] agus dà [[triantan|thriantan]] - ach tha e nas fhasa an fharsaingeachd aige annaladh ma thèid na h-earrainn seo an ath-eagrachadh airson ceart-cheàrnaich a dhealbhadh. 
 
+
+[[Image:Frsngchd-prlgrm.jpg|450px]]
+
 Tha an fharsaingeachd aige:  
 
 ::<math> F = a.b \,</math>
+
 
 ...far a bheil ''b'' na bonn a' pharailealograim agus ''a'' na h-àirde aige air a tomhas gu h-ingearach ris a' bhonn.
 
@@ -50,9 +65,16 @@ Tha an fharsaingeachd aige:
 
 Faodar [[trapesium]] a roinn mar [[ceart-cheàrnach|cheart-cheàrnach]] agus dà [[triantan|thriantan]] cuideachd. Ma tha bonn an trapesium ''b'', agus sin a roinn na trì pàirtean ''c'', ''d'' agus ''e'', 's e farsaingeachd an trapesium:
 
+
+[[Image:Trapesium.jpg|300px]]
+
+
 ::<math> F = \tfrac{1}{2} c.a + d.a + \tfrac{1}{2} e.a = \tfrac{1}{2} a.(c + d + d + e) = \tfrac{1}{2} a.(b + d) \,</math>
 
-far a bheil ''b'' na bonn, ''d'' na druim, agus ''a'' na h-àirde air a tomhas gu h-ingearach ri ''b'' (no ''d'').
+...far a bheil ''b'' na bonn, ''d'' na druim, agus ''a'' na h-àirde air a tomhas gu h-ingearach ri ''b'' (no ''d'').
+
+
+
 
 ==Aonadan farsaingeachd==
 
@@ -74,3 +96,73 @@ Chionns gur h-e toradh dà fhaide a th' anns an fharsaingeachd, 's e aonad faid 
 ::slat ceàrnagach ≅ 0.84 m<sup>2</sup>.
 ::acair ≅ 0.4 ha.
 ::mile ceàrnagach ≅ 2.6 km<sup>2</sup>.
+
+
+[[Category:Geoimeatras]]
+
+[[af:Oppervlakte]]
+[[als:Fläche]]
+[[ar:مساحة]]
+[[arc:ܫܛܝܚܘܬܐ]]
+[[zh-min-nan:Biān-chek]]
+[[be-x-old:Плошча]]
+[[bg:Площ]]
+[[ca:Àrea]]
+[[cs:Obsah]]
+[[cy:Arwynebedd]]
+[[da:Areal]]
+[[de:Flächeninhalt]]
+[[et:Pindala]]
+[[el:Έκταση]]
+[[en:Area]]
+[[es:Área (geometría)]]
+[[eo:Areo]]
+[[eu:Azalera]]
+[[fa:مساحت]]
+[[fo:Vídd]]
+[[fr:Superficie]]
+[[gu:ક્ષેત્રફળ]]
+[[ko:넓이]]
+[[hr:Površina]]
+[[io:Areo]]
+[[ilo:Kalawa]]
+[[id:Luas]]
+[[is:Flatarmál]]
+[[it:Area]]
+[[he:שטח]]
+[[ka:ფართობი]]
+[[la:Area]]
+[[lv:Platība]]
+[[lb:Fläch]]
+[[lt:Plotas]]
+[[li:Oppervlak]]
+[[ln:Etando]]
+[[hu:Terület]]
+[[mk:Плоштина]]
+[[mg:Velarantany]]
+[[ml:വിസ്തീര്‍ണ്ണം]]
+[[ms:Keluasan]]
+[[nl:Oppervlakte]]
+[[ja:面積]]
+[[no:Areal]]
+[[nn:Flatevidd]]
+[[oc:Superfícia]]
+[[nds:Flach]]
+[[pl:Powierzchnia]]
+[[pt:Área]]
+[[ro:Suprafaţă]]
+[[qu:Hallka k'iti k'anchar]]
+[[ru:Площадь]]
+[[sco:Area]]
+[[simple:Area]]
+[[sl:Površina]]
+[[fi:Pinta-ala]]
+[[sv:Ytmått]]
+[[ta:பரப்பளவு]]
+[[th:พื้นที่]]
+[[vi:Diện tích]]
+[[tr:Alan]]
+[[uk:Площа]]
+[[yi:שטח]]
+[[zh-yue:面積]]
+[[zh:面积]]
