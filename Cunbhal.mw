@@ -1,0 +1,65 @@
+Anns na [[saidheans]]an [[matamataig]]each, 's e teirm no uimhir aig a bheil luach seasmhach (no ''cunbhalach'') a th' ann an '''cunbhal'''. 'S ann eadar-dhealaichte ri '''cunbhal''' a tha '''''[[caochladair]]''''' aig a bheil luach atharrachail.
+
+
+==Cunbhalan neo-shònraichte==
+
+'S e gnè teirm ann am [[foirmle]], mar as cumanta, a th' ann an '''cunbhal'''. A-rèir cleachdaidh, thèid cunbhalan an riochdachadh le litrichean bho thoiseach na h-[[aibidil]] [[Laideann|Laidinn]] (m.e. ''a'', ''b'' agus ''c'') agus [[caochladair]]ean le litrichean bho dheireadh na h-[[aibidil]] (m.e. ''x'', ''y'' agus ''z''). Mar eisimpleir, anns a' cho-aontar:
+
+
+::<math> z = a.x+b.y+c \,</math>
+
+
+Faodaidh ''x'' agus ''y'' gabhail luach sam bith, ach bhiodh ach aon luach aig ''a'', fear eile aig ''b'', agus an treas fear aig ''c''. Is coltach nach eil eòlas againn air luach nan cunbhalan ann am [[foirmle]] mar seo, ach thèid am faighinn a-mach ma tha fios againn air luach an [[fuincsean|fhuincsein]] a-rèir na dh'fhòghnas de luachan ''x'' agus ''y'' eadar-dhealaichte. 'S e [[caochladair]] a th' ann an ''z'' cuideachd ach tha luach ''z'' an urra ri luach nan cunbhalan ''a'', ''b'' agus ''c'', agus an luach a th' aig ''x'' agus ''y''. Canar ''caochladair eisimeileach'' ri ''z'' agus ''caochladair neo-eisimeileach'' ri ''x'' agus ''y''.
+
+
+===Co-èifeachdach===
+
+Far a bheil [[caochladair]] air iomadachadh le '''cunbhal''' ann am [[fuincsean]] mar os cionn, tha buaidh aig gach [[caochladair]] air luach an fhuincsein an urra ris a' chunbhal a dh'iomadaicheas e. Mar sin, canar '''co-èifeachdach''' ris na cunbhalan ''a'' agus ''b'' anns a' cho-aontar os cionn. Chan e co-èifeachdach a th' anns an ''c'', ge-tà, oir chan iomadaich i caochladair.
+
+
+===Cunbhal atharrachaidh===
+
+Far a bheil [[co-aontar]] den riochd:
+
+::<math> y = k.x\,</math> , no
+::<math> y = k.\frac{1}{x}\,</math>
+
+...atharraichidh an [[caochladair]] ''y'' dìreach no neo-dhìreach an cois a' chaochladair ''x'' . 'S e sin ri ràdh gu bheil ''y'' agus ''x'' ann an co-mheas cunbhalach, ''k'', ma tha an t-atharrachadh dìreach eatarra, no gu bheil toradh ''y'' agus ''x'' cunbhalach, ''k'', ma tha an t-atharrachadh neo-dhìreach eatarra. Canar '''cunbhal atharrachaidh''' ri cunbhal mar ''k'' ann an [[co-aontar]] den t-seòrsa seo. 
+
+
+==Cunbhalan sònraichte==
+
+Tha luach sònraichte aig cuid de chunbhalan, agus comharran sònraichte aca. 'S e eisimpleir shuarach a th' anns na h-àireamhan fhèin ach 's e cunbhalan mar ''π'' (≈ 3.14159), Cunbhal Euler ''e'' (≈ 2.71828), no an t-aonad ìomhaigheach ''i'' (= √-1) a tha romhainn mar as cumanta nuair a tha sinn a' bruidhinn mu dheidhinn chunbhalan sònraichte.
+
+ 
+Ann am [[fiosaig]] cuideachd tha iomadh cunbhail cudromach, mar eisimpleir luathas solais ann am vacuum ''c'' (= 299 792 458 m.s<sup>-1</sup>) agus Cunbhal Phlanck ''h'' (≈ 6.626 × 10-34 J.s).
+
+
+[[Category:matamataig]]
+
+
+[[bg:Константа]]
+[[da:Konstant]]
+[[de:Konstante]]
+[[et:Konstant]]
+[[en:Constant]]
+[[es:Constante]]
+[[eo:Konstanto]]
+[[fr:Constante]]
+[[ko:상수]]
+[[id:Konstanta]]
+[[it:Costante]]
+[[lt:Konstanta]]
+[[nl:Constant (eigenschap)]]
+[[ja:定数]]
+[[no:Konstant]]
+[[pt:Constante]]
+[[ru:Константа]]
+[[simple:Constant]]
+[[sr:Константа]]
+[[fi:Vakio]]
+[[sv:Konstant]]
+[[th:ค่าคงตัว]]
+[[uk:Константа]]
+[[zh:常数]]
+[[zh-min-nan:Tiāⁿ-sò͘]]
