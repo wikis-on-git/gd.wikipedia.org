@@ -1,11 +1,12 @@
-{{sections}}
 {{for|the politician named Charles Law|Charles B. Law}}
 
 In [[thermodynamics]] and [[physical chemistry]], '''Charles' law''' is a [[gas laws|gas law]] and specific instance of the [[ideal gas law]], which states that:
 
 :''At constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in kelvin) increases or decreases. ''
 
-The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles. The relationship had been anticipated by the work of [[Guillaume Amontons]] in [[1702]]. 
+The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles. The relationship had been anticipated by the work of [[Guillaume Amontons]] in [[1702]]. Boyle's law, Charles's Law, and Gay-Lussac's Law form the combined gas law. The three gas laws in combination with Avogadro's law can be generalized by the ideal gas law.
+
+==Derivation==
 
 The formula for the law is:
 
@@ -27,9 +28,7 @@ To maintain the constant, ''k'', during heating of a gas at fixed pressure, the 
 
 :<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>.
 
-Basically, as the temperature increases the volume of the gas increases.
-
-Boyle's law, Charles's Law, and Gay-Lussac's Law form the combined gas law. The three gas laws in combination with Avogadro's law can be generalized by the ideal gas law.
+Therefore, as temperature increases, the volume of the gas increases.
 
 ==See also==
 {{wikibooks|School science|Making Charles' law tubes}}
