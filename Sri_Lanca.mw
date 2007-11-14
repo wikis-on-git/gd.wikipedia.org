@@ -1,58 +1,64 @@
-{|  border="1" cellpadding="2" cellspacing="0" align="right" width="280px"
-|+<font size="+1">'''Sri Lank&#257; Prajathanthrika Samajavadi Janarajaya'''<br> or <br>'''Illankai Chananaayaka Chosalisa Kudiyarasu'''</font>
-|- 
-|  style="background:#efefef;" align="center" colspan=2 | 
-{|  border="0" cellpadding="2" cellspacing="0" 
-|  align="center" width="130px" | [[Image:Flag of Sri Lanka.svg|125px|Flag of Sri Lanka]]
-|  align="center" width="130px" rowspan="2" height="150px" | [[Image:Sri_lanka_coa.png|Sri Lanka Coat of Arms]]
-|- 
-|  align="center" width="130px" | ([[Flag of Sri Lanka|In Detail]])
-|}
-|- 
-|  align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''National [[motto]]: None''</font>
-|- 
-|  align=center colspan=2 | [[image:LocationSriLanka.png]]
-|- 
-| Official [[language]]s            
-| [[Sinhala language|Sinhala]], [[Tamil language|Tamil]]
-|- 
-| Other [[language]]s            
-| [[English language|English]]
-|- 
-| [[Capital|Capitals]]                      
-|  [[Colombo]]'''&sup1;'''<br>[[Sri Jayewardanapura Kotte|Sri Jayewardanapura Kotte]]'''&sup2;'''
-|- 
-| [[President of Sri Lanka|President]] 
-| [[Chandrika Bandaranaike Kumaratunga]]
-|- 
-| [[Prime Minister of Sri Lanka|Prime Minister]] 
-| [[Mahinda Rajapakse]]
-|- 
-| [[Area]]<br/>&nbsp;- Total <br/>&nbsp;- % water
-| [[List of countries by area|Ranked 119th]] <br/> [[1 E10 m²|65,610 km&sup2;]] <br/> 1.3%
-|- 
-| [[Population]]<br/>&nbsp;- Total ([[2002]]) <br/>&nbsp;- [[Population density|Density]]
-| [[List of countries by population|Ranked 51st]] <br/> 19,607,519 <br/> 298/km&sup2; 
-|- 
-<tr><td>[[Independence]]<br />&nbsp;[[Statute of Westminster 1931|St. of West<sup>r</sup>]]<br />&nbsp; [[Commonwealth Realm|Realm Status]] <td>From [[British Empire]]<br />&nbsp;[[December 11]], [[1931]]<br />&nbsp;[[February 8]], [[1948]] 
-|- 
-| [[Currency]]                     
-| Sri Lankan [[Rupee]]
-|- 
-| [[Time zone]]                    
-| [[Coordinated Universal Time|UTC]] +6
-|- 
-| [[National anthem]]              
-| [[Sri Lanka Matha]]
-|- 
-| [[Top-level domain|Internet TLD]]
-| .LK
-|- 
-| [[List_of_country_calling_codes|Calling Code]]
-| 94
-|- 
-|  colspan="2" align="center" | ('''1''') Executive Capital<br>('''2''') Legislative Capital
-|}
+{{Template:Dùthaich
+| Ainm =<span style="line-height:1.33em;">[[Image:SrilankaFont.png]]''<br/>''இலங்கை ஜனநாயக சமத்துவ குடியரசு</span>
+|conventional_long_name   = <span style="line-height:1.33em;">Democratic Socialist Republic of Sri Lanka</span>
+| BRATACH =Flag of Sri Lanka.svg
+| LÙIREACH =COA of Sri Lanka.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH = [[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH = [[Lùireach na dùthcha|Lùireach]]
+| MAPA =LocationSriLanka.png
+| LAOIDH_NÀISEANTA =[[Sri Lanka Matha]]
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =Sinhala, Tamil
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Sri Jayawardenapura|Sri Jayawardenapura-Kotte]]
+| BAILE_AS_MOTHA =[[Colombo]]
+| SEÒRSA_UACHDRANAIS =Poblachd shòisealach dheomacrasach
+| TIOTAL_CEANNARD1 = '''Ceann-suidhe'''| TIOTAL_CEANNARD2 = '''[[Prìomh-mhinistear]]'''
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Mahinda Rajapaksa
+| AINM_CEANNARD2 =Ratnasiri Wickremanayake
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = '''Neo-eisimeileachd ''' | TACHARTAS2 = bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS3 =Poblachd
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =&nbsp;  
+| CEANN_LATHA2 = 4 an Gearran [[1948]]
+| CEANN_LATHA3 =&nbsp;  
+| CEANN_LATHA4 =22 an Ceitean [[1972]]  
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 65,610
+| REANGACH_F =122mh
+| UISGE =4.4
+| BLIADHNA =2005
+| ÀIREAMH_SHLUAIGH =19,668,000
+| REANGACH_S =52mh
+| DLÙTHS =310
+| REANGACH_D =35mh
+| BLIADHNA_GDP =2005
+| GDP =$86.72 billean
+| REANGACH_GDP =61mh
+| ÀIREAMH_GDP =$4,600
+| REANGACH_PER_CAPITA =111mh
+| ROINN_TÌDE =
+| UTC_OFFSET = +5:30
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 = +5:30
+| RUITH_AIRGID = Rupee Sri Lanca
+| EADAR_LÌON =.lk
+| ÀIREAMH_FÒN =94
+}} 
+
+[[Category:Àisia]]
+[[Category:Dùthchannan]]
 
 [[af:Sri Lanka]]
 [[an:Sri Lanka]]
