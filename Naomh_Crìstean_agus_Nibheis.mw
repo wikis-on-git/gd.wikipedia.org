@@ -2,7 +2,7 @@
 | Ainm = Saint Kitt and Nevis<br> Naomh Crìstean agus Nibheis
 | BRATACH =Flag of Saint Kitts and Nevis.svg
 | LÙIREACH =St Kitts and Nevis coa.png
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 85
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationSaintKittsAndNevis.png
@@ -23,14 +23,14 @@
 | AINM_CEANNARD3 =Dr. Denzil Douglas
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 = '''Neo-eisimeileachd'''  
-| TACHARTAS2 =bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS1 = '''Neo-eisimeileachd'''  bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 =  
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 =&nbsp;  
-| CEANN_LATHA2 =19mh an t-Sultain [[1983]]
+| CEANN_LATHA1 = 19mh an t-Sultain [[1983]]
+| CEANN_LATHA2 =
 | CEANN_LATHA3 =
 | CEANN_LATHA4 =
 | CEANN_LATHA5 =
@@ -38,7 +38,7 @@
 | LATHA_NÀISEANTA =
 | FARSAINGEACHD =261
 | REANGACH_F =207mh
-| UISGE =-
+| UISGE =
 | BLIADHNA =2005
 | ÀIREAMH_SHLUAIGH =42,696
 | REANGACH_S = 209mh
@@ -52,7 +52,7 @@
 | ROINN_TÌDE =
 | UTC_OFFSET =-4
 | AS_T_SAMHRADH =
-| UTC_OFFSET_2 =-4
+| UTC_OFFSET_2 =
 | RUITH_AIRGID = Dolair Chairibianach
 | EADAR_LÌON =.kn
 | ÀIREAMH_FÒN =1 869
