@@ -2,7 +2,7 @@
 | Ainm = Jamaica<br>Iaimeuca
 | BRATACH =Flag of Jamaica.svg
 | LÙIREACH =Jamaica coa.png
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 70
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationJamaica.svg
@@ -23,8 +23,8 @@
 | AINM_CEANNARD3 =Bruce Golding
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 = '''Neo-eisimeileachd'''  
-| TACHARTAS2 = bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS1 = '''Neo-eisimeileachd''' bhon<br> [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 = 
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
@@ -51,8 +51,8 @@
 | REANGACH_PER_CAPITA = 114mh
 | ROINN_TÌDE =
 | UTC_OFFSET = -5
-| AS_T_SAMHRADH = -
-| UTC_OFFSET_2 = -5
+| AS_T_SAMHRADH = 
+| UTC_OFFSET_2 = 
 | RUITH_AIRGID = Dolair Iaimeucach
 | EADAR_LÌON = .jm
 | ÀIREAMH_FÒN = 1 876
