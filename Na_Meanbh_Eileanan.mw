@@ -2,7 +2,7 @@
 | Ainm =Federated States of Micronesia<br>Na Meanbh Eileanan
 | BRATACH =Flag of Micronesia.svg
 | LÙIREACH =Fm CoA.jpg
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 75
 | AINM_BHRATACH = [[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH = [[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationMicronesia.png
@@ -23,13 +23,14 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 ='''Neo-eisimeileachd '''  | TACHARTAS2 = bho [[na Stàitean Aonaichte]]
+| TACHARTAS1 ='''Neo-eisimeileachd ''' bho<br> [[na Stàitean Aonaichte]]
+| TACHARTAS2 =   
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 =&nbsp;  
-| CEANN_LATHA2 =3mh an t-Samhain [[1986]]
+| CEANN_LATHA1 =  3, an t-Samhain [[1986]]
+| CEANN_LATHA2 =
 | CEANN_LATHA3 =
 | CEANN_LATHA4 =
 | CEANN_LATHA5 =
@@ -51,8 +52,8 @@
 | ROINN_TÌDE =
 | UTC_OFFSET =+10/+11
 | AS_T_SAMHRADH =
-| UTC_OFFSET_2 =+10/+11
-| RUITH_AIRGID =[[Dollair]]
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =[[Dolair]]
 | EADAR_LÌON =.fm
 | ÀIREAMH_FÒN =691
 }}
