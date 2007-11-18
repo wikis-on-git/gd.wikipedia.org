@@ -2,7 +2,7 @@
 | Ainm =''Repúblika Demokrátika Timór Lorosa'e''<br/>''República Democrática de Timor-Leste''
 | BRATACH =Flag of East Timor.svg
 | LÙIREACH =Timor-leste coa.svg
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 70
 | AINM_BHRATACH = [[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH = [[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationEastTimor.svg
@@ -21,15 +21,15 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 ='''Neo-eisimeileachd ''' 
-| TACHARTAS2 =bhon [[A' Phortagail|Phortagail]]
-| TACHARTAS3 = aithnichte
+| TACHARTAS1 ='''Neo-eisimeileachd''' <br>bhon [[A' Phortagail|Phortagail]]
+| TACHARTAS2 =  aithnichte
+| TACHARTAS3 = 
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 =&nbsp;  
-| CEANN_LATHA2 =28mh an t-Samhain [[1975]]
-| CEANN_LATHA3 = 20mh an Cèitean [[2002]]
+| CEANN_LATHA1 = 28mh an t-Samhain [[1975]]
+| CEANN_LATHA2 = 20mh an Cèitean [[2002]]
+| CEANN_LATHA3 =  
 | CEANN_LATHA4 = 
 | CEANN_LATHA5 =
 | CEANN_LATHA6 =
@@ -50,7 +50,7 @@
 | ROINN_TÌDE =
 | UTC_OFFSET =+9
 | AS_T_SAMHRADH =
-| UTC_OFFSET_2 =+9
+| UTC_OFFSET_2 =
 | RUITH_AIRGID =U.S. [[Dolair]]
 | EADAR_LÌON =.tl
 | ÀIREAMH_FÒN =670
@@ -63,8 +63,6 @@ Chan eilear cinnteach an e Tiomor an Ear pàirt den [[Àisia a Deas]]<ref>[http:
 <references/>
 
 [[Image:369949523 075e97ebb3 b.jpg|left|thumb|upright|Muinntir Thiomor anns an stoidhe tràidiseanta]]
-
-
 
 [[Image:East Timor map mhn.jpg|thumb|left|Cairt: Tiomor an Ear]]
 
