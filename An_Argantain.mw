@@ -2,7 +2,7 @@
 | Ainm = República Argentina<br> An Argantain
 | BRATACH = Flag of Argentina.svg
 | LÙIREACH = Argentina_coa.png
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 65
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA = LocationArgentina.png
@@ -45,14 +45,14 @@
 | DLÙTHS = 13
 | REANGACH_D = 165mh
 | BLIADHNA_GDP = 2005
-| GDP = US$ 537.2 billian
+| GDP = US$ 537.2 billean
 | REANGACH_GDP = 22mh
 | ÀIREAMH_GDP = US$ 14,087
 | REANGACH_PER_CAPITA = 52mh
 | ROINN_TÌDE = ART
 | UTC_OFFSET = -3
-| AS_T_SAMHRADH = ARST
-| UTC_OFFSET_2 = -3
+| AS_T_SAMHRADH = 
+| UTC_OFFSET_2 = 
 | RUITH_AIRGID = [[Argentine Peso|Peso]]
 | EADAR_LÌON = .ar
 | ÀIREAMH_FÒN = 54
