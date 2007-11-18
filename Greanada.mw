@@ -2,7 +2,7 @@
 | Ainm = Grenada<br>Greanada
 | BRATACH =Flag of Grenada.svg
 | LÙIREACH =Coat of arms of Grenada.png
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 85
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationGrenada.png
@@ -23,14 +23,14 @@
 | AINM_CEANNARD3 =Keith Mitchell
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 = '''Neo-eisimeileachd'''  
-| TACHARTAS2 = bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS1 = '''Neo-eisimeileachd'''<br>  bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 =   
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 = &nbsp;  
-| CEANN_LATHA2 =7mh an Gearran [[1974]]
+| CEANN_LATHA1 =  7mh an Gearran [[1974]]
+| CEANN_LATHA2 =
 | CEANN_LATHA3 =
 | CEANN_LATHA4 =
 | CEANN_LATHA5 =
@@ -52,7 +52,7 @@
 | ROINN_TÌDE =
 | UTC_OFFSET =-4
 | AS_T_SAMHRADH =
-| UTC_OFFSET_2 =-4
+| UTC_OFFSET_2 =
 | RUITH_AIRGID = Dolair Chairibianach
 | EADAR_LÌON =.gd
 | ÀIREAMH_FÒN =1 473
