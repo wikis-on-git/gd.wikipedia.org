@@ -2,7 +2,7 @@
 | Ainm =''Ripablik blong Vanuatu''<br>''République de Vanuatu''<br>Bhanuatu
 | BRATACH =Flag of Vanuatu.svg
 | LÙIREACH =Vanuatu coa.gif
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 70
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationVanuatu.png
@@ -23,14 +23,14 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 ='''Neo-eisimeileachd''' 
-| TACHARTAS2 =bhon [[an Fhraing|Fhraing]] agus bhon [[an Rìoghachd Aonaichte|UK]]
+| TACHARTAS1 ='''Neo-eisimeileachd''' <br>bhon [[an Fhraing|Fhraing]] agus bhon [[an Rìoghachd Aonaichte|UK]]
+| TACHARTAS2 = 
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 =&nbsp;  
-| CEANN_LATHA2 =30mh an Iuchar [[1980]]
+| CEANN_LATHA1 =30mh an Iuchar [[1980]]
+| CEANN_LATHA2 =
 | CEANN_LATHA3 =
 | CEANN_LATHA4 =
 | CEANN_LATHA5 =
@@ -38,7 +38,7 @@
 | LATHA_NÀISEANTA =
 | FARSAINGEACHD =12,189
 | REANGACH_F =161mh
-| UISGE =-
+| UISGE =
 | BLIADHNA =2006
 | ÀIREAMH_SHLUAIGH =209,000
 | REANGACH_S =183mh
@@ -52,7 +52,7 @@
 | ROINN_TÌDE =
 | UTC_OFFSET =+11
 | AS_T_SAMHRADH =
-| UTC_OFFSET_2 =+11
+| UTC_OFFSET_2 =
 | RUITH_AIRGID =Vanuatu vatu
 | EADAR_LÌON =.vu
 | ÀIREAMH_FÒN =678
