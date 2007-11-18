@@ -2,7 +2,7 @@
 | Ainm =''República de Honduras''<br>Hondùras
 | BRATACH =Flag of Honduras.svg
 | LÙIREACH =Honduras coa.png
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 50
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationHonduras.svg
@@ -23,8 +23,8 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 = '''Neo-eisimeileachd'''
-| TACHARTAS2 = bhon [[an Spàinn|Spàinn]]
+| TACHARTAS1 = '''Neo-eisimeileachd''' <br>bhon [[an Spàinn|Spàinn]]
+| TACHARTAS2 = 
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
@@ -38,7 +38,7 @@
 | LATHA_NÀISEANTA =
 | FARSAINGEACHD =112,492
 | REANGACH_F =102mh
-| UISGE = -
+| UISGE = 
 | BLIADHNA =2007
 | ÀIREAMH_SHLUAIGH =7,483,763
 | REANGACH_S =96mh
@@ -51,8 +51,8 @@
 | REANGACH_PER_CAPITA =124mh
 | ROINN_TÌDE =[[North American Central Time Zone|CST]]
 | UTC_OFFSET =-6
-| AS_T_SAMHRADH =-
-| UTC_OFFSET_2 =-6
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
 | RUITH_AIRGID =Lempira
 | EADAR_LÌON =.hn
 | ÀIREAMH_FÒN =504
