@@ -2,7 +2,7 @@
 | Ainm =República de Guatemala<br>Guatamala
 | BRATACH =Flag of Guatemala.svg
 | LÙIREACH =Guatemala  COA.svg
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 90
 | AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationGuatemala.svg
@@ -23,8 +23,8 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 ='''Neo-eisimeileachd'''
-| TACHARTAS2 =bhon [[an Spàinn|Spàinn]]
+| TACHARTAS1 ='''Neo-eisimeileachd''' bhon [[an Spàinn|Spàinn]]
+| TACHARTAS2 = 
 | TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
@@ -51,8 +51,8 @@
 | REANGACH_PER_CAPITA =116mh
 | ROINN_TÌDE =
 | UTC_OFFSET =-6
-| AS_T_SAMHRADH =-
-| UTC_OFFSET_2 =-6
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
 | RUITH_AIRGID =[[Guatemalan quetzal|Quetzal]]
 | EADAR_LÌON =.gt
 | ÀIREAMH_FÒN =502
