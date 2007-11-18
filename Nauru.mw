@@ -2,7 +2,7 @@
 | Ainm =''Ripublik Naoero''<br>Republic of Nauru
 | BRATACH =Flag of Nauru.svg
 | LÙIREACH =Coat of arms of Nauru.svg
-| LÙIREACH_LEUD = 80
+| LÙIREACH_LEUD = 70
 | AINM_BHRATACH = [[Bratach na dùthcha|Bratach]]
 | AINM_LÙIREACH = [[Lùireach na dùthcha|Lùireach]]
 | MAPA =LocationNauru.png
@@ -10,7 +10,7 @@
 | SLUAGH_GHAIRM =God's Will First"
 | CÀNAN_OIFIGEIL =[[Beurla]], Nauruan
 | MION_CHÀNAN =
-| PRÌOMH_BHAILE =-
+| PRÌOMH_BHAILE =
 | BAILE_AS_MOTHA =[[Yaren]]
 | SEÒRSA_UACHDRANAIS =Poblachd
 | TIOTAL_CEANNARD1 ='''Ceann-suidhe'''
@@ -23,14 +23,14 @@
 | AINM_CEANNARD3 =
 | AINM_CEANNARD4 =
 | AINM_CEANNARD5 =
-| TACHARTAS1 ='''Neo-eisimeileachd'''  
-| TACHARTAS2 =<small>bho [[Astràilia]] 's [[Sealainn Nuadh]]</small>
- | TACHARTAS3 =
+| TACHARTAS1 ='''Neo-eisimeileachd''' <br> <small>bho [[Astràilia]] 's [[Sealainn Nuadh]]</small>
+| TACHARTAS2 =  
+| TACHARTAS3 =
 | TACHARTAS4 =
 | TACHARTAS5 =
 | TACHARTAS6 =
-| CEANN_LATHA1 =&nbsp;  
-| CEANN_LATHA2 =31 am Faoilteach [[1968]]
+| CEANN_LATHA1 = 31 am Faoilteach [[1968]]
+| CEANN_LATHA2 =
 | CEANN_LATHA3 =
 | CEANN_LATHA4 =
 | CEANN_LATHA5 =
@@ -38,7 +38,7 @@
 | LATHA_NÀISEANTA =
 | FARSAINGEACHD =21
 | REANGACH_F =227mh
-| UISGE =-
+| UISGE =
 | BLIADHNA = 2007
 | ÀIREAMH_SHLUAIGH =13,528
 | REANGACH_S =214mh
@@ -53,7 +53,7 @@
 | UTC_OFFSET =+12
 | AS_T_SAMHRADH =
 | UTC_OFFSET_2 = +12
-| RUITH_AIRGID =Dolair Australian
+| RUITH_AIRGID =Dolair Astràilianach
 | EADAR_LÌON =.nr
 | ÀIREAMH_FÒN =674
 }}
