@@ -1,32 +1,63 @@
-{{Draft}}{{Translation}}
-
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px" style="margin-left:1em">
-<caption><font size="+1">'''&#1580;&#1605;&#1607;&#1608;&#1585;&#1610;&#1617;&#1577; &#1605;&#1589;&#1585;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1617;&#1577;'''</font><br /><font size="+1">'''Jumhuriyat Misr al-Arabiyah'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Egypt flag large.png|125px|Flag of Egypt]]</td>
-<td align="center" width="140px">[[Image:Egypt_COA.gif|80px|Egypt COA]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of Egypt|In Detail]])</td>
-<!--<td align="center" width="140px">(Full size)</td></tr> -->
-</table></td></tr>
-<!--   <tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: Xxxxx''</font></td></tr> -->
-<tr><td align=center colspan=2>[[image:LocationEgypt.png|Location of Egypt]]</td></tr>
-<tr><td>[[Canan Oifigeil]]            </td><td>[[Arabic language|Arabic]]</td></tr>
-<tr><td>[[Priomh-Bhaile]]                      </td><td>[[Cairo]]</td></tr>
-<tr><td>Largest City                      </td><td>[[Cairo]]</td></tr>
-<tr><td>[[Priomhaire of Egypt|Priomhaire]] </td><td>[[Hosni Mubarak]]</td></tr>
-<Tr><td>[[Priomh-Mhinisteir of Egypt|Priomh-Mhinisteir]]</td><td>[[Ahmed Nazif]]</td></tr>
-<tr><td>[[Area]]<br />&nbsp;- Total <br />&nbsp;- % water</td><td>[[List of countries by area|Ranked 29th]] <br /> [[1 E12 m2|1,001,450 km²]] <br /> 0.6%</td></tr>               
-<tr><td>[[Aireamh-shluaigh]]  <br />&nbsp;- Total (2003) <br />&nbsp;- [[Aireamh-shluaigh density|Density]]</td>
-<td>[[List of countries by Aireamh-shluaigh|Ranked 15th]] <br /> 74,718,797 <br /> 75/km&sup2;
-<tr><td>[[Independence]] <br />&nbsp;- Granted                   </td>
-<td>from the [[United Kingdom|UK]]<br />[[February 28]], [[1922]]</td></tr>
-<tr><td>[[Airgead]]                     </td><td>Egyptian [[pound (Airgead)|pound]] (EGP)</td></tr>
-<tr><td>[[Time zone]]                    </td><td>[[Coordinated Universal Time|UTC]] +2 ([[EET]])</td></tr>
-<tr><td>[[Laoidh Naiseanta]]              </td><td>[[Bilady, Bilady, Bilady]]</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.eg</td></tr>
-<tr><td>[[List_of_country_calling_codes|Calling Code]]</td><td>20</td></tr>
-</table>
+{{Template:Dùthaich
+| Ainm =  جمهورية مصر العربية <br><small>Gumhūriyyat Miṣr al-ʿArabiyyah</small><br> Arab Republic of Egypt
+| BRATACH = Flag of Egypt.svg
+| LÙIREACH = COA of Egypt.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
+| MAPA = LocationEgypt.svg
+| LAOIDH_NÀISEANTA = ''[[Bilady, Bilady, Bilady]]''
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL = [[Arabais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Cairo]]
+| BAILE_AS_MOTHA = [[Cairo]]
+| SEÒRSA_UACHDRANAIS = Poblachd   
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = Hosni Mubarak
+| AINM_CEANNARD2 = Ahmed Nazif
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Stèidhichte
+| TACHARTAS2 = Neo-eisimeileachd  
+bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS3 = Cuirte an cèill
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = mu 3150 [[RC]]
+| CEANN_LATHA2 = 28an Gearran [[1922]]
+| CEANN_LATHA3 =  18 an Iuchar [[1953]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 1,001,449
+| REANGACH_F = 30mh
+| UISGE = 0.632
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH = 80,335,036
+| REANGACH_S = 
+| DLÙTHS = 74
+| REANGACH_D = 120mh
+| BLIADHNA_GDP = 2006
+| GDP = $329.791 billean
+| REANGACH_GDP = 29mh
+| ÀIREAMH_GDP = $4,836
+| REANGACH_PER_CAPITA = 110mh
+| ROINN_TÌDE = [[Eastern European Summer Time|EEST]]
+| UTC_OFFSET = +3
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Egyptian pound
+| EADAR_LÌON = .eg
+| ÀIREAMH_FÒN = 20
+}}
 
 [[af:Egipte]]
 [[als:Ägypten]]
