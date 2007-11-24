@@ -214,7 +214,7 @@ Ma tha eòlas ann air àpoiteam ''a'' agus faid ''f'' taobh poileagain riaghailt
 Mur eil am poileagan riaghailteach ach tha e ''sìmplidh'', 's e sin ri ràdh nach tèid an t-iomall tarsainn air fhèin, gabhar an fharsaingeachd aige fhaotainn:
 
 # ma tha am poileagan air a roinn air àireamh de [[triantan|thriantain]]. 'S e farsaingeachd a' phoileagain suim farsaingeachd nan triantan, no...
-# leis an fhoirmle a leanas<ref>[http://local.wasp.uwa.edu.au/~pbourke/geometry/polyarea/ Bourke P (1988) Le bhith ag annaladh farsaingeachd agus meadhan-làir poileagain. (Beurla)]</ref>:
+# leis an fhoirmle a leanas<sup>[1]</sup>:
 
 ::<math>F=\tfrac{1}{2}\sum_{i=1}^{N-1} \left ( x_i y_{i+1}-x_{i+1} y_i \right )</math>
  
@@ -223,6 +223,11 @@ Mur eil am poileagan riaghailteach ach tha e ''sìmplidh'', 's e sin ri ràdh na
 Mas ann fèin-thrasnaidh a tha poileagan, chan eil bun-bheachd farsaingeachd sìmplidh ann.
 
 
+
+
+==Tùsan fiosrachaidh==
+
+[1]	Bourke P (1988) Le bhith ag annaladh farsaingeachd agus meadhan-làir poileagain. (Beurla)[[http://local.wasp.uwa.edu.au/~pbourke/geometry/polyarea/]]
 
 
 [[category:cumaidhean]]
