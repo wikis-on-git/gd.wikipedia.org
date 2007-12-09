@@ -2,6 +2,101 @@
 
 Tha dol againn air mìneachadh a dhèanamh air '''loidhne''' mar [[lùb]] dhìreach neo-chrìochnach gun leud sam bith anns a bhios [[àireamh]] neo-chrìochnach de [[puing (Geoimeatras)|phuingean]]. Ann am [[matamataig]], thathar a' beachdachadh air loidhne mar gum b' e cuis shònraichte de ghnè nan [[lùb]] a bhiodh innte, agus 's i [[eicrioch]] [[radius caime|radius na caime]] aice.
 
-Anns a' gheoimeatras Eoclaideach, 's e astar as giorra eadar dà phuing a th' ann an loidhne dhìrich, agus chan ann ach an aon loidhne dhìreach a thèid tro dà phuing. Air plàna, faodaidh dà loidhne bhith '''co-shìnte''', 's e sin ri ràdh nach tig iad còmhla a-chaoidh no, mur eil, thèid an trasnadh aig aon phuing a-mhàin. Bidh an treas cuis ann ann an spàs le còrr is dà sheòl-tomhais. San t-suidheachadh seo, faodaidh dà loidhne bhith '''air fiaradh'''. Cha tig iad còmhla a-chaoidh ach chan eil iad co-shìnte chionns gu bheil cùrsaichean eadar-dhealaichte aca. Cha laigh dà loidhne air fiaradh air an aon phlàna.
+Anns a' [[geoimeatras Eoclaideach|gheoimeatras Eoclaideach]], 's e [[astar]] as giorra eadar dà [[puing (Geoimeatras)|phuing]] a th' ann an loidhne dhìrich, agus chan ann ach an aon loidhne dhìreach a thèid tro dà [[puing (Geoimeatras)|phuing]]. Air [[plàna]], faodaidh dà '''loidhne''' bhith '''[[co-shìnte]]''', 's e sin ri ràdh nach tig iad còmhla a-chaoidh no, mur eil, thèid an [[trasnadh]] aig aon [[puing (Geoimeatras)|phuing]] a-mhàin. Bidh an treas cuis ann ann an [[spàs]] le còrr is dà [[seòl-tomhais|sheòl-tomhais]]. San t-suidheachadh seo, faodaidh dà loidhne bhith '''[[fiaradh|air fiaradh]]'''. Cha tig iad còmhla a-chaoidh ach chan eil iad [[co-shìnte]] chionns gu bheil [[cùrsa]]ichean eadar-dhealaichte aca. Cha laigh dà loidhne air fiaradh air an aon [[plàna|phlàna]].
 
-Ma tha trì, no còrr is trì, puingean nan laighe air an aon loidhne, canar '''co-loidhneach''' riutha.
+Ma tha trì, no còrr is trì, [[puing (Geoimeatras)|puing]]ean nan laighe air an aon loidhne, canar '''co-loidhneach''' riutha.
+
+
+
+==Dìreach no ingearach?==
+
+Nar cainnt chumanta, canaidh sinn gu bheil loidhne dìreach nuair a tha sinn a' ciallachadh gu bheil i [[ingearach]] - 's e sin ri ràdh gu bheil an loidhne a' dol suas is sìos [[ceart-cheàrn]]ach ri loidhne chòmhnard. Ann an suidheachadh eile, faodaidh sinn ràdh gu bheil i dìreach nuair a tha e nar rùn nach eil i lùbte. Togar a' bhrìgh cheart às an t-suidheachadh. Ann am [[matamataig]], ge tà, tha e cudromach a bhith pongail agus brìgh fhaclan a chuingealachadh chionns nach togte gu tric a' bhrìgh cheart à teacsaichean geàrr cuimir matamataigeach. Ri linn seo, ann am [[matamataig]]:
+
+:* Is '''dìreach''' loidhne a tha neo-lùbte (agus sin a-mhàin).
+:* Is '''ingearach''' loidhne a tha [[ceart-cheàrn]]ach ri loidhne chòmhnard.
+
+Far a bheil am facal loidhne air a cleachdadh gun [[buadhair]] sam bith aice, 's e loidhne '''dhìreach''' a th' ann .
+
+
+
+==Co-aontaran loidhne==
+
+[[Image:Mx+c.jpg|300px|right|thumb]]
+Ann an [[ailseabra]], thèid loidhne dhìreach a sònrachadh le [[co-aontar]]an loidhneach, no [[fuincsean]]an loidhneach. Air [[plàna]] [[seòl-tomhais|dà-sheallach]] tha an [[co-aontar]] samhlachail den riochd:
+
+::<math>y=mx+c\,</math>
+ 
+'S e '''[[caisead]]''' (no claonadh) na loidhne a th' ann an ''m'', '''crasg na h-axis y''' a th' ann an ''c'', agus [[caochladair]] neo-eisimeileach an [[fuincsean|fhuincsein]] a th' ann an ''x''. Ma tha an [[caisead]] dearbh, thèid an loidhne suas bho chlì gu deas. Ma tha e [[àireamhan àicheil is neo-àicheil|àicheil]], thèid an loidhne sìos.
+
+Ma tha dà loidhne '''[[co-shìnte]]''', tha an aon [[caisead|chaisead]] aca. Ma tha dà loidhne '''[[ceart-cheàrn]]ach''', 's e -1 a th' ann an [[toradh]] nan caisead aca. Ma tha caisead na loidhne co-ionnan ri [[neoni]], <math>y=c\,</math>, agus 's e '''loidhne chòmhnard''' a th' innte. 'S e [[cunbhal]] a th' ann an ''c''. Ma tha [[co-aontar]] na loidhne: <math>x=c\,</math>, tha an loidhne '''ingearach''' ([[ceart-cheàrn]]ach ris an axis-''x''). 'S e [[eicrioch]] a th' ann an caisead na loidhne ingearaich.
+ 
+Tha [[caisead]] na loidhne tron dà [[puing (Geoimeatras)|phuing]] (''x''<sub>1</sub>, ''y''<sub>1</sub>) agus (''x''<sub>2</sub>, ''y''<sub>2</sub>) air fhaotainn bho:
+
+::<math>m=\frac{y_2-y_1}{x_2-x_1}</math>
+
+agus faodaidh [[co-aontar]] loidhne fhaotainn bho:
+
+::<math>y-y_1=\frac{y_2-y_1}{x_2-x_1}(x-x_1)</math>
+
+Tha [[co-aontar]] den aon riochd ann far a bheil trì [[seòl-tomhais|siùil-thomhais]] ann:
+
+::<math>z=ax+by+c\,</math>
+ 
+'S e cuid a' [[caisead|chaiseid]] air [[plàna]] ''z-x'' a th' ann an ''a'', cuid a' chaiseid air plàna ''z-y'' a th' ann an ''b'', agus crasg na h-axis ''z'' a th' ann an ''c''. Tha [[co-aontar]] den riochd seo feumail far a bheil ''z'' na [[fuincsean]] an dà [[caochladair|chaochladair]] neo-eisimeilich ''x'' agus ''y''. Uaireannan, 's ann nas feumaile a tha riochd [[paraimeatair|paraimeatrach]] a' [[co-aontar|cho-aontar]], agus a' [[co-chothromachd|cho-chothromachd]] a leanas bhon riochd seo. Mas e a th' ann an ''t'' am [[paraimeatair]] neo-eisimeileach, tha [[co-chomharran]] na loidhne rim faotainn bho:
+
+::<math>x=x_0+at\,</math>
+::<math>y=y_0+bt\,</math>
+::<math>z=z_0+ct\,</math>
+ 
+'S e tùs-luachan nan [[caochladair]]ean fa leth a th' anns an ''x''<sub>0</sub>, ''y''<sub>0</sub> agus ''z''<sub>0</sub>. 'S e sin ri ràdh na luachan ''x'', ''y'' agus ''z'' nuair a tha ''t'' co-ionnan ri neoni. 'S e codaichean a' [[caisead|chaiseid]] an cois nan axes ''x'', ''y'' agus ''z'' a th' anns na [[co-èifeachdach|co-èifeachdaich]] ''a'', ''b'' agus ''c''. 
+
+Tha am [[bheactar]] <math>\begin{pmatrix}a\\b\\c\end{pmatrix}</math> [[co-shìnte]] ris an loidhne.
+
+
+[[Category:matamataig]]
+
+[[ast:Reuta]]
+[[bs:Prava (geometrija)]]
+[[br:Eeunenn (geometriezh)]]
+[[bg:Лъч]]
+[[ca:Recta]]
+[[cs:Přímka]]
+[[da:Linje]]
+[[de:Gerade]]
+[[el:Γραμμή]]
+[[et:Sirge]]
+[[en:Line (mathematics)]]
+[[es:Recta]]
+[[eo:Linio]]
+[[fr:Droite (mathématiques)]]
+[[fa:خط (هندسه)]]
+[[hr:Pravac]]
+[[io:Lineo]]
+[[is:Lína (stærðfræði)]]
+[[it:Retta]]
+[[he:ישר]]
+[[ht:Dwat]]
+[[lt:Tiesė]]
+[[lv:Taisne]]
+[[ml:നേര്‍‌രേഖ]]
+[[nl:Lijn (meetkunde)]]
+[[ja:直線]]
+[[ko:직선]]
+[[no:Linje]]
+[[pl:Prosta]]
+[[pt:Recta]]
+[[ru:Прямая]]
+[[sq:Drejtëza]]
+[[simple:Line]]
+[[sl:Premica]]
+[[sr:Права (линија)]]
+[[fi:Suora]]
+[[sv:Rät linje]]
+[[ta:கோடு]]
+[[th:เส้นตรง]]
+[[vi:Đường thẳng]]
+[[tr:Doğru (matematik)]]
+[[ur:خطوط مستقیم]]
+[[uz:Chiziq (uzunlik birligi)]]
+[[yi:שטריך]]
+[[zh:直线]]
