@@ -1,56 +1,65 @@
-{{Infobox Country
-|native_name              = ''República de Moçambique''
-|conventional_long_name   = Republic of Mozambique
-|common_name              = Mòsaimbic
-|common_name2             = Mòsaimbicnach
-|image_flag               = Flag of Mozambique.svg
-|image_coat               = Coat_of_arms_of_Mozambique.png
-|national_motto           = ''none''
-|image_map                = LocationMozambique.svg
-|national_anthem          = ''[[Pátria Amada]]''<br/><small>(formerly ''[[Viva, Viva a FRELIMO]]'')</small>
-|official_languages       = [[A' Phortagailis|Phortagailis]]
-|demonym                  = Mozambican
-|capital                  = [[Maputo]]
-|latd=25 |latm=57 |latNS=S |longd=32 |longm=35 |longEW=E
-|largest_city             = capital
-|government_type          = [[Republic]]
-|leader_title1            = [[List of Presidents of Mozambique|President]]
-|leader_name1             = [[Armando Guebuza]]
-|leader_title2            = [[List of Prime Ministers of Mozambique|Prime Minister]]
-|leader_name2             = [[Luisa Diogo|Luísa Diogo]]
-|sovereignty_type         = [[Independence]]
-|established_event1       = from [[Portugal]]
-|established_date1        = [[June 25]] [[1975]]
-|area                     = 801,590
-|areami²                  = 309,496 <!--Do not remove per [[WP:MOSNUM]]-->
-|area_rank                = 35th
-|area_magnitude           = 1 E11
-|percent_water            = 2.2
-|population_estimate_rank = 54th
-|population_census        = 20.366.795 
-|population_census_year   = 2007
-|population_density       = 25
-|population_densitymi²    = 65 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank  = 178th
-|GDP_PPP_year             = 2005
-|GDP_PPP                  = $27.013 billion <!--IMF-->
-|GDP_PPP_rank             = 100th
-|GDP_PPP_per_capita       = $1,389
-|GDP_PPP_per_capita_rank  = 158th
-|HDI_year                 = 2004
-|HDI                      = {{increase}} 0.390
-|HDI_rank                 = 168th
-|HDI_category             = <font style="color:#e0584e">low</font>
-|currency                 = [[Mozambican metical]] (Mtn)
-|currency_code            = MZN
-|time_zone                = [[Central Africa Time|CAT]]
-|utc_offset               = +2
-|time_zone_DST            = not observed
-|utc_offset_DST           = +2
-|cctld                    = [[.mz]]
-|calling_code             = 258
-|footnote1                = Estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality and death rates, lower population and growth rates, and changes in the distribution of population by age and sex than would otherwise be expected.
-}}
+{{Template:Dùthaich
+| Ainm =República de Moçambique
+| BRATACH =Flag of Mozambique.svg
+| LÙIREACH =Coat_of_arms_of_Mozambique.png
+| LÙIREACH_LEUD = 85
+| AINM_BHRATACH = [[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH = [[Lùireach na dùthcha|Lùireach]]
+| MAPA =LocationMozambique.svg
+| LAOIDH_NÀISEANTA =
+| SLUAGH_GHAIRM =''[[Pátria Amada]]''<br/>
+| CÀNAN_OIFIGEIL =[[Portagailis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Maputo]]
+| BAILE_AS_MOTHA =[[Maputo]]
+| SEÒRSA_UACHDRANAIS =Poblachd 
+| TIOTAL_CEANNARD1 =Ceann-suidhe
+| TIOTAL_CEANNARD2 =[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Armando Guebuza
+| AINM_CEANNARD2 =Luísa Diogo
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Neo-eisimeileachd<br>bhon [[A' Phortagail|Phortagail]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 25mh an t-Ògmhios [[1975]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =801,590
+| REANGACH_F =35mh
+| UISGE =2.2
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =21,397,000
+| REANGACH_S =54mh
+| DLÙTHS =25
+| REANGACH_D =178mh
+| BLIADHNA_GDP =2005
+| GDP =$27.013 billean
+| REANGACH_GDP =100mh
+| ÀIREAMH_GDP =$1,389
+| REANGACH_PER_CAPITA =158mh
+| ROINN_TÌDE =[[Central Africa Time|CAT]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = metical Mòsaimbiciach 
+| EADAR_LÌON =.mz
+| ÀIREAMH_FÒN =258
+}} 
+
+
+
 
 'S e [[Dùthchannan ann an Afraga|Dùthaich ann an Afraga]] a tha ann am '''Mòsaimbic'''.
 
