@@ -1,1 +1,61 @@
-Cocker
+{{for|the politician named Charles Law|Charles B. Law}}
+
+In [[thermodynamics]] and [[physical chemistry]], '''Charles's law''' is a [[gas laws|gas law]] and specific instance of the [[ideal gas law]], which states that:
+
+:''At constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in kelvin) increases or decreases. ''
+
+The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles. The relationship had been anticipated by the work of [[Guillaume Amontons]] in [[1702]]. Boyle's law, Charles's Law, and Gay-Lussac's Law form the combined gas law. The three gas laws in combination with Avogadro's law can be generalized by the ideal gas law.
+
+==Derivation==
+
+The formula for the law is:
+
+:<math>\frac{V}{T} = k</math>
+
+where:
+
+:''V'' is the [[volume]] of the gas
+:''T'' is the [[temperature]] of the gas (measured in [[Kelvin]]s)
+:''k'' is a constant.
+
+In other more thermodynamics-based definitions, the relationship between the fixed mass of a gas at constant pressure is inversely proportional to the temperature applied to the system, which can be further used by stipulating a system where <math>\alpha</math> represents [[cubic expansivity]] of a gas, with <math>\theta</math> representing the temperature measured of the system in Kelvins:
+
+:<math>V \varpropto T</math><br />
+
+:<math>V = V_o(1 + \alpha\theta)</math>
+
+To maintain the constant, ''k'', during heating of a gas at fixed pressure, the volume must increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
+
+:<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>.
+
+Therefore, as temperature increases, the volume of the gas increases.
+
+Theoretically as a gas reaches absolute zero the volume will also reach a point of zero.
+
+==See also==
+{{wikibooks|School science|Making Charles' law tubes}}
+* [[Boyle's law]]
+* [[Ideal gas law]]
+
+[[Category:Thermodynamics]]
+[[Category:Gas laws]]
+[[Category:Volume]]
+
+[[id:Hukum Charles]]
+[[cs:Charlesův zákon]]
+[[el:Νόμος του Σαρλ]]
+[[es:Ley de Charles y Gay-Lussac]]
+[[fr:Loi de Gay-Lussac]]
+[[hr:Charlesov zakon]]
+[[ko:샤를의 법칙]]
+[[he:חוק שארל]]
+[[hu:Charles-törvény]]
+[[mk:Шарлов закон]]
+[[nl:Wet van Charles]]
+[[ja:シャルルの法則]]
+[[pl:Prawo Gay-Lussaca (gaz doskonały)]]
+[[sl:Gay-Lussacov zakon]]
+[[fi:Charlesin laki]]
+[[vi:Định luật Gay-Lussac]]
+[[tr:Charles yasası]]
+[[zh:查理定律]]
