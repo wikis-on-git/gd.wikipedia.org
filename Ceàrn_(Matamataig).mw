@@ -1,5 +1,7 @@
 Far an tig dà [[loidhne]] nan coinneamh, canar '''ceàrn''' ris a' bheàirn eatarra, agus [[gob]] a' cheàirn ris a' cheann chumanta aig an dà loidhne. Aig an aon àm, tha '''ceàrn''' a' ciallachadh tomhas na beàirn - mar as caoile a' bheàrn eadar an dà [[loidhne]] 's ann as lugha an ceàrn. Ach tha bun-bheachd tomhas a' cheàirn a' buntainn ri cùrsa na dara loidhne an coimeas ri cùrsa na loidhne eile. Faodar a ràdh gur ann an '''ceàrn''' na th' ann de chuartachadh mu [[gob|ghob]] a' cheàirn, a' phuing-thionndaidh, a chuireas an dara [[loidhne]] air muin na loidhne eile.
- 
+
+[[Image:Cearn.jpg|thumb|250px|’S ann ann an '''ceàrn''' na th' ann de thionndadh de loidhne ''AB'', mun ghob ''A'', gus an suidhich i air muin na loidhne ''AC'']]
+
 'S e an cleachdach ann am [[matamataig]], ceàrnan a riochdachadh ann an [[co-aontar]] le litrichean beaga [[aibidil]] na [[Greugais]] (gu h-àraidh: α, β, ζ, η, θ, ξ, φ agus ψ).
 
 
@@ -11,6 +13,8 @@ Airson cheàrnan a thomhas feumaidh dòigh a bhith ann airson [[àireamh]] a chu
   
 Smaoinich a-nis air puing ''B'' air an [[loidhne]] a tha a' cuartachadh gob a' cheàirn ''A''. Bidh a' [[puing|phuing]] seo a' dèanamh dealbh de dh' [[arc]] [[cearcall|cearcaill]] mar a tha an ceàrn a' fàs nas mò. Ri linn seo, faodaidh sinn faid an [[arc]] seo a chleachdadh airson [[àireamh]] a chur air ceàrn. Ma tha ''B'' an astar ''r'' bho [[gob|ghob]] a' cheàirn ''A'', 's e 2π''r'', an [[cearcall-thomhas]], a th' ann an tomhas a' cheàirn as mò.
  
+[[Image:Cearnan.jpg|400px]]
+
 Tha faid [[arc]] an urra ris an astar ''r''. Ri linn seo, 's ann as feumail an co-mheas <math>\tfrac{s}{r}</math>, far a bheil ''s'' na faid [[arc]]. Canar '''[[raidian]]''' ris a' cho-mheas seo agus 's e [[àireamh]] de [[radius|radii]] a' [[cearcall|chearcaill]] a th' anns an fhaid [[arc]]. Mar eisimpleir, 's e 2π [[raidian]]nan a th' ann an cuairt iomlan (2π radii cearcaill sam bith) agus 's e π raidiannan a th’ ann an leth-chuairt.
 
 
@@ -34,10 +38,41 @@ Ann an [[spàs]] trì-sheallach, chan eil làn-sheagh aig na tha ''deasail'' no 
 
 ==Ainmean Cheàrnan==
 
+{|-
+ |[[Image:crn-caol.jpg|thumb|150px|Ceàrn caol]] 
+ |[[Image:crn-ceart.jpg|thumb|150px|Ceàrn ceart]]
+ |[[Image:crn-farsaing.jpg|thumb|150px|Ceàrn farsaing]]
+ |[[Image:Crn-fosgailte.jpg|thumb|150px|Ceàrn fosgailte]]
+|-
+ |[[Image:crn-ardachaidh.jpg|thumb|150px|Ceàrn àrdachaidh]] 
+ |[[Image:crn-isleachaidh.jpg|thumb|150px|Ceàrn isleachaidh]]
+ |[[Image:crn-a-staigh.jpg|thumb|150px|Ceàrn a-staigh]]
+ |[[Image:Crn-a-muigh.jpg|thumb|150px|Ceàrn a-muigh]]
+|-
+ |[[Image:crn-dluth.jpg|thumb|150px|Dlùth cheàrnan]]
+ |[[Image:crn-co-phairteach.jpg|thumb|150px|Ceàrnan co-phàirteach]]
+ |[[Image:crn-co-leasachail.jpg|thumb|150px|Ceàrnan co-leasachail]]
+ |[[Image:Crn-co-nasgaidh.jpg|thumb|150px|Ceàrnan co-nasgaidh]]
+|-
+ |[[Image:crn-mu-choinneamh.jpg|thumb|150px|Ceàrnan mu choinneamh]]
+ |[[Image:crn-mu-seach.jpg|thumb|150px|Ceàrnan mu seach]]
+ |[[Image:crn-co-fhreagarrach.jpg|thumb|150px|Ceàrnan co-fhreagarrach]]
+|}
+
+
+==Cuid de dh' fheartan cheàrnan==
+
+* Ma tha dà loidhne nan trasnadh, tha na ceàrnan mu choinneamh co-ionnan.
+* Ma tha dà loidhne co-shìnte agus air an trasnadh le loidhne eile, tha na ceàrnan mu seach co-ionnan.
+* Ma tha dà loidhne co-shìnte agus air an trasnadh le loidhne eile, tha na ceàrnan co-fhreagarrach co-ionnan.
+* Tha an ceàrn a-muigh agus an ceàrn a-staigh co-leasachail – ’s e 180° an suim aca.
+
 
 
 ==Cùrsa-ceàrna==
 
+
+[[Image:cursa-cearna.jpg|250px|thumb|left]]
 Ann am [[maraireachd]], tha e cumanta [[cùrsa]] a thomhas bhon àirde tuath ach tha ceàrnan air an tomhas '''gu deasail'''. 'S e 90° a th' ann an àird an ear agus 270° a th' ann an àird an iar. 'S e an cleachdach cuideachd [[cùrsa-ceàrna|cùrsaichean-ceàrna]] a sgrìobhadh le trì figearan agus [[neoni]] a chur ro cheàrn nas lugha na 100°. San dòigh seo, sgrìobhar 090° an àite 90°. Ma tha bàta air cùrsa 022°30', tha i a' seòladh an ear-thuath 's a bhith tuath.
 
 Thoir an aire cuideachd nam b' e 120° [[cùrsa-ceàrna]] a' phuing ''A'' bhon phuing ''B'', b' e 120° + 180° = 300° cùrsa-ceàrna ''B'' bho ''A'' – cuiribh 180° ris, ach thoiribh air falbh 360° ma tha an cùrsa-ceàrna nas mò na sin.
