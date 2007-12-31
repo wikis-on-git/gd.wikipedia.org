@@ -1,0 +1,48 @@
+==Dlighe de Charles==
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+For the politician named Charles Law, see Charles B. Law.
+
+In thermodynamics and physical chemistry, Charles's law is a gas law and specific instance of the ideal gas law, which states that:
+
+    At constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in kelvin) increases or decreases.
+
+The law was first published by Joseph Louis Gay-Lussac in 1802, but he referenced unpublished work by Jacques Charles from around 1787. This reference has led to the law being attributed to Charles. The relationship had been anticipated by the work of Guillaume Amontons in 1702. Boyle's law, Charles's Law, and Gay-Lussac's Law form the combined gas law. The three gas laws in combination with Avogadro's law can be generalized by the ideal gas law.
+
+[edit]  Siolaicheas
+
+Is foirmle an dlighe:
+
+    \frac{V}{T} = k
+
+far a bheil:
+
+    V toirt an aille
+    T teasad an aille, (tomhaiste an aonadan Ceilbhin)
+    k na chunbhalach.
+
+In other more thermodynamics-based definitions, the relationship between the fixed mass of a gas at constant pressure is inversely proportional to the temperature applied to the system, which can be further used by stipulating a system where α represents cubic expansivity of a gas, with θ representing the temperature measured of the system in Kelvins:
+
+    V \varpropto T
+
+    V = Vo(1 + αθ)
+
+To maintain the constant, k, during heating of a gas at fixed pressure, the volume must increase. Conversely, cooling the gas decreases the volume. The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
+
+    \frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1.
+
+Therefore, as temperature increases, the volume of the gas increases.
+Mar sin, mar a teid meudachadh an teasad, theid meudachadh an tomad.
+
+A reir an teorig, nuair a ruigseas teasad an aille fior-neoni ruigsidh tomad an aille neoni cuideachd. Cha tachair sin anns an domhainn riochdail o chionns gun teid dluthachadh ri gach aile riochdail aig teas as airde na fior-neoni (0 K),
+
+[edit] faic cuideachd ( às Beurla)
+Wikibooks
+Wikibooks School science has a page on the topic of
+Making Charles' law tubes
+
+    * Boyle's law
+    * Ideal gas law
+
+
+[[category:Eòlas-nàdair]]
