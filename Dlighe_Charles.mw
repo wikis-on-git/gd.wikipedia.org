@@ -23,7 +23,9 @@ far a bheil:
 *T Teasad an aille, (tomhaiste an aonadan Ceilbhin)
 *k na chunbhalach.
 
-In other more thermodynamics-based definitions, the relationship between the fixed mass of a gas at constant pressure is inversely proportional to the temperature applied to the system, which can be further used by stipulating a system where α represents cubic expansivity of a gas, with θ representing the temperature measured of the system in Kelvins:
+===Co-Mhinicheadh Teirmidinimeachd===
+
+Ann an minichidhean eile, steidhichte air bun-bheachdan teirmidinimeachd, tha an dàimh eadar tomad neo-caochlaideachd de gas aig bruthachd cunbhalach ann an co-chuid mùiteach do inbhe teasad an t-siostam, sinear cleachdadh an dlighe, le sonrachadh siostam far am bi α a riochdadh so-meudachad cubachd ghais, agus θ a'riochdadh teasad tomhaiste an t-siostam an aonadan de Ceilbhin:
 
 V \varpropto T
 
@@ -31,7 +33,7 @@ V = Vo(1 + αθ)
 
 A ghleidh luach a' chunbhalaich k, re teasachadh de balgam aile gleidhte aig bruthachd cunbhalach, is fheudar don toirt a mheudaich. An co-riochd, aobhrachaidh fionnadh an aile lughadachadh anns an toirt. Chan fhiach do luach a' chunbhalaich a bhi dearbhta a chuir feum air an dlighe a dheanamh co-mheasadh air dà bhalgam de aile a tha fo bruthachd co-ionnan;
  
-    \frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1.
+\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1.
 
 Mar sin, mar a teid meudachadh an teasad, theid meudachadh an tomad.
 
