@@ -1,8 +1,6 @@
-==Dlighe de Charles==
-
 Anns an [[Eòlas-nàdair]], tha '''Dlighe de Charles''' na '''dlighe ghais''' a tha na chuise sonraichte de [[Dlighe Ginearalta nan Gas]]. 
 
-===A Reir Dlighe de Charles:=== 
+==A Reir Dlighe de Charles== 
 Aig bruthachd cunbhalachd, airson tomad cunbhalachd de gas foirfe, theid meudachadh neo lughadachadh 
 air a tomhas-lionaidh, ann an co-riochd ri airdeachadh neo ioslachadh air a theasad teirmidinimeachd (tomhaiste le aonadan Ceilbhin).
 
@@ -11,11 +9,11 @@ B'e [[Ioseph Louis Gay-Lussac]] a fhoillich an Dlighe an 1802, ach thug e fianai
 
 Gabhar dlighe ginearalta don ainm [[Dlighe nan Gas Foirfe]] le co-aontachadh de na tri dlighean ghais agus an [[Dlighe de Avagadro]].
 
-===Siolaicheas===
+==Siolaicheas==
 
 Is foirmle an dlighe:
 
-'''V/T = k'''
+:<math>\frac{V}{T} = k</math>
 
 far a bheil:
 
@@ -23,28 +21,43 @@ far a bheil:
 *T Teasad a' ghais, (tomhaiste an aonadan Ceilbhin)
 *k na chunbhalach.
 
-===Co-Mhinicheadh Teirmidinimeachd===
-''Thogadh na co-ionnanan fodha bho aiste ann an Wiki na Beurla ach cha deach iad tro "paste" gu ceart ''
-
+==Co-Mhinicheadh Teirmidinimeachd==
 Ann an minichidhean eile, steidhichte air bun-bheachdan teirmidinimeachd, tha an dàimh eadar tomad neo-caochlaideachd de gas aig bruthachd cunbhalach ann an co-chuid mùiteach do inbhe teasad an t-siostam, sinear cleachdadh an dlighe, le sonrachadh siostam far am bi α a riochdadh so-meudachad cubachd ghais, agus θ a'riochdadh teasad tomhaiste an t-siostam an aonadan de Ceilbhin:
 
-V \varpropto T
+:<math>V \varpropto T</math><br />
 
-V = Vo(1 + αθ)
+:<math>V = V_o(1 + \alpha\theta)</math>
 
 A ghleidh luach a' chunbhalaich k, rè teasachadh de balgam aile gleidhte aig bruthachd cunbhalach, is fheudar don tomhas-lionaidh a mheudaich. An co-riochd, aobhrachaidh fionnadh an aile lughadachadh anns an tomhas=lionaidh. Chan fhiach do luach a' chunbhalaich a bhi dearbhta a chuir feum air an dlighe a dheanamh co-mheasadh air dà bhalgam de gas cho fad 's a tha iad fo bruthachd co-ionnan;
  
-\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1.
+:<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{neo} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{neo} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>.
 
 Mar sin, mar a teid meudachadh an teasad, theid meudachadh an tomhas-lionaidh.
 
 A reir an teorig, nuair a ruigseas teasad a' ghais fior-neoni ruigsidh tomhas-lionaidh a' gfhais neoni cuideachd. Cha tachair sin anns an domhainn riochdail o chionns gun teid dluthachadh (gu leaghachd) air gasan riochdail aig teas os cionn fior-neoni (0 K),
 
-===Fiosrachadh Eile=== 
+==Fiosrachadh Eile== 
 Wikibooks (as Beurla):
-Tha duilleag a mhinicheas ciamar a chruthaich [[Pioban Dlighe Charles]] ann an Wikibooks School Science. 
+Tha duilleag a mhinicheas ciamar a chruthaich [http://en.wikibooks.org/wiki/School_science/Making_Charles%27_law_tubes Pioban Dlighe Charles] ann an Wikibooks School Science. 
 
 * [[Dlighe Úi Bhaoghail]]
 * [[Dlighe nan Gas Foirfe]]
 
 [[category:Eòlas-nàdair]]
+
+[[en:Charles's law]]
+[[es:Ley de Charles y Gay-Lussac]]
+[[fi:Charlesin laki]]
+[[fr:Loi de Gay-Lussac]]
+[[he:חוק שארל]]
+[[hr:Charlesov zakon]]
+[[hu:Charles-törvény]]
+[[ja:シャルルの法則]]
+[[ko:샤를의 법칙]]
+[[mk:Шарлов закон]]
+[[nl:Wet van Gay-Lussac]]
+[[pl:Prawo Gay-Lussaca (gaz doskonały)]]
+[[sl:Gay-Lussacov zakon]]
+[[tr:Charles yasası]]
+[[vi:Định luật Gay-Lussac]]
+[[zh:查理定律]]
