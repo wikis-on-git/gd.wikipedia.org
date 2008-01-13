@@ -1,40 +1,79 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" style="margin-left:0.5em;" width="300px">
-<caption><font size="+1">'''&#1575;&#1604;&#1605;&#1605;&#1604;&#1603;&#1577; &#1575;&#1604;&#1605;&#1594;&#1585;&#1576;&#1610;&#1577;'''<br>
-'''Al Mamlakah al-Maghribiyah'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Flag of Morocco.svg|100px]]<td>[[Image:Coat of arms of Morocco.png|100px]]
-</table>
-<tr><td colspan=2 align="center">[[Image:LocationMorocco striped.png]]
-<tr><td>[[Cànan Oifigeil]]             <td>[[Arabais]]
-<tr><td>[[Prìomh-bhaile]]                       <td>[[Rabat]]
-<tr><td>Baile as Motha                    <td>[[Casablanca]]
-<tr><td>[[Righ]]          <td>[[Mohammed VI of Morocco|Mohammed VI]]
-<tr><td>[[Priomh-Mhinisteir of Morocco|Priomh-Mhinisteir]]          <td>[[Driss Jettou]]
-<tr><td>[[Farsaingeachd]]<br>&nbsp;- Total</td><td>[[List of countries by area|Ranked 56th]] <br> 446,550 [[square kilometre|km&sup2;]]
-<tr><td>[[Àireamh-shluaigh]] 
-<br>&nbsp;- Total (2003) 
-<br>&nbsp;- [[Aireamh-shluaigh density|Density]]</td><td>31,689,267
-<br> 70/km&sup2; <br>[[List of countries by Aireamh-shluaigh|Ranked 36th]]
-<tr><td>[[Neo-Eisimealachd]]
-<td>(bhon [[a' Fhraing|Fhraing]])
-<br>[[am Mairt 2]], [[1956]]
-<tr><td>[[Ruith-Airgid]]<td>[[Dirham]]
-<tr><td>[[Roinn tìde]]<td>[[Coordinated Universal Time|UTC]]
-<tr><td>[[Top-level domain|Internet TLD]] <td>.MA
-<tr><td>[[List_of_country_calling_codes|Calling Code]]<td>212
-</table>
+{{Template:Dùthaich
+| Ainm = المملكة المغربية<br> <small>Al-Mamlaka al-Maghribiyya <br> Tagldit n Lmeghrib<br>Royaume du Maroc</small>
+| BRATACH =Flag of Morocco.svg
+| LÙIREACH =Coat of arms of Morocco.png
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
+| MAPA =LocationMorocco striped.png
+| LAOIDH_NÀISEANTA =''[[Hymne Chérifien]]''
+| SLUAGH_GHAIRM ="Allāh, al Waţan, al Malik"<small><br/>"God, Nation, King"</small></span>
+| CÀNAN_OIFIGEIL =''de jure:''[[Arabais]]<ref>[http://www.parlement.ma/sitefr/la%20constitution.shtml#PREAMBULE La Constitution]</ref><br/>''de facto:''[[Fraingis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Rabat]]
+| BAILE_AS_MOTHA =[[Casablanca]]
+| SEÒRSA_UACHDRANAIS =Monarcachd bhun-reachdail 
+| TIOTAL_CEANNARD1 =Rìgh
+| TIOTAL_CEANNARD2 =[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Mohammed VI
+| AINM_CEANNARD2 =Abbas El Fassi
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Neo-eisimeileachd<br>bhon [[an Fhraing|Fhraing]]
+| TACHARTAS2 =Neo-eisimeileachd<br> bhon [[an Spàinn]]
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =2na am Màirt [[1956]]
+| CEANN_LATHA2 =7mh an Giblean [[1956]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =446,550
+| REANGACH_F =57mh
+| UISGE =
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH = 33,757,175
+| REANGACH_S =37mh
+| DLÙTHS =70
+| REANGACH_D =122mh
+| BLIADHNA_GDP =2006
+| GDP =$152.5 billean
+| REANGACH_GDP =54mh
+| ÀIREAMH_GDP =$4,600
+| REANGACH_PER_CAPITA =109mh
+| ROINN_TÌDE =UTC
+| UTC_OFFSET =
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Dirham Mharoco
+| EADAR_LÌON =.ma
+| ÀIREAMH_FÒN =212
+}}
 
-'S e dùthaich ann an Afraga-a-tuath a tha ann am '''Maroco''' (''Morocco'' sa Bheurla).
+
+'S e dùthaich ann an [[Afraga]] a tha ann am '''Maroco''' (''Morocco'' sa Bheurla).
 
 Bruidhnidh iad [[Arabais]] is Berber ann am Maroco.
 
 Bailtean mòra ann am Maroco -
-* Casablanca
-* Marrakesh
+* [[Casablanca]]
+* [[Marrakesh]]
+
+==Iomradh==
+<references/>
+
 
 [[Category:Dùthchannan]]
-[[Category:Afraga-a-tuath]]
+[[Category:Afraga]]
+[[Category:Afraga-a-Tuath]]
 
 [[af:Marokko]]
 [[am:ሞሮኮ]]
