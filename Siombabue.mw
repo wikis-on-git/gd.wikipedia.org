@@ -1,43 +1,63 @@
-{| style="margin: 1em 1em 1em 1em;" border="1" cellpadding="2" cellspacing="0" align="right" width="275px"
-|+ <font size=+1>'''Republic of Zimbabwe'''</font>
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-| align="center" width="135px" | [[Image:Flag of Zimbabwe.svg|125px|Flag of the Republic of Zimbabwe]]
-| align="center" width="135px" height="140px" | [[Image:Zimbabwe coa.png|100px|Republic of Zimbabwe: Coat of Arms]]
-|-
-| align="center" width="135px" | ([[Bratach na Siombabue|Bratach]])
-| align="center" width="135px" | ([[Lùireach na Siombabue|Lùireach]])
-|}
-|-
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <font size=-1>''National [[motto]]: Unity, Freedom, Work''</font>
-|-
-| align="center" colspan="2" | [[Image:LocationZimbabwe.png|250px]]
-|-
-| [[Canan Oifigeil]] || [[Beurla]]
-|-
-| [[Priomh-Bhaile]] || [[Harare]]
-|-
-| Harare's [[Coordinates]] || 17° 50' S, 31° 03' E
-|-
-| [[Priomhaire]] || [[Robert Mugabe]]
-|-
-| [[Area]]<br/>&nbsp;- Total<br/>&nbsp;- % water || [[List of countries by area|Ranked 59th]]<br/>390,580 [[km²]]<br/>1% 
-|-
-| [[Aireamh-shluaigh]]<br/>&nbsp;- Total ([[2003]])<br/>&nbsp;-[[Aireamh-shluaigh density|Density]] || [[List of countries by Aireamh-shluaigh|Ranked 66th]]<br/>12,576,742<br/>32/km² 
-|-
-| [[Neo-Eiseimealachd]]<br/>&nbsp;- Declared<br/>&nbsp;- Recognised|| [[Rhodesian Civil War]]<br/>''(as Rhodesia)'' [[November 11|Nov. 11]], [[1965]]<br/>''(as Zimbabwe)'' [[April 17|Apr. 17]], [[1980]] 
-|-
-| [[Airgead]] || [[Zimbabwe dollar]] (Z$)
-|-
-| [[Time zone]] || [[Coordinated Universal Time|UTC]] +2 ([[Daylight Savings Time|DST, yes or not]]) 
-|-
-| [[Laoidh Naiseanta]] || [[Kalibusiswe Ilizwe leZimbabwe]] (Blessed be the land of Zimbabwe)
-|-
-| [[Top-level domain|Internet TLD]] || .ZW
-|-
-| [[List of country calling codes|Calling Code]] || 263
-|}
+{{Template:Dùthaich
+| Ainm =Zimbabwe
+| BRATACH =Flag of Zimbabwe.svg
+| LÙIREACH =Zimbabwe coa.png
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
+| MAPA =LocationZimbabwe.svg
+| LAOIDH_NÀISEANTA =[[Simudzai Mureza wedu WeZimbabwe]]<small> (Cànan Shona)</small><br/>''[[Kalibusiswe Ilizwe leZimbabwe]]''<small> (Cànan Ndebele)<br/>"Blessed be the land of Zimbabwe"</small>
+| SLUAGH_GHAIRM =Unity, Freedom, Work
+| CÀNAN_OIFIGEIL = [[Beurla]]
+| MION_CHÀNAN = Shona, Ndebele
+| PRÌOMH_BHAILE =[[Harare]]
+| BAILE_AS_MOTHA =[[Harare]]
+| SEÒRSA_UACHDRANAIS =Poblachd
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Ceann-suidhe a' Sheanaidh
+| TIOTAL_CEANNARD4 =Neach-labhairt na Pàrlamaid 
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Robert Mugabe
+| AINM_CEANNARD2 =Joseph Msika
+| AINM_CEANNARD3 =Edna Madzongwe
+| AINM_CEANNARD4 =John Nkomo
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd
+| TACHARTAS2 =Rhodesia
+| TACHARTAS3 =Zimbabwe
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| CEANN_LATHA2 = 11mh an t-Sàmhain [[1965]]
+| CEANN_LATHA3 =18mh an Giblean [[1980]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =390,757
+| REANGACH_F =60mh
+| UISGE =1
+| BLIADHNA =2005
+| ÀIREAMH_SHLUAIGH =13,010,000
+| REANGACH_S =68mh
+| DLÙTHS =33
+| REANGACH_D =170mh
+| BLIADHNA_GDP =2005
+| GDP =$30.581 billean
+| REANGACH_GDP =94mh
+| ÀIREAMH_GDP =$2,607
+| REANGACH_PER_CAPITA =129mh
+| ROINN_TÌDE =CAT
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Dollar Siombabue
+| EADAR_LÌON =.zw
+| ÀIREAMH_FÒN =263
+}}
+
 
 [[af:Zimbabwe]]
 [[am:ዚምባብዌ]]
