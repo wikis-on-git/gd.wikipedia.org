@@ -1,85 +1,98 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300">
-<caption>
-<font size="+1">'''Republic of South Africa'''</font> <small>([[Beurla]]) ([[Media:Safoffname.mp3|listen]])</small><br>
-<font size="+1">'''Republiek van Suid-Afrika'''</font> <small>([[Afrikaans]])   </small><br>
-<font size="+1">'''IRiphabliki yaseNingizimu Afrika'''</font> <small>([[Zulu language|IsiZulu]])</small><br>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Flag of South Africa.svg|125px|Bratach Afraga a Deas]]</td>
-<td align="center" width="140px">[[Image:Za-coa.gif|Afraga a Deas: Suaicheantas]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of South Africa|Gu Mionaideach]])</td>
-<td align="center" width="140px">
-([[Suaicheantas Afraga a Deas|gu Mionaideach]])<br>
-([http://www.gov.za/symbols/coatofarms.htm Aig a' char as motha])</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''Sluagh-ghairm Naiseanta: !ke e: &#448;xarra &#449;ke ([[Khoisan]] of the [[&#47;Xam_language|/Xam]]: Aonaibh Daoine Easgamhail!) [http://www.suedafrika.org/sae/en/index.asp?DocumentID=120]''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationSouthAfrica.png]]</td></tr>
-<tr><td>[[Cananan]] Oifigeil           </td><td>[[Afrikaans]], [[A' Bheurla]], [[Sulu (canan)|Sulu]], [[Csosa (canan)|Xhosa]], [[Suasai (canan)|Suasai]], [[Ndebele (canan)]], [[Soto (canan)]], [[Soto Tuath (canan)]], [[Tsonga]], [[Tsuana (canan)]] agus [[Bhenda (canan)]]</td></tr>
-<tr><td>[[Priomh-Bhaile|Priomh-Bhailtean]]             </td><td>[[Cape Town]] (reachdail)<br/>
-[[Pretoria]] (riochdachail)<br/> [[Bloemfontein]] (breithneachail)</td></tr>
-<tr><td>Baile as motha</td><td>[[Johannesburg]] (2001 Census) </td></tr>
-<tr><td>[[Priomhaire]]   <td>[[Thabo Mbeki]]</td></tr>
-<tr><td>[[Area]]<br>&nbsp;- Total <br>&nbsp;- % water</td><td>[[List of countries by area|Ranked 24th]] <br> [[1 E12 m²|1,219,912 km²]] <br> Negligible</td></tr>               
-<tr><td>[[Aireamh-shluaigh]]<br>&nbsp;- Total&nbsp;(2002) <br>&nbsp;- [[Density]]</td><td>[[List of countries by Aireamh-shluaigh|Ranked 26th]] <br> 43,647,658 <br> 36/km&sup2;</td></tr>
-<tr><td>[[Neo-Eiseimealachd]]<br>-Date<sup>1</sup></td><td>
-bho [[Sasainn]]:<br>[[May 31]], [[1961]]
-</td></tr>
-<tr><td>[[Airgead]]                     </td><td>[[Rand (Airgead)|Rand]]</td></tr>
-<tr><td>[[Time zone]]                    </td><td>[[Coordinated Universal Time|UTC]] +2</td></tr>
-<tr><td>[[Laoidh Naiseanta]]             </td><td>[[Laoidh Naiseanta of South Africa|Nkosi Sikelel' iAfrika (God Bless Africa)/Die Stem van Suid-Afrika (The Call of South Africa)]] 
-</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>[[.za]]</td></tr>
-<tr><td>[[List_of_country_calling_codes|Calling Code]]</td><td>27</td></tr>
-<tr><td colspan="2" align="left"><font size="2">('''1''') Steidhichte mar ''[[Aonadh Afraga a Deas]]'' air [[31 Ceitean]] [[1910]]. Chaidh e ann an ''Poblach Afraga a Deas air  [[10 Ceitean]], [[1961]].</font></td></tr></table>
+{{Template:Dùthaich
+| Ainm =<small>Republic of South Africa<br>IRiphabliki yaseNingizimu Afrika<br>Republiek van Suid-Afrika</small>
+| BRATACH =Flag of South Africa.svg
+| LÙIREACH =Coat_of_arms_of_South_Africa.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Lùireach]]
+| MAPA =LocationSouthAfrica.svg
+| LAOIDH_NÀISEANTA =
+| SLUAGH_GHAIRM =!ke e: ǀxarra ǁke (Khoisan den cànan /Xam<br> Aonaibh Daoine Easgamhail!)
+| CÀNAN_OIFIGEIL =[[Afrikaans]], [[Beurla]], [[Zulu (canan)|Sulu]], [[Csosa (cànan)|Xhosa]], [[Suasai (cànan)|Suasai]], [[Ndebele (canan)|Ndebele]], [[Soto (cànan)|Soto]], [[Soto Tuath (cànan)|Soto Tuath]], [[Tsonga]], [[Tsuana (cànan)|Tsuana]] agus [[Bhenda (cànan)|Bhenda]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Cape Town]] <small> (reachdail) </small><br>[[Bloemfontein]] <small> (breithneachail) </small><br>[[Pretoria]] <small> (riochdachail) </small>
+| BAILE_AS_MOTHA =[[Johannesburg]] <small>(2006)<ref>[http://www.citypopulation.de/World.html]</ref></small>
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 =Ceann-suidhe
+| TIOTAL_CEANNARD2 = Leas- cheann-suidhe
+| TIOTAL_CEANNARD3 = Cathraiche
+| TIOTAL_CEANNARD4 =Neach-labhairt
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Thabo Mbeki
+| AINM_CEANNARD2 =Phumzile Mlambo-Ngcuka
+| AINM_CEANNARD3 =M. J. Mahlangu
+| AINM_CEANNARD4 =Baleka Mbete
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd  
+bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 =Stèidhichte mar ''[[Aonadh Afraga a Deas]]'' 
+| TACHARTAS3 =Chaidh e ann an ''Poblach Afraga a Deas 
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 31mh an Cèitean [[1910]]
+| CEANN_LATHA2 = 31mh an Cèitean [[1910]]
+| CEANN_LATHA3 =10mh an Cèitean [[1961]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =1,221,037
+| REANGACH_F =25mh
+| UISGE =
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =47.9 millean
+| REANGACH_S =25mh
+| DLÙTHS =39
+| REANGACH_D =136mh
+| BLIADHNA_GDP =2007
+| GDP =$587.5 billean
+| REANGACH_GDP =18mh
+| ÀIREAMH_GDP =$13,300
+| REANGACH_PER_CAPITA =56mh
+| ROINN_TÌDE =SAST
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Rand
+| EADAR_LÌON =.za
+| ÀIREAMH_FÒN =27
+}} 
+'S e duthaich ann an ceann a deas [[Afraga]] a th' ann am '''Poblach Afraga a Deas'''.  Tha mu 45 millean daoine a' fuireach ann.  
 
-'S e duthaich ann an ceann a deas [[Afraga]] a th' ann am '''Poblach Afraga a Deas'''.  Tha sluagh mu 45 millean daoine a' fuireach ann.  
+Tha Afraga a Deas ri taobh [[Naimibia]], [[Botsuana]], [[Siombabue]], [[Mòsaimbic]], agus [[Dùthaich nan Suasaidh]]. Tha dùthaich bheag air a chuairteachadh le Afraga a Deas, 's e [[Lesotho]] a tha air.
 
-Tha Afraga a Deas ri taobh [[Namibia]], [[Botswana]], [[Zimbabwe]], [[Mozambique]], and [[Swaziland]]. Tha duthaich bheag air a' chuairteachadh le Afraga a Deas, 's e [[Lesotho]] a tha air.
+'S e am baile as motha a th' ann an [[Johannesburg]]; tha trì prìomh-bhailtean aig Afraga a Deas, agus 's iad [[Cape Town]], [[Pretoria]] agus [[Bloemfontein]].
 
-'S e am baile as motha a th' ann an [[Johannesburg]]; tha trì prìomh-bhailtean aig Afraga a Deas, agus 's iad [[Cape Town]], [[Pretoria]]agus [[Bloemfontein]].
+Tha aon cànanan deug ann: [[Afrikaans]], [[Beurla]], [[Ndebele language|isiNdebele]], [[Xhosai]], [[Zulu]], [[Swati]], [[Setswana]], [[Sesotho]], [[Sesotho sa Leboa]], [[Tshivenda]] agus [[Xitsonga]]. Ri linn seo, tha ainm oifigeil fa leth aig gach cànan air an dùthaich.
 
-Tha aon cànanan deug ann: [[Afrikaans]], [[Beurla]], [[Ndebele language|isiNdebele]], [[Xhosai]], [[Zulu]], [[Swati]], [[Setswana]], [[Sesotho]], [[Sesotho sa Leboa]], [[Tshivenda]] agus [[Xitsonga]]. Ri linn seo, tha ainm oifigeil fa leth aig gach cànan air an duthaich.
-
-'S e an duine as cliùtiche aig Afraga a Deas a th' ann an [[Nelson Mandela]], a bha na [[ceann-suidhe|cheann-suidhe]] bho [[1994]] gu [[1999]].
+'S e an duine as cliùitiche aig Afraga a Deas a th' ann an [[Nelson Mandela]], a bha na [[ceann-suidhe|cheann-suidhe]] bho [[1994]] gu [[1999]].
 
 ==Eaconomaidh==
 
-Tha sgaradh mòr ann an eaconomaidh Afraga a Deas eadar coitcheannan a' Chiad Shaoghail agus an Treamh Saoghail.  Tha na roinnean leasaichte den eaconomaidh gu math coltach ris an fheadahinn aig duthchannan beartach, den leithid [[an Rioghachd Aonaichte]] no Astralia.  Tha a' chuid eile nas dluithe ris na duthchannan bochda, mar [[Na h-Innseachan]] no [[Pacastan]].
+Tha sgaradh mòr ann an eaconomaidh Afraga a Deas eadar coitcheannan a' Chiad Shaoghail agus an Treasamh Saoghail.  Tha na roinnean leasaichte den eaconomaidh gu math coltach ris an fheadhainn aig dùthchannan beartach, den leithid [[an Rìoghachd Aonaichte]] no [[Astràilia]].  Tha a' chuid eile nas dluithe ris na dùthchannan bochda, mar [[na h-Innseachan]] no [[Pacastan]].
 
-'S e [[minearachd]] (airson a' mhòr chuid [[daoimean]] agus [[òr]]), caraichean agus urrasachd a th' anns na priomh gnìomhachasan ann an Afraga a Deas.
-
+'S e [[minearachd]] (airson a' mhòr chuid [[daoimean]] agus [[òr]]), càraichean agus urrasachd a th' anns na prìomh gnìomhachasan ann an Afraga a Deas.
 
 ==Armachd== 
 
 'S e an armachd as laidire ann an Ceann a Deas Afraga a tha aig Afraga a Deas.  Tha e a' cosg barrachd air Armachd na nabaidh sam bith aige agus ri linn seo  tha an teicneolas as adhartaiche anns an roinn aige.
 B' abhaist armachd niuclasach a bhith aig Afraga a Deas ach chaidh an  cur à feum ann an [[1993]].
 
-
 ==Duilgheadasan le HIV==
 
-Tha mòran dhaoine ann an Afraga a Deas a' fulang le [[HIV]] agus [[AIDS]].  Tha an suideachadh gu math eiginneach le corr is fichead à ceud anns an t-sluagh a' fulang leatha.
+Tha mòran dhaoine ann an Afraga a Deas a' fulang le [[HIV]] agus [[AIDS]].  Tha an suidheachadh gu math eiginneach le còrr is fichead às a' cheud anns an t-sluagh a' fulang leatha.
 
 ==Spòrs==
 
-'S e na spòrs as motha ann an Afraga a Deas a th 'ann an [[Criogaid]], [[Rugbaidh]] agus [[Ball-coise]].  Nuair a bha Apartheid ann, bha bacadh air sgiobaidehan spòrs à Afraga a Deas.
-
-==Ceanglaichean A-Muigh==
-*[http://www.gov.za Riaghaltas Afraga a Deas]
-*[http://allafrica.com/southafrica/ Afraga a Deas anns na naidheachdan]
-
-{{stub}}
-{{Afraga}}
-
-[[Category:Duthchannan]]
-[[Category:Afraga-a-Deas|South Africa]]
-
-
+'S e na spòrs as motha ann an Afraga a Deas a th 'ann an [[Criogaid]], [[Rugbaidh]] agus [[Ball-coise]].  Nuair a bha Apartheid ann, bha bacadh air sgiobaidhean spòrs à Afraga a Deas.
 
 == Ainmean Eile ==
-Tha 11 cananan oifigeil eile aig Afraga-a-deas. 
+
+Tha 11 cànanan oifigeil eile aig Afraga-a-Deas. 
 *'''Republiek van Suid-Afrika'''  ([[Afrikaans]])
 *'''Republic of South Africa''' ([[Beurla]])
-*'''IRiphabliki yeSewula Afrika''' ([[Ndebele|IsiNdebele]])
+*'''IRiphabliki yeSewula Afrika''' ([[Ndebele (canan)|IsiNdebele]])
 *'''IRiphabliki yaseMzantsi Afrika''' ([[Xhosa|IsiXhosa]])
 *'''IRiphabliki yaseNingizimu Afrika''' ([[Zulu (canan)|IsiZulu]])
 *'''Rephaboliki ya Afrika-Borwa''' ([[Pedi|Sepedi]])
@@ -88,6 +101,15 @@ Tha 11 cananan oifigeil eile aig Afraga-a-deas.
 *'''IRiphabhulikhi yeNingizimu Afrika''' ([[SiSwati]])
 *'''Riphabu&#7741;iki ya Afurika Tshipembe''' ([[Venda (canan)|Tshivenda]])
 *'''Riphabliki ra Afrika Dzonga''' ([[Tsonga|Xitsonga]])
+
+==Ceanglaichean a-muigh==
+*[http://www.gov.za Riaghaltas Afraga a Deas]
+*[http://allafrica.com/southafrica/ Afraga a Deas anns na naidheachdan]
+
+
+
+[[Category:Duthchannan]]
+[[Category:Afraga-a-Deas|South Africa]]
 
 [[af:Suid-Afrika]]
 [[am:ደቡብ አፍሪካ]]
