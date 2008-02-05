@@ -1,29 +1,62 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px">
-<caption><font size="+1"> '''Nìgeiria'''<br>'''Federal Republic of Nigeria'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Nigeria flag large.png|125px|]]</td>
-<td align="center" width="140px">[[Image:nigeriaarms22.PNG]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of Nigeria|In Detail]])</td>
-<td align="center" width="140px">(Full size)</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: "Unity and Strength, Peace and Progress"''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationNigeria.png]]</td></tr>
-<tr><td>[[Cànan Oifigeil]]            </td><td>[[Beurla]]</td></tr>
-<tr><td>[[Prìomh-bhaile]]                      </td><td>[[Abuja]]</td></tr>
-<tr><td>[[Priomhaire]]                </td><td>[[Olusegun Obasanjo]]</td></tr>
-<tr><td>[[Farsaingeachd]]<br>&nbsp;- Total <br>&nbsp;- % water</td><td>[[List of countries by area|Ranked 31st]] <br> 923,768 [[square kilometre|km&sup2;]] <br> 1.4%</td></tr>               
-<tr><td>[[Àireamh-shluaigh]]<br>&nbsp;- Total ([[2004]]) <br>&nbsp;- [[Aireamh-shluaigh density|Density]]</td><td>[[List of countries by Aireamh-shluaigh|Ranked 9th]]<br> 133,881,703<br> 147/km&sup2; </td></tr>
-<tr><td>[[Neo-Eiseimealach]]<br>&nbsp;- Date
-</td><td>bho [[Sasainn]]<br>[[October 1]], [[1960]]
-</td></tr>
-<tr><td>[[Ruith-airgid]]                     </td><td>[[Naira]]</td></tr>
-<tr><td>[[Roinn tìde]]                    </td><td>[[Coordinated Universal Time|UTC]] +1</td></tr>
-<tr><td>[[Laoidh Nàiseanta]]              </td><td>[[Arise O Compatriots, Nigeria's Call Obey]]</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.NG</td></tr>
-<tr><td>[[List_of_country_calling_codes|Calling Code]]</td><td>234</td></tr>
-</table>
-[[Image:Un, darfur.jpg|250px|left|thumb| Nigeirian UNAMID Soudan (Photo: Patrick André Perron [[http://www.pbase.com/perrona/fcaes_of_darfur__soudan]]]]
+{{Template:Dùthaich
+| Ainm =<small><small>Ìjọba-Àpapọ̀ Orílẹ̀-èdè Naìjírìà<br />Republik Nijeriya<br />جمهورية نيجيريا<br />Republic nde Naigeria<br />Republik Federaal bu Niiseriya</small></small>
+| BRATACH = Flag of Nigeria.svg
+| LÙIREACH = Nigeria_coa.png
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]] 
+| MAPA = LocationNigeria.svg
+| LAOIDH_NÀISEANTA = "[[Arise O Compatriots, Nigeria's Call Obey]]"
+| SLUAGH_GHAIRM = "Unity and Faith, Peace and Progress"
+| CÀNAN_OIFIGEIL =[[Beurla]]
+| MION_CHÀNAN = Cànan Hausa, Cànan Igbo, Cànan Yoruba
+| PRÌOMH_BHAILE = [[Abuja]]
+| BAILE_AS_MOTHA = [[Lagos]]
+| SEÒRSA_UACHDRANAIS = Poblachd  
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = Umaru Yar'Adua
+| AINM_CEANNARD2 = Goodluck Jonathan
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd bhon<br>[[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 = Cuirte an cèill
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =  1ad an Dàmhair [[1960]]
+| CEANN_LATHA2 =  1ad an Dàmhair  [[1963]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 923,768
+| REANGACH_F = 32mh
+| UISGE = 1.4
+| BLIADHNA = 2005
+| ÀIREAMH_SHLUAIGH = 133,530,000
+| REANGACH_S = 9mh
+| DLÙTHS = 145
+| REANGACH_D = 71mh
+| BLIADHNA_GDP = 2006
+| GDP = $191.4 billean
+| REANGACH_GDP = 47mh
+| ÀIREAMH_GDP = $1,500
+| REANGACH_PER_CAPITA = 165mh
+| ROINN_TÌDE = WAT
+| UTC_OFFSET = +1
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Naira (₦)
+| EADAR_LÌON = [[.ng]]
+| ÀIREAMH_FÒN = 234
+}} 
 'S e dùthaich ann an [[Afraga]]-an-iar a tha ann an '''Nìgeiria''' ("Poblachd Caidreachail Nìgeiria" gu h-oifigeil). Tha an àireamh-shluaigh as motha ann an Afraga aige. Tha criochan aig Nìgeiria le Poblachd [[Beinin]] san iar, [[Nìgeir]] ann an taobh-a-tuath, [[Gini]] ann an taobha-deas agus [[An t-Siad]] is [[Camarun]] san ear. O chionn [[1991]], 's e [[Abuja]] am [[prìomh-bhaile]] aice, roimhe sin, 's e [[Lagos]] a bha ann.
 
 [[category:Afraga]]
