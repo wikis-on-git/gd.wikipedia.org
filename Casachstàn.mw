@@ -1,73 +1,64 @@
-{{User:Sionnach/Template:Dùthaich
-|Ainm = <span style="line-height:1.33em;"> Қазақстан Республикасы <br/>''Qazaqstan Respublïkası''<br/> Республика Казахстан <br/>''Respublika Kazakhstan''</span><br /><span style="line-height:1.33em;">Republic of Kazakhstan</span>
-|BRATACH = Flag of Kazakhstan.svg
-|LÙIREACH = Coat of arms of Kazakhstan (flat).svg
-|AINM_BRATACH = Bratach Cacachstane
-|AINM_LÙIREACH = Lùireach Casachstane
-|MAPA = LocationKazakhstan.png
-|AINM_LOCÀISION = Locàision na Casachstan
-|SLUAGH_GHAIRM_NÀISEANTA =
-|LAOIDH_NÀISEANTA =
-|CÀNAN = [[Casachais]] (state language), [[Ruiseis]]
-|MÌ_CHÀNAIN = None
-|PRÌOMH_BHAILE =
-|BAILE_AS_MOTHA =
-|TIOTAL_CEANNARD_1 =
-|TIOTAL_CEANNARD_2  =
-|TIOTAL_CEANNARD_3 =
-|TIOTAL_CEANNARD_4 =
-|TIOTAL_CEANNARD_5 =
-|TIOTAL_CEANNARD_6 =
-|SEÒRSA_UACHDRANAIS =
-|AINM_CEANNARD_1 =
-|AINM_CEANNARD_2 =
-|AINM_CEANNARD_3 =
-|AINM_CEANNARD_4 =
-|AINM_CEANNARD_5 =
-|AINM_CEANNARD_6 =
-|TACHARTAS_1 =
-|TACHARTAS_2 =
-|TACHARTAS_3 =
-|TACHARTAS_4 =
-|TACHARTAS_5 =
-|TACHARTAS_6 =
-|TACHARTAS_7 =
-|CEANN_LATHA_1 =
-|CEANN_LATHA_2 =
-|CEANN_LATHA_3 =
-|CEANN_LATHA_4 =
-|CEANN_LATHA_5 =
-|CEANN_LATHA_6 =
-|CEANN_LATHA_7 =
-|LATHA_NAISEANTA =
-|FARSAINGEACHD =
-|REANGACH_F =
-|FARS._SQM =
-|UISGE = 
-|BLIADHNA =
-|ÀIREAMH_SHLUAIGH =
-|REANGACH_S =
-|DLÙTHS =
-|REANGACH_D =
-|DLÙTHS_SQM =
-|BLIADHNA =
-|GDP =
-|REANGACH_GDP =
-|ÀIREAMH_GDP =
-|REANGACH_PER_CAPITA =
-|ROINN_TÌDE =
-|UTC_OFFSET =
-|AS_T_SAMHRADH =
-|UTC_OFFSet_2 =
-|RUITH_AIRGID =
-|EADAR_LÌON =
-|ÀIREAMH_FÒN =
-|BONN_NÒTA_1 =
-|BONN_NÒTA-2 =
-}}
+{{Template:Dùthaich
+| Ainm =Қазақстан Республикасы<small><small><br/>Qazaqstan Respublïkası<br/> Республика Казахстан<br/>Respublika Kazakhstan</small></small>
+| BRATACH =Flag of Kazakhstan.svg
+| LÙIREACH =Coat of arms of Kazakhstan (flat).svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationKazakhstan.png
+| LAOIDH_NÀISEANTA =[[My Kazakhstan]]
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =Cànan Kazakh
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Astana]]
+| BAILE_AS_MOTHA =[[Almaty]]
+| SEÒRSA_UACHDRANAIS =Poblachd
+| TIOTAL_CEANNARD1 =Ceann-suidhe
+| TIOTAL_CEANNARD2 =[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Nursultan Nazarbayev
+| AINM_CEANNARD2 =Karim Masimov
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =1st Khanate
+| TACHARTAS2 =2nd Khanate
+| TACHARTAS3 =3rd Khanate
+| TACHARTAS4 = Neo-eisimeileachd<br> bhon [[Aonadh Sobhiat]]
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =1361 mar ''White Horde''
+| CEANN_LATHA2 =1428 mar ''Uzbek Horde''
+| CEANN_LATHA3 =1465 mar ''Kazakh Khanate''
+| CEANN_LATHA4 =25mh An Dùbhlachd [[1991]]
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =2,724,900
+| REANGACH_F =9mh
+| UISGE =1.7
+| BLIADHNA =2006
+| ÀIREAMH_SHLUAIGH =15,217,711<ref>[http://www.stat.kz/stat/print.aspx?p=news_27&l=en National Statistics Agency of Kazakhstan]</ref>
+| REANGACH_S =62mh
+| DLÙTHS =5.4
+| REANGACH_D =215mh
+| BLIADHNA_GDP =2007
+| GDP =$145.5 billean
+| REANGACH_GDP =56mh
+| ÀIREAMH_GDP =$9,594
+| REANGACH_PER_CAPITA =66mh
+| ROINN_TÌDE =-
+| UTC_OFFSET =+5/+6
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =-
+| EADAR_LÌON =.kz
+| ÀIREAMH_FÒN =7
+}} 
 
-
-'S e [[Astana]] am [[prìomh-bhaile]] '''Casachstan''', ach 's e [[Almaty]] am baile as motha den dùthaich.
+'S e [[Astana]] am [[prìomh-bhaile]] Chasachstan, ach 's e [[Almaty]] am baile as motha den dùthaich.
 
 [[category:Dùthchannan]]
 
