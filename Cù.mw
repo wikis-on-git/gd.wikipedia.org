@@ -1,28 +1,31 @@
-{{Taxobox
-| color = Blue 
-| name = Domestic Dog
-| status = {{StatusDomesticated}}
-| image = YellowLabradorLooking wb.jpg
-| image_width = 250px
-| image_caption = '''[[Labrador Retriever]]'''<br>a breed of domestic dog
-| regnum = [[Animal]]ia
-| phylum = [[Chordate|Chordata]]
-| subphylum = [[Vertebrate|Vertebrata]]
-| classis = [[Mammal]]ia
-| ordo = [[Carnivora]]
-| familia = [[Canidae]]
-| genus = ''[[Canis]]''
-| species = ''[[wolf|C. lupus]]''
-| subspecies = '''''C. l. familiaris'''''
-| trinomial = ''Canis lupus familiaris''
-| trinomial_authority = ([[Carolus Linnaeus|Linnaeus]], 1758)
-}} 
-[[image:Aragon.jpg|right|300px]]
-Tha '''Cù''' (''Canis lupus familiaris'') na [[sineach|shineach]] feòil-itheach ann an ordugh [[Carnivora]] a tha cumanta mar [[peata]], beatheach-coimhid agus beathach-obrach. Tha ceangail eadar daoine agus còin a' dol 17,000 [[bliadhna]]ichean air ais. Bho thùs, bha iad nan [[faol|faol-choin]] [http://news.bbc.co.uk/2/hi/science/nature/2498669.stm]. Is iomadh seorsa coin ann, mar eiseimpleir an [[Chihuahua (cù)|Chihuahua]] beag-biodach agus [[Irish Wolfhound]]. Tha falt den h-uile seorsa aca bho geal gu dubh, ruadh, liath, agus donn.
+{{Template:Beathach
+  | AINM_BEATHACH = Cù
+  | DEALBH = Wikilabrador jardin.JPG
+  | TEASCA_DEILBH = 
+  | REGNUM = [[Animal]]ia
+  | PHYLUM = [[Chordate|Chordata]]
+  | CLASSIS =[[Mammal]]ia
+  | ORDO = [[Carnivora]]
+  | FAMILIA = [[Canidae]]
+  | GENUS = ''[[Canis]]''
+  | SPECIES = ''[[Gray Wolf|C. lupus]]''
+  | AINM_1 =Fo-ghnè
+  | AINM_1_EILE ='''''C. l. familiaris'''''
+  | AINM_2 = 
+  | AINM_2_EILE =
+  | AINM_SAIDHEANS = ''Canis lupus familiaris''
+  | IOMRADH = ([[Carolus Linnaeus|Linnaeus]], 1758)
+  | AINMEAN_EILE = 
+  | AINM_GÀIDHLIG =
+}}
 
-Tha coin, mar daoine, nam beathaichean-soisealta, agus tha an samhladh sin a' clarachadh carson a tha iad cho fuarasda ri treanadh, cho sporsail, agus carson a tha iad cho comhfhurtail a-measg 	muinntir air fad.
+Tha '''Cù''' (''Canis lupus familiaris'') na [[sineach|shineach]] feòil-itheach ann an òrdugh [[Carnivora]] a tha cumanta mar [[peata]], beatheach-coimhid agus beathach-obrach. Tha ceangail eadar daoine agus còin a' dol 17,000 [[bliadhna]]ichean air ais. Bho thùs, bha iad nan [[faol|faol-choin]] <ref>[http://news.bbc.co.uk/2/hi/science/nature/2498669.stm BBC news ]</ref>. Is iomadh seòrsa coin ann, mar eiseimpleir an [[Chihuahua (cù)|Chihuahua]] beag-biodach agus an [[Irish Wolfhound]]. Tha falt den h-uile seòrsa aca bho geal gu dubh, ruadh, liath, agus donn.
 
-Tha cuid de cultaran, m.e. [[Islam]] a' smaoineachadh gur e rud salach ann an cu. Ann an cultran eile, bidh daoine ga itheadh.
+Tha coin, mar daoine, nam beathaichean-soisealta, agus tha an samhladh sin a' clarachadh carson a tha iad cho fuarasda ri treanadh, cho sporsail, agus carson a tha iad cho comhfhurtail a-measg muinntir air fad.
+
+Tha cuid de cultaran, m.e. [[Islam]] a' smaoineachadh gur e rud salach a tha ann an cù. Ann an cultaran eile, bidh daoine ga itheadh.
+
+[[image:Aragon.jpg|right|300px|thumb|Aragon]]
 
 == Abairtean mu dheidhinn coin ==
 
@@ -72,9 +75,12 @@ Tha cuid de cultaran, m.e. [[Islam]] a' smaoineachadh gur e rud salach ann an cu
 * [[Turcais]] - ''hav, hav''
 * [[Ungairis]] - ''vau, vau''
 
-==Ceangailtean==
+==Ceanglaichean==
 *[[Landseer]]
 *[[Newfoundland]]
+
+==Iomradh==
+<references/>
 
 [[Category:Mamalan]]
 [[Category:Peataichean]]
