@@ -14,18 +14,13 @@ B'e fear [[Ioseph Louis Gay-Lussac]] a dh'fhoillsich an dlighe son a' chiad uair
 
 Is e iomradh matamatachd na dlighe:
 
-:<math>\frac{V2-V1}{T2-T1} = k</math>
+:<math>\frac{V}{T} = k</math>
 
 a' toirt fa-near gur iad:
 
-*V1 - toirt-lionaidh de'n gas ( a roimhe atharrachadh an teasaid)
-*V2 - toirt-lionaidh de'n gas ( as deidh atharrachadh an teasaid)
-*T1 - teasad a' ghais ( a roimhe atharrachadh)
-*T2 - teasad a' ghais (as deidh atharrachadh)
-*k - Aireamh Cunbhalach(Cunbhalach a' mheudachaidh) tha luach den aireamh seo sonraichte ri gach gas fa-leth.
-
-
-== Burachd fo'n loidhne seo! ==
+*V - toirt-lionaidh de'n gas
+*T - teasad a' ghais (air a thomhas a rèir Kelvin)
+*k - Aireamh Cunbhalach (Cunbhalach a' mheudachaidh).
 
 Ach ann am minichidhean eile, far a bheil prìomhachas ga chur air na buadhan a th' aig teas air a h-uile sìon sa chruinne-cè, thèid ''meall'' de ghas sam bith an ''lughad'' fhad's  a thèid teas an t-siostaim am meud, agus an rathad eile dha rèir:
 :<math>V \varpropto T</math><br />
