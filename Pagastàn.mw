@@ -1,32 +1,63 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px">
-<caption><font size="+1">'''&#1575;&#1587;&#1604;&#1575;&#1605;&#1740; &#1580;&#1605;&#1729;&#1608;&#1585;&#1740;&#1578; &#1662;&#1575;&#1705;&#1587;&#1578;&#1575;&#1606;<br>Islami Jamhuria Pakistan'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Pakistan flag large.png|125px|]]</td>
-<td align="center" width="140px">[[Image:pakarms22.PNG]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of Pakistan|In Detail]])</td>
-<td align="center" width="140px">([[National Emblem of Pakistan|In Detail]])</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: Iman, Ittehad, Nazm<br>([[Urdu]]: "Faith, Unity, Discipline")''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationPakistan.png]]</td></tr>
-<tr><td>[[Cànan oifigeil]]</td><td>[[Urdu_language|Urdu]], [[English_language|English]]</td></tr>
-<tr><td>[[Prìomh-bhaile]]                      </td><td>[[Islamabad, Pacastan|Islamabad]]</td></tr>
-<tr><td>Baile as motha <td>[[Karachi]]
-<tr><td>[[Priomhair]]                        
-</td><td>General Pervez Musharraf </td></tr>
-<tr><td>[[Prìomh-mhinistear]]                        </td><td>Shaukat Aziz</td></tr>
-<tr><td>[[Farsaingeachd]]<br>&nbsp;- Total <br>&nbsp;- % water</td><td>[[List of countries by area|Ranked 34th]] <br> 803,940 [[square kilometre|km&sup2;]] <br> 3.1%</td></tr>               
-<tr><td>[[Àireamh-shluaigh]]<br>&nbsp;- Total ([[2003]])<br>&nbsp;- [[Population_density|Density]]</td><td>[[List of countries by population|Ranked 6th]]<br> 150,694,740<br> 188/km&sup2; </td></tr>
-<tr><td>[[Neo-eiseamlachd]]</td><td>[[August 14]], [[1947]] (from the [[United Kingdom|UK]])</td></tr>
-<tr><td>[[Poblachd]]</td><td>[[Am Mart 23]], [[1956]]</td></tr>
-<tr><td>[[Ruith-airgid]]                     </td><td>[[Pakistani Rupee]]</td></tr>
-<tr><td>[[ISO_4217|Currency Code]]                     </td><td>PKR</td></tr>
-<tr><td>[[Roinn tìde]]                    </td><td>[[Coordinated Universal Time|UTC]] +5</td></tr>
-<tr><td>[[Laoidh nàiseanta]]              </td><td>[[Pak sarzamin shad bad]]<br>(Blessed Be The Sacred Land) </td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.PK</td></tr>
-<tr><td>[[List_of_country_calling_codes|Calling Code]]</td><td>92</td></tr>
-<tr><td>National Game</td><td>[[Field_hockey|Field Hockey]]</td></tr>
-</table>
+{{Template:Dùthaich
+| Ainm =اسلامی جمہوریۂ پاکستان<br /><small>Islāmī Jumhūrīyah Pākistān</small>
+| BRATACH =Flag of Pakistan.svg
+| LÙIREACH =Coat of arms of Pakistan.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationPakistan.png 
+| LAOIDH_NÀISEANTA ="[[Qaumi Tarana]]"
+| SLUAGH_GHAIRM =اتحاد، تنظيم، يقين محکم <br />''Ittehad, Tanzim, Yaqeen-e-Muhkam'' <small>([[Urdu]])<br />"Unity, Discipline and Faith"</small>
+| CÀNAN_OIFIGEIL =[[Urdu]] (nàiseanta)<br />[[Beurla]]
+| MION_CHÀNAN =[[Balochi language|Balochi]], [[Hindko language|Hindko]], [[Pashto language|Pashto]], [[Punjabi language|Punjabi]], [[Siraiki language|Siraiki]], [[Sindhi language|Sindhi]], <ref name="mothertongues">{{cite web |url=http://www.statpak.gov.pk/depts/pco/statistics/other_tables/pop_by_mother_tongue.pdf |title=Population by Mother Tongue |publisher=Population Census Organization, Government of Pakistan |accessdate=2007-12-11}}</ref>
+| PRÌOMH_BHAILE =[[Islamabad]]
+| BAILE_AS_MOTHA =[[Islamabad]]
+| SEÒRSA_UACHDRANAIS =Poblachd
+| TIOTAL_CEANNARD1 =Ceann-suidhe
+| TIOTAL_CEANNARD2 =[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Pervez Musharraf
+| AINM_CEANNARD2 =Yousaf Raza Gillani
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Neo-eisimeileachd bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 =Poblachd [[Islam|Ioslamach]]
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =14mh an Lunasdal [[1947]]
+| CEANN_LATHA2 =23mh am Màirt [[1956]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =880,940
+| REANGACH_F =36mh
+| UISGE =3.1
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH =162,508,000
+| REANGACH_S =6mh
+| DLÙTHS =206
+| REANGACH_D =53mh
+| BLIADHNA_GDP =2008
+| GDP =504.3 billean
+| REANGACH_GDP =26mh
+| ÀIREAMH_GDP =US$ 3320.12
+| REANGACH_PER_CAPITA =128mh
+| ROINN_TÌDE =[[Pakistan Standard Time|PST]]
+| UTC_OFFSET =+5
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =+6
+| RUITH_AIRGID =Rupee
+| EADAR_LÌON =.pk
+| ÀIREAMH_FÒN =92
+}} 
+
 'S e dùthaich ann an [[Àisia]] a tha ann am '''Pagastàn''', eadar [[Ioràn]], [[Afganastan]] agus [[na h-Innseachan]]. 
 
 Cànanan: [[Urdu]], [[Beurla]] agus mòran eile.
@@ -34,6 +65,10 @@ Cànanan: [[Urdu]], [[Beurla]] agus mòran eile.
 ==Bailtean mòra ann am Pagastàn ==
 * [[Islamabad]]
 * [[Karachi]]
+[[Image:K2 8611.jpg|thumb|left|250px|Pagastàn]]
+
+==Iomradh==
+<references/>
 
 [[Category:Dùthchannan]]
 [[Category:Pacastan]]
