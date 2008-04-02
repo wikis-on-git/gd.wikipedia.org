@@ -1,25 +1,16 @@
-{{otheruses}}
-{{Taxobox
-| color = pink
-| name = Aardvark
-| status = lc
-| image = Erdferkel-drawing.jpg
-| image_width = 200px
-| regnum = [[Animal]]ia
-| phylum = [[Chordate|Chordata]]
-| classis = [[Mammal]]ia
-| ordo = '''Tubulidentata'''
-| ordo_authority = [[Thomas Henry Huxley|Huxley]], [[1872]]
-| familia = '''Orycteropodidae'''
-| familia_authority = [[John Edward Gray|Gray]], [[1821]]
-| genus = '''''Orycteropus'''''
-| genus_authority = [[Georges Cuvier|G. Cuvier]], [[1798]]
-| species = '''''O. afer'''''
-| binomial = ''Orycteropus afer''
-| binomial_authority = ([[Peter Simon Pallas|Pallas]], [[1766]])
+{{Template:Beathach
+  | AINM_BEATHACH = Aardvark
+  | DEALBH = Erdferkel-drawing.jpg
+  | TEASCA_DEILBH = 
+  | REGNUM = [[Animal]]ia
+  | PHYLUM = [[Chordate|Chordata]]
+  | CLASSIS = [[Mammal]]ia
+  | ORDO = '''Tubulidentata'''
+  | ordo_authority = [[Thomas Henry Huxley|Huxley]], [[1872]]
+  | FAMILIA = '''Orycteropodidae'''
+  | GENUS = '''''Orycteropus'''''
+  | SPECIES = ''Orycteropus afer''
 }}
-
-[[Image:Erdferkel-drawing.jpg|thumb|right|Aardvarkan]]
 
 Se [[mamal]] [[Africa|Afraganach]] a tha ann an '''Aardvark'' (''Orycteropus afer'').
 
