@@ -1,50 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''澳門特別行政區'''<br/>'''Região Administrativa Especial de Macau'''<br/>Roinn Rianachdail Sònraichte Mhacau</font><br /> 
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Macau.svg  |125px]]
-| align="center" width="140px" |[[Image: Coat_of_arms_of_Macao.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach]]
-|}
-|- 
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Macau Location.png |300px]] 
-|-
-|'''[[Cànan Oifigeil]]''' || [[Sìonais]](Pǔtōnghuà, Mandairinis), [[Portagailis]]
-|-
-|'''[[Prìomh-bhaile]]''':<br/>&nbsp; [[Eòlas-sluaigh Mhacau|Freguesia as motha]]:<br/>&nbsp;(àireamh-shluaigh): 
-| Chan eil: <br> [[Ar Baintighearna de Sgìre Fatima|Freguesia de Nossa Senhora de Fátima]]
-|-
-|'''[[Riaghaltas]]''': <br/>&nbsp;- Àrd-oifigear:
-|[[Edmund Ho Hau-wah]]:
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Iomlan: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: Gun reang <br> 28.6 km&sup2; <br> 11.04 m&sup2; <br/>  0%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Iomlan: <br>&nbsp;- [[Dlùths]]:                  
-| List of countries by Aireamh-shluaigh|Reangach: 167mh <br> 520,400³ <small>([[2007]]tuairmse)</small><br> 17,310/km&sup2; (2mh) <br> 44,784 m&sup2; 
-|-
-| '''[[Stèidheachadh]]''':<br/> &nbsp;- Sealbh [[A' Phortagail|na Portagail]]: <br/>&nbsp;- Eilthir phortagaileach:<br/>&nbsp;- [[Tar-aisig Uachdaranachd Mhacau|Tar-aisig Uachdaranachd]]:
-| 1557<br/><br/> 13 Lùnastal, 1862<br/><br/> 20 Dùbhlachd, 1999
-|-
-| '''[[Ruith-airgid]]''': || [[Pataca Mhacau]]
-|-
-| '''[[Roinn tìde]]''':
-| ([[Àm Coitcheann Co-òrdanaichte|UTC]] +8)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| ''[[Caismeachd nan Saor-thagraichean]]''<small><br/>''(义勇军进行曲)''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .mo
-|-
-| '''[[List of country calling codes|Còd Àireamh fòn eadar-naiseanta]]''':
-| 853
-|}
-
-Stèidhicheadh '''Roinn Rianachdail Shònraichte Mhacau''', a dh'aithnichear am bitheantas mar '''Macau''', no '''Macao''', air 20 Dùbhlachd, 1999. 'S i aon den dà [[Roinn Rianachdail Shònraichte Sluagh-Phoblachd na Sìne]] a th' innte, 's i [[Hong Kong]] an tè eile. Bha i air a riaghladh fad 442 bliadhna leis [[a' Phortagail]], ga dèanamh an eilthir eòrpach as aosta ann an eachdraidh [[Àisia an Ear]].
+{{Template:Dùthaich
+| Ainm =澳門特別行政區<br/><small><small>Região Administrativa Especial de Macau<br/>Roinn Rianachdail Sònraichte Mhacau</small></small>
+| BRATACH =Flag of Macau.svg
+| LÙIREACH =Coat_of_arms_of_Macao.svg
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Macau Location.png
+| LAOIDH_NÀISEANTA =''[[Caismeachd nan Saor-thagraichean]]''<small><br/>''(义勇军进行曲)''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Sìonais]] (Pǔtōnghuà, Mandairinis), [[Portagailis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =
+| BAILE_AS_MOTHA =
+| SEÒRSA_UACHDRANAIS = Roinn Rianachdail Sònraichte
+| TIOTAL_CEANNARD1 =Àrd-oifigear
+| TIOTAL_CEANNARD2 =
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Edmund Ho Hau-wah
+| AINM_CEANNARD2 =
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Sealbh [[A' Phortagail|na Portagail]]
+| TACHARTAS2 =Eilthir Phortagaileach
+| TACHARTAS3 =[[Tar-aisig Uachdaranachd Mhacau|Tar-aisig Uachdaranachd]]
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[1557]]
+| CEANN_LATHA2 =13mh,  Lùnastal, [[1862]]
+| CEANN_LATHA3 =Dùbhlachd, [[1999]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =28.6
+| REANGACH_F =
+| UISGE =0
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =520,400
+| REANGACH_S =167mh
+| DLÙTHS =17,310
+| REANGACH_D =2na
+| BLIADHNA_GDP =2007
+| GDP =US $15,997 millean
+| REANGACH_GDP =94mh
+| ÀIREAMH_GDP =US $36,357
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE = [[Àm Coitcheann Co-òrdanaichte|UTC]]
+| UTC_OFFSET =+8
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =[[Pataca Mhacau]]
+| EADAR_LÌON =.mo
+| ÀIREAMH_FÒN =853
+}} 
+Stèidhicheadh '''Roinn Rianachdail Shònraichte Mhacau''', a dh'aithnichear am bitheantas mar '''Macau''', no '''Macao''', air 20 Dùbhlachd, 1999. 'S i aon den dà [[Roinn Rianachdail Shònraichte Sluagh-Phoblachd na Sìne]] a th' innte, 's i [[Hong Cong]] an tè eile. Bha i air a riaghladh fad 442 bliadhna leis [[a' Phortagail]], ga dèanamh an eilthir eòrpach as aosta ann an eachdraidh [[Àisia an Ear]].
 
 [[Category:Àisia]]
 
