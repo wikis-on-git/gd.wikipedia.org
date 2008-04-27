@@ -1,55 +1,68 @@
-{| style="margin: 0em 0em 0.5em 1em; float:right" border="1" cellpadding="2" cellspacing="0" width="275px"
-|+ <font size=+1>'''&#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1072;&#1103; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1094;&#1080;&#1103;&nbsp;'''<br/>
-'''Rossiyskaya Federatsiya'''</font>
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-| align="center" width="135px" | [[Image:Flag of Russia.svg|125px|Bratach]]
-| align="center" width="135px" height="140px" | [[Image:Russia_coa.png|125px]]
-|-
-| align="center" width="135px" | ([[Flag of Russia|In Detail]])
-| align="center" width="135px" | ([[Coat of arms of Russia|In Detail]])
-|}
-|-
-| align="center" colspan="2" | [[image:LocationRussia.png|250px]]
-|-
-| [[Canan Oifigeil]] || [[Ruiseis]] (among many others in political subdivisions)
-|-
-| [[Aibidil]]  || [[Aibidil Cirillach]]
-|-
-| [[Priomh-bhaile]] || [[Moscobha]] (''Moskva'')
-|-
-| Baile as motha || [[Moscobha]]
-|-
-| [[Priomhaire]] || [[Vladimir Putin]]
-|-
-| [[Priomh-mhinisteir]] || [[Mikhail Fradkov]] (''Michail Fradkov'')
-|-
-| [[Meud]]<br/>&nbsp;- Total<br/>&nbsp;- % uisge|| [[List of countries by area|Reangach 1st]]<br/>[[1 E13 m²|17,075,200 km²]]<br/>0.5% 
-|-
-| [[Aireamh-sluaigh]]<br/>&nbsp;- </>144,526,378<br/>9/km² 
-|-
-| [[Neo-Eiseamlachd]]<br/>&nbsp; Dates || [[Là-an-Ruis]]: [[June 12]], [[1990]] <br/> [[collapse of the Soviet Union|Finalized]]: [[December 26]], [[1991]]
-|-
-| [[GDP]] (PPP)<br/>&nbsp;- Total ([[2003]]) <br/>&nbsp;- GDP/head || [[Gross domestic product|Reangach 9th]]<br/>$1.287 trillion <br/>$8,900
-|-
-| [[Airgead]] || [[Ruble]] (RUB)<br>(RUR - obsolete)
-|-
-| [[Roinn am]] || [[Coordinated Universal Time|UTC]] +2 to +12
-|-
-| [[Laoidh Naiseanta]] || 
-|-
-| [[Top-level domain|Internet TLD]] || .RU (.SU is still reserved by RF)
-|-
-| [[Cod fon]] || 7
-|}
-
-'S e an duthaich as motha san t-saoghal a tha ann '''An Ruis''' neo '''Ruisia''' (Beurla ''Russia'' ("Ruisia"); [[Ruiseis]]: &#1056;&#1086;&#1089;&#1089;&#1080;&#769;&#1103;, eadar-litreachadh: ''Rossiya'' neo ''Rossija''). Se "An Caidreamh Ruiseanach" gu h-oifigeil (Ruiseis: &#1056;&#1086;&#1089;&#1089;&#1080;&#769;&#1081;&#1089;&#1082;&#1072;&#1103; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#769;&#1094;&#1080;&#1103;, eadar-litreachadh ''Rossiyskaya Federatsiya'' no ''Rossijskaja Federacija'').
+{{Template:Dùthaich
+| Ainm =<span style="line-height:1.33em;"> Российская Федерация <br /><small>Rossiyskaya Federatsiya</small></span>
+| BRATACH =Flag of Russia.svg
+| LÙIREACH =Coat of Arms of the Russian Federation.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location_Russia.svg
+| LAOIDH_NÀISEANTA =Государственный гимн Российской Федерации<small> ([[Ruiseis]])</small><br/>''[[National Anthem of Russia|Gosudarstvenny gimn Rossiyskoy Federatsii]]''<small><br/>''Hymn of the Russian Federation''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[ Ruiseis]] air feadh na dùthcha, + 27 cànanan eadar-dhealaichte anns na roinnean diofraichte
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Moscobha]] (''Moskva'')
+| BAILE_AS_MOTHA = [[Moscobha]] 
+| SEÒRSA_UACHDRANAIS =Poblachd le siostam feadarail 
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = Ceann-suidhe
+| TIOTAL_CEANNARD3 = Ceann-suidhe taghte
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Vladimir Putin]]
+| AINM_CEANNARD2 =[[Viktor Zubkov]]
+| AINM_CEANNARD3 =[[Dmitry Medvedev]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidhichte
+| TACHARTAS2 = Co-nasgadh Ruisia
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[862]]
+| CEANN_LATHA2 = [[1991]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =17,075,400
+| REANGACH_F =1ad
+| UISGE =13
+| BLIADHNA = 2008
+| ÀIREAMH_SHLUAIGH =142,000,000
+| REANGACH_S =9mh
+| DLÙTHS =8.3
+| REANGACH_D =209mh
+| BLIADHNA_GDP =2007
+| GDP =$2.088&nbsp;trillean
+| REANGACH_GDP =7mh
+| ÀIREAMH_GDP =$14,692
+| REANGACH_PER_CAPITA =52mh
+| ROINN_TÌDE =
+| UTC_OFFSET =+2 to +12
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =+3 to +13
+| RUITH_AIRGID =Ruble
+| EADAR_LÌON =.ru
+| ÀIREAMH_FÒN =7
+}} 
+'S e an dùthaich as motha san t-saoghal a tha ann '''An Ruis''' neo '''Ruisia''' (Beurla ''Russia'' ("Ruisia"); [[Ruiseis]]: &#1056;&#1086;&#1089;&#1089;&#1080;&#769;&#1103;, eadar-litreachadh: ''Rossiya'' neo ''Rossija''). Se "An Caidreamh Ruiseanach" gu h-oifigeil (Ruiseis: &#1056;&#1086;&#1089;&#1089;&#1080;&#769;&#1081;&#1089;&#1082;&#1072;&#1103; &#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#769;&#1094;&#1080;&#1103;, eadar-litreachadh ''Rossiyskaya Federatsiya'' no ''Rossijskaja Federacija'').
 
 Tha moran aibhnichean ann an Ruis. Faic [[Aibhnichean Ruiseanach]].
 
 Lochan mòra - [[Loch Baikal]], [[Loch Ladoga]] is [[Loch Onega]]. Faic [[Liosta de na lochan Ruiseanach]].
-
+[[Aibidil Cirillach]]
 
 ==Web==
 *[http://www.novokat.ru Economic data of Russia]
