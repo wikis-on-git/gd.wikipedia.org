@@ -1,53 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''中华人民共和国'''<br/>'''中華人民共和國'''<br/><small>''Zhōnghuá Rénmín Gònghéguó''</small><br>Sluagh-Phoblachd na Sìne</font><br /> 
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: 125px-Flag_of_the_People's_Republic_of_China.svg.png  |125px]]
-| align="center" width="140px" |[[Image: 85px-National_Emblem_of_the_People's_Republic_of_China.png |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Suaicheantas Nàiseanta]]
-|}
-|- 
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: 250px-LocationPRChina.png |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Sìonais]](Pǔtōnghuà, Mandairinis mar a dh' aithnichear cuideachd e)
-|-
-|'''[[Prìomh-bhaile]]''' || [[Beijing]]
-|-
-|'''Baile as Motha''' || [[Shanghai]]
-|-
-|'''[[Riaghaltas]]''': || [[Poblachd Shòisealach]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Hu Jintao]]
-|-
-|'''[[Prìomhair]]''': || [[Wen Jiabao]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Iomlan: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 3/4mh(connsaichte)<br> 9,598,086 no 9,640,821 km&sup2; <br/>  2.8%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Iomlan: <br>&nbsp;- [[Dlùths]]:                  
-| List of countries by Aireamh-shluaigh|Reangach: 1mh <br> 1,321,851,888³ <small>([[2007]]tuairmse)</small><br> 140/km&sup2; 
-|-
-| '''[[Stèidheachadh]]''':<br/> &nbsp;
-|Sluagh-phoblachd air fhoillseachadh  1, An Dàmhair, 1949
-|-
-| '''[[Ruith-airgid]]''': || [[Yuan]]
-|-
-| '''[[Roinn tìde]]''':
-| ([[Àm Coitcheann Co-òrdanaichte|UTC]] +8)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| ''[[Caismeachd nan Saor-thagraichean]]''<small><br/>''(义勇军进行曲)''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .cn
-|-
-| '''[[List of country calling codes|Còd Àireamh fòn eadar-naiseanta]]''':
-| 86
-|}
+{{Template:Dùthaich
+| Ainm = '''中华人民共和国'''<br/>'''中華人民共和國'''<br/><small><small>Zhōnghuá Rénmín Gònghéguó <br>Sluagh-Phoblachd na Sìne</small></small>
+| BRATACH = 125px-Flag_of_the_People's_Republic_of_China.svg.png
+| LÙIREACH = National_Emblem_of_the_People's_Republic_of_China.png
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH = [[Suaicheantas Nàiseanta]]
+| MAPA = LocationPRChina.png
+| LAOIDH_NÀISEANTA = ''[[Caismeachd nan Saor-thagraichean]]''<small><br/>''(义勇军进行曲)''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL = [[Sìonais]](Pǔtōnghuà, Mandairinis mar a dh' aithnichear cuideachd e)
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Beijing]]
+| BAILE_AS_MOTHA = [[Shanghai]]
+| SEÒRSA_UACHDRANAIS = Poblachd Shòisealach
+| TIOTAL_CEANNARD1 = [[Ceann-suidhe]]
+| TIOTAL_CEANNARD2 = [[Prìomhair]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Hu Jintao]]
+| AINM_CEANNARD2 = [[Wen Jiabao]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =  Sluagh-phoblachd air fhoillseachadh  
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 1ad, An Dàmhair [[1949]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 9,598,086 no 9,640,821
+| REANGACH_F = 3/4mh
+| UISGE = 2.8%
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH = 1,321,851,888
+| REANGACH_S = 1mh
+| DLÙTHS = 140
+| REANGACH_D = 53mh
+| BLIADHNA_GDP = 2007
+| GDP = $3.42 trillean
+| REANGACH_GDP = 4mh
+| ÀIREAMH_GDP = $2,800
+| REANGACH_PER_CAPITA = 101ad
+| ROINN_TÌDE =
+| UTC_OFFSET = +8
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = [[Yuan]]
+| EADAR_LÌON = .cn
+| ÀIREAMH_FÒN = 86
+}} 
+
 
 [[category:Àisia]]
 
