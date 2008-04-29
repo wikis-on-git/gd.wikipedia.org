@@ -1,36 +1,62 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px" style="margin-left: 0.5em">
-<caption><font size="+1">'''Malaysia'''</font></caption>
-<caption><font size="+1">''' Caidreachas Malaysia'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[Image:Flag of Malaysia.svg|140px|]]</td>
-<td>[[Image:Coat of arms of Malaysia.png|180px|Coat of Arms of Malaysia]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of Malaysia|Flag]])</td>
-<td align="center">([[Emblem of Malaysia|Coat of Arms]])
-</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: Bersekutu Bertambah Mutu''<br>''([[Malayais]]: Unity Is Strength)''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationMalaysia.png]]</td></tr>
-<tr><td width="115px">[[Canan]] Oifigeil</td><td>[[Malayais]]</td></tr>
-<tr><td>[[Priomh-Mhinisteir]]                      </td><td>[[Kuala Lumpur]]'''&sup1;'''</td></tr>
-<tr><td>[[Yang di-Pertuan Agong|Supreme Leader]] </td><td>[[Tuanku Syed Sirajuddin]] </td></tr>
-<tr><td>[[Prime Minister of Malaysia|Priomh-Mhinistear]]                   </td><td>[[Abdullah Ahmad Badawi]] </td></tr>
-<tr><td>[[Area]]<br>&nbsp;- Total <br>&nbsp;- % water</td><td>[[List of countries by area|Ranked 64th]] <br> 329,750 [[square kilometre|km&sup2;]] <br> 0.3%</td></tr>               
-<tr><td>[[àireamh-shluaigh]] 
-<br>&nbsp;- Total 
-<br>&nbsp;- [[Population density|Density]]</td><td>[[List of countries by population|Ranked 46th]]
-<br> 25,180,000 (2003 Q3)
-<br> 76/km&sup2; </td></tr>
-<tr><td>[[Neo-Eiseimealachd]]
-<br>&nbsp;- Ceann-La                       </td><td>bho [[Sasainn]]
-<br>[[An Lunasdal 31]], [[1957]]</td></tr>
-<tr><td>[[Airgead]]                     </td><td>[[Ringgit]]</td></tr>
-<tr><td>[[Time zone]]                    </td><td>[[Coordinated Universal Time|UTC]] +8</td></tr>
-<tr><td>[[Laoidh Naiseanta]]              </td><td>[[Negaraku]]</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.MY</td></tr>
-<tr><td>[[List_of_country_calling_codes|Calling Code]]</td><td>60 ''(020 from [[Singapore]])''</td></tr>
-<tr><td colspan="2" align="left">('''1''') The federal administration has moved to newly-built [[Putrajaya]] </td></tr>
-</table>
+{{Template:Dùthaich
+| Ainm = Malaidhsia
+| BRATACH =Flag of Malaysia.svg
+| LÙIREACH =Coat of arms of Malaysia.png
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationMalaysia.png
+| LAOIDH_NÀISEANTA =''[[Negaraku]]''
+| SLUAGH_GHAIRM =''"Bersekutu Bertambah Mutu"''<small><br/>"Unity Is Strength"
+| CÀNAN_OIFIGEIL =Malay
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Kuala Lumpur]]
+| BAILE_AS_MOTHA =[[Kuala Lumpur]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)</small>
+| TIOTAL_CEANNARD1 =[[Yang di-Pertuan Agong]]
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Mizan Zainal Abidin
+| AINM_CEANNARD2 =Abdullah Ahmad Badawi
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd bhon<br>[[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 = Caidreachas  (le [[Sabah]],<br> [[Sarawak]] is [[Singapore]])
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 31mh, an Lunasdal [[1957]]
+| CEANN_LATHA2 = 16mh, an t-Sultan [[1963]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 329,847
+| REANGACH_F =67mh
+| UISGE = 0.3
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =27,496,000
+| REANGACH_S =43mh
+| DLÙTHS =83
+| REANGACH_D =110mh
+| BLIADHNA_GDP =2007
+| GDP =$357.9 billean
+| REANGACH_GDP =29mh
+| ÀIREAMH_GDP =$14,400
+| REANGACH_PER_CAPITA =57mh
+| ROINN_TÌDE =[[Malaysian Standard Time|MST]]
+| UTC_OFFSET =+8
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =Ringgit
+| EADAR_LÌON =.my
+| ÀIREAMH_FÒN =60
+}}
 
 == Link ==
 * [http://www.dromoz.com/directory/maps/ Map Malaysia]
