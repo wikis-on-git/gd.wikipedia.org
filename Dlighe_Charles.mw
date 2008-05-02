@@ -1,68 +1,65 @@
-{{for|the politician named Charles Law|Charles B. Law}}
+Ann an [[Eòlas-nàdair]], tha '''Dlighe Charles''' a' cur an cèill cuid dhe na feartan a th'aig a h-uile seòrsa gas. Chaidh a h-ainmeachadh às dèidh fear Jacques Charles, Frangach a bha beò eadar 1746 is 1823.
 
-In [[thermodynamics]] and [[physical chemistry]], '''Charles's law''' is a [[gas laws|gas law]] and specific instance of the [[ideal gas law]], which states that:
 
-:''At constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in Kelvin) increases or decreases. ''
+==Dlighe Charles== 
+'''''Airson meall stèidhichte de gas, agus e ga chumail air teannas stèidhichte, theid na th'ann dhen a' ghas am meud no an lughad gu dìreach a rèir àrdachadh neo ìoslachadh air a theasad.''''' 
 
-The law was first published by [[Joseph Louis Gay-Lussac]] in [[1802]], but he referenced unpublished work by [[Jacques Charles]] from around [[1787]]. This reference has led to the law being attributed to Charles. The relationship had been anticipated by the work of [[Guillaume Amontons]] in [[1702]]. Charles's Law, [[Boyle's law]], and [[Gay-Lussac's Law]] form the [[combined gas law]]. The three gas laws in combination with [[Avogadro's law]] can be generalized by the [[ideal gas law]].
 
-==Derivation==
 
-The formula for the law is:
+== Eachdraidh na Dlighe==
+
+B'e fear [[Ioseph Louis Gay-Lussac]] a dh'fhoillsich an dlighe son a' chiad uair an [[1802]], ach dh'ainmich e gun robh e a' togail air obair, nach deach fhoillseachadh a-riamh, a rinneadh le [[Jaques Charles]] mun a' bhliadhna [[1787]]. Air an adhbhar sin, tha Charles aithnichte an-diugh mar a' chiad fhear a dhearbh an dlighe, le deuchainn. Tha Dlighe Charles, [[Dlighe Úi Bhaoghail]] agus [[Dlighe Gay-Lussac]] uile a' tighinn cruinn còmhla ann an  [[Dlighe Aonaichte nan Gas]].
+
+==Geàrr-chunntas==
+
+Is e iomradh matamatachd na dlighe:
 
 :<math>\frac{V}{T} = k</math>
 
-where:
+a' toirt fa-near gur iad:
 
-:''V'' is the [[volume]] of the gas
-:''T'' is the [[temperature]] of the gas (measured in [[Kelvin]])
-:''k'' is a constant.
+*V - toirt-lionaidh de'n gas
+*T - teasad a' ghais (air a thomhas a rèir Kelvin)
+*k - Aireamh Cunbhalach (Cunbhalach a' mheudachaidh).
 
-In other more thermodynamics-based definitions, the relationship between the fixed mass of a gas at constant pressure is inversely proportional to the temperature applied to the system, which can be further used by stipulating a system where <math>\alpha</math> represents [[cubic expansivity]] of a gas, with <math>\theta</math> representing the temperature measured of the system in Kelvins:
-
+Ach ann am minichidhean eile, far a bheil prìomhachas ga chur air na buadhan a th' aig teas air a h-uile sìon sa chruinne-cè, thèid ''meall'' de ghas sam bith an ''lughad'' fhad's  a thèid teas an t-siostaim am meud, agus an rathad eile dha rèir:
 :<math>V \varpropto T</math><br />
 
 :<math>V = V_o(1 + \alpha\theta)</math>
 
-To maintain the constant, ''k'', during heating of a gas at fixed pressure, the volume must increase. Conversely, cooling the gas decreases the volume.  The exact value of the constant need not be known to make use of the law in comparison between two volumes of gas at equal pressure:
+far a bheil ''<math>\alpha</math>'' a' riochdachadh feart-sgaoilidh de ghas àraid, agus ''<math>\theta</math>'' a' riochdachadh teas (air a thomhas a rèir Kelvin).
 
-:<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{or} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{or} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>.
-
-Therefore, as temperature increases, the volume of the gas increases.
-
-Theoretically as a gas reaches absolute zero the volume will also reach a point of zero.
-
-This law is an example of direct variation.
+==Na tha a' leantainn bhuaipe==
+Air sgàth 's gu bheil ''k'' stèidhichte, chithear, nuair a chuirear teas ri gas, gum feum an gas sgaoileadh nas fharsainge. Air a chaochladh, nuair a thèid gas fhuarachadh thèid na smùirnein dheth nas dùmhaile cruinn còmhla. Cha leig sinn a leas luach ''k'' a bhith aithnichte gus an dlighe a chur gu feum a' dèanamh coimeas air dà ghas agus iad air an dearbh theannas:
+ 
+:<math>\frac{V_1}{T_1} = \frac{V_2}{T_2} \qquad \mathrm{neo} \qquad \frac {V_2}{V_1} = \frac{T_2}{T_1} \qquad \mathrm{neo} \qquad V_1\cdot T_2 = V_2\cdot T_1</math>
 
 
-==See also==
-{{wikibooks|School science|Making Charles' law tubes}}
-* [[Boyle's law]]
-* [[Gay-Lussac's law]]
-* [[Ideal gas law]]
+A' leantain na h-argamaid seo, ma thuiteas teasad a' ghas gu fìor-neoni (0 Kelvin) cha bhith sìon ann dhen a' ghas. Chan fhaicear sin an dà-rìribh a chionn 's gun atharraich a h-uile gas a th' ann gu nì ruithteach aig teas os cionn fìor-neoni.
 
-[[Category:Thermodynamics]]
-[[Category:Gas laws]]
-[[Category:Volume]]
+==Fiosrachadh eile== 
+Wikibooks (sa Bheurla):
+Tha duilleag ann a mhìnicheas ciamar a chruthaicheas neach [http://en.wikibooks.org/wiki/School_science/Making_Charles%27_law_tubes Pioban Dlighe Charles] ann an Wikibooks School Science. 
 
-[[ca:Llei de Charles i Gay-Lussac]]
-[[id:Hukum Charles]]
-[[cs:Charlesův zákon]]
-[[el:Νόμος του Σαρλ]]
+* [[Dlighe Úi Bhaoghail]]
+* [[Dlighe nan Gas Foirfe]]
+
+[[category:Eòlas-nàdair]]
+
+[[en:Charles's law]]
 [[es:Ley de Charles y Gay-Lussac]]
+[[fi:Charlesin laki]]
 [[fr:Loi de Gay-Lussac]]
 [[ga:Dlí de Charles]]
-[[gd:Dlighe de Charles]]
-[[hr:Charlesov zakon]]
-[[ko:샤를의 법칙]]
 [[he:חוק שארל]]
+[[hr:Charlesov zakon]]
 [[hu:Charles-törvény]]
-[[mk:Шарлов закон]]
-[[nl:Wet van Charles]]
 [[ja:シャルルの法則]]
+[[ko:샤를의 법칙]]
+[[mk:Шарлов закон]]
+[[nl:Wet van Gay-Lussac]]
 [[pl:Prawo Gay-Lussaca (gaz doskonały)]]
 [[sl:Gay-Lussacov zakon]]
-[[fi:Charlesin laki]]
-[[vi:Định luật Gay-Lussac]]
 [[tr:Charles yasası]]
+[[vi:Định luật Gay-Lussac]]
 [[zh:查理定律]]
