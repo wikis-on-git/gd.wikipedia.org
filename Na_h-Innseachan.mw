@@ -1,83 +1,64 @@
-Se dùthach ann an [[Dùthchannan ann an Aisia|Aisia]] a tha sa '''na h-Innseachan'''. Is iomadh daoine, cultaran, [[cànan]]an is [[nàisean]]an ann, agus tha creideamhan gu leor ann.
-
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="280px" style="margin-left:1em"
-|+ <font size="+1">'''Poblachd Innseannach''' <br />'''&#x92d;&#x93e;&#2352;&#2340; &#2327;&#2339;&#2352;&#2366;&#2332;&#2381;&#2351;''' <br> '''Bh&#x0101;rat Ganar&#257;jya'''</font>
-|-
-| style="background:#efefef;" align="center" colspan="2" | 
-{| border="0" cellpadding="2" cellspacing="0"
-|- align="center" width="280px"
-| [[Image:India flag large.png|125px|Bratach na h-Innseachan]] 
-| [[Image:Emblem of India.svg|85px|Suaicheantas na h-Innseachan]]
-|-
-| [[Bratach]]
-| [[Suaicheantas]]
-|}
-|- 
-| align="center" colspan="2" style="border-bottom:3px solid gray;" | <font size="-1">''[[motto|Facal-suacheantais]] Nàiseanta: Satyam&#275;va Jayat&#275;''
-''([[Sanskrit]]: Buainnichidh Firinn a-mhàin)''<br />(<small>''Mundaka [[Upanishad]]''</small>)</font> 
-|- 
-| align="center" colspan="2" | [[image:LocationIndia.png|250px]] 
-|- 
-| [[Canan Oifigeil]] 
-| [[Hindi]], [[Beurla]] ([[List of national languages of India|+ 21 other officially recognised languages]])
-|-
-| [[Priomh-Bhaile]]  
-| [[New Delhi]]
-|-
-| Baile as motha 
-| [[Mumbai]] (Bombay)
-|- 
-| [[Priomhaire]] 
-| Dr. [[Avul Pakir Jainulabdeen Abdul Kalam|APJ Abdul Kalam]]
-|-
-| [[Priomh-Mhinisteir]]
-| Dr. [[Manmohan Singh]]
-|- 
-| [[Area|Ceàrdaidh]] <br />- Sùim <br />- % uisge
-| [[List of countries by area|Ranked 7<sup>th]] <br />3,287,590 km² <br />9.5%
-|-
-| [[Aireamh-Shluaigh]]<br />- Sùim ([[2003]])<br />- [[Aireamh-Shluaigh density|Dùmhlachd]] 
-| [[List of countries by Aireamh-Shluaigh|Ranked 2<sup>nd]] <br />1,065,070,607<br />324/km&sup2; 
-|- 
-| [[Gross Domestic Product|GDP]] by PPP<br/> - Sùim ([[2003]])<br /> - GDP/head  
-| [[List_of_countries_by_GDP_%28PPP%29|Ranked 4<sup>th</sup><br />]]$3.022 trillion<br/>$2,800<br />
-|-
-| [[Neo-Eiseimeileachd]] 
-| [[an Lùnastal 15]], [[1947]]
-|-
-| [[Poblachd]] 
-| [[26 am Faoilleach]], [[1950]]
-|-
-| [[Airgead]] <br />Airgead Code ([[ISO 4217]]) 
-| [[Rupee]] Innseanacha (&#x20a8;)<br/>INR<br/>
-|-
-| [[Am]] 
-| [[Coordinated Universal Time|UTC]] +5.30 ([[Indian Standard Time|IST]])
-|-
-| [[Laoidh Naiseanta]]  
-| [[Jana Gana Mana]] 
-|- 
-| Oran Naiseanta 
-| [[Vande Mataram|Vand&#275; M&#257;taram]]
-|- 
-| [[Top-level domain|Internet TLD]]
-| .IN
-|-
-| [[List_of_country_calling_codes|Calling Code]]
-| 91
-|-
-| Spòrs Nàiseanta
-| [[Hocaidh]]
-|-
-| Beathach Nàiseanta
-| [[Tigear Bengal]]
-|-
-| Eun Nàiseanta
-| [[Peucaig]]
-|-
-| Flur Naiseanta
-| [[Lotus]]
-|}
+{{Template:Dùthaich
+| Ainm =&#x92d;&#x93e;&#2352;&#2340; &#2327;&#2339;&#2352;&#2366;&#2332;&#2381;&#2351; <br> Bh&#x0101;rat Ganar&#257;jya
+| BRATACH =Flag of India.svg
+| LÙIREACH =Emblem_of_India.svg
+| LÙIREACH_LEUD = 60
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =IndiaLocation.png
+| LAOIDH_NÀISEANTA = ''[[Jana Gana Mana]]''<small><br />Thou are the ruler of the minds of all people</small>
+| SLUAGH_GHAIRM =''"[[Satyameva Jayate]]"''<br><small>([[Sanskrit]]: Buainnichidh Firinn a-mhàin)</small>
+| CÀNAN_OIFIGEIL =[[Hindi]], [[Beurla]] is 21 cànanan eile 
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[New Delhi]]
+| BAILE_AS_MOTHA =[[Mumbai]] (Bombay)
+| SEÒRSA_UACHDRANAIS =Poblachd
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Pratibha Patil
+| AINM_CEANNARD2 =Manmohan Singh
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd  
+bhon [[an Rìoghachd Aonaichte| Rìoghadh Aonaichte]]
+| TACHARTAS2 = Poblachd
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =15mh, an Lunasdal [[1947]]
+| CEANN_LATHA2 =26mh, am Faoilteach [[1950]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =3,287,590
+| REANGACH_F =7mh
+| UISGE = 9.56
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =1.12 billean
+| REANGACH_S =2na
+| DLÙTHS =329
+| REANGACH_D =31mh
+| BLIADHNA_GDP =2007
+| GDP =$ 2.965 trillean
+| REANGACH_GDP =4mh
+| ÀIREAMH_GDP =$ 2700
+| REANGACH_PER_CAPITA =165mh
+| ROINN_TÌDE =[[Indian Standard Time|IST]]
+| UTC_OFFSET =+5:30
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID = Rupee Innseannach (₨)
+| EADAR_LÌON =.in
+| ÀIREAMH_FÒN =91
+}} 
+'S e dùthaich ann an [[Àisia]] a tha anns  '''na h-Innseachan'''. Is iomadh daoine, cultaran, [[cànan]]an is [[nàisean]]an ann, agus tha creideamhan gu leòr ann.
 
 [[category:Àisia]]
 
