@@ -1,58 +1,63 @@
-{| style="margin: 0 0 1em 1em" border="1" cellpadding="2" cellspacing="0" align="right" width="270px"
-|+ <font size="+1">'''&#2455;&#2467;
-&#2474;&#2509;&#2480;&#2460;&#2494;&#2468;&#2472;&#2509;&#2468;&#2509;&#2480;&#2496; 
-&#2476;&#2494;&#2434;&#2482;&#2494;&#2470;&#2503;&#2486;<br/>Gana Praj&#257;tantr&#299; B&#257;ngl&#257;desh'''</font>
-|-----
-| style="background:#efefef;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0"
-|-----
-| align="center" width="140px" | [[Image:Flag of Bangladesh.svg|125px|Flag of Bangladesh]]
-| align="center" width="140px" | [[Image:Coat_of_arms_of_Bangladesh.svg|125px]]
-|-----
-| align="center" width="140px" | ([[Flag of Bangladesh|In Detail]])
-| align="center" width="140px" | ([[Coat of Arms of Bangladesh|In Detail]])
-|}
-|-----
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''National [[motto]]: None''</font>
-|-----
-| align="center" colspan=2 | [[image:LocationBangladesh.png]]
-|-----
-| [[Cànan Oifigeil]] || [[Bengali]]
-|-----
-| [[Prìomh-bhaile]] || [[Dhaka]]
-|-----
-| [[Prìomhaire]]                        
-| [[Iajuddin Ahmed]]
-|-----
-| [[Prìomh-mhinistear]]                   
-| [[Begum Khaleda Zia]]
-|-----
-| [[Farsaingeachd]]<br/>&nbsp;- Total <br/>&nbsp;- % water
-| [[List of countries by area|Ranked 91st]] <br/> 144,000 [[square kilometre|km&sup2;]]<br/>7.0%              
-|-----
-| [[Àireamh-shluaigh]]<br/>&nbsp;- Total (July [[2004]] est.)<br/>&nbsp;- [[Population density|Density]]
-| [[List of countries by population|Ranked 8th]]<br/> 141,340,476 <br/> 1,055/km&sup2; 
-|-----
-| [[Neo-Eiseimealachd]]<br/>
-| bho [[Pacastan]] <br/>[[am Mart 26]], [[1971]]
-|-----
-| [[Latha Buaidh]]<br/> || [[An Dubhlachd 16]], [[1971]]
-|-----
-| [[Ruith-airgid]] || [[Taka]] (BDT)
-|-----
-| [[Roinn tìde]]  
-| [[Coordinated Universal Time|UTC]] +6
-|-----
-| [[Laoidh Nàiseanta]] || [[Amar Sonar Bangla]]
-|-----
-| [[Top-level domain|Internet TLD]] || .bd
-|-----
-| [[Còd Àireamh fòn eadar-nàiseanta]]:
-| 880
-|}
-
-
-'S e duthaich ann an Àisia-a-Deas a tha ann am '''Bangladais''' (Bangladesh sa Bheurla). 'S e [[Dhaka]] am [[prìomh-bhaile]].
+{{Template:Dùthaich
+| Ainm = গণপ্রজাতন্ত্রী বাংলাদেশ <br/>Gônoprojatontri Bangladesh
+| BRATACH =Flag of Bangladesh.svg
+| LÙIREACH =Coat_of_arms_of_Bangladesh.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationBangladesh.svg
+| LAOIDH_NÀISEANTA =''[[Amar Shonar Bangla]]''<small><br/>''My Golden Bengal''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Bengali language|Bengali]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Dhaka]]
+| BAILE_AS_MOTHA =[[Dhaka]]
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = 
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =lajuddin Ahmed
+| AINM_CEANNARD2 =
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Neo-eisimeileachd<br>bho [[Pagastàn]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =26mh, am Màrt [[1971]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =147570
+| REANGACH_F =94mh
+| UISGE = 7.0
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =150,448,340
+| REANGACH_S =7mh
+| DLÙTHS =1045
+| REANGACH_D =11mh
+| BLIADHNA_GDP =2008
+| GDP =$222.4 billean
+| REANGACH_GDP =48mh
+| ÀIREAMH_GDP =$1,374
+| REANGACH_PER_CAPITA =148mh
+| ROINN_TÌDE =BDT
+| UTC_OFFSET =+6
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =Taka
+| EADAR_LÌON =.bd
+| ÀIREAMH_FÒN =880
+}} 
+'S e dùthaich ann an [[Àisia]]-a-Deas a tha ann am '''Bangladais''' (Bangladesh sa Bheurla). Tha  [[Dhaka]] na [[prìomh-bhaile]].
 
 [[category:Àisia]]
 
