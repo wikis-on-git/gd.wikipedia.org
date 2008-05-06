@@ -1,20 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Հայաստանի Հանրապետություն'''</big></big>
-|- 
-| align="center" colspan="2" | 
-{| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0" height="120px" 
-| align="center" width="140px" | [[Image:Flag of Armenia.svg|125px|A'bhratach Airmìnianach]]
-| align="center" width="140px" | [[Image:Coat of Arms of Armenia.svg|125px|A'arm Airmìnianach]]
-|- 
-| align="center" width="140px" | ([[A'bhratach Airmìnianach|Bratach]])
-| align="center" width="140px" | ([[A'arm Airmìnianach|Arma]])
-|}
-|- 
-| align=center colspan=2 | [[Image:LocationArmenia.png|300px]]
-|- 
-| '''[[Cànain oifigeil]]'''
-| [[Airmìnia cànan|Airmìnia]]
-|}
+{{Template:Dùthaich
+| Ainm =Հայաստանի Հանրապետություն<br><br /><small>Hayastani Hanrapetut’yun</small>
+| BRATACH =Flag of Armenia.svg
+| LÙIREACH =Coat of Arms of Armenia.svg
+| LÙIREACH_LEUD = 75
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location ARM2.png
+| LAOIDH_NÀISEANTA = [[Mer Hayrenik|Մեր Հայրենիք]] <small> ([[Airmenianais]])</small> <br />''Mer Hayrenik'' <small><br />"Our Fatherland”</small>
+| SLUAGH_GHAIRM =Մեկ Ազգ, Մեկ Մշակույթ  <small>([[Airmenianais]]) </small> <br />''Mek Azg, Mek Mshakuyt’'' <small><br />"One Nation, One Culture"</small>
+| CÀNAN_OIFIGEIL = [[Airmenianais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Yerevan]]
+| BAILE_AS_MOTHA =[[Yerevan]]
+| SEÒRSA_UACHDRANAIS =Poblachd
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Serzh Sargsyan
+| AINM_CEANNARD2 =Tigran Sargsyan
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Blàr Dyutsaznamart
+| TACHARTAS2 =Urartu fo smachd Aramu
+| TACHARTAS3 =[[Rioghachd of Armenia]]
+| TACHARTAS4 = Poblachd deomocrasach 
+| TACHARTAS5 = Neo-eisimeileachd<br>bhon [[Aonadh Sobhiat]]
+| TACHARTAS6 = Aithnichte
+| CEANN_LATHA1 =2492 [[RC]]
+| CEANN_LATHA2 =840an [[RC]]
+| CEANN_LATHA3 =190 [[RC]]
+| CEANN_LATHA4 = 28mh, an Cèitean [[1918]]
+| CEANN_LATHA5 = 23mh, an Lunasdal [[1990]]
+| CEANN_LATHA6 = 21mh, an t-Sàmhain [[1991]]
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =29,800
+| REANGACH_F =141mh
+| UISGE = 4.71
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =3,229,900
+| REANGACH_S =135mh
+| DLÙTHS =101
+| REANGACH_D =77mh
+| BLIADHNA_GDP =2007
+| GDP =$16.83 billean
+| REANGACH_GDP =
+| ÀIREAMH_GDP =$5,700
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =
+| UTC_OFFSET =+4
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =+5
+| RUITH_AIRGID =Dram
+| EADAR_LÌON =.am
+| ÀIREAMH_FÒN =374
+}} 
+
 
 see [http://en.wikipedia.org/wiki/Armenia] for more info...
 
