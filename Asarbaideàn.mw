@@ -1,55 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>''' ''Azərbaycan Respublikası''' </font><br /><font size="+1">'' Poblachd Asarbaidean ''</font><br /> Asarbaidean  </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image:Flag of Azerbaijan.svg|125px|Bratach na dùthcha]]
-| align="center" width="140px" | [[Image:Azerbaijan_coa.png|90px|Lùireach na dùthcha]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha|Bratach na dùthcha]]
-| align="center" width="140px" | [[Lùireach na dùthcha|Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 |''Bir kərə yüksələn bayraq, bir daha enməz!''<small><br>(Aon uair 's gun tèid bratach a thogail, cha tuit i a-chaoidh!)</small>
-|- 
-| align=center colspan=2 style="background:#f9f9f9;" |[[Image:LocationAzerbaijan.png|280px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Asarbaideanis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Baku]]
-|-
-|'''Baile is Motha''' || [[Baku]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Ilham Aliyev]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Artur Rasizade]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 114mh<br> 86,600
-km&sup2; <br/>  1,6%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 92mh ]]<br> 8,120,000<small>([[2006]])</small><br> 97/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Independence  from [[Soviet Union]] [[1991]]
-|-
-| '''[[Ruith-airgid]]''': || [[Manat]]
-|-
-| '''[[Roinn tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-|([[Coordinated Universal Time|UTC]] +4)<br> ([[Coordinated Universal Time|UTC]] +5)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| ''[[Azərbaycan Respublikasının Dövlət Himni]]''<small><br/>(March of Azerbaijan)</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .az
-|-
-| '''[[Còd Àireamh fòn eadar-nàiseanta]]''':
-| 994
-|}
-
+{{Template:Dùthaich
+| Ainm =<small>Azərbaycan Respublikası</small>
+| BRATACH =Flag of Azerbaijan.svg
+| LÙIREACH =Coat of arms of Azerbaijan.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationAzerbaijan.svg
+| LAOIDH_NÀISEANTA = ''[[Azərbaycan Respublikasının Dövlət Himni]]''<small><br/>(March of Azerbaijan)</small>
+| SLUAGH_GHAIRM = 
+| CÀNAN_OIFIGEIL =[[Asarbaideanais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Baku]]
+| BAILE_AS_MOTHA =[[Baku]]
+| SEÒRSA_UACHDRANAIS =Poblachd le ceann-suidhe
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Ilham Aliyev]]
+| AINM_CEANNARD2 =[[Artur Rasizade]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br> bhon [[Aonadh Sobhiat]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 30mh, an Lunasdal [[1991]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =86600
+| REANGACH_F =114mh
+| UISGE =  1.6%
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =8,653,000
+| REANGACH_S =91mh
+| DLÙTHS =97
+| REANGACH_D =100mh
+| BLIADHNA_GDP =2007
+| GDP =$52.35 billean
+| REANGACH_GDP =77mh
+| ÀIREAMH_GDP =$6.476
+| REANGACH_PER_CAPITA =96mh
+| ROINN_TÌDE =+4
+| UTC_OFFSET =+5
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =Manat
+| EADAR_LÌON =[[.az]]
+| ÀIREAMH_FÒN =994
+}} 
 Is e dùthaich eadar [[an Roinn-Eòrpa]] an Ear agus [[Àisia]] an Iar  a tha ann an '''Asarbaidean''' <ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Azerbaijan&gaidhlignobeurla=beurla Faclair Akerbeltz]</ref> neo 
 '''Asarbajan'''<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 , (Azərbaycan, [[IPA]]: ɑ:zɚbai'ʤɑ:n).
