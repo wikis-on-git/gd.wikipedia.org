@@ -1,75 +1,64 @@
-{{bun}}
+{{Template:Dùthaich
+| Ainm =<span style="font-size: 80%;">'''מדינת ישראל''' Medinat Jisra'el</span><br />
+<span style="font-size: 80%;">'''دولة إسرائيل''' Daulat Isrā'īl</span>
+| BRATACH =Flag of Israel.svg
+| LÙIREACH = Coat of arms of Israel.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationIsrael.svg
+| LAOIDH_NÀISEANTA = [[Hatikvah]]<br /><small>''The Hope''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Eabhra]], [[Arabais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Ierusalem]]
+| BAILE_AS_MOTHA =[[Ierusalem]]
+| SEÒRSA_UACHDRANAIS =Deomocrasaidh pàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Shimon Peres]]
+| AINM_CEANNARD2 =[[Ehud Olmert]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Foillseachadh Stàit Iosrael 
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =14mh, an Cèitean [[1948]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =20,770 / 22,072
+| REANGACH_F =151mh
+| UISGE = ~2
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =7,282,000
+| REANGACH_S =96mh
+| DLÙTHS =324
+| REANGACH_D =34mh
+| BLIADHNA_GDP = 2007
+| GDP =$232.7 billean
+| REANGACH_GDP =44mh
+| ÀIREAMH_GDP = $33,299
+| REANGACH_PER_CAPITA = 22mh
+| ROINN_TÌDE =[[Israel Standard Time|IST]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 = +3
+| RUITH_AIRGID = Sheqel ùr Iosralach
+| EADAR_LÌON =.il
+| ÀIREAMH_FÒN =972
+}} 
 
-<div style="float:right; margin-left:1em; margin-bottom:1em">
-{| border="0" cellpadding="0" cellspacing="0"
-|-
-|
-{| border="0" cellpadding="2" cellspacing="0" width="250"
-|-
-| colspan=2 align=center| <font size=+1>'''&#1502;&#1491;&#1497;&#1504;&#1514; &#1497;&#1513;&#1512;&#1488;&#1500;''' ([[Eabhra]]) <br>'''Medinat Yisra'el'''<br>'''&#1583;&#1608;&#1604;&#1577; &#1575;&#1587;&#1585;&#1575;&#1574;&#1610;&#1604;''' ([[Arabais]]) <br>'''Daulat Isra'il'''</font>
-|}
-|-
-|
-{| border="1" cellpadding="2" cellspacing="0" style="font-size:small;" width="250"
-|-
-| style=background:#ffffff; align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-|-
-| align=center width=135px | [[Image:Flag of Israel.svg|125px|]]
-| align=center width=135px | [[Image:Israel-coa-medium.png]]
-|-
-| align=center width=135px | [[Bratach Israel]]
-| align=center width=135px | [[Coat of Arms of Israel]]
-|}
-|-
-| align=center colspan=2 style=border-bottom:3px solid gray; | <font size=-1>''National [[motto]]:'' (none)</font>
-|-
-| align=center colspan=2 | [[image:LocationIsrael.png]]
-|-
-| width="50%" |[[Canan Oifigeil|Cananan Oifigeil]]
-| [[Eabhra]], [[Arabais]]
-|-
-| [[Priomh-Bhaile]]
-| [[Ierusalem]]<sup>[[#Footnotes|1]]</sup>, ''(disputed)''
-|-
-| Baile as motha
-| [[Ierusalem]]
-|-
-| [[Priomhaire na Israel|Priomhaire]]
-| [[Moshe Katsav]]
-|-
-| [[Priomh-Mhinisteir na Israel|Priomh-Mhinisteir]]
-| [[Ariel Sharon]]
-|-
-| [[Area]]<br>&nbsp;- Total <br>&nbsp;- % water
-| [[List of countries by area|Ranked 149th]] <br> 20,770 [[square kilometer|km&sup2;]] <br> ~2%
-|-
-| [[Aireamh-Shluaigh]] <br>&nbsp;- Total ([[2004]]) <br>&nbsp;- [[Aireamh-Shluaigh density|Density]]
-| [[List of countries by Aireamh-Shluaigh|Ranked 96th]]<br> 6,800,000<br> ~327/km&sup2;
-|-
-| [[Neo-Eiseimeileachd]]
-| [[14 May]] [[1948]]<br>[[Iyar]] 5, 5708
-|-
-| [[Gross domestic product|GDP]] (base PPP)<br>&nbsp;- GDP/head
-| [[United States dollar|USD]] $19,000
-|-
-| [[Airgead]]
-| [[New Israeli Sheqel|New Sheqel]] (NIS)
-|-
-| [[Time zone]]
-| [[Coordinated Universal Time|UTC]] +2/+3
-|-
-| [[Laoidh Naiseanta]]
-| width=160px | ''[[Hatikvah]]''
-|-
-| [[Top-level domain|Internet TLD]]
-| .IL
-|-
-| [[List_of_country_calling_codes|Calling Code]]
-| 972
-|}
-|}
-</div>
 
 Is dùthaich bheag anns a' mheadhan ear a tha ann an Iosrael.
 
