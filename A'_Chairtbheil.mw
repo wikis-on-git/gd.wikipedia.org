@@ -1,56 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''საქართველო''' </font><br /><font size="+1">''Sakartvelo''</font><br /> Gruisia</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Georgia.svg |125px]]
-| align="center" width="140px" |[[Image: Georgian COA.jpg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 |<span style="line-height:1.33em;">ძალა ერთობაშია<small>([[Gruiseis]])<br/>"Strength is in Unity"</small></span>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: LocationGeorgia.png |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Gruiseis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Tbilisi]]
-|-
-|'''Baile is Motha''' || [[Tbilisi]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Mikheil Saakashvili]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Zurab Noghaideli]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 141mh <br> 69,700
-km&sup2; <br/>  
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 117mh ]]<br> 4,661,473<small>([[2007]])</small><br> 64/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Kingdoms of Colchis and Iberia 2000 BCE<br> Georgian Kingdom [[1008]]<br> Democratic Republic of Georgia [[1918]]<br> Independence from [[Soviet Union]] [[1991]]
-|-
-| '''[[Airgead]]''': || [[Lari]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+3)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+34)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Tavisupleba]]''<small><br/>''Freedom''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .ge
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 995
-|}
-
-
+{{Template:Dùthaich
+| Ainm =საქართველო <br><br><small>Sakartvelo</small>
+| BRATACH =Flag of Georgia.svg
+| LÙIREACH =Coat of arms of Georgia.svg
+| LÙIREACH_LEUD = 110
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe_location_GEO2.png
+| LAOIDH_NÀISEANTA = "[[Tavisupleba|თავისუფლება]]"<br>"Freedom"
+| SLUAGH_GHAIRM =[[Dzala ertobashia|ძალა ერთობაშია]] <small>([[Gruiseis]])<br/>"Strength is in Unity"</small>
+| CÀNAN_OIFIGEIL =[[Gruiseis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Tbilisi]]
+| BAILE_AS_MOTHA =[[Tbilisi]]
+| SEÒRSA_UACHDRANAIS =semi-presidential]] [[republic]]
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =Mikheil Saakashvili
+| AINM_CEANNARD2 =Lado Gurgenidze
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Rìoghachd “Colchis is Iberia” 
+| TACHARTAS2 = Rìoghachd Ghruisia
+| TACHARTAS3 =Poblachd deomocrasach Ghruisia
+| TACHARTAS4 = Neo-eisimeileachd<br> bhon [[Aonadh Sobhiat]]
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = ~2000 BC
+| CEANN_LATHA2 =1008
+| CEANN_LATHA3 = 26mh, an Cèitean [[1918]]
+| CEANN_LATHA4 = 9mh, an Giblean [[1991]]
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =69,700
+| REANGACH_F =121mh
+| UISGE = 
+| BLIADHNA =2005
+| ÀIREAMH_SHLUAIGH =4,661,473
+| REANGACH_S =117mh
+| DLÙTHS =64
+| REANGACH_D =129mh
+| BLIADHNA_GDP =2007
+| GDP =$19.65 billean
+| REANGACH_GDP =118
+| ÀIREAMH_GDP =$4,200
+| REANGACH_PER_CAPITA =112mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+3
+| AS_T_SAMHRADH =>[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+4
+| RUITH_AIRGID =Lari (ლ)
+| EADAR_LÌON =.ge
+| ÀIREAMH_FÒN =995
+}} 
 Is e dùthaich anns [[an Roinn-Eòrpa]] an Ear neo [[Àisia]] an iar  a tha ann an '''Gruisia''' neo '''Seòirsia''' ([[Beurla]]: Georgia). Tha [[an Ruis]] ann an taobh tuath, [[Asarbaidean]] san iar agus ann an taobh deas tha [[ an Tuirc]] agus [[Airmìnia]]. Mar sin tha Gruisia a’ laighe eadar na Roinn-Eòrpa agus Àisia.
 
 
