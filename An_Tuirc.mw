@@ -1,55 +1,64 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''  Türkiye Cumhuriyeti '''</font><br /><font size="+1"> ''Poblachd na Tuirce''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:Flag of Turkey.svg|125px]]
-| align="center" width="140px" |[[Image:Türkiye arması.svg|85px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2|''Yurtta Sulh, Cihanda Sulh'' <br> <small>''Peace at Home, Peace in the World''</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[Image:LocationTurkey2.png|250px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Tuircais]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Ankara]]
-|-
-|'''Baile as Motha''' || [[Istanbul]]
-|-
-|'''[[Ceann-suidhe]]''': ||[[Abdullah Gül]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Recep Tayyip Erdoğan]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 37mh <br> 783,562  km&sup2; <br/> 1.3%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 17mh ]] <br>  71,158,647 <small>([[2007]])</small><br> 93/km&sup2; 
-|-
-| '''[[Neo-Eisimeileachd]]''':<br/> &nbsp;
-|Cogadh neo-eisimeileachd [[1919]]<br>Bun-stèidheachadh na Pàrlamaide [[1920]]<br>Declaration of Republic 1923 
-|-
-| '''[[Ruith airgid]]''': || [[New Turkish Lira]]
-|-
-| '''[[Roinn Tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|EET]] ([[Coordinated Universal Time|UTC]]+2)<br>[[Central European Summer Time|EEST]] ([[Coordinated Universal Time|UTC]]+3)
-|-
-| '''[[Laoidh Nàiseanta]]'''||''[[İstiklâl Marşı]]''<br/><small>''The Anthem of Independence''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-|.tr
-|-
-| '''[[Còd Àireamh fòn eadar-nàiseanta]]''':
-| 90
-|}
-'S e dùthaich eadar [[an Roinn-Eòrpa|Eòrpa]] an Earra-dheas agus [[Àisia]] an Iar-dheas a th' anns '''an Tuirc'''. Tha crìochan aice le [[Bulgàiria]] san taobh an iar-thuath, leis [[a' Ghrèig]] san iar, le [[Gruisia]] san ear-thuath, le [[Airmìnia]], [[Asarbaidean]] agus [[Ioràn]] san ear agus le [[Ioràc]] agus [[an t-Siria]] san earra-dheas.
-Canar gur e an "Sea of Marmara" anns an iar-thuath na dùthcha a' chrìoch eadar an Roinn-Eòrpa agus Àisia.
+{{Template:Dùthaich
+| Ainm = Türkiye Cumhuriyeti
+| BRATACH = Flag of Turkey.svg
+| LÙIREACH = Türkiye arması.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA = Map of the Republic of Turkey.png
+| LAOIDH_NÀISEANTA = ''[[İstiklâl Marşı]]''<br/><small>''The Anthem of Independence''</small>
+| SLUAGH_GHAIRM = ''Yurtta Sulh, Cihanda Sulh'' <br> <small>''Peace at Home, Peace in the World''</small>
+| CÀNAN_OIFIGEIL = [[Tùrcais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Ankara]]
+| BAILE_AS_MOTHA = [[Istanbul]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Abdullah Gül]]
+| AINM_CEANNARD2 = [[Recep Tayyip Erdoğan]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Cogadh neo-eisimeileachd
+| TACHARTAS2 = Bun-stèidheachadh na Pàrlamaide
+| TACHARTAS3 = Poblachd
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[1919]]
+| CEANN_LATHA2 = [[1920]]
+| CEANN_LATHA3 = [[1923]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 783562
+| REANGACH_F = 37mh
+| UISGE = 1.3
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH = 70,586,256
+| REANGACH_S = 17mh
+| DLÙTHS = 93
+| REANGACH_D = 102mh
+| BLIADHNA_GDP = 2008
+| GDP = $ 941.6 billean
+| REANGACH_GDP = 15mh
+| ÀIREAMH_GDP = $ 13,511
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE = [[EET]]
+| UTC_OFFSET = +2
+| AS_T_SAMHRADH = [[EEST]]
+| UTC_OFFSET_2 = +3
+| RUITH_AIRGID =  Lira ùr Tùrcach
+| EADAR_LÌON = .tr
+| ÀIREAMH_FÒN = 90
+}} 
+'S e dùthaich eadar [[an Roinn-Eòrpa|Eòrpa]] an earra-dheas agus [[Àisia]] an iar-dheas a th' anns '''an Tuirc'''. Tha crìochan aice le [[Bulgàiria]] san taobh an iar-thuath, leis [[a' Ghrèig]] san iar, le [[Gruisia]] san ear-thuath, le [[Airmìnia]], [[Asarbaidean]] agus [[Ioràn]] san ear agus le [[Ioràc]] agus [[an t-Siria]] san earra-dheas.
+Canar gur e an "[[Sea of Marmara]]" anns an iar-thuath na dùthcha a' chrìoch eadar an Roinn-Eòrpa agus Àisia.
 
 Tha [[Ankara]] na [[prìomh-bhaile|phrìomh-bhaile]], ach 's e [[Istanbul]] am baile as motha anns an Tuirc.
 
