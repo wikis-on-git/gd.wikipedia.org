@@ -1,72 +1,68 @@
-{| style="margin: 0 0 1em 1em" border="1" cellpadding="2" cellspacing="0" align="right" width="300px"
-|+ <font size="+1">'''&#1056;&#1077;&#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1072; &#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1080;&#1103;'''<br />'''Republika Balgariya'''</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image:Flag of Bulgaria.svg|none|125px|Flag of Bulgaria]]
-| align="center" width="100px" | [[Image:Bulgaria_coa.png|100px]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha]]
-| align="center" width="140px" | ([[Coat of Arms of Bulgaria|Full size]])
-|}
-|-
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">National [[motto]]: &#1057;&#1098;&#1077;&#1076;&#1080;&#1085;&#1077;&#1085;&#1080;&#1077;&#1090;&#1086;
-&#1087;&#1088;&#1072;&#1074;&#1080; &#1089;&#1080;&#1083;&#1072;&#1090;&#1072;<br />''([[Bulgarian language|Bulgarian]]: Union provides strength'')</font>
-|-
-| align=center colspan=2 | [[image:LocationBulgaria.png|Location of Bulgaria]]
-|-
-| [[Cànan Oifigeil]] || [[Bulgarian language|Bulgarian]]
-|-
-| [[Prìomh-bhaile]] || [[Sofia]]
-|-
-| [[Priomhaire of Bulgaria|Priomhaire]]                       
-| [[Georgi Parvanov]]
-|-
-| [[Prìomh-mhinistear]]                  
-| [[Simeon II of Bulgaria|Simeon Saxe-Coburg Gotha]]
-|-
-| [[Area]]<br />&nbsp;- Total <br />&nbsp;- % water
-| [[List of countries by area|Reangach 102mh]] <br /> [[1 E11 m2|110,910 km²]] <br /> 0.3%               
-|-
-| [[Àireamh-shluaigh]]
-<br />&nbsp;- Gu lèir ([[2003]]) 
-<br />&nbsp;- [[Aireamh-shluaigh density|Daingneachd]]
-| [[List of countries by Aireamh-shluaigh|Reangach: 85mh]]
-<br /> 7,537,929
-<br /> 69.5/km&sup2; 
-|-
-| [[Neo-Eisimealachd]]
-<br />&nbsp;- Declared
-<br />&nbsp;- Recognised                   
-| From the [[Ottoman Empire]]
-<br />[[March 3]], [[1878]]
-<br />[[September 22]], [[1908]]
-|-
-| [[Ruith-Airgid]] || [[Lev]]
-|-
-| [[Roinn Tìde]]  
-| [[Coordinated Universal Time|UTC]] +2
-|-
-| [[Laoidh Nàiseanta]]  
-| [[Mila Rodino]]<br />(''Bulgarian: Dear Motherland'')
-|-
-| [[Top-level domain|Eadar-lìon TLD]] || .bg
-|-
-| [[List_of_country_calling_codes|Àireamh fòn eadar-nàiseanta]]
-| +359
-|}
-
-
-
-
-
-Is e dùthaich ann an Earra-dheas [[an Roinn-Eòrpa|na Roinn-Eòrpa]] a tha ann am '''Bulgàiria '''. 
+{{Template:Dùthaich
+| Ainm = Република България<br><br> Republika Balgariya
+| BRATACH =Flag_of_Bulgaria.svg
+| LÙIREACH =Coat of arms of Bulgaria.svg
+| LÙIREACH_LEUD = 100
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU_location_BUL.png
+| LAOIDH_NÀISEANTA = [[Mila Rodino|Мила Родино]]<small> (Bulgarian)</small><br/>''Mila Rodino''<small><br/>''Dear Motherland''</small>
+| SLUAGH_GHAIRM =Съединението прави силата <small>([[Bulgarian]]) </small><br/> "''Saedinenieto pravisilata''" <small><br/> "Unity makes strength" </small>
+| CÀNAN_OIFIGEIL =[[Bulgarian]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Sofia]]
+| BAILE_AS_MOTHA =[[Sofia]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Georgi Parvanov]]
+| AINM_CEANNARD2 =[[Sergei Stanishev]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidheachadh
+| TACHARTAS2 = Fèin-riaghladh anns<br>an [[Ottoman Empire]]
+| TACHARTAS3 = Aontachadh le<br>Rumelia an Iar
+| TACHARTAS4 = Neo-eisimeileachd oifigeil
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[681]]
+| CEANN_LATHA2 =3mh, am Màirt [[1878]]
+| CEANN_LATHA3 =[[1885]]
+| CEANN_LATHA4 =22mh, an t-Samhainn [[1908]]
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =110910
+| REANGACH_F =112mh
+| UISGE = 0.3
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH = 7,640,000
+| REANGACH_S =93mh
+| DLÙTHS =68.9
+| REANGACH_D =124mh
+| BLIADHNA_GDP =2008
+| GDP =$90.260 billean  
+| REANGACH_GDP =63mh
+| ÀIREAMH_GDP = $11,904
+| REANGACH_PER_CAPITA =65mh
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID =[[Bulgarian lev|Lev ]]
+| EADAR_LÌON =.bg
+| ÀIREAMH_FÒN =359
+}} 
+Is e dùthaich ann an earra-dheas [[an Roinn-Eòrpa|Eòrpa]] a tha ann am '''Bulgàiria '''. 
 Tha crìochan aice  ‘sa tuath le [[Romàinia]],
 san ear le [[Seirbia]] agus [[Masadoinia]],  agus ‘sa deas leis  [[a' Ghrèig]] agus [[an Tuirc]].  
 
-==Links==
-* [http://www.kirildouhalov.net History, art and music in Bulgaria]
+==Ceangal a-mach ==
+* [http://www.kirildouhalov.net Eachdraidh, dealain agus ceòl ann an  Bulgaria]
 * [http://members.lycos.co.uk/rre/History-Seven.html Essential History of Bulgaria in Seven Pages]
 
 [[Category:Bulgàiria]]
