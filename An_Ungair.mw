@@ -1,42 +1,65 @@
+{{Template:Dùthaich
+| Ainm = Magyar Köztársaság
+| BRATACH =Flag of Hungary.svg
+| LÙIREACH =Coat of Arms of Hungary.svg
+| LÙIREACH_LEUD = 50
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA = EU location HUN.png
+| LAOIDH_NÀISEANTA = ''[[Isten áldd meg a magyart|Himnusz]]'' <small style="white-space:nowrap;"><span style="font-size:111%;">''([[Isten áldd meg a magyart]])''</span><br/>"Hymn" ("God, bless the Hungarians")</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Ungarais]] (''[[Magyar]]'')
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Budapest]]
+| BAILE_AS_MOTHA =[[Budapest]]
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[László Sólyom]]
+| AINM_CEANNARD2 =[[Ferenc Gyurcsány]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Stèidheachadh 
+| TACHARTAS2 =Aithnichte mar Rìoghachd
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[896]]
+| CEANN_LATHA2 = [[1000]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =93,030
+| REANGACH_F =109mh
+| UISGE = 0.74
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =10,041,000
+| REANGACH_S =79mh
+| DLÙTHS =282
+| REANGACH_D =94mh
+| BLIADHNA_GDP =2008
+| GDP =$198.7 billean
+| REANGACH_GDP =8mh
+| ÀIREAMH_GDP =$20,000
+| REANGACH_PER_CAPITA =39mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =Forint
+| EADAR_LÌON =.hu
+| ÀIREAMH_FÒN =36
+}} 
+
+
 'S e '''An Ungair''' duthaich aig meadhan An [[Roinn Eorpa]]. 'S e [[Budapest]] a priomh baile.
-
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="285px">
-<caption><font size="+1">'''Magyar Köztársaság'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px">[[image:Flag of Hungary.svg|125px|]]</td>
-<td align="center" width="140px">[[Image:Coat_of_arms_of_Hungary.png|60px|]]</td></tr>
-<tr><td align="center" width="140px">([[Flag of Hungary|In Detail]])</td>
-<td align="center" width="140px">([[Coat of Arms of Hungary|Full size]])</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: None''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationHungary.png]]</td></tr>
-<tr><td>[[Canan Oifigeil]]            </td><td>[[Ungarais]]</td></tr>
-<tr><td>[[Priomh-bhaile]]                      </td><td>[[Budapest]]</td></tr>
-<tr><td>[[Priomhaire]]</td><td>[[László Sólyom]]</td></tr>
-<tr><td>[[Priomh-mhinisteir]]</td><td>[[Ferenc Gyurcsány]]</td></tr>
-<tr><td>
-[[Area]]<br>
-&nbsp;- Total<br>
-&nbsp;- % water</td>
-<td>
-[[List of countries by area|Ranked 108th]]<br>
-[[1 E10 m²|93,030 km²]]<br>
-0.74%</td></tr>
-<tr><td>[[Aireamh-shluaigh]]<br>
-&nbsp;- Total ([[2001]])<br>
-&nbsp;- [[Population density|Density]]</td>
-<td>[[List of countries by population|Ranked 78th]]<br>
-10,198,315<br>
-109/km&sup2;</td></tr>
-<tr><td>[[Neo-Eiseimealachd]] (foundation) <td><br>&nbsp;[[December]], [[1000]]
-<tr><td>[[Airgead]]                     </td><td>[[Forint]] (HUF)</td></tr>
-<tr><td>[[Time zone]]<br>&nbsp;- in [[European Summer Time|summer]]</td><td>[[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)</td></tr>
-<tr><td>[[Laoidh Naiseanta]]              </td><td>Himnusz ([[Isten áldd meg a magyart]])</td></tr>
-<tr><td>[[Top-level domain|Internet TLD]]</td><td>.hu</td></tr>
-<tr><td>[[List of country calling codes|Calling Code]]</td><td>36</td></tr>
-
-</table>
 
 {{bun}}
 [[category:An Ungair|*]]
