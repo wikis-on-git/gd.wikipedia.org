@@ -1,67 +1,62 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=275px
-|+<font size=+1>'''Rzeczpospolita Polska'''</font>
-|-
-| style=background:#efefef; align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-|-
-| align="center" width="140px" | [[Image:Flag of Poland.svg|125px|border|Flag of Poland]]
-| align="center" width="140px" | [[Image:Coat of arms of Poland-official.png|85px|Poland: Coat of Arms]]
-|-
-| align="center" width="140px" | ([[Flag of Poland|In Detail]])
-| align="center" width="140px" | ([[Coat of Arms of Poland|In Detail]])
-|}
-|-
-| align=center colspan=2 style=border-bottom:3px solid gray; | <font size="-1">''National [[motto]]: none''</font>'''&sup1;'''
-|-
-| align=center colspan=2 | [[image:LocationPoland.png]]
-|-
-| [[Cànan Oifigeil]]
-| [[Polais]]'''&sup2;'''
-|-
-| [[Prìomh-bhaile]]
-| [[Warszawa]]
-|-
-| Baile as motha
-| [[Warszawa]]
-|-
-| [[Prìomhaire]]
-| [[Lech Kaczynski|Lech Kaczyński]]
-|-
-| [[Prìomh-mhinistear]]
-| [[Donald Tusk]]
-|-
-| [[Farsaingeachd]]<br>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| [[List of countries by area|Reangach: 68mh]] <br> [[1 E11 m2|312,685 km&sup2;]]<br> 2.6%
-|-
-| [[Àireamh-shluaigh]] <br>&nbsp;- Gu lèir: ([[2004]]) <br>&nbsp;- [[Population density|Daingneachd:]]
-| [[List of countries by population|Reangach: 31mh]]<br> 38,626,349 <br> 123.5/km&sup2;
-|-
-| [[Gross Domestic Product|GDP]]<br>&nbsp;- Gu lèir: ([[2003]])<br>&nbsp;- GDP/head
-| [[list of countries by GDP (PPP)|Reangach: 25mh]]<br>$426.7 billion<br>$11,100
-|-
-| [[Christianized]]<br>&nbsp;- Date
-| Mieszko I<br>[[966]] AD
-|-
-| [[Neo-Eisimealachd]]<br>&nbsp;- Date
-| Regained<br>[[An t-Samhain 11]], [[1918]]
-|-
-| [[Ruith-Airgid]]
-| [[Zloty|z&#322;oty]] (PLN)
-|-
-| [[Roinn Tìde]]<br/>&nbsp;- in [[European Summer Time|as t-samhradh]]
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br/>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| [[Laoidh Nàiseanta]]
-| [[Mazurek Dabrowskiego|Mazurek D&#261;browskiego]]
-|-
-| [[Top-level domain|Eadar-lìon TDL]]
-| [[.pl]]
-|-
-| [[List_of_country_calling_codes|Àireamh fòn eadar-nàiseanta]]
-| 48
-|-
-| colspan=2 | <small>'''1''': See also [[unofficial national mottos of Poland]].<br>'''2''': [[Belarusian language|Belarusian]], [[Cassubian language|Cassubian]], [[Gearmailtis]] and [[Ucrainis]] are used in some [[Commune (subdivision)|communal]] offices. They are, however, not considered to be [[official language]]s.</small>
-|}
+{{Template:Dùthaich
+| Ainm =Rzeczpospolita Polska
+| BRATACH =Flag_of_Poland.svg|‎border
+| LÙIREACH =Herb Polski.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EUR location POL.PNG
+| LAOIDH_NÀISEANTA = ''Mazurek Dąbrowskiego''<small>([[Polais]])<br/>''[[Dąbrowski's Mazurka]]''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Polais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Warsaw]]
+| BAILE_AS_MOTHA =[[Warsaw]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Lech Kaczyński]]
+| AINM_CEANNARD2 =[[Donald Tusk]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidheachadh
+| TACHARTAS2 =Darna Poblachd na Pòlainn
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 14mh, an Giblean [[966]]
+| CEANN_LATHA2 =11mh, an t-Samhain [[1918]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =312,679
+| REANGACH_F =69mh
+| UISGE = 3.07
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =38,518,241
+| REANGACH_S =
+| DLÙTHS =122
+| REANGACH_D =83mh
+| BLIADHNA_GDP = 2007
+| GDP =$631.8 billean
+| REANGACH_GDP =24mh
+| ÀIREAMH_GDP =$20,487
+| REANGACH_PER_CAPITA =52mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =Złoty
+| EADAR_LÌON =.pl
+| ÀIREAMH_FÒN =48
+}} 
 'S e dùthaich [[Eòrpach]] a th' anns '''a' Phòlainn'''<ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref><ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref> neo '''a’ Phólainn'''<ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan ag SMO]</ref><ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Poland&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref> neo '''Póland'''.<ref>An Tuil: Anthology of 20th-century Scottish Gaelic Verse, duilleg 255, 263</ref>
 Tha i suidhichte ann am meadhan na [[Roinn-Eòrpa]]. Tha crìochan aice leis [[a' Ghearmailt]], [[a' Bhealaruis]], [[an t-Seic]], [[an Ùcrain]] agus le [[Slobhaigia]]. Gu h-eachdraidheal agus a-rèir [[cultar]] is [[creideamh]] b' e pàirt de "[[Roinn Eòrpa an Iar]] a bh' anns a' Phòlainn ach 'san latha an diugh bidh i gu tric air cuir ann am buidhean le na dùthchannan eile a bha fo smachd [[Communachas]] mar pàirt de [[Roinn Eòrpa an Ear]].
 
@@ -76,15 +71,13 @@ Chaidh a stèidheachadh anns a' bhliadhna [[1364]], mar sin tha e ri measg na h-
 ==Iomraidhean==
 <references/>
 
-
-
 ==Dealbhan==
 <gallery>
 Image:Warsaw modern buildings.jpg|[[Warszawa]]
 Image:Wilanow palace.jpg|[[Warszawa]]
 Image:Warsaw palace.jpg|[[Warszawa]]
 Image:Warszawa Namiestnikowski.png|[[Warszawa]]
-Image:Warszawa Copernicus.png|[[Warszawa]]
+Image:Warszawa Copernicus.png|[[Nicolaus Copernicus]] ann an [[Warszawa]]
 Image:Warsaw church.jpg|[[Warszawa]]
 Image:Warsaw church1.jpg|[[Warszawa]]
 Image:Kraków_Sukiennice.jpg|[[Krakow]]
