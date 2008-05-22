@@ -1,59 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Republica Moldova'''</font><br /><font size="+1">''A' Mholdobha ''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Moldova.svg|140px]]
-| align="center" width="140px" |[[Image: Coat of arms of Moldova.svg |65px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 | ''Limba noastră-i o comoară''<br/><small>''Our language is a treasure''</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Europe_location_MDA.png |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Moldovan language|Moldovan]]<br>([[Romanian language|Romanian]])
-|-
-|'''[[Prìomh-bhaile]]''' || [[Chişinău]]
-|-
-|'''Baile is Motha''' || [[Chişinău]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Vladimir Voronin]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Vasile Tarlev]]
-|- 
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 139mh <br> 
-33,843km&sup2; <br/> 1.4 % 
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 81mh ]]<br> 4,320,490<small>([[2007]])</small><br> 111/km&sup2; 
-|-
-| '''[[Neo-Eisimeileachd]]''':<br/> &nbsp;
-| Declaration of Independence from the Soviet Union [[1991]] 
-|-
-| '''[[Ruith-airgid]]''': || [[Moldovan leu]]
-|-
-| '''[[Roinn tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+2)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+3)
-|-
-| '''[[Laoidh Nàiseanta]]'''||''[[Limba noastră]]'' <br>''Our Language''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .md
-|-
-| '''[[Còd Àireamh fòn eadar-nàiseanta]]''':
-| 373
-|}
-
-
-
-
-Is e dùthaich anns [[an Roinn-Eòrpa]] an Ear a tha ann a '''' Mholdobha''' (''Republica Moldova''). Tha [[Romàinia]] anns an Iar na dùthcha, agus [[An Ùcrain|an Ùcrain]] timcheall air an dàrna leth.
+{{Template:Dùthaich
+| Ainm =Moldova<br><small>Republica Moldova</small>
+| BRATACH =Flag of Moldova.svg
+| LÙIREACH =Coat of arms of Moldova.svg
+| LÙIREACH_LEUD = 60
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =
+| LAOIDH_NÀISEANTA = ''[[Limba noastră]]''{{spaces|2}}<br/>''Our Language''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =Moldovan
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Chişinău]]
+| BAILE_AS_MOTHA =[[Chişinău]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Vladimir Voronin]]
+| AINM_CEANNARD2 =[[Zinaida Greceanîi]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br> bhon [[Aonadh Sobhiat]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 27mh, an Lunasdal [[1991]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =33,846
+| REANGACH_F =139mh
+| UISGE = 1.4
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =4,128,047
+| REANGACH_S =121mh
+| DLÙTHS =121,9
+| REANGACH_D =87mh
+| BLIADHNA_GDP =2007
+| GDP =$9,367 millean
+| REANGACH_GDP =141mh
+| ÀIREAMH_GDP =$2,962
+| REANGACH_PER_CAPITA =135mh
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID =[[Leu]]
+| EADAR_LÌON =.md
+| ÀIREAMH_FÒN =373
+}} 
+Is e dùthaich anns [[an Roinn-Eòrpa]] an ear a tha ann a' '''' Mholdobha''' (''Republica Moldova''). Tha [[Romàinia]] anns an Iar na dùthcha, agus [[An Ùcrain|an Ùcrain]] timcheall air an dàrna leth.
 
 
 Tha [[Chişinău]] na [[prìomh-bhaile]].
