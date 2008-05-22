@@ -1,59 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Slovenská republika'''</font><br /><font size="+1"> Slovak Republic </font><br />Slovakia </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Slovakia.svg|125px]]
-| align="center" width="140px" |[[Image: Coat of Arms of Slovakia.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:EU_location_SVK.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Slobhacais]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Bratislava]]
-|-
-|'''Baile is Motha''' || [[Bratislava]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Ivan Gašparovič]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Robert Fico]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 130mh <br> 
-49,037km&sup2; <br/> negligible % 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 110mh ]] <br>5,447,502<small>([[2007]])</small><br> 111/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-| [[1993]] due to dissolution of [[Czechoslovakia]] 
-|-
-| '''[[Airgead]]''': || [[Slovak koruna]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Nad Tatrou sa blýska]]''<br>''<small>"Lightning over the Tatras"</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . sk
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 421
-|}
-
-
-
-
-
-
-Is e dùthaich anns [[an Roinn-Eòrpa]] an Ear a tha ann an '''Slobhaigia''' (Slovak: ''Slovensko'', ainm fada: ''Slovenská republika'', Poblach Slobhaigia). Tha crìochan aige leis [[an t-Seic]], [[An Ostair|an Ostair]], [[A' Phòlainn|a' Phòlainn]], [[an Ùcrain]] agus  [[an Ungair]]. 
+{{Template:Dùthaich
+| Ainm =Slovenská republika
+| BRATACH =Flag of Slovakia.svg
+| LÙIREACH =Coat of Arms of Slovakia.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU_location_SVK.png
+| LAOIDH_NÀISEANTA = ''[[Nad Tatrou sa blýska]]''<small><br/>"Lightning over the Tatras"</small>
+| SLUAGH_GHAIRM ="Afferant Montes Pacem Populo"<small><br/>"May mountains bring people peace"</small>
+| CÀNAN_OIFIGEIL =[[Slobhacais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Bratislava]]
+| BAILE_AS_MOTHA =[[Bratislava]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Ivan Gašparovič]]
+| AINM_CEANNARD2 =[[Robert Fico]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = dol às a chèile<br>[[Czechoslovakia]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 1ad, am Faoilteach [[1993]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =49,035
+| REANGACH_F =130mh
+| UISGE = 
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =5,400,998
+| REANGACH_S =110mh
+| DLÙTHS =111
+| REANGACH_D =88mh
+| BLIADHNA_GDP =2007
+| GDP =$109.587 billean
+| REANGACH_GDP =59mh
+| ÀIREAMH_GDP =$20,251
+| REANGACH_PER_CAPITA =41mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Koruna]]
+| EADAR_LÌON =.sk
+| ÀIREAMH_FÒN =421
+}} 
+Is e dùthaich anns [[an Roinn-Eòrpa]] an ear a tha ann an '''Slobhaigia''' (Slovak: ''Slovensko'', ainm fada: ''Slovenská republika'', Poblach Slobhaigia). Tha crìochan aige leis [[an t-Seic]], [[An Ostair|an Ostair]], [[A' Phòlainn|a' Phòlainn]], [[an Ùcrain]] agus  [[an Ungair]]. 
 Chaidh an dùthaich a stèidheachadh ann an [[1993]] nuair a bhris an Czechoslovakia as a chèile.
 
 Tha [[Bratislava]] na [[prìomh-bhaile]].
