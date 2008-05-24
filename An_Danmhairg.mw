@@ -1,59 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''Kongeriget Danmark'''</font><br /><font size="+1"> ''Kingdom of Denmark''  </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Denmark.svg |125px]]
-| align="center" width="140px" |
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-
-|-
-| align=center colspan=2 |''Guds hjælp, Folkets kærlighed, Danmarks styrke''<br/><small>"The Help of God, the Love of the People, the Strength of Denmark"</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: EU location DEN.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Danmhairgis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Copenhagen]]
-|-
-|'''Baile is Motha''' || [[Copenhagen]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Ban-Rìgh Margrethe II]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Anders Fogh Rasmussen]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 134mh <br> 
-43,094km&sup2; <br/> 1.6%
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| List of countries by Aireamh-shluaigh|Reangach: 78mh  <br>  5,451,826<small>([[2007]])</small><br> 128.60/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|(prehistoric) 
-|-
-| '''[[Airgead]]''': || [[Danish krone]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Der er et yndigt land]]''&nbsp;<small>(national)</small><br/>''[[Kong Christian]]''&nbsp;<small>(royal and national)</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .dk
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 45
-|}
-
-
-
-
+{{Template:Dùthaich
+| Ainm =Kongeriget Danmark
+| BRATACH =Flag of Denmark.svg
+| LÙIREACH =Denmark coa.png
+| LÙIREACH_LEUD = 50
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location DEN.png
+| LAOIDH_NÀISEANTA = ''[[Der er et yndigt land]]''&nbsp;<small>(nàiseanta)</small><br/>
+|royal_anthem             = ''[[Kong Christian]]''&nbsp;<small>(rìoghail)</small>
+| SLUAGH_GHAIRM =''Guds hjælp, Folkets kærlighed, Danmarks styrke''<small>(rìoghail)</small><br/><small>"The Help of God, the Love of the People, the Strength of Denmark"</small>)
+| CÀNAN_OIFIGEIL =[[Danmhairgis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE = [[Copenhagen]]
+| BAILE_AS_MOTHA =[[Copenhagen]]
+| SEÒRSA_UACHDRANAIS =Monarcachd bhun-reachdail<small>(Deomocrasaidh pàrlamaideach)</small>
+| TIOTAL_CEANNARD1 = Ban-Rìgh 
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Ban-rìgh Margrethe II| Margrethe II]]
+| AINM_CEANNARD2 =[[Anders Fogh Rasmussen]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidheachadh
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = ro-eachdraidheil
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =43,094
+| REANGACH_F =134mh
+| UISGE = 1.6
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =5,475,791
+| REANGACH_S =108mh
+| DLÙTHS =129.16
+| REANGACH_D =78mzh
+| BLIADHNA_GDP =2006
+| GDP =$198.5 billean
+| REANGACH_GDP =45mh
+| ÀIREAMH_GDP =$37,000
+| REANGACH_PER_CAPITA =6mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =Krone Danmhairgeach
+| EADAR_LÌON =.dk
+| ÀIREAMH_FÒN =45
+}} 
 Th' an '''Rìoghachd na Danmhairg''' ([[Danmhairgis]]: ''Kongeriget Danmark'') gu [[cruinn-eòlas|eòlas-cruinneil]] an dùthaich nas lugha 's nas deasaiche nan [[Dùthchannan Lochlannach]], is 's i cuid den [[An t-Aonadh Eorpach|Aonadh Eòrpaich ]]. 'S i suidhichte 'san [[Lochlainn]], a tha 'san Tuath na [[An Roinn-Eòrpa|Roinne-Eòrpa]], ach chan eil i air a' Cheann-tìre na Lochlainn.
 Tha [[a' Ghearmailt]] deas air an Danmhairg.
 
