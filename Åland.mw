@@ -1,54 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Landskapet Åland '''</font><br /><font size="+1"> ''Ahvenanmaan maakunta'' </font><br /> Åland Islands </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[ Image:Flag of Aaland.svg |125px]]
-| align="center" width="140px" |[[Image:  Aland coat of arms.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: LocationAland.png |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Suaineis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Mariehamn]]
-|-
-|'''Baile is Motha''' || [[Mariehamn]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Peter Lindbäck]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Roger Nordlund]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach:  -  <br> 
-13,517km&sup2; <br/> 89 % 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach:  -  ]] <br>26,711<small>([[2005]])</small><br> 17.5/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-| [[920]]
-|-
-| '''[[Airgead]]''': || [[Euro]] (€)
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+2)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+3)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Ålänningens sång]]''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . ax
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 358 (area code 18)
-|}
-
-
+{{Template:Dùthaich
+| Ainm =Landskapet Åland<br/><small>Ahvenanmaan maakunta</small>
+| BRATACH = Flag of Aaland.svg
+| LÙIREACH = Aland coat of arms.svg
+| LÙIREACH_LEUD = 75
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationAland.png
+| LAOIDH_NÀISEANTA = ''[[Ålänningens sång]]''
+| SLUAGH_GHAIRM ="Islands of Peace"
+| CÀNAN_OIFIGEIL =[[ Suainis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Mariehamn]]
+| BAILE_AS_MOTHA =[[Mariehamn]]
+| SEÒRSA_UACHDRANAIS =Raon fèin-riaghladh 
+| TIOTAL_CEANNARD1 = Riaghladair
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Peter Lindbäck]]
+| AINM_CEANNARD2 =[[Viveka Eriksson]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Cuirte an cèill
+| TACHARTAS2 = Aithnichte
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[1920]]
+| CEANN_LATHA2 =[[1921]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =13,517
+| REANGACH_F =
+| UISGE = 89
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =27,153
+| REANGACH_S =
+| DLÙTHS =17.6
+| REANGACH_D =
+| BLIADHNA_GDP =
+| GDP =
+| REANGACH_GDP =
+| ÀIREAMH_GDP =
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.ax
+| ÀIREAMH_FÒN =358
+}} 
 Is e stàit saor  (autonomous province) de [[Suòmaidh]] anns [[an Roinn-Eòrpa]] a tha ann an '''Åland'''('oːland anns an [[Suaineis]] neo ''Ahvenanmaa(n maakunta)'' anns an [[Fionnais]]). Tha e na laighe anns a’ [[Muir Baltach|Mhuir Baltach]]. 
 
 Tha eilean mòr ann ris an canar ''Fasta Åland''. Tha an dàrna leth de na daoine a’ fuireach an-seo. Agus tha nas motha na 6,500 eileannan beaga ann. Tha iad mu 25 cilemeatair air falbh bhon [[an t-Suain|t-Suain]]. Is e [[Suaineis]] an cànan oifigeal aca, ged a tha Åland a’ buntainn don [[Suòmaidh]].
