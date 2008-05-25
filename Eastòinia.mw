@@ -1,56 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''Eesti Vabariik'''</font><br /><font size="+1"> ''Poblachd Eastòinia''  
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Estonia.svg |125px]]
-| align="center" width="140px" |[[Image:  Coat of arms of Estonia.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:EU_location_EST.png |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Estonian]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Tallinn]]
-|-
-|'''Baile is Motha''' || [[Tallinn]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Toomas Hendrik Ilves]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Andrus Ansip]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 132mh <br> 
-45,226km&sup2; <br/> 4.56%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 151mh ]] <br>  1,342,409<small>([[2007]])</small><br> 29/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Independence from [[an Ruis|Russia]] and [[a' Ghearmailt|Germany]] [[1918]], Occupied by Soviet Union [[1940]], Re-declared  [[1991]]
-|-
-| '''[[Airgead]]''': || [[Estonian kroon]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+2)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+3)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Mu isamaa, mu õnn ja rõõm]]'' 
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . ee
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 372
-|}
-
-
-
-Is e dùthaich anns [[an Roinn-Eòrpa]] an Ear a tha ann an '''Eastòinia''' (ainm oifigeil: '''Poblachd  Eastòinia''' ([[Estonian]]: ''Eesti'' or ''Eesti Vabariik''). Tha criochan aice le [[Laitbhia]] agus leis [[an Ruis]]. Tha  i na laighe aig a’ [[Muir Baltach|Mhuir Baltach]].
+{{Template:Dùthaich
+| Ainm =Eesti Vabariik
+| BRATACH =Flag of Estonia.svg‎
+| LÙIREACH =Coat of arms of Estonia.svg
+| LÙIREACH_LEUD = 95
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU_location_EST.png
+| LAOIDH_NÀISEANTA = ''[[Mu isamaa, mu õnn ja rõõm]]''<br /> <small>([[ Eastoinis]]): "''My Fatherland, My Happiness and Joy''")
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL = [[Eastoinis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Tallinn]]
+| BAILE_AS_MOTHA =[[Tallinn]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Toomas Hendrik Ilves]]
+| AINM_CEANNARD2 = [[Andrus Ansip]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br> bhon [[an  Ruis|Ruis]] is  [[Impireachd na Gearmailt|a'   Ghearmailt]]
+| TACHARTAS2 = fo smachd [[Aonadh Sobhiat]]
+| TACHARTAS3 = fo smachd na [[a' Ghearmailt|Gearmailt]]
+| TACHARTAS4 =fo smachd [[Aonadh Sobhiat]]
+| TACHARTAS5 =Neo-eisimeileachd  
+| TACHARTAS6 =
+| CEANN_LATHA1 =12mh, an Giblean  [[1917]]
+| CEANN_LATHA2 =1940-1941
+| CEANN_LATHA3 =1941-1944
+| CEANN_LATHA4 =1944-1991
+| CEANN_LATHA5 =20mh, an Lunasdal [[1991]]
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =45,227
+| REANGACH_F =132mh
+| UISGE = 4.56
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =1,340,602
+| REANGACH_S =151mh
+| DLÙTHS =29
+| REANGACH_D =173mh
+| BLIADHNA_GDP = 2007
+| GDP =$26.85 billean
+| REANGACH_GDP = 103mh
+| ÀIREAMH_GDP =$21,800
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID = Kroon Eastoineach
+| EADAR_LÌON =.ee
+| ÀIREAMH_FÒN =372
+}} 
+Is e dùthaich anns [[an Roinn-Eòrpa]] an ear a tha ann an '''Eastòinia''' (ainm oifigeil: '''Poblachd  Eastòinia''' ([[Estonian]]: ''Eesti'' or ''Eesti Vabariik''). Tha criochan aice le [[Laitbhia]] agus leis [[an Ruis]]. Tha  i na laighe aig a’ [[Muir Baltach|Mhuir Baltach]].
 
 
 Tha [[Tallinn]] na [[prìomh-bhaile]].
