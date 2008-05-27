@@ -1,58 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> ''' Føroyar '''</font><br /><font size="+1"> '' Færøerne ''  
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of the Faroe Islands.svg  |125px]]
-| align="center" width="140px" |[[Image:  Coat-of-arms_of_the_Faroe_Islands.png|55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:LocationFaroeIslands.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Faroese]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Tórshavn]]
-|-
-|'''Baile is Motha''' || [[Tórshavn]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Ban-Rìgh Margrethe II]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Jóannes Eidesgaard]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 180mh <br> 
-1,399km&sup2; <br/> 0.5%
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 214mh ]] <br>  48,317 <small>([[2004]])</small><br> 114/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Autonomous province  of Denmark [[1948]]
-|-
-| '''[[Airgead]]''': || [[Faroese króna]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Greenwich Mean Time|GMT]]<br>
-[[European Summer Time|EST]] ([[Coordinated Universal Time|UTC]] +1)
-|-
-| '''[[Laoidh Naiseanta]]'''|| [[Tú alfagra land mítt]]''<small><br/>''You, my most beauteous land''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .fo
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 298
-|}
-
-
-
-
-
+{{Template:Dùthaich
+| Ainm =Føroyar<br/><small>Færøerne</small>
+| BRATACH =Flag of the Faroe Islands.svg
+| LÙIREACH =Vedur.svg
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =LocationFaroeIslands.png
+| LAOIDH_NÀISEANTA =  ''[[Tú alfagra land mítt]]''<small><br/>''You, my most beauteous land''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Fàrothais]], [[Danmhairgis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Tórshavn]]
+| BAILE_AS_MOTHA =[[Tórshavn]]
+| SEÒRSA_UACHDRANAIS = Ceàrn fèin-riaghlach [[An Danmhairg|na Danmhairge]] 
+| TIOTAL_CEANNARD1 = Ban-Rìgh
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Ban-rìgh Margrethe II|Margrethe II]]
+| AINM_CEANNARD2 =[[Jóannes Eidesgaard]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Fèin-riaghlach
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =1ad, an Giblean [[1948]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =1,399
+| REANGACH_F =180mh
+| UISGE = 0.5
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH =48,500
+| REANGACH_S = 214mh
+| DLÙTHS =34
+| REANGACH_D =176mh
+| BLIADHNA_GDP =2006
+| GDP =$2.2 billean
+| REANGACH_GDP =
+| ÀIREAMH_GDP =$45,250
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Greenwich Mean Time|GMT]]
+| UTC_OFFSET =
+| AS_T_SAMHRADH =[[European Summer Time|EST]]
+| UTC_OFFSET_2 =+1
+| RUITH_AIRGID =[[Króna fàrothach]]
+| EADAR_LÌON =.fo
+| ÀIREAMH_FÒN = 298
+}} 
 Tha '''na h-Eileanan Farach''' ([[Farais]]: ''Føroyar'' a' ciallachadh 'Eilean na caorach' , [[Danais]]: ''Færøerne'')) sa [[Cuan Siar|Chuan Siar]]-a-tuath, eadar [[Sealtainn]], [[Nirribhidh]] agus [[Innis Tile]]. 'S e [[Tórshavn]] am [[prìomh-bhaile]] aice. 
 
 Tha iad air a bhith neo-eisimeileach bhon [[An Danmhairg|Danmhairg]] bho [[1948]]. Tha sluagh dha 48,000 air na h-Eileanan Farach agus chan eil iad nam pairt dhan [[An t-Aonadh Eorpach|Aonadh Eòrpach]]. Tha iad a' cleachdadh Krona Farach ( an aon ruid ri Krona Danais ) airson airgeid agus a' bruidhinn [[cànan Farach]].
