@@ -1,93 +1,62 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right"
-width="290px">
-<caption><font size="+1">'''Suomen Tasavalta<br/>Republiken Finland'''</font></caption>
-<tr>
-<td style="background:#efefef;" align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr>
-<td align="center" width="140px">
-[[Image:Flag of Finland.svg|125px|Bratach Suòmaidhe]]</td>
-<td align="center" width="140px" height="125px">
-[[Image:Coat of arms of Finland.svg|85px|Lùireach Suòmaidhe]]
-</tr>
-<tr><td align="center" width="140px">([[Bratach Suòmaidhe|Bratach]])
-</td>
-<td align="center" width="140px">([[Lùireach Suòmaidhe|Lùireach]])
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2" style=
-"border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: None''</font> </td>
-</tr>
-<tr><td align=center colspan=2>[[Image:LocationFinland.png|250px|Locàision na Suòmaidh]]</td></tr>
-<tr>
-<td>[[Cànan Oifigeil|Cànanan oifigeil]]</td>
-<td>[[Suòmais]], [[Suainis]] ([[Suòmais Suainis]])</td>
-</tr>
-<tr>
-<td>[[Prìomh-bhaile]]</td>
-<td>[[Helsinki]]</td>
-</tr>
-<tr>
-<td>[[List of Presidents of Finland|President]]</td>
-<td>[[Tarja Halonen]]</td>
-</tr>
-<tr>
-<td>[[List of Prime Ministers of Finland|Prime minister]]</td>
-<td>[[Matti Vanhanen]]</td>
-</tr>
-<tr>
-<td>[[Farsaingeachd]]<br/>
-&nbsp;- Total<br/>
-&nbsp;- % water</td>
-<td>[[List of countries by area|Ranked 64th]]<br/>
-[[1 E11 m²|337,030 km²]]<br/>
-9.4%</td>
-</tr>
-<tr>
-<td>[[Aireamh-sluaigh]]
-[http://www.stat.fi/tk/tp/tasku/taskue_vaesto.html]<br/>
-&nbsp;- Total ([[2003]])<br/>
-&nbsp;- [[Population density|Density]]</td>
-<td>[[List of countries by population|Ranked 109th]]<br/>
-5,211,311<br/>
-17.1/km&sup2;</td>
-</tr>
-<tr>
-<td>[[Independence]]<br/>
-&nbsp;- [[Finland's declaration of independence|Declared]]<br/>
-&nbsp;- Recognized</td>
-<td>From [[Russia]]<br/>
-[[December 6]], [[1917]]<br/>
-[[December 22]], [[1917]]
-<!--[[January 4]], [[1918]]--></td>
-</tr>
-<tr>
-<td>[[Airgead]]</td>
-<td>[[Euro]] (&euro;) (cf. [[Finnish euro coins]])</td>
-</tr>
-<tr>
-<td>[[Time zone]]</td>
-<td>[[East European Time|EET]] ([[UTC]]+2; [[UTC]]+3 in [[European Summer Time|summer]])</td>
-</tr>
-<tr>
-<td>[[National anthem]]</td>
-<td>[[De facto]]: [[Maamme|Maamme/Vårt land]]</td>
-</tr>
-<tr>
-<td>[[Top-level domain|Internet TLD]]</td>
-<td>[[.fi]]</td>
-</tr>
-<tr>
-<td>[[List_of_country_calling_codes|Calling Code]]</td>
-<td>358</td>
-</tr>
-<tr>
-</tr>
-</table>
-
+{{Template:Dùthaich
+| Ainm =Suomen tasavalta<br/><small>Republiken Finland</small>
+| BRATACH =Flag_of_Finland.svg
+| LÙIREACH =Coat of arms of Finland.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA = Location Finland EU Europe.png
+| LAOIDH_NÀISEANTA = ''[[Maamme]]''{{spaces|2}}<small>([[Suomais]])</small><br/>''[[Maamme#Vårt land|Vårt land]]''{{spaces|2}}<small>([[Suainis]])''
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Suomais]], [[Suainis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Helsinki]]
+| BAILE_AS_MOTHA =[[Helsinki]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Tarja Halonen]]
+| AINM_CEANNARD2 =[[Matti Vanhanen]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br> bhon [[an Ruis|Ruis]]
+| TACHARTAS2 =Aithnichte
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =29mh am Màirt, [[1809]]
+| CEANN_LATHA2 = 4mh, am Faoilteach [[1918]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =338,145
+| REANGACH_F =65mh
+| UISGE = 10,0
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =5,308,208
+| REANGACH_S =111mh
+| DLÙTHS =16
+| REANGACH_D =201mh
+| BLIADHNA_GDP =2005
+| GDP =$163 billean
+| REANGACH_GDP =52mh
+| ÀIREAMH_GDP =$34,819
+| REANGACH_PER_CAPITA =12mh
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID =[[Euro]] ([[€]])
+| EADAR_LÌON =.fi, .ax
+| ÀIREAMH_FÒN =358
+}} 
 '''Suòmaidh''' neo '''Fionnlainn'''. Dùthaich eadar [[an t-Suain]] agus [[an Ruis]] anns [[an Roinn-Eòrpa]].
 
 Tha eileannan beaga ann ris an canar [[Åland]].Tha iad nan stàit saor ann an Suòmaidh.
