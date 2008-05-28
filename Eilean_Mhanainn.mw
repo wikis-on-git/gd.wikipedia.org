@@ -1,39 +1,62 @@
-{| border="1" cellpadding="2" cellspacing="0" style="margin:0 0 1em 1em; float:right; width:290px;"
-|+ '''Ellan Vannin''' ([[Gaelg|Gaelg/Gaidhlig Mhanainn]])<br /> '''Isle of Man''' ([[A' Bheurla]])
-|-
-| style="background:#efefef;" align="center" colspan="2" |
-{| border=0 cellpadding=2 cellspacing=0
-|-
-| align="center" width="140px" | [[Image:Flag of the Isle of Man.svg|125px|]] || align="center" width="140px" | [[Image:Manx coat.PNG]]
-|}
-|-
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''National'' ''[[motto]]: Quocunque Jeceris Stabit<br/>([[Latin]]: Whithersoever you throw it, it will'' ''stand'')</font>
-|-
-| align=center colspan=2 | [[Image:BritishIslesMan.png]]
-|-
-| [[Canan Oifigeil|Cananan Oifigeil]] || [[a' Bheurla]], [[Gaelg|Gaelg/Gaidhlig Mhanainn]]
-|-
-| [[Priomh bhaile]] || [[Doolish]] (''Douglas'')
-|-
-| [[Liosta Righrean Mhanainn|Tighearna Mhanainn]] || [[Ealasaid II Shasainn|Ealasaid II]]
-|-
-| [[Lieutenant Governor]] || Rear Admiral [[Sir Paul Haddacks]]
-|-
-| [[Ard-mhinisteir]] || [[Donald Gelling]] MLC
-|-
-| [[Airgead]] || [[Not (airgead)|punnd/not]] Eilean Mhannin (co-ionnan ri [[Punnd Breatannach]])
-|-
-| [[Time zone]] || [[Coordinated Universal Time|UTC]] ([[Daylight Saving Time|DST +1]])
-|-
-| [[Laoidh Naiseanta]] || [[Laoidh Naiseanta Mhanainn]]
-|-
-| [[Top-level domain|Internet TLD]] || .IM
-|-
-| [[List_of_country_calling_codes|Calling Code]] || 44 (UK area code 1624)
-|}
-
-[[Image:Eilean Mhannain.jpg|right|thumb]]
-
+{{Template:Dùthaich
+| Ainm =Ellan Vannin<br>'''<small>Isle of Man'''</small>
+| BRATACH =Flag of the Isle of Man.svg
+| LÙIREACH =Isle of Man coat of arms.svg
+| LÙIREACH_LEUD = 85
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA = BritishIslesMan.png 
+| LAOIDH_NÀISEANTA =  "[[Arrane Ashoonagh dy Vannin]] <small>([[Gaelg]])  <br> ''O Land of Our Birth'' </small><br>"[[God Save the Queen]]"
+| SLUAGH_GHAIRM =''Quocunque Jeceris Stabit''{{spaces|2}}<small>([[ Laideann]])<br/>Whithersoever you throw it, it will stand</small>
+| CÀNAN_OIFIGEIL =[[Gaelg|Gaelg/Gàidhlig Mhanainn]], [[Beurla]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Doolish]] (''Douglas'')
+| BAILE_AS_MOTHA =[[Doolish]] (''Douglas'')
+| SEÒRSA_UACHDRANAIS = Crown dependency<br><small>([[ An Rìoghachd Aonaichte]])<br> Monarcachd bhun-reachdail<br>(Deomocrasaidh pàrlamaideach) </small>
+| TIOTAL_CEANNARD1 = [[Liosta Righrean Mhanainn| Ban-rìgh]]
+| TIOTAL_CEANNARD2 = Riaghladair
+| TIOTAL_CEANNARD3 =Deemster
+| TIOTAL_CEANNARD4 =Ceann-suidhe Tynwald
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Ban-rìgh Ealasaid II| Ealasaid II]]
+| AINM_CEANNARD2 =[[Sir Paul Haddacks]]
+| AINM_CEANNARD3 =[[Michael Kerruish]]
+| AINM_CEANNARD4 =[[Noel Cringle]]
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Crown dependency
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[1765]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =572
+| REANGACH_F =191mh
+| UISGE = 
+| BLIADHNA =2006
+| ÀIREAMH_SHLUAIGH =80,058
+| REANGACH_S =194mh
+| DLÙTHS =131.2
+| REANGACH_D =75mh
+| BLIADHNA_GDP =2003
+| GDP =$2.113 billean
+| REANGACH_GDP =182mh
+| ÀIREAMH_GDP =$35,000
+| REANGACH_PER_CAPITA =11/12mh
+| ROINN_TÌDE =[[Greenwich Mean Time|GMT]]
+| UTC_OFFSET =
+| AS_T_SAMHRADH =[[Greenwich Mean Time|GMT]]
+| UTC_OFFSET_2 =+1
+| RUITH_AIRGID =[[Not|punnd/not]] Eilean Mhanainn (co-ionnan ri [[Punnd Sasannach]])
+| EADAR_LÌON =.im
+| ÀIREAMH_FÒN =44
+}} 
 Tha Eilean Mhanainn (Ellan Vannin) na [[eilean]] beag ann am [[Muir Mheann ]] (ann an [[Cuan na h-Èireann]] ) faisg air [[Sruth na Maoile]] a tha eadar [[Alba]], [[a' Chuimrigh]], [[Sasainn]] agus [[Eirinn]]. 
 
 S'ann aig Eilean Mhanainn a tha am pàrlamaid as aosta anns an t-saoghal, an [[Tynwald]].
@@ -43,6 +66,9 @@ S'ann aig Eilean Mhanainn a tha am pàrlamaid as aosta anns an t-saoghal, an [[T
 
 
 B'àbhaist gum b' i [[Gàidhlig]] an cànan a bh' aig sluagh an eilein, ach chaochail am fear mu dheireadh aig an robh [[Gàidhlig Mhanainn|Gàidhlig Eilean Mhanainn]] mar chainnt màthaireil, [[Ned Madrell]], anns a' bhliadhna [[1973]].  Dh' ionnsaich buidhnean beaga de dhaoine an cànan aige fhèin agus aig casan Gàidheil eile ron sin. A bharrachd air sin, agus mus do chaochail Ned Madrell, thàinig ceannard na h-Èireann, Eamonn De Valera, chun eilein agus rinn na h-Èireannaich mu cheithir uairean de chlàraidhean na Gàidhlig Mhanainneach. Mar sin dheth, cha do bhàsaich a' Ghaelg riamh, agus tha feadhainn a dèanamh oidhirp an cànan ath-bheòthachadh gu ruige seo. 
+
+[[Image:Eilean Mhannain.jpg|right|thumb]]
+
 
 {{Ceiltich}}
 
