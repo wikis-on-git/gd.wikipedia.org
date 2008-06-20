@@ -1,53 +1,72 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''République française'''</big></big>
-| align="center" colspan="2"|
-{| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:center;"
-| width="130px"| [[Image:Flag_of_France.svg|125px|Bratach na  Frainge]]<br />[[Bratach na dùthcha]] || align=center width=130px|[[Image:France_coa.png|85px|Lùireach na  Frainge]]<br />[[Lùireach na dùthcha]]
-|-
-|}
-|-
-| align=center colspan=2 | <small>''Facal-Suaicheantais: Saorsa, co-ionnanas, Bràithreachas	<br>([[Fraingis]]: Liberté, Egalité, Fraternité)''</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[Image:LocationFrance.png|Location of France|250px]]
-|-
-|'''[[Cànan Oifigeil]]''' || [[Fraingis]]<sup>1</sup>
-|-
-|'''[[Prìomh-bhaile]]''' || [[Paris]]
-|-
-|'''Baile is Motha''' || [[Paris]]
-|-
-|'''[[Ceannard]]''': || [[Nicolas Sarkozy]]
-
-|-
-|'''[[Prìomh-mhinistear]]''': || [[François Fillon]]
-|-
-| '''[[Farsaingeachd]]'''<br>&nbsp;- Gu lèir<sup>2</sup><br><br><br>&nbsp;- [[Metropolitan France]]<sup>3</sup><br><br><br><br>&nbsp;- % uisge
-| [[Reangach 42mh]] <br> [[1 E11 m2|674,843 km&sup2;]] <br> (260,558 sq. mi.)<br> Reangach 47mh <br> [[1 E11 m2|551,695 km&sup2;]]<sup>4</sup><br>(213,011 sq. mi.)<br>[[1 E11 m2|543,965 km&sup2;]]<sup>5</sup><br>(210,026 sq. mi.)<br> 0.26%
-|-
-| '''[[Àireamh-shluaigh]]'''<br>(1 am Faoilleach, 2005)<br>&nbsp;- Gu lèir<sup>2</sup><br>&nbsp;- [[Metropolitan France]]<sup>3</sup><br>&nbsp;- [[Daingeachd Shluaigh]]<sup>3</sup>
-| [[Reangach 20mh]]<br><br> 63,044,000<br>60,560,000<br>111/km&sup2;
-|-
-
-|-
-| '''[[Ruith-airgid]]'''
-| [[Euro]] (&euro;)<sup>6</sup>, [[CFP Franc]]<sup>7</sup>
-|-
-| '''[[Laoidh Nàiseanta]]'''
-| ''[[La Marseillaise]]''
-|-
-|}
-
-
+{{Template:Dùthaich
+| Ainm =République française
+| BRATACH =Flag of France.svg
+| LÙIREACH =Armoiries république française.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location France EU Europe.png
+| LAOIDH_NÀISEANTA = “''[[La Marseillaise]]''”
+| SLUAGH_GHAIRM =''[[Saorsa, Co-ionnanas, Bràithreachas]]''<br />“Liberty, Equality, Fraternity”
+| CÀNAN_OIFIGEIL =[[Frangais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Paris]]
+| BAILE_AS_MOTHA =[[Paris]]
+| SEÒRSA_UACHDRANAIS =Poblachd le ceann-suidhe 
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Nicolas Sarkozy]]
+| AINM_CEANNARD2 =[[François Fillon]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Cumhnant Verdun
+| TACHARTAS2 = Bun-stèidh 
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =843 
+| CEANN_LATHA2 =1958
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =674843
+| REANGACH_F =40mh
+| UISGE = 0.26
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =64,473,140
+| REANGACH_S =20mh
+| DLÙTHS =114
+| REANGACH_D = 89mh
+| BLIADHNA_GDP = 2006
+| GDP =US $2.232 trillean
+| REANGACH_GDP =6mh
+| ÀIREAMH_GDP =US $35,404
+| REANGACH_PER_CAPITA = 18mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH = [[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =Euro
+| EADAR_LÌON =.fr
+| ÀIREAMH_FÒN =33
+}} 
 'S e dùthaich anns an [[Roinn-Eòrpa]] a tha anns an''' Fhraing'''. 'S e [[Paris]] am prìomh-baile aice  - aon de na bailtean as ainmeil agus as cudthromaich air [[an t-Saoghail|an Saoghal]] agus am baile as motha anns an Roinn-Eòrpa as dèidh [[Lunnainn]]. 'S i [[Frangais]] cànan nam Frangach, ach tha cànanan eile air am bruidhinn anns an dùthaich cuideachd - mar eisimpleir teanga le càirdeas ris a' Ghàidhlig ; am [[Breatannais ]] ( no "''Breton''" ann am Frangais) . A bharrachd air sin, tha na cànanan a leanas air an cleachdadh ann an sgìrean eile den Fhraing : [[Euskera]] ( ''Basque'' ), Catalanais, Corsicanais, [[Gearmailtis]], [[Fleamais]], [[Ocseadanais]] ( ''Occitan'' ) agus Alsaisean ( ''Alsatian'' ). 
 Tha [[crìochan]] aig an Fhraing leis [[a' Bheilg]], [[Lucsamburg]], [[a' Ghearmailt]], [[an Eilbheis]], an [[Eadailt]], [[Monaco]], [[Andòra]] agus [[an Spàinn]]. 
 Tha an Fhraing na ball cudthromach den t-[[Aonadh Eorpach]]  agus is i aon de na dùthchannan as motha tha ann.
 'S e an creideamh Caitligeach an [[creideamh]] as motha anns an Fhraing. 'S e [[ball-coise]] an spòrs is measail, ach tha [[Rugbaidh]] glè chudthromach cuideachd.
 
-== Aistidhean Co-Cheangailte=
+== Aistidhean Co-Cheangailte==
 *[[an t-Aonadh Eorpach]]
 *[[Tahiti]]
 
-== Ceangailean a-mach ==
+== Ceanglaichean a-mach ==
 
 * [http://www.pictures-europe.com/holidays-france.htm Dealbhan den Fhraing]
 * [http://www.pictures-europe.com/map/map-france.htm Map den Fhraing]
