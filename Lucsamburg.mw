@@ -1,33 +1,63 @@
-<table border=1 cellpadding=2 cellspacing=0 align=right width=290px>
-<caption><font size=+1>'''Grand-Duché de Luxembourg<BR>Großherzogtum Luxemburg<BR>Groussherzogtum (Grand-Duché) Lëtzebuerg'''</font></caption>
-<tr><td style=background:#efefef; align=center colspan=2>
-<table border=0 cellpadding=2 cellspacing=0>
-<tr><td align=center width=135px>[[Image:Flag of Luxembourg.svg|125px|Flag of the Grand Duchy of Luxembourg]]
-<td align=center width=135px rowspan=2>[[Image:Coat of arms Grand Duchy of Luxembourg large.png|125px|Coat of Arms of the Grand Duchy of Luxembourg]]
-<tr><td align=center width=135px>([[Bratach na dùthcha]])
-</table>
-<tr><td align=center colspan=2 style=border-bottom:3px solid gray;><font size=-1>''National [[motto]]: Mir wëlle bleiwe wat mir sinn''<br>([[Luxembourgish language|Luxembourgish]], We wish to stay what we are [Meaning: we wish to stay independent])</font>
-<tr><td align=center colspan=2>[[image:LocationLuxembourg.png]]</td></tr>
-<tr><td>[[Cànan Oifigeil|Cànanan Oifigeil]] <td>[[Fraingis]], [[Gearmailtis]], [[Lucsamburgais]]
-<tr><td>[[Prìomh-bhaile]] <td>[[Lucsamburg (baile)]]
-<tr><td>[[List of Grand Dukes of Luxembourg|Grand Duke]]<td>[[Grand Duke Henri of Luxembourg|Grand Duke Henri]] 
-<tr><td>[[Prìomh-mhinistear]]<td>[[Jean-Claude Juncker]]
-<tr><td>[[Farsaingeachd]]<br>&nbsp;- gu lèir:<br>&nbsp;- % Uisge<td>[[List of countries by area|Reangach 166mh]] <br> [[1 E9 m²|2,586 km²]] <br> Negligible 
-<tr><td>[[Àireamh-shluaigh]]<br>&nbsp;- gu lèir: <br>&nbsp;- [[Population density|Daingeachd:]]
-<td>[[List of countries by population|Reangach:  168mh]]<br> 442,972<br> 171/km&sup2; 
-<tr><td>[[GDP]] ([[2003]])<br> &nbsp;- Total&nbsp; <br> &nbsp;- Total <br> &nbsp;- GDP\capita <br> &nbsp;- GDP\capita
-<td>Reangach&nbsp;[[List of countries by GDP (PPP)|98th]], [[List of countries by GDP|62mh]],&nbsp;[[List of countries by GDP (PPP) per capita|1st]],&nbsp;[[List of countries by GDP (Nominal) per capita|1st]] <br> 22&nbsp;billion&nbsp;[[USD]] ([[List of countries by GDP (PPP)|PPP]]) <br> 26&nbsp;billion&nbsp;USD ([[List of countries by GDP |Nominal]]) <br> 48,900&nbsp;USD&nbsp;([[List of countries by GDP (PPP) per capita|PPP]]) <br> 66,279&nbsp;USD&nbsp;([[List of countries by GDP (Nominal) per capita|Nominal]])
-<tr><td>[[Sovereignty]] <td>[[1815]]
-<tr><td>[[Neo-Eisimeileachd: ]]<br>&nbsp;- Declared<br>&nbsp;- Recognised <td><br>[[1839]]<br>[[11 an Ceitean]], [[1867]]
-<tr><td>[[Airgead]] <td>[[Euro]](&euro;)'''&sup1;''', 
-<tr><td>[[Roinn Tìde:]]<br>&nbsp;-[[European Summer Time|-as t-samhradh:]]<td>[[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-<tr><td>[[Laoidh Nàiseanta]] <td>[[Ons Heemecht]]
-<tr><td>[[Top-level domain|Eadar-lìon TLD]]<td>.lu
-<tr><td>[[Còd Àireamh fòn eadar-nàiseanta]]<td>352
-<tr><td colspan=2 align=center>('''1''') Prior to [[1999]]: Luxembourg [[franc]]
-</table>
-
-' S e dùthaich bheag ann [[an Roinn-Eòrpa|an Eòrpa]] an Iar a tha ann an Lucsamburg. Tha i suidhichte taobh an ear [[a' Ghearmailt|na Gearmailt]], taobh tuath [[an Fhraing|na Frainge]] agus san earra-dheas [[a' Bheilg|na Beilge]].
+{{Template:Dùthaich
+| Ainm =<small><small>Groussherzogtum Lëtzebuerg<br/>Grand-Duché de Luxembourg<br/>Großherzogtum Luxemburg </small></small>
+| BRATACH =Flag_of_Luxembourg.svg
+| LÙIREACH =Coat of arms Grand Duchy of Luxembourg large.png
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location Luxembourg EU Europe.png
+| LAOIDH_NÀISEANTA = ''[[Ons Hémécht]]''<small><br/>"Our Homeland"</small><br>rioghail: ''De Wilhelmus''
+| SLUAGH_GHAIRM =''"[[Mir wëlle bleiwe wat mir sinn]]"''{{spaces|2}}<small>([[Lucsamburgais]])<br/>"We want to remain what we are"</small>
+| CÀNAN_OIFIGEIL = [[Fraingis]], [[Gearmailtis ]], [[Lucsamburgais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Lucsamburg (baile)|Lucsamburg]]
+| BAILE_AS_MOTHA =[[Lucsamburg (baile)|Lucsamburg]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = Diùc
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Henri, Grand Duke of Luxembourg|Diùc Henri]]
+| AINM_CEANNARD2 =[[Jean-Claude Juncker]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd bhon [[an Fhraing|Fhraing]]
+| TACHARTAS2 =1ad  chunnradh  [[Lunnainn]]
+| TACHARTAS3 =2na chunnradh Lunnainn
+| TACHARTAS4 = Stad aonadh pearsanta 
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =9mh, an t-Ògmhios [[1815]]
+| CEANN_LATHA2 =19mh, [[an Giblean]] [[1839]]
+| CEANN_LATHA3 =11mh, [[an Cèitean]] [[1867]]
+| CEANN_LATHA4 =23mh, [[an t-Samhain]] [[1890]]
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =2,586.4
+| REANGACH_F =175mh
+| UISGE = 
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =480,222
+| REANGACH_S = 171mh
+| DLÙTHS =186
+| REANGACH_D =59mh
+| BLIADHNA_GDP =2006
+| GDP =$32.6 billean
+| REANGACH_GDP =97mh
+| ÀIREAMH_GDP =$81,511
+| REANGACH_PER_CAPITA = 1ad
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.lu
+| ÀIREAMH_FÒN = 352
+}} 
+'S e dùthaich bheag ann [[an Roinn-Eòrpa|an Eòrpa]] an Iar a tha ann an Lucsamburg. Tha i suidhichte taobh an ear [[a' Ghearmailt|na Gearmailt]], taobh tuath [[an Fhraing|na Frainge]] agus san earra-dheas [[a' Bheilg|na Beilge]].
 
 Tha Lucsamburg na laighe aig crìoch nan Cànanan Ròmanach  agus Cànanan Gearmanach. Mar sin dheth tha trì cànanan oifigeil ann: [[Fraingis]], [[Gearmailtis]] agus [[Lucsamburgais]].
 
