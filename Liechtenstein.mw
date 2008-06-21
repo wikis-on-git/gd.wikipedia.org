@@ -1,72 +1,72 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''    Fürstentum Liechtenstein '''</font><br /><font size="+1"> '' 
- Principality of Liechtenstein ''  </font><br /> Liechtenstein </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:  Flag of Liechtenstein.svg |125px]]
-| align="center" width="140px" |[[Image:  Wappen Souveränes Fürstentum Liechtenstein.png |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 | "Für Gott, Fürst und Vaterland"<small><br/>
-"For God, Sovereign and Homeland" </small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Europe location LIE.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Gearmailtis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Vaduz]]
-|-
-|'''Baile is Motha''' || [[Schaan]]
-|-
-|'''Rìgh''': || [[Alois of Liechtenstein]]
-|-
-|'''[[Prìomh-ministear]]''': || [[Otmar Hasler]]
-|-
-| '''[[Arainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 214mh <br>  160.4 km&sup2; <br/> negligible 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| List of countries by Aireamh-shluaigh|Reangach: 211mh  <br>  33,987<small>([[2006]])</small><br> 210/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':
-| Independence as principality [[1806]]
-|-
-| '''[[Airgead]]''': || [[Swiss franc]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''||''[[Oben am jungen Rhein]]''<small><br/>"High Above the Young Rhine"</small> 
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . li
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 423
-|}
+{{Template:Dùthaich
+| Ainm =Fürstentum Liechtenstein
+| BRATACH =Flag of Liechtenstein.svg
+| LÙIREACH =Liechtenstein coa.png
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location LIE.png
+| LAOIDH_NÀISEANTA = ''[[Oben am jungen Rhein]]''<small><br/>"Up on the Young Rhine"</small>
+| SLUAGH_GHAIRM =Für Gott, Fürst und Vaterland<small><br/>For God, Prince and Fatherland </small>
+| CÀNAN_OIFIGEIL = [[Gearmailtis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Vaduz]]
+| BAILE_AS_MOTHA =[[Schaan]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = Prionnsa
+| TIOTAL_CEANNARD2 =  Leas-rìgh
+| TIOTAL_CEANNARD3 =[[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Hans-Adam II]]
+| AINM_CEANNARD2 =[[Alois, Prionnsa Liechtenstein|Alois]]
+| AINM_CEANNARD3 =[[Otmar Hasler]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br>mar prionnsalachd
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[1806]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =160.4
+| REANGACH_F =214mh
+| UISGE = 
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH =35,365
+| REANGACH_S =204mh
+| DLÙTHS =221
+| REANGACH_D =52mh
+| BLIADHNA_GDP = 2004
+| GDP =$3.441 billean
+| REANGACH_GDP =
+| ÀIREAMH_GDP =$130,277
+| REANGACH_PER_CAPITA =1
+| ROINN_TÌDE = [[Central European Time|CET]]
+| UTC_OFFSET = +1
+| AS_T_SAMHRADH = [[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 = +2
+| RUITH_AIRGID = Franc Eilbheiseach
+| EADAR_LÌON =.li
+| ÀIREAMH_FÒN =423
+}} 
+Is e dùthaich bheag ann am meadhan  [[an Roinn-Eòrpa|na Eòrpa]] a tha ann an '''Liechtenstein'''( IPA: ‘li, ɕtnʃtajn)
+Tha i na laighe eadar [[an Eilbheis]] san taobh an iar agus [[an Ostair]] san taobh an Ear.
 
 
-
-
-
-
-Is e dùthaich bheag ann am meadhan  [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann an '''Liechtenstein'''( IPA: ‘li, ɕtnʃtajn)
-Tha i na laighe eadar [[an Eilbheis]] ‘san taobh an Iar agus [[an Ostair]] ‘san taobh an Ear.
-
-
-Tha Liechtenstein ainmeil o chionn’s nach fheum muinntir na dùthcha cìs cosnaidh (Income tax) a phaigheadh. 
+Tha Liechtenstein ainmeil o chionn’s nach fheum muinntir na dùthcha cìs cosnaidh a phaigheadh. 
 
 
 Tha [[Vaduz]] na [[prìomh-bhaile]].
 
-
-
+==Ceanglaichean a-mach==
 
 
 *[http://www.liechtenstein.li/en/eliechtenstein_main_sites/portal_fuerstentum_liechtenstein/home.htm Principality of Liechtenstein] - Official site
