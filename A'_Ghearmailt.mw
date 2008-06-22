@@ -1,58 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Bundesrepublik Deutschland'''</font><br /> '''a' Ghearmailt'''</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Germany.svg‎ |125px|Flag of Germany]]
-| align="center" width="140px" | [[Image: Coat of Arms of Germany.svg |55px|Emblem of Germany]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha]]
-| align="center" width="140px" | [[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 | "Einigkeit und Recht und Freiheit"<br/><small>"Unity and justice and freedom"</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: LocationGermany.png]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Gearmailtis]],<small> [[Danish]], [[Low German]], [[Sorbais]], [[Friseach]] </small>
-|-
-|'''[[Prìomh-bhaile]]''' || [[Berlin]]
-|-
-|'''Baile is Motha''' || [[Berlin]]
-|-
-|'''[[Ceannard]]''': || [[Horst Köhler]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Angela Merkel]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 63mh <br> 
-357,021km&sup2; <br/> 2.416% 
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach  14mh]]<br>82,310,000<small>([[2006]])</small><br> 230.9/km&sup2; 
-|-
-| '''[[Neo-Eisimeileachd]]''':<br/> &nbsp;
-|[[German Empire]]<small>[[1871]]</small><br>[[Federal Republic]] <small>[[1949]]</small><br>[[German reunification|Reunification]]<small> [[1990]]</small>
-|-
-| '''[[Latha Naiseanta]]''': || [[3mh den Dàmhair]]
-|-
-| '''[[Airgead]]''': || [[Euro]],€ 
-
-|-
-| '''[[Roinn tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Nàiseanta]]'''||''[[Oran nan Gearmailtich]]<small><br>Einigkeit und Recht und Freiheit''<br><small>'' Aonachd 's ceartas 's saorsa</small>''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''': || .de
-|-
-| '''[[List of country calling codes|Còd Àireamh fòn]]''':
-| 49
-|}
-
-Is e dùthaich  anns  [[an Roinn-Eòrpa]] a tha anns '''a' Ghearmailt''', ( ainm oifigeal: ''Poblachd na Gearmailt''). Tha  crìochan aice leis [[an Danmhairg]], san ear leis [[a' Phòlainn]] agus leis [[an t-Seic]], sa deas leis [[an Ostair]] agus [[an Eilbheis]] agus san Iar leis [[an Fhraing]], [[Lucsamburg]],[[ a' Bheilg]] agus [[an Olaind]].
+{{Template:Dùthaich
+| Ainm =<small>Bundesrepublik Deutschland</small>
+| BRATACH =Flag of Germany.svg‎
+| LÙIREACH =Coat of Arms of Germany.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location GER.png
+| LAOIDH_NÀISEANTA = ''[[Òran nan Gearmailtich]]''<small> (treasamh rann)</small>
+| SLUAGH_GHAIRM = ''Einigkeit und Recht und Freiheit'' <small>([[Gearmailtis]])</small><br/> "Aonachd 's ceartas 's saorsa"
+| CÀNAN_OIFIGEIL =[[Gearmailtis]]
+| MION_CHÀNAN =[[ Danmhairgis]], [[Low German]], [[Sorbais]], [[Friosais]] 
+| PRÌOMH_BHAILE =[[Berlin]]
+| BAILE_AS_MOTHA =[[Berlin]]
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach 
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Seannsalair ]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Horst Köhler]]
+| AINM_CEANNARD2 =[[Angela Merkel]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =[[ Impireachd  Naomh Romanach]]
+| TACHARTAS2 =[[Impireachd  Ghearmailteach]]
+| TACHARTAS3 =Poblachd feadarail  
+| TACHARTAS4 =[[Ath-aontachadh na Gearmailt|Ath-aontachadh]]
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[962]]
+| CEANN_LATHA2 =18mh, [[am Faoilteach]] [[1871]]
+| CEANN_LATHA3 =23mh, [[an Ceitean]] [[1949]]
+| CEANN_LATHA4 =3mh, [[an Damhair]] [[1990]]
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA = 3mh, an Damhair
+| FARSAINGEACHD =357,021
+| REANGACH_F = 63mh
+| UISGE =  2.416
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =82,210,000
+| REANGACH_S =14mh
+| DLÙTHS =230
+| REANGACH_D =36mh
+| BLIADHNA_GDP = 2007
+| GDP =$2.81 trillean
+| REANGACH_GDP =5mh
+| ÀIREAMH_GDP =$34,181
+| REANGACH_PER_CAPITA =23mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.de
+| ÀIREAMH_FÒN =49
+}} 
+Is e dùthaich  anns  [[an Roinn-Eòrpa]] a tha anns '''a' Ghearmailt''', ( ainm oifigeal: ''Poblachd na Gearmailt''). Tha  crìochan aice leis [[an Danmhairg]], san ear leis [[a' Phòlainn]] agus leis [[an t-Seic]], sa deas leis [[an Ostair]] agus [[an Eilbheis]] agus san iar leis [[an Fhraing]], [[Lucsamburg]],[[ a' Bheilg]] agus [[an Olaind]].
 
 Tha [[Berlin]] na [[prìomh-bhaile]].
 
@@ -108,8 +113,9 @@ Image:Goethe Schiller Weimar.jpg|Weimar, clach-cuimhe Goethe
 Image:Ruegen-kreidefelsen.jpg|Ruegen
 </gallery><center>
 
-[[Category:An Roinn-Eòrpa|Gearmailt]]
-[[Category:A' Ghearmailt]]
+[[category:Dùthchannan]]
+[[Category:An Roinn-Eòrpa]]
+[[Category:A' Ghearmailt|*]]
 
 {{Link FA|vi}}
 
