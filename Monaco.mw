@@ -1,57 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>''' Principauté de Monaco '''</font><br /><font size="+1">   ''  Principality of Monaco '' </font><br />    Monaco </font>
-
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image:Flag of Monaco.svg|125px|Flag of Germany]]
-| align="center" width="140px" | [[Image:Coat of arms of Monaco.png |55px|Emblem of Germany]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha]]
-| align="center" width="140px" | [[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 |
-''"Deo Juvante"''<small><br/>"With God's Help"</small> 
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Europe_location_MCO.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Fraingis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Monaco-Ville]]
-|-
-|'''Aite as motha''' || [[Monte Carlo]]
-|-
-|'''[[Rìgh]]''': || [[Albert II, Prince of Monaco]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Jean-Paul Proust]]
-|-
-| '''[[Arainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 231mh <br> 
-1.95km&sup2; <br/> 0.0% 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-|Reangach: 1.<br>35,657<small>([[2006]])</small><br> 18,285/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|House of Grimaldi [[1297]]
-|-
-| '''[[Airgead]]''': || [[Euro]],€ 
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''||''[[Hymne Monégasque]]''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''': || .mc
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 377
-|}
-
-Is e  rìoghachd agus city-state (?) ann an  Iar Dheas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann am  '''Monaco'''. ('san [[Fraingis|Fhraingis]]: ''Principauté de Monaco'').  Tha i na laighe eadar [[a' Mhuir Meadhanach]] agus [[an Fhraing]] faisg air [[an Eadailt]]. 
+{{Template:Dùthaich
+| Ainm =Principauté de Monaco
+| BRATACH =Flag of Monaco.svg
+| LÙIREACH =Coat of arms of Monaco.svg
+| LÙIREACH_LEUD = 110
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe_location_MCO.png
+| LAOIDH_NÀISEANTA = ''[[Hymne Monégasque]]''
+| SLUAGH_GHAIRM =''"Deo Juvante"''{{spaces|2}}<small>([[Laideann]])<br />"With God's Help"</small>
+| CÀNAN_OIFIGEIL =[[Fraingis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =
+| BAILE_AS_MOTHA = [[Monte Carlo]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = Prionnsa
+| TIOTAL_CEANNARD2 = Ministear na Stàite
+| TIOTAL_CEANNARD3 =Ceann-suidhe
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Albert II]]
+| AINM_CEANNARD2 =[[Jean-Paul Proust]]
+| AINM_CEANNARD3 =[[Stéphane Valeri]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =[[House of Grimaldi]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[1297]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =1.95
+| REANGACH_F =233mh
+| UISGE = 0.0
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH =32,671
+| REANGACH_S =210mh
+| DLÙTHS =16,754
+| REANGACH_D =2na
+| BLIADHNA_GDP = 2007
+| GDP =$976 millean
+| REANGACH_GDP =2/3
+| ÀIREAMH_GDP =$70,670
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID = [[Euro]]
+| EADAR_LÌON =.mc
+| ÀIREAMH_FÒN =377
+}} 
+Is e  rìoghachd agus city-state (?) ann an Iar Dheas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann am  '''Monaco'''. ('san [[Fraingis|Fhraingis]]: ''Principauté de Monaco'').  Tha i na laighe eadar [[a' Mhuir Meadhanach]] agus [[an Fhraing]] faisg air [[an Eadailt]]. 
 
 Is e an àireamh de na daoine, a tha a’ fuireach air gach km² , an tè as motha air feadh [[an t-Saoghal]].
 
