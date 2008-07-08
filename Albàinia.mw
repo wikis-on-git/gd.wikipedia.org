@@ -1,64 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Republika e Shqipërise'''</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image:Flag of Albania.svg|125px|Flag of Albania]]
-| align="center" width="140px" | [[Image:Albania state emblem.png|55px|Emblem of Albania]]
-|-
-| align="center" width="140px" | ([[Flag of Albania|In detail]])
-| align="center" width="140px" | ([[Emblem of Albania|In detail]])
-|}
-|-
-| align="center" colspan=2 style="border-bottom:3px solid gray;" | <font size="-1">''National [[motto]]: none''</font>
-|-
-| align="center" colspan=2 | [[image:LocationAlbania.png]]
-|-
-| '''[[Canan Oifigeil]]''': || [[Albanianais]]
-|-
-| '''[[Priomh-bhaile]]''':<br><br>&nbsp;- Aireamh-shluaigh:<br>&nbsp;- [[Coordinates]]:
-| [[Tirana]]<br><small>(Tiranë)</small><br>353,400<small> ([[2003]])</small><br>41°20'N, 19°48'E 
-
-|-
-| '''[[List of Priomhaires of Albania|Head of State]]''':
-| [[Alfred Moisiu|Alfred Moisiu]], <small>''Priomhaire''</small>
-|-
-| '''[[List of Priomh-Mhinisteirs of Albania|Head of Government]]''':
-| [[Fatos Nano]], <small>''Priomh-Mhinisteir''</small>
-|-
-| '''[[Area]]''':<br/>&nbsp;- Total: <br>&nbsp;- % water:
-| [[List of countries by area|Ranked 139th]] <br> [[1 E10 m&sup2;|28,748 km&sup2;]] <br/> 4.7% 
-|-
-|'''[[Land borders]]''':<br>'''[[Coastline]]''':
-|720 km<br>362 km 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Total: <br>&nbsp;- [[Density]]:                  
-| [[List of countries by Aireamh-shluaigh|Ranked 126th]]<br>3,582,205 <small>([[2003]])</small><br> 125/km&sup2; 
-|-
-| '''[[GDP]]''':<br>&nbsp;- Total ([[List of countries by GDP|2003]])<br>&nbsp;- GDP/capita<br>&nbsp;-  GDP/capita
-| [[List of countries by GDP (PPP)| 112th]], [[List of countries by GDP| 106th]], [[List of countries by GDP (PPP) per capita|130th]], [[List of countries by GDP (Nominal) per capita|93rd]]<br> [[US$]]15.7 Billion ([[List of countries by GDP|PPP]]) <br> $4,400 ([[List of countries by GDP (PPP) per capita|PPP]]) <br> $2,230 ([[List of countries by GDP (Nominal) per capita|Nominal]])<br> 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-| From the [[Ottoman Empire]]<br/>[[November 28]], [[1912]]
-|-
-| '''[[Latha Naiseanta]]''': || [[28 November]]
-|- valign=top
-| '''[[Creideamh]]''': || [[Muslim]] <small>70%</small><br>[[Greek Orthodox]] <small>20%</small><br>[[Roman Catholic]] <small>10%</small><br>
-|-
-| '''[[Airgead]]''': || [[Lek (Airgead)|Lek <small>(Lk)</small>]] = 100 [[qindarka]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- in [[European Summer Time|summer]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|- valign=top
-| '''[[Laoidh Naiseanta]]''': || ''[[Hymni i Flamurit|Hymni i Flamurit <small>(/Rreth Flamurit Të Për Bashkuar]])'' <br>[[Albanian language|Albanian]]: <small>''[[Hymni i Flamurit|Hymn to the Flag (/The Flag That United Us In The Struggle]])</small>''
-|-
-| '''[[Top-level domain|Internet TLD]]''': || [[.al]]
-|-
-| '''[[List of country calling codes|Calling Code]]''':
-| 355
-|}
-Is e dùthaich anns an earra-dheas [[an Roinn-Eòrpa|na h-Eòrpa]] a tha ann an '''Albàinia'''.Albàinia<ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Albania&gaidhlignobeurla=beurla    Faclair Akerbeltz]</ref><ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
+{{Template:Dùthaich
+| Ainm =Republika e Shqipërisë
+| BRATACH =Flag of Albania.svg
+| LÙIREACH =Albania state emblem.svg  
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe_location_ALB.png
+| LAOIDH_NÀISEANTA = ''[[Himni i Flamurit|Rreth flamurit të përbashkuar]]''<br/><small>("United Around the Flag")</small>
+ | SLUAGH_GHAIRM =<div style="line-height:125%;"> '' Ti Shqipëri më jep nder, më jep emrin shqipëtar '' <br>(<small>''You Albania give me honor, you give me the name ''Albanian''.)
+| CÀNAN_OIFIGEIL =[[Albàinis]] 
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Tirana]]
+| BAILE_AS_MOTHA =[[Tirana]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Bamir Topi]]
+| AINM_CEANNARD2 =[[Sali Berisha]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd bhon<br> Impireachd  Ottoman 
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 28mh, [[An t-Samhain]]  [[1912]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =28748
+| REANGACH_F =139mh
+| UISGE =  4.7
+| BLIADHNA = 2008
+| ÀIREAMH_SHLUAIGH =3,600,523
+| REANGACH_S =130mh
+| DLÙTHS =134
+| REANGACH_D = 63
+| BLIADHNA_GDP =2008
+| GDP =$21.160
+| REANGACH_GDP =112mh
+| ÀIREAMH_GDP =$6,649
+| REANGACH_PER_CAPITA = 100mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =Lek albàiniach
+| EADAR_LÌON =.al
+| ÀIREAMH_FÒN =355
+}} 
+Is e dùthaich anns an earra-dheas [[an Roinn-Eòrpa|na h-Eòrpa]] a tha ann an '''Albàinia'''.<ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Albania&gaidhlignobeurla=beurla    Faclair Akerbeltz]</ref><ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 <ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref><ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref> 
 Tha crìochan aice leis [[a' Ghrèig]] san earra-dheas, sa tuath leis [[Am Monadh Neagrach|a' Mhonadh Neagrach]] agus le [[Masadoinia]] san ear.
 
