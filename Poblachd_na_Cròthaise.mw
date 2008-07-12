@@ -1,52 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> ''' Republika Hrvatska '''</font><br /><font size="+1"> ''Poblachd Chroàisia '' 
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:  Flag_of_Croatia.svg  |125px]]
-| align="center" width="140px" |[[Image:  Croatian_Coat_of_Arms.svg  |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Europe_location_CRO.png  |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Croatian]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Zagreb]]
-|-
-|'''Baile as Motha''' || [[Zagreb]]
-|-
-|'''[[Ceann-suidhe]]''': ||[[Stjepan Mesić]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Ivo Sanader]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 126mh <br> 56,542
-km&sup2; <br/> 0.2%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-|Reangach: 115mh  <br>  4,555,000<small>([[2007]])</small><br> 81/km&sup2; 
-|-
-| '''[[Neo-Eisimealachd]]''':<br/> &nbsp;
-|Medieval duchy [[852]]<br> Elevated to Kingdom of Croatia [[925]]<br> Union with [[an Ungair|Hungary]] [[1102]]<br> joined Habsburg Empire [[1527]]<br> Neo-eisimileach bhon [[an Ostair|Ostair]]-[[Ungair]] [[1918]]<br>[[Yugoslawia|SFR Yugoslavia]] seceded [[1991]]
-|-
-| '''[[Ruith-airgid]]''': || [[Croatian kuna]]
-|-
-| '''[[Roinn Tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| ''[[Lijepa naša domovino]]''<small><br/>''Our beautiful homeland''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . hr
-|-
-| '''[[List of country calling codes|Àireamh fòn eadar-nàiseanta]]''':
-| 385
-|}
+{{Template:Dùthaich
+| Ainm =Republika Hrvatska
+| BRATACH =Flag_of_Croatia.svg
+| LÙIREACH =Coat of arms of Croatia.svg
+| LÙIREACH_LEUD = 60
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location CRO.png
+| LAOIDH_NÀISEANTA = ''[[Lijepa naša domovino]]''<small><br/>''Our beautiful homeland''</small>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Croatais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Zagreb]]
+| BAILE_AS_MOTHA =[[Zagreb]]
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 = Ceann-suidhe na Phàrlamaid
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Stjepan Mesić]]
+| AINM_CEANNARD2 =[[Ivo Sanader]]
+| AINM_CEANNARD3 =[[Luka Bebić]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidhichte
+| TACHARTAS2 =Rìoghachd
+| TACHARTAS3 =Co-aonadh leis [[an Ungair]]
+| TACHARTAS4 = Neo-eisimeileachd <br>bhon [[An Ostair|Ostair]]-[[An Ungair|Ungair]]
+| TACHARTAS5 =Co-aonadh le [[Yugoslavia]]
+| TACHARTAS6 = Neo-eisimeileachd  
+| CEANN_LATHA1 =[[7mh linn]]
+| CEANN_LATHA2 = [[925]]
+| CEANN_LATHA3 =1ad, [[am Faoilleach]] [[1527]]
+| CEANN_LATHA4 = 29mh, [[an Damhair]] [[1918]]
+| CEANN_LATHA5 = 1ad, [[an Dùbhlachd]] [[1918]]
+| CEANN_LATHA6 = 25mh, [[an t-Og-mhios]]  [[1991]]
+| LATHA_NÀISEANTA =5mh,  [[an Lùnasdal]]
+| FARSAINGEACHD =56,542
+| REANGACH_F =126mh
+| UISGE = 0.2
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =4,453,500
+| REANGACH_S =114mh
+| DLÙTHS =81
+| REANGACH_D =115mh
+| BLIADHNA_GDP =2008
+| GDP =$74.419 billean
+| REANGACH_GDP =
+| ÀIREAMH_GDP =$16,758
+| REANGACH_PER_CAPITA =51mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Croatian kuna|kuna]]
+| EADAR_LÌON =.hr
+| ÀIREAMH_FÒN =385
+}} 
 Is e dùthaich ann an earra-dheas [[an Roinn-Eòrpa|na h-Eòrpa]] a tha ann an '''Croàisia'''<ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref> neo
 '''Croatia'''.<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 Tha crìochan aice  ‘sa tuath leis [[ an Ungair]] agus le [[Sloibhìnia]], san ear le [[Seirbia]],
