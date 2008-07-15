@@ -1,60 +1,63 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''  Ελληνική Δημοκρατία '''</font><br /><font size="+1"> ''Ellinikí Dimokratía '' </font><br /> Hellenic Republic</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:  Flag of Greece.svg |125px]]
-| align="center" width="140px" |[[Image:  Coat_of_arms_of_Greece.svg|70px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2|Ελευθερία ή θάνατος<br/>''[[Eleftheria i thanatos]]''<small> ([[transliteration]])<br/>"Freedom or else Death"
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: EU location GRE.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Greugais]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Athens]]
-|-
-|'''Baile as Motha''' || [[Athens]]
-|-
-|'''[[Ceann-suidhe]]''': ||[[Karolos Papoulias]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Kostas Karamanlis]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 96mh <br> 131,990 km&sup2; <br/> 0.8669%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 74mh ]] <br>  11,170,957 <small>([[2007]])</small><br> 84/km&sup2; 
-|-
-| '''[[Neo-Eisimealachd]]''':<br/> &nbsp;
-|First known Greek civilizations c.3000 BC <br> Last previously independent state [[1461]]<br>
-Independence from the Ottoman Empire [[1821]]
-|-
-| '''[[Ruith Airgid]]''': || [[Euro]]
-|-
-| '''[[Roinn Tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+3)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| Ύμνος εις την Ελευθερίαν <small><br/>(Ímnos is tin Eleftherían)<br> [[Hymn to Freedom]] 
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-|.gr
-|-
-| '''[[List of country calling codes|Àireamh fòn eadar-nàiseanta]]''':
-| +30
-|}
-
-
-
-
-
-
+{{Template:Dùthaich
+| Ainm =<span style="line-height:1.33em;"> Ελληνική Δημοκρατία <br/>Ellinikí Dimokratía</span>
+|conventional_long_name = <span style="line-height:1.33em;"> Hellenic Republic </span>
+| BRATACH =Flag of Greece.svg
+| LÙIREACH =Coat of arms of Greece.svg
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location GRE.png
+| LAOIDH_NÀISEANTA = Ύμνος εις την Ελευθερίαν <br/>''Ýmnos eis tīn Eleutherían''<br/>[[Hymn to Liberty]]
+| SLUAGH_GHAIRM =Ελευθερία ή θάνατος<br/>''[[Eleftheria i thanatos]]''{{spaces|2}}<small><br/>"Freedom or Death"</small>
+| CÀNAN_OIFIGEIL = [[Greugais]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[An Àithne]]
+| BAILE_AS_MOTHA =[[An Àithne]]
+| SEÒRSA_UACHDRANAIS =Poblachd  pàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Neach-labhairt 
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Karolos Papoulias]]
+| AINM_CEANNARD2 =[[Kostas Karamanlis]]
+| AINM_CEANNARD3 =[[Dimitris Sioufas]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Saoidheachd
+| TACHARTAS2 = Neo-eisimeileachd bhon <br/> [[Ottoman Empire|Impireachd Ottoman]]
+| TACHARTAS3 = Aithnichte
+| TACHARTAS4 =Bun-reachd làithreach 
+| TACHARTAS5 = 
+| TACHARTAS6 =
+| CEANN_LATHA1 = mu [[3000]] [[RC]]
+| CEANN_LATHA2 = 25mh, [[am Màrt]] [[1821]]
+| CEANN_LATHA3 = 3mh, [[an Gearran]] [[1830]]
+| CEANN_LATHA4 =[[1975]]
+| CEANN_LATHA5 = 
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =131,990
+| REANGACH_F =96mh
+| UISGE = 0.8669
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =11,216,708
+| REANGACH_S = 74mh
+| DLÙTHS =84
+| REANGACH_D = 88mh
+| BLIADHNA_GDP =2008
+| GDP =$ 342.886 billean
+| REANGACH_GDP =32
+| ÀIREAMH_GDP =$30,745
+| REANGACH_PER_CAPITA = 30mh
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.gr
+| ÀIREAMH_FÒN =30
+}} 
 Is e dùthaich ann an Earra-dheas [[an Roinn-Eòrpa|na Roinn-Eòrpa]] a tha anns '''a' Ghrèig'''<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 <ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref><ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref> neo '''a’ Ghréig'''<ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref>
 (Ελλάδα `sa [[Greugais|Ghreugais]]). 'Sa tuath tha crìochan aice le [[Albàinia]], [[Masadoinia]] agus [[Bulgàiria]] agus leis [[an Tuirc]] anns an ear. Tha [[a’ Mhuir Meadhanach]] anns an iar dheas.
