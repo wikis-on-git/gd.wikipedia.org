@@ -1,55 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>''' Principat d'Andorra '''</font><br /><font size="+1">   ''  Principality of Andorra '' 
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Andorra.svg|125px|Flag of Germany]]
-| align="center" width="140px" | [[Image: Coat of arms of Andorra.svg |55px|Emblem of Germany]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha ]]
-| align="center" width="140px" | [[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 |
-"Virtus Unita Fortior"''<small>([[Laideann]])<br/>"Virtue United is Stronger"</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" | [[image: Europe location ANR.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Catalan]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Andorra la Vella]]
-|-
-|'''Aite as motha''' || [[Andorra la Vella]]
-|-
-|'''[[Ceann-suidhe]]''': ||[[Nicolas Sarkozy]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Albert Pintat Santolària]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 193mh <br> 
-193km&sup2; <br/> 0.0% 
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-|Reangach: 194.<br>71,822 <small>([[2007]])</small><br> 154/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|established [[1278]]
-|-
-| '''[[Airgead]]''': || [[Euro]],€ 
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''||
-''[[El Gran Carlemany|El Gran Carlemany, Mon Pare]]''<small><br/>''The Great [[Charlemagne]], my Father''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''': || .ad
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 376
-|}
+{{Template:Dùthaich
+| Ainm =Principat d'Andorra
+| BRATACH =Flag of Andorra.svg
+| LÙIREACH =Coat of arms of Andorra.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location ANR.png
+| LAOIDH_NÀISEANTA = ''[[El Gran Carlemany|El Gran Carlemany, Mon Pare]]''{{spaces|2}}<small>([[Catalan]])<br/>''The Great [[Charlemagne]], my Father''</small>
+| SLUAGH_GHAIRM =''"Virtus Unita Fortior"''{{spaces|2}}<small> ([[Laideann]])<br/>"Strength United is Stronger"</small>
+| CÀNAN_OIFIGEIL =[[Catalan]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Andorra la Vella]]
+| BAILE_AS_MOTHA =[[Andorra la Vella]]
+| SEÒRSA_UACHDRANAIS =Poblachd  pàrlamaideach<br> is Co-prionnsachd
+| TIOTAL_CEANNARD1 =  Co-Phrionnsa Fhrangach
+| TIOTAL_CEANNARD2 = Co-Phrionnsa easbaigeach 
+| TIOTAL_CEANNARD3 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Nicolas Sarkozy]]
+| AINM_CEANNARD2 =[[Joan Enric Vives Sicília]]
+| AINM_CEANNARD3 =[[Albert Pintat]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd  
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[1278]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =468
+| REANGACH_F =193mh
+| UISGE = 
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =71,822
+| REANGACH_S =194mh
+| DLÙTHS =154
+| REANGACH_D =69mh
+| BLIADHNA_GDP =2005
+| GDP =$2.77 billean
+| REANGACH_GDP =177mh
+| ÀIREAMH_GDP =$38,800
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.ad
+| ÀIREAMH_FÒN =376
+}} 
 Is e  dùthaich ann an iar dheas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann an '''Andorra'''.<ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Andorra&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref> Tha i suidhichte anns na  [[Pyrenees]] eadar [[an Fhraing]] anns an taobh tuath agus [[an Spàinn]] anns an taobh a deas. 
 
 Tha Andorra ainmeil o chionn’s nach fheum muinntir an àite cìs cosnaidh a phaigheadh. 
