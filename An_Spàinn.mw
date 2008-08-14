@@ -1,47 +1,62 @@
-{| border=1 cellpadding=2 cellspacing=0 align=right width=300px style="margin:0 0 0.5em 1em;"
-|+<font size="+1">'''Reino de España'''<br/>
-|-
-| style=background:#efefef; align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-|-
-| align=center width=140px | [[Image:Flag of Spain.svg|125px|Flag of Spain]] || align=center width=140px | [[Image:Escudo de España.png|125px|Spain: Coat of Arms]]
-|-
-| align=center width=140px valign="center" | ([[Flag of An Spàinnnach|In Detail]]) || align=center width=140px | Gearradh arm
-|}
-|-
-| align=center colspan=2 style=border-bottom:3px solid gray; | <font size=-1>''[[Facal-suaicheantais]] nàiseanta: [[Plus Ultra]] (further beyond)''</font>
-|-
-| align=center colspan=2 | [[image:LocationSpain.png]]
-|-
-| [[Cànan oifigeil|Cànanan oifigeil]] || [[Spàinntis]] (Castellano)<br/>(in some autonomous communities, [[Catalan]], [[Bascais]] or [[Gallego]] are co-official; in the [[Val d'Aran]], the [[Aranese]] dialect of [[Occitan]] is co-official)
-|-
-| [[Prìomh-bhaile]] || [[Madrid]]
-|-
-| Baile as motha || [[Madrid]]
-|-
-| Capital´s [[coordinate]]s <br/> || 40° 24' N, 3° 41' W
-|-
-| [[Righ]] || [[Juan Carlos I na Spàinn|Juan Carlos I]] (since 1975)
-|-
-| [[Prìomhaire]] || [[Jose Luis Rodríguez Zapatero]]
-|-
-| [[Ceàrnaidh]]<br/>&nbsp;- Total <br/>&nbsp;- % water || [[List of countries by area|Ranked 50th]] <br/> [[1 E11 m2|504,782 km&sup2;]] <br/> 1.04%
-|-
-| [[Àireamh-shluaigh]] <br/>&nbsp;- Total ([[2004]]) <br/>&nbsp;- [[Density]] || [[List of countries by population|Ranked 29th]]<br/> 43.197.684<br/> 85/km&sup2;
-|-
-| [[Airgead]] || [[Euro]] (&#8364;)'''&sup1;''', [[Euronnan Spàinteacha]]
-|-
-| [[Time zone]]s || [[Mainland]]: [[UTC]]+1 ([[Canary Islands]] UTC 0). [[Daylight Saving Time|DST]].
-|-
-| [[Laoidh naiseanta| Laoidh 'naiseanta']] || [[Marcha Real]]
-|-
-| [[Top-level domain|Internet TLD]] || .es
-|-
-| [[List of country calling codes|Calling Code]] || 34
-|-
-| colspan=2 align=center | <br/> ('''1''') Prior to [[1999]]: Spanish [[peseta]]
-|}
-
+{{Template:Dùthaich
+| Ainm =Reino de España
+| BRATACH =Flag of Spain.svg
+| LÙIREACH =Escudo de España (mazonado).svg
+| LÙIREACH_LEUD = 90
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location Spain EU Europe.png
+| LAOIDH_NÀISEANTA = [[Marcha Real]]<small> ([[Spàinntis]])<br />"Royal March"
+| SLUAGH_GHAIRM =[[Plus Ultra]]{{spaces|2}}<small>([[Laideann]]) <br />"Further Beyond"</small>
+| CÀNAN_OIFIGEIL =  [[Spàinntis]] (Castellano)
+| MION_CHÀNAN =[[Aranese]], [[Bascais]], [[Catalanais]] is [[Galician]]
+| PRÌOMH_BHAILE =[[Madrid]]
+| BAILE_AS_MOTHA =[[Madrid]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = Rìgh
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Juan Carlos I of Spain|Juan Carlos I]]
+| AINM_CEANNARD2 =[[José Luis Rodríguez Zapatero]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Aonadh
+| TACHARTAS2 = de facto
+| TACHARTAS3 = de jure
+| TACHARTAS4 = 
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = [[1516]]
+| CEANN_LATHA2 = [[1716]]
+| CEANN_LATHA3 = [[1812]]
+| CEANN_LATHA4 = 
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =195,364
+| REANGACH_F =51mh
+| UISGE = 1.04
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =45,200,737
+| REANGACH_S =28mh
+| DLÙTHS =90
+| REANGACH_D =106mh
+| BLIADHNA_GDP =2007
+| GDP =$1.310 trillean
+| REANGACH_GDP = 11mh
+| ÀIREAMH_GDP =$31,471
+| REANGACH_PER_CAPITA =26mh
+| ROINN_TÌDE =[[Euro]] (€)
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 = +2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.es
+| ÀIREAMH_FÒN = 34
+}} 
 'S i '''An Spàinn'''<ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Spain&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref><ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref>
 <ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 neo '''An Spàinnt''' stait ann an [[Eorpa]]-an-iar. 'S i rìoghachd ioma-nàiseantach a th' innte.
