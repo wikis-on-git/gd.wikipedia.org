@@ -1,32 +1,62 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="285px" style="margin:0.5em 0 0.5em 1em">
-<caption><font size="+1">'''Repubblica Italiana'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-
-<table border="0" cellpadding="2" cellspacing="0" style="text-align:center;">
-<tr><td width="140px">[[Image:Flag of Italy.svg|125px|Flag of Italy]]
-<td width="140px" rowspan="2">[[Image:Italian_coa.png|110px|Italian coat of arms]]
-<tr><td width="140px">([[Bratach na dùthcha]])
-</table>
-
-<tr><td align="center" colspan=2 style="border-bottom:3px solid gray;"><font size="-1">''National [[motto]]: none''</font>
-<tr><td align=center colspan=2>[[image:LocationItaly.png]]
-<tr><td>[[Cànan Oifigeil]]            <td>[[Eadailtis]]         (+ [[Gearmailtis]] ann an [[Sud Tyrol]] agus [[Fraingis]] ann an [[Valle d'Aosta]].)         
-<tr><td>[[Prìomh-bhaile]]                      <td>[[An Ròimh]]
-<tr><td>Baile as Motha<td>[[An Ròimh]]
-<tr><td>[[Priomhaire na h-Eadailt|Priomhaire]]                        <td>[[Giorgio Napolitano]]
-<tr><td>[[Prìomh-mhinistear]]     <td>[[Romano Prodi]]
-<tr><td>[[Farsaingeachd]]<br>&nbsp;- Gu lèir <br>&nbsp;- % uisge</td><td>[[List of countries by area|Reangach 71mh]] <br>[[1 E11 m2|301,230 km&sup2;]] <br> 2.4%               
-<tr><td>[[Àireamh-shluaigh]] <br>&nbsp;-Gu lèir ([[2003]]) <br>&nbsp;-[[Àireamh-shluaigh density|Dluths]]<td>[[List of countries by Aireamh-shluaigh|Reangach 22mh]]<br>57,998,353<br> 197/km&sup2;
-<tr><td>[[Italian unification|Unification]]<td>[[March 17]], [[1861]]
-<tr><td>[[PPP|GDP]] (PPP)<br>&nbsp;-gu lèir: ([[2003]])<br>&nbsp;-GDP/head<td>[[List of countries by GDP|Reangach 6mh]]<br>$1.550 Trillion<br>$26,700
-<tr><td>[[Ruith-airgid]]                     <td>[[Euro]]'''&sup1;''' &euro; (EUR)<br>see [[Italian euro coins]]
-<tr><td>[[Roinn tìde]]<br>&nbsp;- in [[European Summer Time|as t-samhradh]]<td>[[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-<tr><td>[[List of Laoidh Naiseantas|Laoidh Nàiseanta]]              <td>[[Fratelli d'Italia|''La Canzone degli Italiani'']], better known as ''Fratelli d'Italia''
-<tr><td>[[Top-level domain|Eadar-lìon TLD]]<td>.it
-<tr><td>[[List of country calling codes|Còd Àireamh fòn eadar-nàiseanta]]<td>39
-<tr><td colspan="2" align="center">('''1''') Prior to [[1999]]: [[Lira]]<br>
-</table>
-
+{{Template:Dùthaich
+| Ainm =Repubblica Italiana
+| BRATACH =Flag of Italy.svg
+| LÙIREACH =Italy-Emblem.svg
+| LÙIREACH_LEUD = 83
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location Italy EU Europe.png
+| LAOIDH_NÀISEANTA = ''[[Il Canto degli Italiani]]''<br /><small>(ainm eile: ''Inno di Mameli'')</small><br />''The Song of the Italians'' 
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Eadailtis]]
+| MION_CHÀNAN =[[Gearmailtis]] ann an [[Sud Tyrol]] agus [[Fraingis]] ann an [[Valle d'Aosta]]
+| PRÌOMH_BHAILE =[[An Ròimh]]
+| BAILE_AS_MOTHA =[[An Ròimh]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Giorgio Napolitano]]
+| AINM_CEANNARD2 =[[Silvio Berlusconi]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Steidheachadh
+| TACHARTAS2 =Poblachd
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =17mh, [[am Màrt]]  [[1861]]
+| CEANN_LATHA2 =2nd, [[an t-Og-mhios]]  [[1946]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =301,318
+| REANGACH_F =71mh
+| UISGE = 2.4
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =59,619,290
+| REANGACH_S =23mh
+| DLÙTHS =197.6
+| REANGACH_D =54mh
+| BLIADHNA_GDP = 2007
+| GDP =$1.888 trillean
+| REANGACH_GDP =8mh
+| ÀIREAMH_GDP =$32,319
+| REANGACH_PER_CAPITA =20mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.it
+| ÀIREAMH_FÒN =39
+}} 
 'S e duthaich mhòr a tha anns '''an Eadailt''' <ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Italy&gaidhlignobeurla=beurla    Faclair Akerbeltz]</ref><ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref>
 <ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref><ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref> air taobh-a-deas na [[Roinn-Eòrpa]]. 'S e [[tairbeart]] neo [[rubha]] mòr a tha ann, le cuid de eileanan còmhla. 'S e [[An Roimh]] am [[prìomh-bhaile]] aice agus 's e [[Eadailtis]] an cànan aca.
 
