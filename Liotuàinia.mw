@@ -1,54 +1,64 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Lietuvos Respublika''' <br/>''Poblachd Liotuàinia''<br/>
-</font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Image: Flag of Lithuania.svg|125px|]]
-| align="center" width="140px" | [[Image: Coat of Arms of Lithuania.svg |55px|]]
-|-
-| align="center" width="140px" | [[Bratach na dùthcha ]]
-| align="center" width="140px" | [[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 | ''"Tautos jėga vienybėje"''<small><br/>"The strength of the nation lies in unity"</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: EU_location_LIT.png|300px| ]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Lithuanian]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Vilnius]]
-|-
-|'''Baile as Motha''' || [[Vilnius]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Valdas Adamkus]]
-|-
-|'''[[Prìomh-mhinistear]]''': ||[[Gediminas Kirkilas]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 123mh <br> 65,200km&sup2; <br/> 1,35%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach  127mh]]<br>3,575,439 <small>([[2007]])</small><br> 55/km&sup2; 
-|-
-| '''[[Neo-Eisimealachd]]''':<br/> &nbsp;
-|Kingdom [[1253]]<br> Personal union with Poland [[1386]]<br>Independence declared [[1918]]<br> Soviet occupation [[1940]]<br>Independence restored [[1990]]
-|-
-| '''[[Ruith-Airgid]]''': || [[Lithuanian litas]]
-
-|-
-| '''[[Roinn Tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-|[[Coordinated Universal Time|UTC]] + 2<br>[[Coordinated Universal Time|UTC]] + 3
-|-
-| '''[[Laoidh Nàiseanta]]'''||''[[Tautiška giesmė]]''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''': || .lt
-|-
-| '''[[List of country calling codes|Àireamh fòn eadar-nàiseanta]]''':
-|  370
-|}
+{{Template:Dùthaich
+| Ainm =Lietuvos Respublika
+| BRATACH =Flag of Lithuania.svg
+| LÙIREACH =Coat of Arms of Lithuania.svg
+| LÙIREACH_LEUD = 75
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location LIT.png
+| LAOIDH_NÀISEANTA = ''[[Tautiška giesmė]]''
+| SLUAGH_GHAIRM =''"Tautos jėga vienybėje"''<small><br/>"The strength of the nation lies in unity"</small>
+| CÀNAN_OIFIGEIL =[[Lithuanian]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Vilnius]]
+| BAILE_AS_MOTHA =[[Vilnius]]
+| SEÒRSA_UACHDRANAIS =
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Neach labhairt Sheimas
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Valdas Adamkus]]
+| AINM_CEANNARD2 =[[Gediminas Kirkilas]]
+| AINM_CEANNARD3 =[[Česlovas Juršėnas]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Ciad tùs
+| TACHARTAS2 = Stàit
+| TACHARTAS3 =Aonadh leis [[a' Phòlainn]]
+| TACHARTAS4 = Fo smachd na [[an Ruis|Ruise]] is [[Prussia]] 
+| TACHARTAS5 = Neo-eisimeileachd  
+| TACHARTAS6 = Fo smachd na [[Sobhiet]] 
+| TACHARTAS7 = Neo-eisimeileachd  
+| CEANN_LATHA1 = 14mh, [[an Gearran]]  [[1009]]
+| CEANN_LATHA2 = 6mh, [[an t-Iuchar]]  [[1253]]
+| CEANN_LATHA3 = 2na, [[an Gearran]] [[1386]]
+| CEANN_LATHA4 =[[1795]]
+| CEANN_LATHA5 =16mh, [[an Gearran]] [[1918]]
+| CEANN_LATHA6 = 15mh, [[an t-Og-mhios]]  [[1940]]
+| CEANN_LATHA7 =  11ad, [[am Màrt]] [[1990]]
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =65,200
+| REANGACH_F =123mh
+| UISGE = 1,35%
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =3,369,600
+| REANGACH_S =130mh
+| DLÙTHS =52
+| REANGACH_D =120mh
+| BLIADHNA_GDP =2008
+| GDP =$66 billean
+| REANGACH_GDP =75mh
+| ÀIREAMH_GDP =$19, 730
+| REANGACH_PER_CAPITA =49mh
+| ROINN_TÌDE =[[Eastern European Time|EET]]
+| UTC_OFFSET =+2
+| AS_T_SAMHRADH =[[Eastern European Summer Time|EEST]]
+| UTC_OFFSET_2 =+3
+| RUITH_AIRGID = Litas Liotuàinianach
+| EADAR_LÌON =.lt
+| ÀIREAMH_FÒN =370
+}} 
 Is e dùthaich ann [[an Roinn-Eòrpa]] a Tuath  a tha ann an '''Liotuàinia'''. <ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref>
 <ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref>. Cleachdar ainmean eile cuideachd, m.e.:
 * '''An Liotuain''' <ref>[ http://www.akerbeltz.org/faclair/toraidhean.php?search=Lithuania&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref>
