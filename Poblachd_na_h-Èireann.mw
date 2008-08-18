@@ -1,45 +1,67 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="280px" style="margin-left:1em">
-<caption><font size="+1">'''Éire '''<br/>'''Éire'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan="2">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="135px">[[Image:Flag of Ireland.svg|125px|Bratach Poblachd na h-Éireann]]</td>
-<td align="center" width="135px" rowspan="2" height="130px">[[Image:Coat_of_arms_of_Ireland.svg|80px|Poblachd na h-Éireann: Armas]]</td></tr>
-<tr><td align="center" width="135px">([[Bratach]])</td></tr>
-</table></td></tr>
-<tr><td align="center" colspan=2><font size="-1">''Ráiteas Náisiúnta (neamhoifigiúil):<br>Éire go Brách (Éire go Brách)''</font></td></tr>
-<tr><td align=center colspan=2>[[image:LocationIreland.png|Poblachd na h-Éireann]]</td></tr>
-<tr><td>[[Cánanan Oifigeil]]            </td><td>[[Gaeilge]], [[Beurla]] seachtrach</td></tr>
-<tr><td>[[Prìomh-bhaile]]                       </td><td>(Baile Átha Cliath)''</td></tr>
-<tr><td>Baile as motha                      </td><td>[[Baile Átha Cliath]]</td></tr>
-<tr><td>[[Uachdaran]] </td><td>[[Máire Mhic Ghiolla Íosa]]</td></tr>
-<tr><td>[[Taoiseach]] ([[prìomh-mhinisteir]])                     </td><td>[[Bertie Ahern]], [[TD (parliament)|TD]]</td></tr>
-<tr><td>[[Farsaingeachd]]<br/>&nbsp;- Iomlan<br/>&nbsp;- % uisge</td><td>[[List of countries by area|Reangach-Saoghail: 117mh]] 70,273 km² <br/> 2%</td></tr>               
-<tr><td>[[Àireamh-shluaigh]]<br/>&nbsp;- Iomlan([[2002]]) <br/>&nbsp;- [[Dlùths]]</td><td>[[Liosta dhùthchannan a-rèir Aireamh-shluaigh|Reangach-Saoghail: 121mh]] 3,917,336 
-<br/> 56/km&sup2; </td></tr>
-<tr><td>[[GDP]] ([[2003]])<br> &nbsp;- Iomlan&nbsp; <br> &nbsp;- Iomlan&nbsp; <br> &nbsp;- GDP\capita <br> &nbsp;- GDP\capita
-<td>[[Liosta dhùthchannan a-rèir GDP (PPP)|54mh]], [[Liosta dhùthchannan a-rèir GDP|31mh]],&nbsp;[[Liosta dhùthchannan a-rèir GDP (PPP) per capita|10mh]],&nbsp;[[Liosta dhùthchannan a-rèir GDP (Nominal) per capita|5th]] <br> 114&nbsp;billion&nbsp;[[USD]] ([[Liosta dhùthchannan a-rèir GDP (PPP)|PPP]]) <br> 149&nbsp;billion&nbsp;[[USD]] ([[Liosta dhùthchannan a-rèir GDP|Nominal]])  <br> 29,300&nbsp;USD&nbsp;([[Liosta dhùthchannan a-rèir GDP (PPP) per capita|PPP]]) <br> 43,862&nbsp;USD&nbsp;([[Liosta dhùthchannan a-rèir GDP (Nominal) per capita|Nominal]])
-<tr><td>[[Neo-Eiseimealachd]]
-<br/>&nbsp;- Ceann-latha</td><td>[[Cùmhnant Angla-Éireannach]]
-<br/>[[6 Dùbhlachd]], [[1921]]</td></tr>
-<tr><td>[[Ruith-Airgid]]                      </td><td>[[Euro]](&euro;)'''&sup1;''', [[airgead Éireannach Euro]]</td></tr>
-<tr><td>[[Roinn tìde]]</td>
-<td>[[WET]] ([[UTC]]; [[UTC]]+1 in [[European Summer Time|Samhradh]])</td>
-</tr>
-<tr>
-<td>[[Laoidh nàiseanta]]               </td><td>[[Amhrán na bhFiann]] </td></tr>
-<tr><td>[[Top-level domain|TLD Eadar-lìon]] </td><td>[[.ie]]</td></tr>
-<tr><td>[[List of country calling codes|Còd Àireamh fòn eadar-naiseanta:]]</td><td>353</td></tr>
-<tr><td align="center" colspan="2">('''1''') Roimh[[1999]]: [[Irish pound]] (Punt)</td></tr>
-</table>
+{{Template:Dùthaich
+| Ainm =Éire
+| BRATACH =Flag of Ireland.svg
+| LÙIREACH =Coat of arms of Ireland.svg
+| LÙIREACH_LEUD = 60
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location IRL.png
+| LAOIDH_NÀISEANTA = ''[[Amhrán na bhFiann]]''{{spaces|2}}<br /><small>''The Soldier's Song''</small>
+| SLUAGH_GHAIRM =Éire go Brách <small>(neo-oifigeil)</small>
+| CÀNAN_OIFIGEIL =[[ Gaeilge]], [[Beurla]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Baile Átha Cliath]]
+| BAILE_AS_MOTHA =[[Baile Átha Cliath]]
+| SEÒRSA_UACHDRANAIS =Poblachd<br>(Deomocrasaidh pàrlamaideach)
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Taoiseach]]
+| TIOTAL_CEANNARD3 =[[Tánaiste]]
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Mary McAleese]]
+| AINM_CEANNARD2 =[[Brian Cowen]]
+| AINM_CEANNARD3 =[[Mary Coughlan]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd  
+bhon [[an Rìoghachd Aonaichte|Rìoghadh Aonaichte]]
+| TACHARTAS2 = Ainichte
+| TACHARTAS3 = bun-reachd làithreach 
+| TACHARTAS4 = 
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =24mh, [[an Giblean]] [[1916]]
+| CEANN_LATHA2 = 6mh, [[an Dùbhlachd]] [[1922]]
+| CEANN_LATHA3 = 29mh, [[an Dùbhlachd]] [[1937]]
+| CEANN_LATHA4 = 
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =70,273
+| REANGACH_F = 120mh
+| UISGE =  2.00
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =4,339,000
+| REANGACH_S =
+| DLÙTHS =60.3
+| REANGACH_D = 139mh
+| BLIADHNA_GDP =2006
+| GDP =$177.2 billean
+| REANGACH_GDP =50mh
+| ÀIREAMH_GDP =$45,600
+| REANGACH_PER_CAPITA =8mh
+| ROINN_TÌDE =[[Western European Time|WET]]
+| UTC_OFFSET =+0
+| AS_T_SAMHRADH =([[Western European Summer Time|WEST]])
+| UTC_OFFSET_2 =+1
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.ie
+| ÀIREAMH_FÒN =353
+}} 
 
 [[category:An Roinn-Eòrpa]]
 [[Category:Eirinn]]
-[[Category:Stèidheachaidhean 1921]]
-[[Category:Buill-stàit an Aonaidh na h-Eòrpa|Poblachd na h-Éireann]]
-[[Category:Rìoghachdan nan Eilean|Poblachd na h-Éireann]]
 [[Category:Poblachd na h-Éireann| ]]
-[[Category:Poblachdan|Poblachd na h-Éireann]]
-[[Category:Àiteachan sgapte|Poblachd na h-Éireann]]
 
 {{Link FA|af}}
 
