@@ -1,54 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> ''' República Portuguesa '''</font><br /><font size="+1"> '' Portuguese Republic ''  
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:Flag of Portugal.svg|125px]]
-| align="center" width="140px" |[[Image:Coat_of_arms_of_Portugal.svg|55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:locationPortugal.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Portagailis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Lisbon]]
-|-
-|'''Baile is Motha''' || [[Lisbon]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Aníbal Cavaco Silva]]
-|-
-|'''[[Prìomh-ministear]]''': || [[José Sócrates]]
-|-
-| '''[[Arainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 110mh <br> 
-92,152km&sup2; <br/> 0.5%
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 75mh ]] <br>  10,642,836<small>([[2007]])</small><br> 114/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Battle of São Mamede [[1128]] <br>Rìoghachd [[1128]]<br>Poblach  [[1910]]<br>Carnation Revolution [[1974]]
-|-
-| '''[[Airgead]]''': || [[Euro]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Western European Time|WET]]<br>[[Western European Summer Time|WEST]]([[Coordinated Universal Time|UTC]] 0)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[A Portuguesa]]''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . pt
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 351
-|}
-
-
+{{Template:Dùthaich
+| Ainm =República Portuguesa
+| BRATACH =Flag of Portugal.svg
+| LÙIREACH =Coat of arms of Portugal.svg
+| LÙIREACH_LEUD = 125
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =EU location POR.png
+| LAOIDH_NÀISEANTA = "''[[A Portuguesa]]''"
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Lisbon]]
+| BAILE_AS_MOTHA =[[Lisbon]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Seanadh ceann-suidhe
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Aníbal Cavaco Silva]]
+| AINM_CEANNARD2 =[[José Sócrates]]
+| AINM_CEANNARD3 =[[Jaime Gama]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Stèidheachadh
+| TACHARTAS2 =Blàr ''São Mamede''
+| TACHARTAS3 =Rìoghachd
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[868]]
+| CEANN_LATHA2 = 24mh, [[an t-Og-mhios]]  [[1128]]
+| CEANN_LATHA3 =25mh, [[an t-Iuchar]] [[1139]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =92,345
+| REANGACH_F =110mh
+| UISGE = 0.5
+| BLIADHNA = 2006
+| ÀIREAMH_SHLUAIGH =10,584,344
+| REANGACH_S =75mh
+| DLÙTHS =114
+| REANGACH_D =87mh
+| BLIADHNA_GDP =2007
+| GDP =$230.6 billean
+| REANGACH_GDP =43mh
+| ÀIREAMH_GDP =$23,464
+| REANGACH_PER_CAPITA =34mh
+| ROINN_TÌDE =[[Western European Time|WET]]
+| UTC_OFFSET =
+| AS_T_SAMHRADH =[[Western European Summer Time|WEST]]
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.pt
+| ÀIREAMH_FÒN =351
+}} 
 Is e dùthaich anns an iar dheas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha anns  '''a' Phortagail'''<ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Portugal&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref><ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref>
 <ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref> neo '''Portagail'''<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 (Portagailis: República Portuguesa, IPA: ʁɛ'publikɐ puɾtu'gezɐ).
