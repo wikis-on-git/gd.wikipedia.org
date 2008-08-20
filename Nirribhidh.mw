@@ -1,54 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''Kongeriket Noreg'''</font><br /><font size="+1"> ''Kongeriket Norge''  </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Norway.svg |125px]]
-| align="center" width="140px" |[[Image:Norway coa.png|55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 |Royal: ''Alt for Norge'' <small>("Everything for Norway")
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Europe location NOR.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Nirribhis]] ([[Bokmål]] agus [[Nynorsk]])
-|-
-|'''[[Prìomh-bhaile]]''' || [[Oslo]]
-|-
-|'''Baile is Motha''' || [[Oslo]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Rìgh Harald V]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Jens Stoltenberg]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 61mh <br> 
-385,155 km&sup2; <br/> 7%
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| List of countries by Aireamh-shluaigh|Reangach: 114mh  <br>  4,695,134<small> ([[2006]])</small><br> 12/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|Constitution 1814<br>[[Independence]] from union with [[Sweden]] 1905
-|-
-| '''[[Airgead]]''': || [[Norwegian krone]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''||national: [[Ja, vi elsker]]''<br> royal: ''[[Kongesangen]]
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| .no
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 47
-|}
+{{Template:Dùthaich
+| Ainm =Kongeriket Norge<br /><br>Kongeriket Noreg
+| BRATACH =Flag_of_Norway.svg
+| LÙIREACH =Coat of Arms of Norway.svg
+| LÙIREACH_LEUD = 60
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location NOR.png
+| LAOIDH_NÀISEANTA = ''[[Ja, vi elsker dette landet]]'' <small>(nàiseanta)</small> <br> ''[[Kongesangen]]'' <small>(rìoghail)</small> 
+| SLUAGH_GHAIRM =Rìoghail: ''Alt for Norge / Alt for Noreg''<br /> <small>("All for Norway") </small> <br />
+| CÀNAN_OIFIGEIL =[[Nirribhis]] ([[Bokmål]] agus [[Nynorsk]])
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[Oslo]]
+| BAILE_AS_MOTHA =[[Oslo]]
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small>(Deomocrasaidh pàrlamaideach)</small>
+| TIOTAL_CEANNARD1 = [[Rìgh]]
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Harald V]]
+| AINM_CEANNARD2 =[[Jens Stoltenberg]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Aonadh 
+| TACHARTAS2 = Bun-reachd
+| TACHARTAS3 = Neo-eisimeileachd bhon<br> aonadh leis [[an t-Suain]] 
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =[[872]]
+| CEANN_LATHA2 =17mh, [[an Cèitean]] [[1814]]
+| CEANN_LATHA3 =7mh, [[an t-Og-mhios]] [[1905]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =385,252
+| REANGACH_F =61mh
+| UISGE = 7.0
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =4,777,100
+| REANGACH_S = 114mh
+| DLÙTHS =12
+| REANGACH_D =202na
+| BLIADHNA_GDP =2007
+| GDP =$257.4 billean
+| REANGACH_GDP =40mh
+| ÀIREAMH_GDP =$55,600
+| REANGACH_PER_CAPITA =3mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID = [[krone Nirribheach]]
+| EADAR_LÌON =.no
+| ÀIREAMH_FÒN =47
+}} 
 Is e dùthaich  ann an [[Lochlainn]] anns  [[an Roinn-Eòrpa]] a tha ann an '''Nirribhidh'''. <ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref><ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Norway&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref>
 <ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref>
 <ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref>
