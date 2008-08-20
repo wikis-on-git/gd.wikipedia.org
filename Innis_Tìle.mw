@@ -1,59 +1,68 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> ''' Lýðveldið Ísland'''</font><br /><font size="+1"> ''Republic of Iceland''  
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image: Flag of Iceland.svg |125px]]
-| align="center" width="140px" |[[Image:Coat of Arms of Iceland.svg|70px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Europe location ISL.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Icelandic]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Reykjavík]]
-|-
-|'''Baile is Motha''' || [[Reykjavík]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Ólafur Ragnar Grímsson]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Geir H. Haarde]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 107mh <br> 
-103,000km&sup2; <br/> 2.7%
-|-
-| '''[[Aireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 172mh ]] <br>  309,699<small>([[2007]])</small><br> 2.9/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':<br/> &nbsp;
-|[[Independence]] from [[Denmark]] [[1904]]<br>
-Poblachd [[1944]]
-|-
-| '''[[Airgead]]''': || [[Icelandic króna]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;
-| [[Central European Time|UTC]] ([[Greenwich Mean Time|GMT]] +0)
-|-
-| '''[[Laoidh Naiseanta]]'''|| ''[[Lofsöngur]]''
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-|.is
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 354
-|}
+{{Template:Dùthaich
+| Ainm =Lýðveldið Ísland
+| BRATACH =Flag of Iceland.svg
+| LÙIREACH =Coat of Arms of Iceland.svg
+| LÙIREACH_LEUD = 95
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location ISL.png
+| LAOIDH_NÀISEANTA = ''[[Lofsöngur]]''
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =
+| MION_CHÀNAN =[[Icelandic]]
+| PRÌOMH_BHAILE = [[Reykjavík]]
+| BAILE_AS_MOTHA =[[Reykjavík]]
+| SEÒRSA_UACHDRANAIS = Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Ceann-suidhe [[Althing]]
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Ólafur Ragnar Grímsson]]
+| AINM_CEANNARD2 =[[Geir Haarde]]
+| AINM_CEANNARD3 =[[Sturla Böðvarsson]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd<br>bhon [[An Danmhairg| Danmhairg]]
+| TACHARTAS2 =Poblachd
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 =1ad, [[an Gearran]] [[1904]]
+| CEANN_LATHA2 =17mh, [[an t-Og-mhios]] [[1944]]
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =103,000
+| REANGACH_F =107mh
+| UISGE = 2.7
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =316,252
+| REANGACH_S =172mh
+| DLÙTHS =3,1
+| REANGACH_D =233mh
+| BLIADHNA_GDP =2006
+| GDP =$12.172 billean
+| REANGACH_GDP = 132mh
+| ÀIREAMH_GDP =$40,277 (2005)
+| REANGACH_PER_CAPITA =5mh
+| ROINN_TÌDE =[[Greenwich Mean Time|GMT]]
+| UTC_OFFSET =+0
+| AS_T_SAMHRADH =
+| UTC_OFFSET_2 =
+| RUITH_AIRGID =[[Icelandic króna]]
+| EADAR_LÌON =.is
+| ÀIREAMH_FÒN =354
+}} 
 'S e [[eilean]] agus dùthaich a tha ann an '''Innis Tìle''' <ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Iceland&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref><ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref>
 <ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref><ref>Brigh nam Facal, Faclair Ur don Bhun-sgoil (deas. Cox, Richard A.V.) - ISBN 0903204215</ref> neo 
 '''Innis Tile'''<ref>Feuch Facal, Gairm (1995), ISBN 1871901391</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref>
-aig bàrr [[an Cuan Siar|a' Chuan Siar]], agus taobh-a-tuath den [[an Roinn-Eòrpa|Roinn-Eòrpa]]. 'S e [[Reykjavik]] na prìomh-bhaile.
+aig bàrr [[an Cuan Siar|a' Chuan Siar]], agus taobh-a-tuath na [[an Roinn-Eòrpa|Roinn-Eòrpa]]. 'S e [[Reykjavik]] na prìomh-bhaile.
 
-'S e  [[Althing]] a' pharlamaid nàiseanta aig  Innis Tile.
+'S e  [[Althing]] a' pharlamaid nàiseanta aig  Innis Tìle.
 
 ==Eachdraidh==
 Bhí an t-oileán folamh suas go dtí an [[9ú haois]], nuair a shroich inimircigh ón g[[Críoch Lochlann]], [[Éire]] agus [[Albain]] an tír. De réir an [[Íslendingabók]] (''Libellus Islandorum nó'' ''Leabhair na hÍoslainnaigh''), ba é [[Ingólfur Arnarson]] ón Iorua an chéad duine a chuir faoi sa tír, i [[Réicivíc]] i [[870]]. Tháinig na [[Ceiltigh]] agus na [[Na Cruithnigh|Cruithnigh]] ag an am céanna, mar sclábhaíthe ar dtús. Ceapann roinnt scoláirí go raibh manaigh Éireannacha ina gcónaí sa tír roimh na Lochlainnaigh.
@@ -62,7 +71,7 @@ Bunaíodh an [[Althing]] i [[930]] i d[[Þingvellir]], 45km ó Réicivíc, agus 
 
 Glacadh a riail féin i [[1904]], agus neamhspleáchas i [[1918]].
 
-==Tir-eolas==
+==Tir-eòlas==
 An 18ú oileán is mó sa domhan í an Íoslainn, atá suite san Aigéan Atlantach idir [[An Ghraonlainn|an Ghraonlainn]], [[An Iorua|an Iorua]], [[Éire]], [[Albain]] agus na h[[Oileáin Fharó]]. Téann [[An Ciorcal Artach]] tríd an t-oileán [[Grímsey]], atá suite in aice leis an cósta tuaisceartach. Páirt den [[An Eoraip|Eoraip]] is ea í fós, cé go bhfuil an tír scoite ón mhór-roinn. 
 
 Oileán [[bolchán|bolcánach]] í an tír, agus tá 10% den tír clúdaithe le  h-[[oighearshruth|oighearshruthanna]]. Tá fiordanna suite sna cóstanna, agus tá an chuid is mó de na cathracha bunaithe orthu.  
