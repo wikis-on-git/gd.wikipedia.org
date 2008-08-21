@@ -1,57 +1,62 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''Република Србија '''</font><br /><font size="+1"> ''Republika Srbija''  </font><br /> 
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:  Flag_of_Serbia.svg |125px]]
-| align="center" width="140px" |[[Image:  Coat of arms of Serbia.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image: Location_of_Serbia_in_Europe,_Kosovo_included.png  |300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Searbais]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[Belgrade]]
-|-
-|'''Baile as Motha''' || [[Belgrade]]
-|-
-|'''[[Ceann-suidhe]]''': ||[[Boris Tadić]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Mirko Cvetković]]
-|-
-| '''[[Farsaingeachd]]''':<br/>&nbsp;- Gu lèir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 113mh <br> 
-88,361km&sup2; <br/> 0.13%
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu lèir: <br>&nbsp;- [[Daingneachd]]:                  
-|Reangach: 151mh  <br>  10,147,398<small>([[2007]])</small><br> 115/km&sup2; 
-|-
-| '''[[Neo-Eisimealachd]]''':<br/> &nbsp;
-| First unified state mu [[960]]<br>Rìoghachd [[1077]]/[[1217]]<br>Independence lost to [[Ottoman Empire]] [[1459]] <br>First Serbian Uprising [[1804]] <br>First Constitution [[1835]]<br>Recognized [[1878]] 
-|-
-| '''[[Ruith-airgid]]''': || [[Serbian dinar]]
-|-
-| '''[[Roinn Tìde]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Nàiseanta]]'''|| ''[[Bože pravde]]''<small><br/>''God of  Justice''</small>
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . yu, (.rs)
-|-
-| '''[[List of country calling codes|Àireamh fòn eadar-nàiseanta]]''':
-| 381
-|}
-
-
-
-
-
+{{Template:Dùthaich
+| Ainm =<span style="line-height:1.33em;">Република Србија <br/> Republika Srbija</span>
+| BRATACH =Flag of Serbia.svg
+| LÙIREACH =Coat of arms of Serbia.svg
+| LÙIREACH_LEUD = 80
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Location of Serbia in Europe, Kosovo included.png
+| LAOIDH_NÀISEANTA = <span style="line-height:1.25em;">''[[Bože pravde|Боже правде / Bože pravde]]''<small><br/>  "God of Justice"</small></span>
+| SLUAGH_GHAIRM =
+| CÀNAN_OIFIGEIL =[[Searbais]]
+| MION_CHÀNAN =[[Hungarian]], [[Slovak]], [[Romanian]], [[Croatian]],[[Albanian]]
+| PRÌOMH_BHAILE =[[Belgrade]]
+| BAILE_AS_MOTHA =[[Belgrade]]
+| SEÒRSA_UACHDRANAIS = Poblachd deomocrasach
+| TIOTAL_CEANNARD1 = Ceann-suidhe
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =Ceann-suidhe na Pàrlamaid
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Boris Tadić]]
+| AINM_CEANNARD2 =[[Mirko Cvetković]]
+| AINM_CEANNARD3 =[[Slavica Đukić Dejanović]]
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 =Ciad Rìoghachd
+| TACHARTAS2 =Impireachd Sèarbach
+| TACHARTAS3 =Neo-eisimeileachd caillte<br>don [[Ottoman Empire]]
+| TACHARTAS4 =Ar-a-mach 
+| TACHARTAS5 = Bunreachd na Sèarb
+| TACHARTAS6 =Aithnichte
+| CEANN_LATHA1 =[[1077]]
+| CEANN_LATHA2 =[[1345]]
+| CEANN_LATHA3 =[[1459]]
+| CEANN_LATHA4 =[[1804]]
+| CEANN_LATHA5 =[[1835]]
+| CEANN_LATHA6 =[[1878]]
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =88 361
+| REANGACH_F =
+| UISGE = 0.13
+| BLIADHNA =2008
+| ÀIREAMH_SHLUAIGH =10,159,046
+| REANGACH_S =
+| DLÙTHS =115
+| REANGACH_D =94mh
+| BLIADHNA_GDP =2008
+| GDP =$81.982 billean
+| REANGACH_GDP =
+| ÀIREAMH_GDP =$10 985
+| REANGACH_PER_CAPITA =
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID = Dinar Sèarbach
+| EADAR_LÌON =.rs
+| ÀIREAMH_FÒN =381
+}} 
 Is e dùthaich anns an Earra-dheas [[an Roinn-Eòrpa|na h-Eòrpa]] a tha anns '''an t-Sèarb''' <ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=Serbia&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref> neo '''Seirbia''',  (ainm oifigeil: ''Republika Srbija''). Tha crìochan aice  ‘sa tuath leis [[ an Ungair]], san ear le [[Romàinia]] agus [[Bulgàiria]], ‘sa deas le [[Albàinia]] agus san iar leis [[Am Monadh Neagrach|a' Mhonadh Neagrach]], [[Croàisia]] agus [[Bosna agus Heartsagobhana]].
 
 
