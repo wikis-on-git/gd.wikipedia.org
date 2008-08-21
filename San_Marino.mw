@@ -1,65 +1,65 @@
-Is dòcha gu bheil sibh a' lorg [[San Marino (baile)]].
+''Is dòcha gu bheil sibh a' lorg [[San Marino (baile)]].''
 
-
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big> '''   Serenissima Repubblica di San Marino '''</font><br /><font size="+1"> ''  Most Serene Republic of San Marino ''  </font><br /> San Marino </font>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" |[[Image:  Flag of San Marino.svg |125px]]
-| align="center" width="140px" |[[Image:  Coat of arms of San Marino.svg |55px]]
-|-
-| align="center" width="140px" |[[Bratach na dùthcha ]]
-| align="center" width="140px" |[[Lùireach na dùthcha]]
-|}
-|-
-| align=center colspan=2 | ''Libertas''<small><br/>"Liberty"</small>
-|-
-| align=center colspan=2 style="background:#f9f9f9;" |[[image:Europe location SMO.png|300px]] 
-|-
-|-
-|'''[[Cànan Oifigeil]]''' || [[Eadailtis]]
-|-
-|'''[[Prìomh-bhaile]]''' || [[San Marino (baile)|San Marino]]
-|-
-|'''Baile is Motha''' || [[Serravalle]]
-|-
-|'''[[Ceann-suidhe]]''': || [[Alessandro Mancini]]
-|-
-|'''[[Prìomh-mhinistear]]''': || [[Fiorenzo Stolfi]]
-|-
-| '''[[Àrainn]]''':<br/>&nbsp;- Gu Leir: <br>&nbsp;- % Uisge:
-| List of countries by area|Reangach: 223mh <br> 61 km&sup2; <br/> negligible 
-|-
-| '''[[Àireamh-shluaigh]]''':<br>&nbsp;- Gu leir: <br>&nbsp;- [[Daingneachd]]:                  
-| [[List of countries by Aireamh-shluaigh|Reangach: 212mh ]] <br>  28,117<small>([[2005]])</small><br> 481/km&sup2; 
-|-
-| '''[[Neo-Eiseimealachd]]''':
-|Foundation [[301]]
-|-
-| '''[[Airgead]]''': || [[Euro]]
-|-
-| '''[[Time zone]]''':<br>&nbsp;- [[European Summer Time|as t-samhradh]]:
-| [[Central European Time|CET]] ([[Coordinated Universal Time|UTC]]+1)<br>[[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2)
-|-
-| '''[[Laoidh Naiseanta]]'''||[[Inno Nazionale della Repubblica]]
-|-
-| '''[[Top-level domain|Eadar-lìon TLD]]''':
-| . sm
-|-
-| '''[[List of country calling codes|Àireamh fon eadar-naiseanta]]''':
-| 378
-|}
-
-
-
-
-
-
-
-
-Is e dùthaich bheag ann an  Deas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann an  '''San Marino'''  (‘san [[Eadailtis]]: ''Serenissima Repubblica di San Marino''). Tha i na laighe anns [[an Eadailt]].
+{{Template:Dùthaich
+| Ainm = <small>Serenissima Repubblica di San Marino</small>
+| BRATACH =Flag of San Marino.svg
+| LÙIREACH =Coat of arms of San Marino.svg
+| LÙIREACH_LEUD = 100
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA =Europe location SMO.png
+| LAOIDH_NÀISEANTA = "[[Inno Nazionale della Repubblica]]"
+| SLUAGH_GHAIRM =''Libertas''{{spaces|2}}<small>([[Laideann]])<br/>"Liberty"</small>
+| CÀNAN_OIFIGEIL =[[Eadailtis]]
+| MION_CHÀNAN =
+| PRÌOMH_BHAILE =[[San Marino (baile)|San Marino]]
+| BAILE_AS_MOTHA =[[Dogana]]
+| SEÒRSA_UACHDRANAIS =Poblachd phàrlamaideach
+| TIOTAL_CEANNARD1 = ''Captains Regent''
+| TIOTAL_CEANNARD2 = 
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 =[[Federico Pedini Amati]] <br> [[Rosa Zafferani]]
+| AINM_CEANNARD2 =
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = Neo-eisimeileachd bhon<br>[[Roman Empire|Impireachd Romanach]]
+| TACHARTAS2 =
+| TACHARTAS3 =
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 3mh, [[an t-Sultain]]  [[301]]
+| CEANN_LATHA2 =
+| CEANN_LATHA3 =
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD =61
+| REANGACH_F =225mh
+| UISGE = 
+| BLIADHNA =2007
+| ÀIREAMH_SHLUAIGH =29,615
+| REANGACH_S =212mh
+| DLÙTHS = 481
+| REANGACH_D =20mh
+| BLIADHNA_GDP =2001
+| GDP =$904 millean
+| REANGACH_GDP = 195mh
+| ÀIREAMH_GDP =$34,600
+| REANGACH_PER_CAPITA =12mh
+| ROINN_TÌDE =[[Central European Time|CET]]
+| UTC_OFFSET =+1
+| AS_T_SAMHRADH =[[Central European Summer Time|CEST]]
+| UTC_OFFSET_2 =+2
+| RUITH_AIRGID =[[Euro]] (€)
+| EADAR_LÌON =.sm
+| ÀIREAMH_FÒN =378
+}} 
+Is e dùthaich bheag ann an deas [[an Roinn-Eòrpa| na Roinn-Eòrpa]] a tha ann an  '''San Marino'''  (‘san [[Eadailtis]]: ''Serenissima Repubblica di San Marino''). Tha i suidhichte anns [[an Eadailt]].
 
 Canar gur e a’ Phoblachd as sine air feadh [[an t-Saoghal]], chaidh a stèidheachadh ann an [[301]].
 
