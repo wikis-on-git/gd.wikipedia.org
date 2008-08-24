@@ -1,23 +1,63 @@
-<table border="1" cellpadding="2" cellspacing="0" align="right" width="300px">
-<caption><font size="+1">'''an Rìoghachd Aonaichte'''<br>'''United Kingdom'''</font></caption>
-<tr><td style="background:#efefef;" align="center" colspan=2>
-<table border="0" cellpadding="2" cellspacing="0">
-<tr><td align="center" width="140px"> [[image:Rìoghachd aonaichte.png]]</td>
-<td align="center" width="140px"></td></tr>
-<tr><td align="center" width="140px"></td>
-<td align="center" width="140px"></td></tr>
-</table></td></tr>
-<tr><td>[[Cànan oifigeil]]:</td><td>Dim. [[Beurla]] (de facto), [[Gàidhlig]]([[na h-Eileanan an Iar]]),  agus [[Cuimris]]([[a'Chuimrigh]]) (Achd 2004)</td></tr>
-<tr><td>[[Prìomh-bhaile]]:</td><td>[[Lunnainn]]</td></tr>
-<tr><td>'''Baile as Motha''':</td><td>[[Lunnainn]]</td></tr>
-<tr><td>[[Prìomh Mhinistear an Rìoghachd Aonaichte|Prìomh Mhinistear]]:</td><td>[[Gordon Brown]]
-<tr><td>[[Àireamh-shluaigh]] <br>&nbsp;- (2001):<br>&nbsp;- [[Dlùths]]: </td><td><br> 58,789,194 <br> 246.5/cm²  </td></tr>
-<tr><td>[[Stèidhichte]]:</td><td>[[Seumas VI na h-Alba]] [[1707]]</td></tr>
-<tr><td>[[Airgead]]:</td><td>[[Punnd Sasannach]] (£)</td></tr>
-<tr><td>[[Laoidh nàiseanta]]:</td><td>:<br>''[[God Save the Queen]]''</td></tr>
-</table>
-
-'S e dùthaich anns [[an Roinn-Eòrpa]] a tha ann '''an Rìoghachd Aonaichte'''<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref><ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref><ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=United%20Kingdom&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref>
+{{Template:Dùthaich
+| Ainm = United Kingdom 
+| BRATACH = Flag of the United Kingdom.svg
+| LÙIREACH = UK Royal Coat of Arms.svg
+| LÙIREACH_LEUD = 70
+| AINM_BHRATACH =[[Bratach na dùthcha|Bratach]]
+| AINM_LÙIREACH =[[Lùireach na dùthcha|Gearradh-arm]]
+| MAPA = EU location UK.png
+| LAOIDH_NÀISEANTA = "[[God Save the Queen]]"
+| SLUAGH_GHAIRM =<small>rìoghail:</small> ''"[[Dieu et mon droit]]"''{{spaces|2}}<small>([[Fraingis]]) <br />"God and my right"</small>
+| CÀNAN_OIFIGEIL =[[Beurla]]
+| MION_CHÀNAN = co-oifigeil: [[Gàidhlig]], [[Gaeilge]], [[Cuimris]], [[A' Bheurla Ghallda]], [[Ulster Scots (linguistics)|Ulster Scots]], [[Còrnais]]
+| PRÌOMH_BHAILE = Lunnainn
+| BAILE_AS_MOTHA = Lunnainn
+| SEÒRSA_UACHDRANAIS = Monarcachd bhun-reachdail <small><br>(Siostam pàrlamaideach)</small>
+| TIOTAL_CEANNARD1 = Ban-rìgh
+| TIOTAL_CEANNARD2 = [[Prìomh-mhinistear]]
+| TIOTAL_CEANNARD3 =
+| TIOTAL_CEANNARD4 =
+| TIOTAL_CEANNARD5 =
+| AINM_CEANNARD1 = [[Ban-rìgh Ealasaid II|Ealasaid II]]
+| AINM_CEANNARD2 = [[Gordon Brown]]
+| AINM_CEANNARD3 =
+| AINM_CEANNARD4 =
+| AINM_CEANNARD5 =
+| TACHARTAS1 = [[Seumas VI na h-Alba]]
+| TACHARTAS2 = Achd an Aonaidh 
+| TACHARTAS3 = Cunnradh “Anglo-Irish” 
+| TACHARTAS4 =
+| TACHARTAS5 =
+| TACHARTAS6 =
+| CEANN_LATHA1 = 1ad,  [[an Cèitean]] [[1707]]
+| CEANN_LATHA2 = 1ad, [[am Faoilleach]] [[1801]]
+| CEANN_LATHA3 = 12na, [[an Giblean]] [[1922]]
+| CEANN_LATHA4 =
+| CEANN_LATHA5 =
+| CEANN_LATHA6 =
+| LATHA_NÀISEANTA =
+| FARSAINGEACHD = 244820
+| REANGACH_F = 79mh
+| UISGE = 1.34
+| BLIADHNA = 2007
+| ÀIREAMH_SHLUAIGH = 60,975,000
+| REANGACH_S = 22na
+| DLÙTHS = 246
+| REANGACH_D = 48mh
+| BLIADHNA_GDP = 2006
+| GDP = US$2.270 trillean
+| REANGACH_GDP = 6mh
+| ÀIREAMH_GDP = US$37,328
+| REANGACH_PER_CAPITA = 13mh
+| ROINN_TÌDE = [[Greenwich Mean Time|GMT]]
+| UTC_OFFSET = +0
+| AS_T_SAMHRADH = [[Western European Summer Time|BST]]
+| UTC_OFFSET_2 = +1
+| RUITH_AIRGID = [[Punnd Sasannach]]
+| EADAR_LÌON = .uk
+| ÀIREAMH_FÒN = 44
+}} 
+'S e dùthaich anns [[an Roinn-Eòrpa]] a tha anns '''an Rìoghachd Aonaichte'''<ref>Map-balla an t-Saoghail,  Stòrlann Nàiseanta (2003),  ISBN 0007692714</ref><ref>[http://www.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/duthchannan/  Dùthchannan aig SMO]</ref><ref>Am Faclair Gàidhlig-Beurla, Colin Mark, foillsichte aig Routledge, [[Lunnainn]] (2004),  ISBN 0-415-29761-3</ref><ref>[http://www.akerbeltz.org/faclair/toraidhean.php?search=United%20Kingdom&gaidhlignobeurla=beurla     Faclair Akerbeltz]</ref>
 Chaidh an stàit stèidhichte ann an [[1707]] an dèidh aonadh eadar pàrlamaid [[Alba]] agus pàrlamaid [[Sasainn|Shasainn]]. Tha gach dùthcha air a bhith fo aon [[monarcachd]] o' am bliadhna [[1603]] 'nuair a fhuair Rìgh [[Seumas VI]] grèim air cathair-rìgh [[Sasainn|Shasainn]] an dèidh bàs ban-rìgh [[Ealasaid I]] de Shasainn, am monarc mu dheireadh bho teaghlach nan [[Tudor]].
 
 == Aistean co-cheangailte ==
@@ -38,10 +78,9 @@ Chaidh an stàit stèidhichte ann an [[1707]] an dèidh aonadh eadar pàrlamaid 
 <references/>
 
 [[Category:Breatainn Mhòr]]
-[[Category:Stèidheachaidhean 1801]]
-[[Category:Dùthchannan na Roinne-Eòrpa]]
+
 [[Category:Aon-fhlathachdan]]
-[[Category:An Rìoghachd Aonaichte| ]]
+[[Category:An Rìoghachd Aonaichte|* ]]
 [[Category:Dùthchannan]]
 [[Category:An Roinn-Eòrpa|Rìoghachd Aonaichte]]
 
