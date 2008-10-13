@@ -1,24 +1,20 @@
-{| border=1 cellpadding="2" cellspacing="0" align="right" width=300
-|-
-!colspan=2 align=center bgcolor="#99CCFF"|Baile-mòr Obar Dheathain
-|-
-|colspan=2 align=center|[[Image:Playhouseaberdeen.jpg|right|290px]]
-|-
-!colspan=2 bgcolor="#99CCFF"|Socrachadh
-|-
-|width="45%"|Inbhe:||Baile-mòr
-|-
-|[[Àireamh-shluaigh]]:||202,370 (2001)
-|-
-|Còd-puist:||AB10-AB13 (part), AB15, AB16, AB22-AB25;
-|-
-!colspan=2 bgcolor="#99CCFF"|[[Poileataigs]]
-|-
-|Comhairle:||Comhairle Obar Dheathain
-|-
-!colspan=2|[http://www.Aberdeencity.gov.uk]
-|-
-|}
+{{Template:Baile
+  | AINM = Obar Dheathain
+  | BRATACH = Flag of Aberdeen.gif
+  | LÙIREACH_LEUD = 60
+  | MAPA = Aberdeen (Location).png
+  | DÙTHAICH = [[Alba]]
+  | CEÀRN = [[Roinn a' Mhonaidh]]
+  | SGÌRE = 
+  | LEUD = 57° 9′ 9.36″ Tuath
+  | ASTAIR = 2° 6′ 36″ Iar
+  | FARSAINGEACHD = 1089
+  | ÀIREAMH_SHLUAIGH = 202370
+  | BLIADHNA = 2005
+  | FÒN = 01224
+  | DUILLEAG = [http://www.aberdeen.gov.uk Comhairle Cathair Obar Dheathain]
+ }}
+
 
 'S e '''Obar Dheathain''' ([[Beurla]]: ''Aberdeen'') [[baile]] mòr a tha ann an [[Alba]]-a-tuath. 'S e sluagh 202,370 ann an 2005.
 
