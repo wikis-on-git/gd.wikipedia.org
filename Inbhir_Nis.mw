@@ -1,47 +1,19 @@
-{| border=1 cellpadding="2" cellspacing="0" align="right" width=300
-|-
-!colspan=2 align=center bgcolor="#99CCFF"|Inbhir Nis
-|-
-|colspan=2 align=center|[[Image:River Ness.jpg|250px]]
-|-
-!colspan=2 bgcolor="#99CCFF"|Ainmean
-|-
-|style="width: 45%;"|[[Gàidhlig]]:|| Inbhir Nis 
-|-
-|style="width: 45%;"|[[A' Bheurla Ghallda|Beurla Gallda]]:|| Inverness
-|-
-!colspan="2" bgcolor="#99CCFF"|Staitistearachd
-|-
-|- style="vertical-align: top;"
-|-
-|[[Àireamh-shluaigh]]:||51,000 (2001)
-|-
-!colspan="2" bgcolor="#99CCFF"|Eile
-|-
-|[[Poileas]]:|| Poileas a' Chinn a Tuath
-|- style="vertical-align: top;"
-|[[Fo-fhlaitheachdan na h-Alba|Roinn fo-fhlaitheachd]]:|| {{{Fo-Fhlaitheachd}}}
-|-
-|- style="vertical-align: top;"
-|[[Siorrachdan na h-Alba|Sean Shiorrachd]]:|| [[Siorrachd Inbhir Nis]]
-|-
-!colspan=2 bgcolor="#99CCFF"|Oifis a' Phuist agus Telefòn 
-|-
-|[[Baile a' Phuist]]:|| INVERNESS
-|-
-|[[Còd-postachd]]:|| IV1-IV3, IV5, IV13, IV63
-|-
-|[[Aireamh Fòn na Sgìre]]:|| 	01463
-|-
-!colspan=2 bgcolor="#99CCFF"|[[Poileataigs]]
-|-
-||[[Roinnean na h-Alba|Coimhearsnachd Comhairle]]:|| [[Comhairle na Gàidhealtachd]]
-|-
-|[[Dùthchannan Roinneil|Dùthaich]]:||[[Alba]]
-|-
-!colspan=2|[http://www.highland.gov.uk]
-|-
-|}
+{{Template:Baile
+  | AINM = Inbhir Nis
+  | LÙIREACH_LEUD = 60
+  | MAPA = Inverness (Location).png
+  | DÙTHAICH = [[Alba]]
+  | CEÀRN = [[Gàidhealtachd na h-Alba|Gàidhealtachd]]
+  | SGÌRE = 
+  | LEUD = 57° 28′ 18.36″ Tuath
+  | ASTAIR = 4° 13′ 31.68″ Iar
+  | FARSAINGEACHD = 
+  | ÀIREAMH_SHLUAIGH = 40900
+  | BLIADHNA = 2001
+  | FÒN = 01463
+  | DUILLEAG = [http://www.inverness-information-scotland.co.uk/ www.inverness-information-scotland.co.uk]
+ }}
+
 'S e baile ann an Ceann a Tuath na h-[[Alba]] a th' ann an '''Inbhir Nis'''. Gu tric, theirear [[priomh-bhaile | Prìomh-Baile]] na [[Gaidhealteachd]] ris, ach ged a tha sin connspaideach, gu cinnteach, 's e Inbhir Nis prìomh-bhaile sgìre [[Comhairle na Gàidhealtachd | Chomhairle na Gàidhealtachd]].
 
 Tha e aig [[inbhir]] i.e. beul, Abhainn Nis.  'S e Inbhir Nis am baile as luaithe a' fàs anns an [[Roinn Eorpa| Roinn Eòrpa]]. Ged as e am baile as motha air Ghàidhealtachd a th' ann tha e gu math [[Gallda]] agus tha [[Gaidhlig | a' Ghàidhlig]] air a bhith lag ann tro [[eachdraidh]]. Bho [[2001]] 's e sluagh a' bhaile 51,000 agus thathas an dùil gun dùblaich an àireamh seo tarsainn air an ath thrichead bliadhna.
