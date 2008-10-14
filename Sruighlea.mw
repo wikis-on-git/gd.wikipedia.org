@@ -1,47 +1,21 @@
-{| border=1 cellpadding="2" cellspacing="0" align="right" width=300
-|-
-!colspan=2 align=center bgcolor="#99CCFF"|Sruighlea
-|-
-|colspan=2 align=center|[[Image:Stirling(DonaldMacDonald)Dec2005.jpg|250px]]
-|-
-!colspan=2 bgcolor="#99CCFF"|Ainmean
-|-
-|style="width: 45%;"|[[Gàidhlig]]:|| Sruighlea
-|-
-|style="width: 45%;"|[[A' Bheurla Ghallda|Beurla Gallda]]:|| Stirling
-|-
-!colspan="2" bgcolor="#99CCFF"|Staitistearachd
-|-
-|- style="vertical-align: top;"
-|-
-|[[Àireamh-shluaigh]]:||41,243 (2001)
-|-
-!colspan="2" bgcolor="#99CCFF"|Eile
-|-
-|[[Poilis]]:|| Poilis Alba Mheadhanach
-|- style="vertical-align: top;"
-|[[Fo-fhlaitheachdan na h-Alba|Roinn fo-fhlaitheachd]]:|| {{{Fo-Fhlaitheachd}}}
-|-
-|- style="vertical-align: top;"
-|[[Siorrachdan na h-Alba|Sean Shiorrachd]]:|| Sruighlea
-|-
-!colspan=2 bgcolor="#99CCFF"|Oifis a' Phuist agus Telefòn 
-|-
-|[[Baile a' Phuist]]:|| STIRLING
-|-
-|[[Còd-postachd]]:|| FK7-FK8 <!-- Normally, just the major part -->
-|-
-|[[Aireamh Fòn na Sgìre]]:|| 	01786
-|-
-!colspan=2 bgcolor="#99CCFF"|[[Poileataigs]]
-|-
-||[[Roinnean na h-Alba|Coimhearsnachd Comhairle]]:|| [[Comhairle Shruighlea]]
-|-
-|[[Dùthchannan Roinneil|Dùthaich]]:||[[Alba]]
-|-
-!colspan=2|[http://www.Stirling.gov.uk]
-|-
-|}
+Image:Stirling (Location).png
+
+{{Template:Baile
+  | AINM = Sruighlea
+  | LÙIREACH_LEUD = 60
+  | MAPA = Image:Stirling (Location).png
+  | DÙTHAICH = [[Alba]]
+  | CEÀRN = 
+  | SGÌRE = 
+  | LEUD = 56° 7′ 2″ Tuath
+  | ASTAIR = 3° 56′ 23″ Iar
+  | FARSAINGEACHD = 
+  | ÀIREAMH_SHLUAIGH = 41243
+  | BLIADHNA = 2001
+  | FÒN = 01786
+  | DUILLEAG = [www.stirling.gov.uk Comhairle Sruighlea]
+ }}
+
 'Se '''Sruighlea''' baile suidhichte ann an [[Alba]] mheadhonach. Anns na sean linntean bha Sruighlea na phrìomh-baile aig [[Rìoghachd na h-Alba]].
 
 {{Template:Cathraichean na h-Alba}}
