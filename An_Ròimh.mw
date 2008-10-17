@@ -1,35 +1,22 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+ style="font-size: larger;"|'''Comune di Roma'''
-|-
-|align="center" colspan=2|
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-|align="center" width="140px"|[[Image:Flag_of_Rome.svg|100px]]
-|align="center" width="140px"|[[Image:Roma01.jpg|100px|]]
-|-
-|align="center" width="140px"|[[Bratach]] a' bhaile
-|align="center" width="140px"|[[nasg]] a' bhaile
-|}
-|-
-|align="center" colspan=2 style="border-bottom:3px solid gray;"|<small>City [[motto]]: ''Senatus Populusque Romanus &ndash; [[SPQR]]''<br/>(An Seanadh agus daoine an Ròimh)</small>
-|-
-|Stèidhichte|| [[21 an Giblean]][[753 RC]] miotasach,<br/> [[1d Mile-Bliadhna R.C]]
-|-
-|Roinn||[[Lazio]]
-|-
-||[[Probhaist an Ròimh|Probhaist]]|| [[Walter Veltroni]]<br/>(''[[Democratici di Sinistra]]'')
-|-
-|[[Arainn]]<br/>&nbsp;- Am Baile Fhèin || <br>&nbsp;1290 [[1 E6 m²|km&sup2;]]
-|-
-|[[Sluagh]]<br/>&nbsp;- Baile ([[2004]])<br>&nbsp;- Priomh-bailteach <br>&nbsp;- [[Daingneachd]] (Baile fhèin) ||<br> 2,546,807 <br/> mu 4,000,000 <br/> 1,974/km&sup2;
-|-
-|[[Arainn Tide]]||[[Central European Time|CET]], [[UTC]]+1
-|-
-|-
-|align="center" colspan=2|[http://www.comune.roma.it/ www.comune.roma.it]
-|-
-|align="center" colspan=2 style="border-bottom:3px solid gray;"|[[Image:Lightmatter colosseum.jpg|250px]]<br><small>An [[Colosseum]]</small>
-|}
+{{Template:Baile
+  | AINM = Comune di Roma <br> An Ròimh
+  | BRATACH = Flag_of_Rome.svg
+  | LÙIREACH = Roma01.jpg
+  | LÙIREACH_LEUD = 60
+  | MAPA = Italyrome.png
+  | DÙTHAICH = [[An Eadailt]]
+  | CEÀRN = Lazio
+  | SGÌRE = 
+  | LEUD = 41° 54′ 0″ Tuath
+  | ASTAIR = 12° 30′ 0″ Ear
+  | FARSAINGEACHD = 1285
+  | ÀIREAMH_SHLUAIGH = 2705603
+  | BLIADHNA = 2007
+  | FÒN = 
+  | DUILLEAG = [http://www.comune.roma.it/was/wps/portal/pcr Comhairle Cathair An Ròimh]
+ }}
+
+
 Prìomh bhaile [[an Eadailt|na h-Eadailt]] agus an roinn Lazio. Tha am baile suidhichte air an abhainn [[abhainn Tiber|Tiber]] agus tha mu 4.1 millean neach a' fuireach ann. Tha [[Cathair na Bhatacain]],  an 'Vatican City' anns a [[Bheurla]], suidhichte anns an iar-thuath.
 
 A reir beul-aithris, chaidh an Ròimh a steidheachadh air an 21mh den Giblean anns a' bhliadhna [[753 RC]] leis an dà brathair ; [[Romulus]] agus [[Remus]]. Mharbh Romulus a bhràthair agus mar sin chaidh am baile ainmeachadh às a dhèidh agus b' esan a' chiad [[Rìgh den Ròimh]].
