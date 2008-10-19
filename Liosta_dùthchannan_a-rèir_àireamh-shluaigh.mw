@@ -35,7 +35,7 @@ Liosta dùthchannan a-rèir àireamh-shluaigh:
 | 13 || align=left| [[Image:Flag of Vietnam.svg|20px]] [[Bhiet-Nam]] || 87,375,000 || || {{#expr: 87375000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|
 Meastachán NA
 |-
-| 14 || align=left| [[Image:Flag of Germany.svg|20px]] [[A' Ghearmailt]] || 82,210,000 || [[31 Nollaig]], [[2007]] || {{#expr: 82210000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/press/pr/2008/01/PE08__019__12411,templateId=renderPrint.psml Meastachán Príomh-oifige Staidrimh na Cónaidhme]
+| 14 || align=left| [[Image:Flag of Germany.svg|20px]] [[A' Ghearmailt]] || 82,210,000 || [[31 an Dùbhlachd]], [[2007]] || {{#expr: 82210000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/EN/press/pr/2008/01/PE08__019__12411,templateId=renderPrint.psml Meastachán Príomh-oifige Staidrimh na Cónaidhme]
 |-
 | 15 || align=left| [[Image:Flag of Ethiopia.svg|20px]] [[An Itiop]] || 77,127,000 || [[Iúil]] [[2007]] || {{#expr: 77127000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|
 [http://www.csa.gov.et/text_files/national%20statistics%202006/Population.pdf Príomh-oifig Staidrimh na hAetóipe]
@@ -45,11 +45,11 @@ Meastachán NA
 |-
 | 17 || align=left| [[Image:Flag of Iran.svg|20px]] [[Ioràn]] || 71,208,000 || || {{#expr: 71208000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 18 || align=left| [[Image:Flag of Turkey.svg|20px]] [[An Tuirc]] || 70,586,256 || [[31 Nollaig]], [[2007]] || {{#expr: 70586256 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.tuik.gov.tr/PreHaberBultenleri.do?id=3894 Lárionad Staidrimh na Tuirce]
+| 18 || align=left| [[Image:Flag of Turkey.svg|20px]] [[An Tuirc]] || 70,586,256 || [[31 an Dùbhlachd]], [[2007]] || {{#expr: 70586256 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.tuik.gov.tr/PreHaberBultenleri.do?id=3894 Lárionad Staidrimh na Tuirce]
 |-
 | 19 || align=left| [[Image:Flag of France.svg|20px]] [[An Fhraing]] || 64,473,140 || [[1 Eanáir]], [[2008]] || {{#expr: 64473140 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|[http://www.insee.fr/fr/ffc/pop_age4.htm Meastachán oifigiúil INSEE]
 |-
-| 20 || align=left| [[Image:Flag of Thailand.svg|20px]] [[Tài-lann]] || 62,828,706 || [[31 Nollaig]], [[2006]] || {{#expr: 62828706 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|
+| 20 || align=left| [[Image:Flag of Thailand.svg|20px]] [[Tài-lann]] || 62,828,706 || [[31 an Dùbhlachd]], [[2006]] || {{#expr: 62828706 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|
 [http://www.dopa.go.th/dopanew/pop2549.html Meastachán Staidrimh Oifigiúla na Téalainne]
 |-
 | 21 || align=left| [[Image:Flag of the Democratic Republic of the Congo.svg|20px]] [[Poblachd na Congo]] || 62,636,000 || || {{#expr: 62636000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|Meastachán NA
@@ -113,7 +113,7 @@ Meastachán NA
 |-
 | 48 || align=left| [[Image:Flag of Ghana.svg|20px]] [[Gàna]] || 23,478,000 || || {{#expr: 23478000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 49 || align=left| [[Image:Flag of the Republic of China.svg|20px]] [[Poblachd na Sìne]] ([[Tai-Bhàn]]) || 22,958,000 || [[31 Nollaig]], [[2007]] || {{#expr: 22958000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://eng.stat.gov.tw/mp.asp?mp=5 Meastachán Oifigiúil na hoifige ''Staidreamh Náisiúnta na Téaváine'']
+| 49 || align=left| [[Image:Flag of the Republic of China.svg|20px]] [[Poblachd na Sìne]] ([[Tai-Bhàn]]) || 22,958,000 || [[31 an Dùbhlachd]], [[2007]] || {{#expr: 22958000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://eng.stat.gov.tw/mp.asp?mp=5 Meastachán Oifigiúil na hoifige ''Staidreamh Náisiúnta na Téaváine'']
 |-
 | 50 || align=left| [[Image:Flag of Yemen.svg|20px]] [[Iemen]] || 22,389,000 || || {{#expr: 22389000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| Meastachán NA
 |-
@@ -201,11 +201,11 @@ Meastachán NA
 |-
 | 92 || align=left| [[Image:Flag of Azerbaijan.svg|20px]] [[An Asarbaiseáin]] || 8,467,000 || || {{#expr: 8467000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 93 || align=left| [[Image:Flag of Austria.svg|20px]] [[An Ostair]] || 8,327,709 || [[31 Nollaig]] [[2007]] || {{#expr: 8316487 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.statistik.at/web_de/statistiken/bevoelkerung/bevoelkerungsstand_jahres-_und_quartalswerte/bevoelkerung_zu_jahres-_quartalsanfang/023582.html Meastachán Oifigiúil Staidrimh na hOstaire]
+| 93 || align=left| [[Image:Flag of Austria.svg|20px]] [[An Ostair]] || 8,327,709 || [[31 an Dùbhlachd]] [[2007]] || {{#expr: 8316487 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.statistik.at/web_de/statistiken/bevoelkerung/bevoelkerungsstand_jahres-_und_quartalswerte/bevoelkerung_zu_jahres-_quartalsanfang/023582.html Meastachán Oifigiúil Staidrimh na hOstaire]
 |-
 | 94 || align=left| [[Image:Flag of Bulgaria.svg|20px]] [[An Bhulgáir]] || 7,639,000 || || {{#expr: 7639000 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 95 || align=left| [[Image:Flag of Switzerland.svg|20px]] [[An Eilvéis]] || 7,508,700 || [[31 Nollaig]], [[2006]] || {{#expr: 7508700 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.admin.ch/aktuell/00089/index.html?lang=de&msg-id=14195  Príomh-oifig Staidrimh Chónaidhm na hEilvéise]
+| 95 || align=left| [[Image:Flag of Switzerland.svg|20px]] [[An Eilvéis]] || 7,508,700 || [[31 an Dùbhlachd]], [[2006]] || {{#expr: 7508700 / 6671226000 * 100 round 2}}% || style="font-size: 75%"| [http://www.admin.ch/aktuell/00089/index.html?lang=de&msg-id=14195  Príomh-oifig Staidrimh Chónaidhm na hEilvéise]
 |-
 | 96 || align=left| [[Image:Flag of Israel.svg|20px]] [[Iosrael]] || 7,222,222 || [[31 Deireadh Fómhair]], [[2007]] || {{#expr: 7222222 / 6671226000 * 100 round 2}}% || style="font-size: 75%"|[http://www1.cbs.gov.il/reader/?MIval=cw_usr_view_Folder&ID=141 Príomh-oifig Staidrimh Iosrael]
 |-
@@ -305,7 +305,7 @@ Meastachán NA
 |-
 | 142 || align=left| [[Image:Flag of Macedonia.svg|20px]] [[Poblacht na Macadóine]] || 2,038,000 || || {{#expr: 2038000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 143 || align=left| [[Image:Flag of Slovenia.svg|20px]] [[An tSlóivéin]] || 2,023,223 || [[31 Nollaig]], [[2007]]|| {{#expr: 2023223 / 6576000000 * 100 round 3}}% || style="font-size: 75%"| [http://www.stat.si/eng/tema_demografsko_prebivalstvo.asp Clog Daonra Oifigiúil na Slóivéine]
+| 143 || align=left| [[Image:Flag of Slovenia.svg|20px]] [[An tSlóivéin]] || 2,023,223 || [[31 an Dùbhlachd]], [[2007]]|| {{#expr: 2023223 / 6576000000 * 100 round 3}}% || style="font-size: 75%"| [http://www.stat.si/eng/tema_demografsko_prebivalstvo.asp Clog Daonra Oifigiúil na Slóivéine]
 |-
 | 144 || align=left| [[Image:Flag of Lesotho.svg|20px]] [[Leosóta]] || 2,008,000 || || {{#expr: 2008000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| Meastachán NA
 |-
@@ -421,7 +421,7 @@ Meastachán NA
 |-
 | 192 || align=left| [[Image:Flag of the Northern Mariana Islands.svg|20px]] ''[[Na hOileáin Mháirianacha Thuaidh]]'' || 84,000 || || {{#expr: 84000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| Meastachán NA
 |-
-| 193 || align=left| [[Image:Flag of Andorra.svg|20px]] [[Andóra]] || 81,200 || [[31 Nollaig]], [[2006]] || {{#expr: 81200 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| [http://www.estadistica.ad/deepublicacions.htm#0002 Andorra Servei d’Estudis]
+| 193 || align=left| [[Image:Flag of Andorra.svg|20px]] [[Andóra]] || 81,200 || [[31 an Dùbhlachd]], [[2006]] || {{#expr: 81200 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| [http://www.estadistica.ad/deepublicacions.htm#0002 Andorra Servei d’Estudis]
 |-
 | 194 || align=left| [[Image:Flag of the Isle of Man.svg|20px]] ''[[Oileán Mhanainn]]'' || 79,000 || || {{#expr: 79000 / 6671226000 * 100 round 3}}% || style="font-size: 75%"| Meastachán NA
 |-
