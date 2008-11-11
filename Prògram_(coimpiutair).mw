@@ -1,3 +1,19 @@
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;">
+<div style="width:240px;" style="font-size: 12px; font-family: monospace; background-color: #ffffff; text-align: left">
+<nowiki>#</nowiki>include &lt;stdio.h&gt;<br />
+int main(void)<br />
+{<br />
+<div style="margin-left: 10%">
+puts("Hello world!"); <br />
+return 0; <br />
+</div>
+} <br />
+</div>
+<div class="thumbcaption">
+Cod prògram coimpiutair, sgrìobhte anns an stoidhle ''C programming language''</div>
+</div>
+</div>
 Is e '''prògram''' leanmhainn òrduighean a thuigeas [[coimpiutair]].
 Bithidh prògram sgrìobhte ann an cainnt foirmeil,
 ris an abrar [[cànan prògramaidh]], agus rùnaichte a thoirt gnìomh
